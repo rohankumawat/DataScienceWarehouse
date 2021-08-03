@@ -1,0 +1,2 @@
+Hello World!
+This text file is for the learning of arguments in Python.
