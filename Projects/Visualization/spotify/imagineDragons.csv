@@ -1,0 +1,88 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Mercury - Act 1,1,1HhNoOuqm1a5MXYEgAFl8o,Enemy (with JID) - from the series Arcane League of Legends,spotify:track:1HhNoOuqm1a5MXYEgAFl8o,0.237,0.728,0.783,0.0,0.434,-4.424,0.266,77.011,0.555,89
+1,Mercury - Act 1,2,3yPQ0T0w021ucbCqkKBku6,My Life,spotify:track:3yPQ0T0w021ucbCqkKBku6,0.0828,0.525,0.427,0.0,0.144,-7.282,0.032,129.982,0.305,72
+2,Mercury - Act 1,3,1Za3bmODi0tz9pnlZE58ug,Lonely,spotify:track:1Za3bmODi0tz9pnlZE58ug,0.0256,0.714,0.73,0.0,0.177,-5.564,0.0438,97.983,0.873,73
+3,Mercury - Act 1,4,0gLFuoDun2yzBp67btvQU3,Wrecked,spotify:track:0gLFuoDun2yzBp67btvQU3,0.149,0.625,0.562,1.67e-05,0.109,-5.828,0.0289,93.998,0.229,76
+4,Mercury - Act 1,5,1YsCq5SWvyf9cLkACGsty4,Monday,spotify:track:1YsCq5SWvyf9cLkACGsty4,0.127,0.803,0.649,6.49e-05,0.0894,-5.842,0.219,90.006,0.797,70
+5,Mercury - Act 1,6,1K1c1X4eyJi6o8TqriQcIN,#1,spotify:track:1K1c1X4eyJi6o8TqriQcIN,0.0897,0.692,0.695,0.0,0.155,-4.448,0.109,92.98,0.634,69
+6,Mercury - Act 1,7,6Qk3FR2CorkugmJyWoyusf,Easy Come Easy Go,spotify:track:6Qk3FR2CorkugmJyWoyusf,0.294,0.673,0.459,0.0,0.0942,-7.274,0.0515,139.817,0.477,69
+7,Mercury - Act 1,8,5hkjSdUVJei2UNGJFnamHe,Giants,spotify:track:5hkjSdUVJei2UNGJFnamHe,0.029,0.487,0.603,0.0,0.243,-7.96,0.0666,62.385,0.44,69
+8,Mercury - Act 1,9,6lLIDooqwg3xxlbG5P92RP,It's Ok,spotify:track:6lLIDooqwg3xxlbG5P92RP,0.0146,0.502,0.322,0.0,0.0597,-7.59,0.039,185.655,0.168,69
+9,Mercury - Act 1,10,1P2d8t9LPbqZ6XqXx3x7l7,Dull Knives,spotify:track:1P2d8t9LPbqZ6XqXx3x7l7,0.00255,0.51,0.616,6.38e-06,0.0523,-6.997,0.0473,110.346,0.32,69
+10,Mercury - Act 1,11,1RZUlzNWbvCBeoSkapPgVR,Follow You,spotify:track:1RZUlzNWbvCBeoSkapPgVR,0.00197,0.544,0.732,5.06e-05,0.486,-5.984,0.0524,124.875,0.45,75
+11,Mercury - Act 1,12,6vaEBOQ3KdERenZwIKsfue,Cutthroat,spotify:track:6vaEBOQ3KdERenZwIKsfue,0.0833,0.668,0.626,0.0116,0.0782,-5.278,0.315,165.926,0.679,67
+12,Mercury - Act 1,13,5w0FV5yWGr7STsm8mgpgDs,No Time For Toxic People,spotify:track:5w0FV5yWGr7STsm8mgpgDs,0.00248,0.584,0.742,1.78e-05,0.0813,-5.201,0.0373,75.986,0.585,68
+13,Mercury - Act 1,14,28XVkwY5IaEmQ9gl48cFtc,One Day,spotify:track:28XVkwY5IaEmQ9gl48cFtc,0.668,0.68,0.414,0.0,0.343,-7.955,0.0377,89.945,0.639,69
+14,Origins (Deluxe),1,2FY7b99s15jUprqC0M5NCT,Natural,spotify:track:2FY7b99s15jUprqC0M5NCT,0.217,0.704,0.611,0.0,0.0812,-6.112,0.0409,100.0,0.22,85
+15,Origins (Deluxe),2,2B1fuWoWaYnCXbjYp1gXg5,Boomerang,spotify:track:2B1fuWoWaYnCXbjYp1gXg5,0.139,0.429,0.559,0.00928,0.121,-7.493,0.152,100.073,0.347,64
+16,Origins (Deluxe),3,4uGY9CqDtGtaTTLg1cgsWD,Machine,spotify:track:4uGY9CqDtGtaTTLg1cgsWD,0.0016,0.638,0.679,0.00655,0.121,-5.278,0.0425,81.045,0.596,69
+17,Origins (Deluxe),4,6LXMUR2rpxFBDo6nilS3yX,Cool Out,spotify:track:6LXMUR2rpxFBDo6nilS3yX,0.00483,0.636,0.718,6.51e-06,0.292,-4.833,0.0313,143.929,0.437,62
+18,Origins (Deluxe),5,2RSHsoi04658QL5xgQVov3,Bad Liar,spotify:track:2RSHsoi04658QL5xgQVov3,0.0722,0.383,0.637,0.0,0.368,-6.993,0.0703,177.913,0.0827,83
+19,Origins (Deluxe),6,2nkoWsTZa8LKPNGdjI5uxj,West Coast,spotify:track:2nkoWsTZa8LKPNGdjI5uxj,0.581,0.672,0.715,2.08e-06,0.101,-6.18,0.0268,104.989,0.677,69
+20,Origins (Deluxe),7,2bzitsPcImYC6DZWvvLCQi,"Zero - From the Original Motion Picture ""Ralph Breaks The Internet""",spotify:track:2bzitsPcImYC6DZWvvLCQi,0.000479,0.634,0.662,0.00142,0.111,-7.543,0.0325,90.011,0.244,74
+21,Origins (Deluxe),8,3R4Xk37WTagjzODMNEQLvs,Bullet In A Gun,spotify:track:3R4Xk37WTagjzODMNEQLvs,0.16,0.816,0.735,0.000108,0.0665,-5.49,0.0539,130.029,0.476,66
+22,Origins (Deluxe),9,4qhDA6s0MkD5XpDqGLHIEY,Digital,spotify:track:4qhDA6s0MkD5XpDqGLHIEY,0.00155,0.49,0.889,2.76e-06,0.162,-5.179,0.17,166.779,0.383,59
+23,Origins (Deluxe),10,1uRBbjQ3uNFXCncWyNomHf,Only,spotify:track:1uRBbjQ3uNFXCncWyNomHf,0.015,0.691,0.803,0.0,0.0862,-5.029,0.0355,104.997,0.424,66
+24,Origins (Deluxe),11,5Z9SQPYU95S6M1vcbLsDt2,Stuck,spotify:track:5Z9SQPYU95S6M1vcbLsDt2,0.263,0.621,0.478,0.0,0.257,-8.246,0.0351,115.023,0.248,65
+25,Origins (Deluxe),12,5d41vXH0zvpwUrHrmqKqDc,Love,spotify:track:5d41vXH0zvpwUrHrmqKqDc,0.0535,0.697,0.507,1.19e-06,0.0469,-6.178,0.04,82.483,0.382,66
+26,Origins (Deluxe),13,6Tvzf3VEi16JMhAgOwdt2y,Birds,spotify:track:6Tvzf3VEi16JMhAgOwdt2y,0.0146,0.649,0.517,1.63e-06,0.145,-7.428,0.0297,119.997,0.35,74
+27,Origins (Deluxe),14,5Q7zuH8VNu7aLappSusPu6,Burn Out,spotify:track:5Q7zuH8VNu7aLappSusPu6,0.0213,0.588,0.494,7.2e-05,0.0966,-8.831,0.0536,135.004,0.291,65
+28,Origins (Deluxe),15,7JAzAyjbJFPznEFdqpa1Si,Real Life,spotify:track:7JAzAyjbJFPznEFdqpa1Si,0.0147,0.262,0.564,0.00659,0.103,-7.99,0.0455,195.489,0.13,65
+29,Evolve,1,31VOknKjFrEX47bZXzqcoF,Next To Me,spotify:track:31VOknKjFrEX47bZXzqcoF,0.28,0.301,0.672,3.1e-05,0.0609,-4.497,0.0623,169.497,0.384,74
+30,Evolve,2,28heol5hhOGj6KYbJrRteJ,I Don’t Know Why,spotify:track:28heol5hhOGj6KYbJrRteJ,0.0066,0.639,0.641,9.91e-06,0.185,-7.423,0.0609,120.927,0.0725,69
+31,Evolve,3,6Qn5zhYkTa37e91HC1D7lb,Whatever It Takes,spotify:track:6Qn5zhYkTa37e91HC1D7lb,0.0362,0.672,0.655,0.0,0.117,-5.021,0.0311,134.945,0.556,85
+32,Evolve,4,0pqnGHJpmpxLKifKRmU6WP,Believer,spotify:track:0pqnGHJpmpxLKifKRmU6WP,0.0622,0.776,0.78,0.0,0.081,-4.374,0.128,124.949,0.666,91
+33,Evolve,5,1y3bE5i57eUm3hfLAc7h08,Walking The Wire,spotify:track:1y3bE5i57eUm3hfLAc7h08,0.0163,0.54,0.761,0.0,0.0941,-5.339,0.0372,100.008,0.147,73
+34,Evolve,6,3zT2616WcD9Df5m21OsCX0,Rise Up,spotify:track:3zT2616WcD9Df5m21OsCX0,0.0122,0.447,0.74,0.000228,0.0958,-6.607,0.0475,93.759,0.102,71
+35,Evolve,7,0FfX0nofboxZjP0diT1eFv,I’ll Make It Up To You,spotify:track:0FfX0nofboxZjP0diT1eFv,0.00767,0.328,0.674,0.0398,0.29,-7.488,0.105,177.007,0.129,66
+36,Evolve,8,2SJf7W18D1AEpr8L9ATu0c,Yesterday,spotify:track:2SJf7W18D1AEpr8L9ATu0c,0.253,0.569,0.645,0.0,0.413,-6.169,0.0513,156.031,0.54,62
+37,Evolve,9,1dekgAFF9uTCqLsklDaCWb,Mouth Of The River,spotify:track:1dekgAFF9uTCqLsklDaCWb,0.00183,0.483,0.907,0.0509,0.152,-7.015,0.0413,96.014,0.296,67
+38,Evolve,10,1zB4vmk8tFRmM9UULNzbLB,Thunder,spotify:track:1zB4vmk8tFRmM9UULNzbLB,0.00671,0.605,0.822,0.134,0.147,-4.833,0.0438,167.997,0.288,88
+39,Evolve,11,2Iug43iQrHN8CbGsUd2tEt,Start Over,spotify:track:2Iug43iQrHN8CbGsUd2tEt,0.00551,0.698,0.928,0.0001,0.153,-5.051,0.0706,98.04,0.757,61
+40,Evolve,12,3adVVrcE2KS26OL4rYd27O,Dancing In The Dark,spotify:track:3adVVrcE2KS26OL4rYd27O,0.786,0.688,0.31,0.000974,0.102,-10.026,0.18,134.005,0.624,63
+43,Smoke + Mirrors (Deluxe),3,5w5NylxR2K71isn84raTZh,Smoke And Mirrors,spotify:track:5w5NylxR2K71isn84raTZh,0.0657,0.601,0.636,0.0218,0.446,-7.283,0.0283,109.987,0.0812,52
+46,Smoke + Mirrors (Deluxe),6,6Ng999MKVY9ikd8FtGaNnz,Polaroid,spotify:track:6Ng999MKVY9ikd8FtGaNnz,0.514,0.424,0.603,1.84e-06,0.238,-6.832,0.0495,155.319,0.258,56
+48,Smoke + Mirrors (Deluxe),8,0rKlNsNmGGKGXo6tDgkHEn,It Comes Back To You,spotify:track:0rKlNsNmGGKGXo6tDgkHEn,0.0789,0.634,0.749,0.0166,0.0698,-7.895,0.029,100.002,0.49,51
+52,Smoke + Mirrors (Deluxe),12,5ygTySvimUjWJk9WLgMDCn,Hopeless Opus,spotify:track:5ygTySvimUjWJk9WLgMDCn,0.00541,0.627,0.656,9.55e-05,0.215,-6.163,0.0358,140.107,0.555,51
+54,Smoke + Mirrors (Deluxe),14,2Q4OrJV7rGtUpPsLGbchgr,Thief,spotify:track:2Q4OrJV7rGtUpPsLGbchgr,0.00272,0.416,0.715,2.23e-05,0.106,-5.75,0.0435,149.952,0.126,51
+55,Smoke + Mirrors (Deluxe),15,4DRQBzgiM3SQqO5bXXPGpb,The Unknown,spotify:track:4DRQBzgiM3SQqO5bXXPGpb,0.0255,0.426,0.766,0.000808,0.0931,-8.13,0.0894,120.178,0.345,48
+56,Smoke + Mirrors (Deluxe),16,6FQcdl2PzmsoXRF3F1flZ5,Second Chances,spotify:track:6FQcdl2PzmsoXRF3F1flZ5,0.171,0.401,0.567,0.00859,0.103,-9.131,0.0355,171.059,0.362,50
+62,Smoke + Mirrors (Deluxe),1,2h6HdN3oPr4JijIQV29hv1,Shots,spotify:track:2h6HdN3oPr4JijIQV29hv1,0.00713,0.552,0.76,0.0113,0.313,-6.861,0.0367,104.957,0.338,58
+71,Smoke + Mirrors (Deluxe),10,7HfILFCt8XErcfd25feE6A,Trouble,spotify:track:7HfILFCt8XErcfd25feE6A,0.307,0.388,0.889,0.00486,0.142,-5.281,0.116,159.96,0.327,48
+72,Smoke + Mirrors (Deluxe),11,1AZY4tKB3obBrQHVz0feOf,Summer,spotify:track:1AZY4tKB3obBrQHVz0feOf,0.00536,0.539,0.824,0.0958,0.102,-7.397,0.0293,108.981,0.614,47
+74,Smoke + Mirrors (Deluxe),13,6PZ2TaWkJBwlD1QxenOtpq,The Fall,spotify:track:6PZ2TaWkJBwlD1QxenOtpq,0.493,0.301,0.413,0.0433,0.112,-9.693,0.0418,120.145,0.0468,48
+80,Smoke + Mirrors (Deluxe),19,6SCDzH7OCgpzwCP8yo7HIP,Battle Cry,spotify:track:6SCDzH7OCgpzwCP8yo7HIP,0.0415,0.232,0.901,0.00649,0.123,-6.84,0.124,130.055,0.0392,64
+81,Smoke + Mirrors (Deluxe),20,4uyDe8SeM0Nsgzp9KMtXWn,Monster,spotify:track:4uyDe8SeM0Nsgzp9KMtXWn,0.209,0.483,0.768,0.000646,0.103,-5.431,0.0732,179.957,0.405,68
+82,Smoke + Mirrors (Deluxe),21,1YvKsn3ID4XvpwSSiqu1Jc,Who We Are,spotify:track:1YvKsn3ID4XvpwSSiqu1Jc,0.00746,0.407,0.656,0.255,0.343,-7.088,0.0413,173.954,0.39,62
+103,Smoke + Mirrors (Asia Tour Edition),20,0QwCouUFUgsCcbinB9fL45,I Bet My Life - Imagine Dragons Remix,spotify:track:0QwCouUFUgsCcbinB9fL45,0.00389,0.605,0.801,0.0031,0.446,-6.171,0.0571,124.028,0.167,0
+104,Smoke + Mirrors (Asia Tour Edition),21,7dJLXlynYxyophFYPrSl0H,I Bet My Life - Lost Kings Remix,spotify:track:7dJLXlynYxyophFYPrSl0H,0.0828,0.547,0.836,0.0,0.158,-7.03,0.0651,119.959,0.293,0
+106,Smoke + Mirrors (Deluxe),2,4xrzG4pw9JN8BJqqjurcPs,Gold,spotify:track:4xrzG4pw9JN8BJqqjurcPs,0.0801,0.416,0.459,0.00653,0.0551,-6.814,0.0317,164.929,0.286,61
+108,Smoke + Mirrors (Deluxe),4,7oTQ4d0UJeH8LOyvpfd5uW,I’m So Sorry,spotify:track:7oTQ4d0UJeH8LOyvpfd5uW,0.144,0.528,0.687,0.0,0.251,-5.954,0.0532,142.605,0.423,68
+109,Smoke + Mirrors (Deluxe),5,0ct0vSOkP0IZnbPGiDltCR,I Bet My Life,spotify:track:0ct0vSOkP0IZnbPGiDltCR,0.367,0.545,0.659,0.00111,0.415,-8.18,0.0394,108.04,0.599,65
+113,Smoke + Mirrors (Deluxe),9,6S91KdGvAQdUU8vNpqIte7,Dream,spotify:track:6S91KdGvAQdUU8vNpqIte7,0.643,0.379,0.513,3.24e-05,0.069,-7.724,0.0492,142.067,0.108,64
+121,Smoke + Mirrors (Deluxe),17,1DkwT6raJxACzdcWLviVJK,Release,spotify:track:1DkwT6raJxACzdcWLviVJK,0.86,0.379,0.396,1.21e-05,0.118,-11.247,0.0292,138.36,0.407,59
+122,Smoke + Mirrors (Deluxe),18,1sWeSMifj6Z6kZyI6z3bRc,Warriors,spotify:track:1sWeSMifj6Z6kZyI6z3bRc,0.0964,0.365,0.851,0.003,0.237,-6.238,0.0645,78.086,0.309,77
+123,Smoke + Mirrors (Deluxe),19,0fsEFwLSJTSHSawhe864Cp,Shots - Broiler Remix,spotify:track:0fsEFwLSJTSHSawhe864Cp,0.449,0.735,0.784,0.154,0.105,-7.128,0.0332,120.012,0.582,71
+180,Smoke + Mirrors,7,2iIb73Qn02LsZwpW8RJUxh,Friction,spotify:track:2iIb73Qn02LsZwpW8RJUxh,0.0508,0.671,0.537,0.0259,0.19,-8.745,0.0358,104.007,0.273,57
+236,Night Visions (Deluxe),14,4uHNzoh5OW1oWHLYVZjGMk,My Fault,spotify:track:4uHNzoh5OW1oWHLYVZjGMk,0.113,0.596,0.814,0.0195,0.112,-6.226,0.0392,108.51,0.519,50
+237,Night Visions (Deluxe),15,079yVkBuqjli0R21W0kis3,Round And Round,spotify:track:079yVkBuqjli0R21W0kis3,0.00262,0.455,0.858,0.0,0.201,-4.221,0.044,141.957,0.479,52
+238,Night Visions (Deluxe),16,3EwcIKpn9x4NwgCP2xM4CU,The River,spotify:track:3EwcIKpn9x4NwgCP2xM4CU,0.00986,0.395,0.637,0.00235,0.33,-5.757,0.0304,169.99,0.284,48
+239,Night Visions (Deluxe),17,3e4pzgxpqCs8qtwlUexOvy,America,spotify:track:3e4pzgxpqCs8qtwlUexOvy,0.00309,0.567,0.543,0.0758,0.163,-7.736,0.0313,113.034,0.0899,49
+240,Night Visions (Deluxe),18,6D1ZLhvp4c4WrT9InJ2qjc,Selene,spotify:track:6D1ZLhvp4c4WrT9InJ2qjc,0.000816,0.566,0.69,5.01e-06,0.157,-4.813,0.0254,95.006,0.562,50
+241,Night Visions (Deluxe),19,4ZJcaZjgmy5W59MOrPQhV8,Cover Up,spotify:track:4ZJcaZjgmy5W59MOrPQhV8,0.000514,0.547,0.718,2.8e-06,0.105,-4.569,0.0335,135.191,0.156,46
+242,Night Visions (Deluxe),20,4WHsrf7gr9uE03pCnwva0c,I Don't Mind,spotify:track:4WHsrf7gr9uE03pCnwva0c,0.00188,0.45,0.851,0.0,0.261,-4.684,0.0446,117.913,0.0775,48
+277,Night Visions,1,62yJjFtgkhUrXktIoSjgP2,Radioactive,spotify:track:62yJjFtgkhUrXktIoSjgP2,0.106,0.448,0.784,0.000108,0.668,-3.686,0.0627,136.245,0.236,82
+278,Night Visions,2,7lBPn6LpIvbvAihTRvBMig,Tiptoe,spotify:track:7lBPn6LpIvbvAihTRvBMig,0.00157,0.527,0.82,1.88e-05,0.076,-5.855,0.0325,120.041,0.25,61
+279,Night Visions,3,7MXlTgQeo3IVlMpLnZuhxc,It's Time,spotify:track:7MXlTgQeo3IVlMpLnZuhxc,0.0162,0.656,0.884,0.0,0.144,-4.748,0.0372,105.009,0.86,75
+280,Night Visions,4,5qaEfEh1AtSdrdrByCP7qR,Demons,spotify:track:5qaEfEh1AtSdrdrByCP7qR,0.19,0.505,0.71,0.00025,0.269,-3.015,0.0321,89.938,0.428,86
+281,Night Visions,5,213x4gsFDm04hSqIUkg88w,On Top Of The World,spotify:track:213x4gsFDm04hSqIUkg88w,0.0841,0.631,0.924,3.59e-06,0.084,-5.589,0.146,100.045,0.755,79
+282,Night Visions,6,5gXdinVZqeuDIVxogWzRk0,Amsterdam,spotify:track:5gXdinVZqeuDIVxogWzRk0,0.00852,0.516,0.768,8.49e-06,0.136,-4.964,0.0362,115.005,0.204,58
+283,Night Visions,7,2OgOgEBfiZEj2XlIY2XD7f,Hear Me,spotify:track:2OgOgEBfiZEj2XlIY2XD7f,0.000328,0.613,0.833,0.00069,0.0644,-4.694,0.0365,125.025,0.537,55
+284,Night Visions,8,5raubQ8TVZTJO1PFs2bpwq,Every Night,spotify:track:5raubQ8TVZTJO1PFs2bpwq,0.0508,0.445,0.599,4.26e-05,0.173,-6.824,0.0298,139.776,0.417,51
+285,Night Visions,9,1oQjPp1I7cwVE24JivbhzT,Bleeding Out,spotify:track:1oQjPp1I7cwVE24JivbhzT,0.0146,0.227,0.759,0.0,0.0986,-4.136,0.0908,169.444,0.331,66
+286,Night Visions,10,25dAGIi1Psxz5kzlNelPLN,Underdog,spotify:track:25dAGIi1Psxz5kzlNelPLN,0.0038,0.685,0.831,6.2e-05,0.113,-4.568,0.042,99.983,0.57,49
+287,Night Visions,11,300tML2o8yHO4WrDtG2gxO,Nothing Left To Say / Rocks - Medley,spotify:track:300tML2o8yHO4WrDtG2gxO,0.12,0.267,0.79,4.59e-05,0.574,-7.226,0.0472,108.033,0.0623,54
+288,Night Visions,12,6AynCuiHTQuVMYN2re6jcS,Cha-Ching (Till We Grow Older),spotify:track:6AynCuiHTQuVMYN2re6jcS,0.0041,0.516,0.867,7.5e-06,0.0597,-6.118,0.0388,129.982,0.134,58
+289,Night Visions,13,3fipHLkzOLcHciI86QgOAB,Working Man,spotify:track:3fipHLkzOLcHciI86QgOAB,0.0194,0.644,0.857,0.0,0.0946,-6.394,0.0383,100.973,0.643,49
+290,Night Visions,14,7mwIdlgXiFvwxwAjprW942,Tokyo,spotify:track:7mwIdlgXiFvwxwAjprW942,0.0016,0.663,0.692,1.5e-05,0.172,-6.456,0.0308,119.983,0.722,50
+314,Night Visions,11,7cBhzkTWSpHBGAiCZzSika,Nothing Left To Say / Rocks,spotify:track:7cBhzkTWSpHBGAiCZzSika,0.12,0.267,0.79,4.59e-05,0.635,-7.226,0.0472,108.033,0.0623,48

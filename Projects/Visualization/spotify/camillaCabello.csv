@@ -1,0 +1,26 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Romance,1,2ogKhhoMClkFXek7ZgxAhN,Shameless,spotify:track:2ogKhhoMClkFXek7ZgxAhN,0.0197,0.377,0.651,5.31e-05,0.174,-5.437,0.0589,129.607,0.0851,68
+1,Romance,2,4jFD7byoPdGkEdjHLMduR9,Living Proof,spotify:track:4jFD7byoPdGkEdjHLMduR9,0.109,0.735,0.514,0.0,0.359,-5.464,0.082,77.566,0.517,60
+2,Romance,3,0sHc1EEeOnmgjP6QmsR7px,Should've Said It,spotify:track:0sHc1EEeOnmgjP6QmsR7px,0.0281,0.666,0.549,0.000181,0.136,-5.781,0.0269,98.014,0.596,62
+3,Romance,4,3yOlyBJuViE2YSGn3nVE1K,My Oh My (feat. DaBaby),spotify:track:3yOlyBJuViE2YSGn3nVE1K,0.018,0.724,0.491,1.29e-05,0.0887,-6.024,0.0296,105.046,0.383,81
+4,Romance,5,3BVgrFWuH01GmCUy9Y2EE8,Señorita,spotify:track:3BVgrFWuH01GmCUy9Y2EE8,0.0376,0.759,0.539,0.0,0.0906,-6.039,0.0287,116.959,0.74,58
+5,Romance,6,073ILU1C3APNRGF66VhtyA,Liar,spotify:track:073ILU1C3APNRGF66VhtyA,0.0169,0.74,0.498,0.00282,0.319,-6.684,0.0456,98.016,0.652,69
+6,Romance,7,0Q2kFlgnqusKAqCDpCKAIY,Bad Kind of Butterflies,spotify:track:0Q2kFlgnqusKAqCDpCKAIY,0.506,0.495,0.308,0.0,0.247,-9.528,0.141,108.484,0.273,62
+7,Romance,8,7DoNtK2gVFRwJh0hkHe5wQ,Easy,spotify:track:7DoNtK2gVFRwJh0hkHe5wQ,0.411,0.574,0.593,1.55e-06,0.0966,-5.731,0.0463,128.073,0.355,63
+8,Romance,9,39jcp8zJH7nHWbB7Hr3sFJ,Feel It Twice,spotify:track:39jcp8zJH7nHWbB7Hr3sFJ,0.842,0.516,0.436,0.0,0.0901,-5.568,0.0283,132.07,0.376,59
+9,Romance,10,7jJ4y8hXMLMlGBu7Zm1XZj,Dream of You,spotify:track:7jJ4y8hXMLMlGBu7Zm1XZj,0.205,0.659,0.663,0.0,0.105,-6.823,0.0811,140.013,0.333,59
+10,Romance,11,1Ff71LUQO0KBk5Slu3K6Vu,Cry for Me,spotify:track:1Ff71LUQO0KBk5Slu3K6Vu,0.05,0.721,0.805,0.0,0.153,-4.134,0.0927,118.058,0.653,60
+11,Romance,12,7cHje4KLujM18aBSLvaySE,This Love,spotify:track:7cHje4KLujM18aBSLvaySE,0.253,0.494,0.502,4.37e-06,0.105,-5.75,0.0329,179.643,0.162,65
+12,Romance,13,3r73OmpBtQAwMgawxOmlg0,Used to This,spotify:track:3r73OmpBtQAwMgawxOmlg0,0.361,0.583,0.495,3.35e-06,0.348,-7.681,0.0813,100.047,0.364,61
+13,Romance,14,6TRt2bniIq0EIlrDlje7b8,First Man,spotify:track:6TRt2bniIq0EIlrDlje7b8,0.906,0.572,0.292,1.04e-06,0.106,-7.621,0.0364,100.152,0.223,67
+28,Camila,1,4eWQlBRaTjPPUlzacqEeoQ,Never Be the Same,spotify:track:4eWQlBRaTjPPUlzacqEeoQ,0.181,0.637,0.713,0.000637,0.137,-4.333,0.0747,129.923,0.243,79
+29,Camila,2,4XLu3tTSZiPFVC9mmuR6Zp,All These Years,spotify:track:4XLu3tTSZiPFVC9mmuR6Zp,0.609,0.732,0.436,0.0,0.108,-7.409,0.117,94.852,0.475,64
+30,Camila,3,5HwnezK198pJCEj1l2Adjy,She Loves Control,spotify:track:5HwnezK198pJCEj1l2Adjy,0.166,0.65,0.758,0.0,0.0889,-4.02,0.116,94.9,0.663,67
+31,Camila,4,1rfofaqEpACxVEHIZBJe6W,Havana (feat. Young Thug),spotify:track:1rfofaqEpACxVEHIZBJe6W,0.184,0.765,0.523,3.56e-05,0.132,-4.333,0.03,104.988,0.394,84
+32,Camila,5,5xi2SXmF3A5AIsuGXiUIZu,Inside Out,spotify:track:5xi2SXmF3A5AIsuGXiUIZu,0.43,0.737,0.697,0.000382,0.0821,-5.31,0.0895,94.101,0.655,55
+33,Camila,6,7sTtHHrD0zDpmzQzH3zegz,Consequences,spotify:track:7sTtHHrD0zDpmzQzH3zegz,0.889,0.455,0.292,0.0,0.106,-6.792,0.0563,84.339,0.43,71
+34,Camila,7,3iq9nhbI8fcnNamxMft1uv,Real Friends,spotify:track:3iq9nhbI8fcnNamxMft1uv,0.839,0.726,0.304,0.0,0.0853,-8.677,0.131,91.97,0.813,64
+35,Camila,8,7IL3UOlcJ6nmcCMwpnlfcA,Something's Gotta Give,spotify:track:7IL3UOlcJ6nmcCMwpnlfcA,0.367,0.545,0.458,0.0,0.118,-4.6,0.0279,79.943,0.164,66
+36,Camila,9,1GO9vCm5Cra5uWGSWQ5mGK,In the Dark,spotify:track:1GO9vCm5Cra5uWGSWQ5mGK,0.21,0.425,0.548,0.0,0.115,-6.762,0.114,175.756,0.282,58
+37,Camila,10,2gxqozTaq2NYylvS8jd57G,Into It,spotify:track:2gxqozTaq2NYylvS8jd57G,0.451,0.569,0.649,0.0,0.128,-8.175,0.482,108.77,0.441,59
+38,Camila,11,0sVgOxAOOAj0K8PdFEGhrR,Never Be the Same - Radio Edit,spotify:track:0sVgOxAOOAj0K8PdFEGhrR,0.158,0.627,0.693,0.000102,0.115,-4.382,0.0856,129.801,0.245,53

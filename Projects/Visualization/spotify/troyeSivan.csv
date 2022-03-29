@@ -1,0 +1,40 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Bloom,1,4NiehSBQthimPzRsVeOgCT,My My My!,spotify:track:4NiehSBQthimPzRsVeOgCT,0.00407,0.701,0.458,0.000151,0.045,-7.749,0.0836,102.967,0.482,71
+1,Bloom,2,0oTyoTKEKMdF3rXcOLyEfN,Bloom,spotify:track:0oTyoTKEKMdF3rXcOLyEfN,0.031,0.708,0.701,0.0,0.392,-5.196,0.0328,120.932,0.504,65
+2,Bloom,3,4RoArPM0AsuW3h8hW8xtnr,Lucky Strike,spotify:track:4RoArPM0AsuW3h8hW8xtnr,0.579,0.612,0.694,0.0,0.0914,-7.363,0.0514,103.031,0.564,63
+3,Bloom,4,7iyKbBjb2fmTnTfCjCh7ER,Seventeen,spotify:track:7iyKbBjb2fmTnTfCjCh7ER,0.165,0.612,0.743,4.35e-05,0.319,-7.25,0.0442,118.913,0.347,60
+4,Bloom,5,4qAHuJq5T4Q97EQZG47H0P,The Good Side,spotify:track:4qAHuJq5T4Q97EQZG47H0P,0.406,0.426,0.284,0.00335,0.362,-15.492,0.0616,112.039,0.311,65
+5,Bloom,6,2NjO87HyT80fsgejd3PLYW,Dance To This (feat. Ariana Grande),spotify:track:2NjO87HyT80fsgejd3PLYW,0.00632,0.736,0.756,0.00577,0.106,-7.099,0.047,117.016,0.712,72
+6,Bloom,7,0EftP1nY8Mklt77hAMMMug,Plum,spotify:track:0EftP1nY8Mklt77hAMMMug,0.0123,0.693,0.594,6.25e-05,0.0764,-7.323,0.0469,96.973,0.565,54
+7,Bloom,8,4CCe846xVRd9p31gc6dMza,Postcard (feat. Gordi),spotify:track:4CCe846xVRd9p31gc6dMza,0.905,0.43,0.36,0.0,0.0967,-8.909,0.036,97.852,0.247,55
+8,Bloom,9,1Dfzjb9aFxgSFM0vnNTDPr,What A Heavenly Way To Die,spotify:track:1Dfzjb9aFxgSFM0vnNTDPr,0.438,0.715,0.632,0.0859,0.0923,-7.093,0.0348,122.036,0.586,64
+9,Bloom,10,6iBPeFlk4DLJ4HfRfZ2J7H,Animal,spotify:track:6iBPeFlk4DLJ4HfRfZ2J7H,0.535,0.335,0.314,0.00517,0.295,-11.155,0.0411,122.446,0.0528,55
+20,Blue Neighbourhood (The Remixes),1,3WgaA66GU02FnidR1nTH4D,EASE - Vallis Alps Remix,spotify:track:3WgaA66GU02FnidR1nTH4D,0.316,0.61,0.442,0.00111,0.0533,-11.708,0.0525,94.986,0.229,36
+21,Blue Neighbourhood (The Remixes),2,1obSxAwn3Ae22iLrPY109I,EASE - Lontalius Remix,spotify:track:1obSxAwn3Ae22iLrPY109I,0.804,0.573,0.411,0.0,0.199,-9.315,0.0325,90.972,0.297,41
+23,Blue Neighbourhood (The Remixes),4,34QSYjBuitClolvnmFGG40,WILD - Lophiile & Grey Remix,spotify:track:34QSYjBuitClolvnmFGG40,0.0627,0.68,0.798,0.0,0.349,-4.115,0.0931,102.081,0.397,32
+24,Blue Neighbourhood (The Remixes),5,10n3JKjszdfli4EZFM7oRU,WILD - RAC Mix,spotify:track:10n3JKjszdfli4EZFM7oRU,0.0265,0.545,0.623,0.0,0.105,-7.47,0.0441,180.07,0.735,31
+25,Blue Neighbourhood (The Remixes),6,6aDxTEqZdhH0lSkP4mev4X,WILD - Young Bombs Remix,spotify:track:6aDxTEqZdhH0lSkP4mev4X,0.056,0.525,0.841,0.0,0.124,-2.849,0.034,99.973,0.328,42
+26,Blue Neighbourhood (The Remixes),7,3Edkmy6tuoGVSCy9rdWJWZ,FOOLS - Filous Remix,spotify:track:3Edkmy6tuoGVSCy9rdWJWZ,0.234,0.658,0.573,0.00124,0.306,-8.19,0.0486,94.991,0.393,35
+27,Blue Neighbourhood (The Remixes),8,5nGuzcsjDbUD1Hgi0szupA,YOUTH - Gryffin Remix,spotify:track:5nGuzcsjDbUD1Hgi0szupA,0.0823,0.559,0.67,0.0171,0.106,-6.301,0.0404,104.004,0.338,54
+28,Blue Neighbourhood (The Remixes),9,096xg2yXUnjTQ24oCzuuhh,YOUTH - Son Lux Remix,spotify:track:096xg2yXUnjTQ24oCzuuhh,0.336,0.631,0.704,1.84e-05,0.202,-5.692,0.232,89.684,0.545,29
+29,Blue Neighbourhood (The Remixes),10,5oXrBGZZD71x8K3QFf4qiz,YOUTH - Shift K3y Remix,spotify:track:5oXrBGZZD71x8K3QFf4qiz,0.0143,0.747,0.948,0.00743,0.11,-1.998,0.0451,124.005,0.618,29
+30,Blue Neighbourhood (The Remixes),11,6PtE41BwaPBOjjMc8mKcG4,YOUTH - Acoustic,spotify:track:6PtE41BwaPBOjjMc8mKcG4,0.958,0.541,0.186,0.0,0.0962,-11.321,0.0311,92.544,0.162,58
+31,Blue Neighbourhood (The Remixes),12,0qcJaudn18thqD66jLfGKP,WILD - Live,spotify:track:0qcJaudn18thqD66jLfGKP,0.264,0.527,0.742,0.0,0.459,-5.711,0.0606,90.04,0.409,29
+32,Blue Neighbourhood (The Remixes),13,20Y6nPj1IUe5xmZRWK2P8u,YOUTH - Live,spotify:track:20Y6nPj1IUe5xmZRWK2P8u,0.16,0.615,0.694,0.0,0.969,-6.4,0.12,91.982,0.377,29
+33,Blue Neighbourhood (The Remixes),14,2v0dd3j5VwXUrvBwApTtYa,Happy Little Pill - Live,spotify:track:2v0dd3j5VwXUrvBwApTtYa,0.794,0.465,0.327,8.07e-05,0.3,-10.404,0.0322,93.543,0.144,34
+36,Blue Neighbourhood (Deluxe),3,5lMgUPtlARalVIGxl0xE3J,FOOLS,spotify:track:5lMgUPtlARalVIGxl0xE3J,0.192,0.292,0.678,0.0,0.146,-5.595,0.0724,87.436,0.365,66
+37,Blue Neighbourhood (Deluxe),4,7jQFIqN0GnpByBVXPpdPom,EASE,spotify:track:7jQFIqN0GnpByBVXPpdPom,0.063,0.625,0.716,0.0,0.135,-6.48,0.0498,94.986,0.538,51
+38,Blue Neighbourhood (Deluxe),5,5cpMD4UcrTpu4P2T4EAPQz,THE QUIET,spotify:track:5cpMD4UcrTpu4P2T4EAPQz,0.00951,0.631,0.853,0.0,0.0713,-5.925,0.0565,103.985,0.405,47
+39,Blue Neighbourhood (Deluxe),6,7M8uUME0TsHpYhTz5hUzSE,DKLA,spotify:track:7M8uUME0TsHpYhTz5hUzSE,0.0221,0.378,0.609,0.00106,0.0652,-5.985,0.0971,87.456,0.0788,46
+40,Blue Neighbourhood (Deluxe),7,1othhMi2WsiF9oLoisJjYW,TALK ME DOWN,spotify:track:1othhMi2WsiF9oLoisJjYW,0.151,0.362,0.781,0.000197,0.125,-6.803,0.0741,173.688,0.354,60
+41,Blue Neighbourhood (Deluxe),8,5D5kzmVejlQFTqXwUmb0Ns,COOL,spotify:track:5D5kzmVejlQFTqXwUmb0Ns,0.134,0.727,0.832,4.58e-06,0.384,-6.037,0.0843,108.028,0.608,47
+42,Blue Neighbourhood (Deluxe),9,2fNi8T6DLiY9SxFnZrhOeV,HEAVEN,spotify:track:2fNi8T6DLiY9SxFnZrhOeV,0.0751,0.518,0.725,2.39e-05,0.09,-7.492,0.129,144.032,0.328,54
+43,Blue Neighbourhood (Deluxe),10,0nhBKubnVz9yFNNprBniWz,YOUTH,spotify:track:0nhBKubnVz9yFNNprBniWz,0.0625,0.628,0.737,0.0,0.0777,-4.437,0.041,91.507,0.592,76
+44,Blue Neighbourhood (Deluxe),11,1MWXC3nU8ZGbJkC8Glm3TD,LOST BOY,spotify:track:1MWXC3nU8ZGbJkC8Glm3TD,0.0477,0.56,0.889,6.32e-05,0.268,-5.148,0.0493,105.989,0.458,51
+45,Blue Neighbourhood (Deluxe),12,5yFhb4ABfgvqQYZEK18lcc,for him.,spotify:track:5yFhb4ABfgvqQYZEK18lcc,0.0595,0.726,0.618,4.43e-05,0.151,-4.843,0.123,161.962,0.923,58
+46,Blue Neighbourhood (Deluxe),13,0tnU8bI4cZkvdPzXRV7BA8,SUBURBIA,spotify:track:0tnU8bI4cZkvdPzXRV7BA8,0.019,0.491,0.622,0.0,0.107,-5.925,0.104,77.928,0.361,51
+47,Blue Neighbourhood (Deluxe),14,75OBhyIlzY2RGKuz9WNaSH,TOO GOOD,spotify:track:75OBhyIlzY2RGKuz9WNaSH,0.149,0.326,0.569,0.0,0.186,-5.953,0.0444,148.658,0.165,47
+48,Blue Neighbourhood (Deluxe),15,0W2YQYzdW7EDKt17DfR8TV,BLUE,spotify:track:0W2YQYzdW7EDKt17DfR8TV,0.593,0.39,0.536,0.0,0.115,-7.536,0.0384,129.997,0.212,60
+49,Blue Neighbourhood (Deluxe),16,0xexXKZ1CAIrNHhTUX5Qkh,WILD,spotify:track:0xexXKZ1CAIrNHhTUX5Qkh,0.0916,0.622,0.807,0.0,0.205,-5.1,0.0784,93.962,0.516,59
+51,Blue Neighbourhood (Deluxe),2,72mvdKU4Lw2737idPLKTjh,BITE,spotify:track:72mvdKU4Lw2737idPLKTjh,0.192,0.591,0.402,0.0,0.148,-5.847,0.0337,125.015,0.0678,56
+65,Blue Neighbourhood (Deluxe),16,5xCkjdBL9jWykDmwIQRzFE,WILD - XXYYXX Remix,spotify:track:5xCkjdBL9jWykDmwIQRzFE,0.136,0.419,0.496,0.0,0.291,-9.222,0.0826,90.012,0.389,40

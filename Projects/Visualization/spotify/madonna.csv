@@ -1,0 +1,155 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Madame X - Music From The Theater Xperience (Live),1,1ZipQfxercPLpiocNlMUpR,"Intro - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:1ZipQfxercPLpiocNlMUpR,0.0322,0.442,0.644,0.0215,0.692,-11.15,0.332,123.346,0.255,39
+1,Madame X - Music From The Theater Xperience (Live),2,6cvVWlanWjxLuAE2PMWkvB,"God Control - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:6cvVWlanWjxLuAE2PMWkvB,0.0344,0.673,0.629,0.000757,0.792,-8.634,0.099,124.056,0.108,39
+2,Madame X - Music From The Theater Xperience (Live),3,5VM8QhpEeETnREH1PsmzHj,"Dark Ballet - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:5VM8QhpEeETnREH1PsmzHj,0.41,0.405,0.547,2.42e-05,0.386,-8.245,0.0913,168.016,0.35,36
+3,Madame X - Music From The Theater Xperience (Live),4,4PIkR4PpzWQhz7Nty5YE3A,"Human Nature - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:4PIkR4PpzWQhz7Nty5YE3A,0.241,0.495,0.613,0.0,0.703,-7.312,0.094,89.337,0.45,38
+4,Madame X - Music From The Theater Xperience (Live),5,1D3hOn06tYpENKsbA4mkXQ,"Vogue - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:1D3hOn06tYpENKsbA4mkXQ,0.0145,0.777,0.782,0.0105,0.915,-5.153,0.0336,116.179,0.238,40
+5,Madame X - Music From The Theater Xperience (Live),6,29BRyExrIw5OW9p6cn4mAC,"I Don't Search, I Find - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:29BRyExrIw5OW9p6cn4mAC,0.000287,0.661,0.498,0.715,0.723,-9.62,0.0353,122.006,0.369,36
+6,Madame X - Music From The Theater Xperience (Live),7,617ZzFNLESNhuBDfE9PAAR,"American Life - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:617ZzFNLESNhuBDfE9PAAR,0.073,0.712,0.75,0.0,0.842,-6.002,0.104,101.985,0.442,37
+7,Madame X - Music From The Theater Xperience (Live),8,6SderUEhLBTkh0pDpuv79Q,"Batuka - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:6SderUEhLBTkh0pDpuv79Q,0.00292,0.553,0.868,2.41e-05,0.986,-5.643,0.121,132.004,0.214,34
+8,Madame X - Music From The Theater Xperience (Live),9,4lGyUTtz6c8lLKCxxK7yNN,"Fado Pechincha (feat. Gaspar Varela) - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:4lGyUTtz6c8lLKCxxK7yNN,0.75,0.353,0.48,3.44e-06,0.944,-10.97,0.0887,81.275,0.705,37
+9,Madame X - Music From The Theater Xperience (Live),10,1IuxvtiEU4ex710DadnADt,"Killers Who Are Partying - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:1IuxvtiEU4ex710DadnADt,0.542,0.386,0.642,0.000193,0.987,-5.979,0.0398,200.048,0.436,34
+10,Madame X - Music From The Theater Xperience (Live),11,12JSyIV3KvIyyzhFSeSshn,"Crazy - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:12JSyIV3KvIyyzhFSeSshn,0.287,0.643,0.63,0.0,0.977,-5.09,0.0638,143.992,0.333,37
+11,Madame X - Music From The Theater Xperience (Live),12,3sKxwm6htBqlQBYejfB8AQ,"Welcome To My Fado Club - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:3sKxwm6htBqlQBYejfB8AQ,0.23,0.501,0.748,2.75e-06,0.991,-7.504,0.289,142.475,0.431,35
+12,Madame X - Music From The Theater Xperience (Live),13,7L7kJe4L8dhtR2vOmue13l,"Medellin - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:7L7kJe4L8dhtR2vOmue13l,0.0686,0.749,0.695,0.0,0.993,-7.156,0.414,91.975,0.412,35
+13,Madame X - Music From The Theater Xperience (Live),14,4dGkxyeHEXrtFyu3d3d8c5,"Extreme Occident - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:4dGkxyeHEXrtFyu3d3d8c5,0.201,0.66,0.487,0.0,0.956,-6.61,0.0309,87.985,0.0723,32
+14,Madame X - Music From The Theater Xperience (Live),15,1eEkdfewhsze9GKGjd458r,"Breathwork - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:1eEkdfewhsze9GKGjd458r,0.0445,0.586,0.299,0.0193,0.314,-11.797,0.44,77.815,0.188,31
+15,Madame X - Music From The Theater Xperience (Live),16,1yfqLE8uWXguvNVvTGuASz,"Frozen - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:1yfqLE8uWXguvNVvTGuASz,0.0301,0.375,0.748,0.0291,0.991,-6.678,0.04,92.029,0.0629,37
+16,Madame X - Music From The Theater Xperience (Live),17,7jngeWEzjZQvfC1h1ix9q4,"Come Alive - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:7jngeWEzjZQvfC1h1ix9q4,0.218,0.327,0.761,3.29e-05,0.75,-7.605,0.384,171.004,0.394,33
+17,Madame X - Music From The Theater Xperience (Live),18,1ncfuPb23E2gfkjrvhHUEA,"Future - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:1ncfuPb23E2gfkjrvhHUEA,0.224,0.642,0.862,0.00016,0.467,-3.834,0.0927,158.084,0.323,35
+18,Madame X - Music From The Theater Xperience (Live),19,31DwuncuHyI9NhXn5tizhk,"Like A Prayer - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:31DwuncuHyI9NhXn5tizhk,0.0685,0.552,0.947,0.0,0.819,-4.202,0.0929,114.497,0.248,35
+19,Madame X - Music From The Theater Xperience (Live),20,7oILoQeXOPDvcf8Ln6mUX3,"I Rise - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",spotify:track:7oILoQeXOPDvcf8Ln6mUX3,0.0333,0.391,0.518,8.16e-06,0.328,-7.423,0.129,154.966,0.223,32
+20,True Blue (35th Anniversary Edition),1,14hFngJ7gpBxIiiJ2hXofL,Papa Don't Preach,spotify:track:14hFngJ7gpBxIiiJ2hXofL,0.343,0.833,0.934,7.55e-06,0.0521,-3.243,0.0313,121.879,0.964,36
+21,True Blue (35th Anniversary Edition),2,207xjOnbOovZCmVL5YmZUs,Open Your Heart,spotify:track:207xjOnbOovZCmVL5YmZUs,0.049,0.624,0.951,4.73e-06,0.195,-3.819,0.0572,113.915,0.795,37
+22,True Blue (35th Anniversary Edition),3,6wWrOSo2ygj3Mq3GUqCzhn,White Heat,spotify:track:6wWrOSo2ygj3Mq3GUqCzhn,0.106,0.706,0.942,0.0,0.158,-3.578,0.078,108.934,0.837,29
+23,True Blue (35th Anniversary Edition),4,7j1vEL4ktPrAw74QcJrtq5,Live to Tell,spotify:track:7j1vEL4ktPrAw74QcJrtq5,0.263,0.652,0.521,0.0011,0.107,-6.752,0.0256,109.943,0.235,35
+24,True Blue (35th Anniversary Edition),5,4FFlvP0TIg2qiUrgIvP42a,Where's the Party,spotify:track:4FFlvP0TIg2qiUrgIvP42a,0.345,0.743,0.941,0.0,0.601,-3.348,0.0819,118.927,0.911,29
+25,True Blue (35th Anniversary Edition),6,6maKDCbPjXwJGSdRUSOYNs,True Blue,spotify:track:6maKDCbPjXwJGSdRUSOYNs,0.231,0.798,0.909,0.0,0.0502,-4.258,0.045,117.947,0.866,37
+26,True Blue (35th Anniversary Edition),7,4t4VUoqZId5pR3UECyQ2Ax,La Isla Bonita,spotify:track:4t4VUoqZId5pR3UECyQ2Ax,0.304,0.724,0.822,1.38e-05,0.0553,-4.374,0.0333,99.9,0.964,36
+27,True Blue (35th Anniversary Edition),8,1NChCpA2OrzUooVakDrFzv,Jimmy Jimmy,spotify:track:1NChCpA2OrzUooVakDrFzv,0.167,0.663,0.872,0.000213,0.0983,-3.502,0.0341,152.077,0.943,27
+28,True Blue (35th Anniversary Edition),9,27fZWRSAAHGk83WopuXiVK,Love Makes the World Go Round,spotify:track:27fZWRSAAHGk83WopuXiVK,0.25,0.776,0.881,0.0,0.227,-4.875,0.0384,121.909,0.971,27
+29,True Blue (35th Anniversary Edition),10,1ugEuNHG4fpG7IV7AulAEN,Papa Don't Preach - Extended Remix,spotify:track:1ugEuNHG4fpG7IV7AulAEN,0.345,0.802,0.953,0.000284,0.0415,-5.588,0.0385,121.499,0.97,39
+30,True Blue (35th Anniversary Edition),11,0vYEfyplK9ye7nszN4AyyH,True Blue - The Color Mix,spotify:track:0vYEfyplK9ye7nszN4AyyH,0.0182,0.811,0.728,0.00243,0.0761,-6.189,0.0906,120.186,0.567,28
+31,True Blue (35th Anniversary Edition),12,5BxtOiYxMqK8LEuOXgxpIC,Open Your Heart - Extended Version,spotify:track:5BxtOiYxMqK8LEuOXgxpIC,0.501,0.727,0.915,0.0623,0.19,-6.518,0.0451,113.002,0.955,37
+32,True Blue (35th Anniversary Edition),13,2xW6cuwGVswjHscKIRmHpI,La Isla Bonita - Extended Remix,spotify:track:2xW6cuwGVswjHscKIRmHpI,0.195,0.729,0.737,7.49e-05,0.148,-6.396,0.0349,99.995,0.876,30
+33,True Blue (35th Anniversary Edition),14,2Pjx9QlTCC7bV8d5ws2vCd,True Blue - Remix/Edit,spotify:track:2Pjx9QlTCC7bV8d5ws2vCd,0.0974,0.756,0.884,0.0,0.0824,-5.008,0.0697,120.524,0.742,30
+34,True Blue (35th Anniversary Edition),15,4bYIaITkA7eACMg2BXu3H7,Open Your Heart - Dub,spotify:track:4bYIaITkA7eACMg2BXu3H7,0.63,0.793,0.917,0.431,0.0527,-9.075,0.0647,112.451,0.948,28
+35,True Blue (35th Anniversary Edition),16,1PmRWXH2MtudoiITbkG2Qc,Live to Tell - Instrumental,spotify:track:1PmRWXH2MtudoiITbkG2Qc,0.374,0.738,0.472,0.798,0.1,-9.019,0.0301,109.411,0.284,27
+36,True Blue (35th Anniversary Edition),17,0eJtprFuKpURI9lMF325K5,True Blue - Instrumental,spotify:track:0eJtprFuKpURI9lMF325K5,0.0187,0.588,0.766,0.0452,0.0641,-8.943,0.0591,120.567,0.158,25
+37,True Blue (35th Anniversary Edition),18,50u4pcIVBm4QmDhbdG0DNS,La Isla Bonita - Instrumental Extended Remix,spotify:track:50u4pcIVBm4QmDhbdG0DNS,0.0365,0.757,0.778,0.709,0.208,-8.672,0.0415,100.081,0.857,25
+38,Madame X (Deluxe),1,6mfu6jyFgvnXeTPQrYNs8d,Medellín (with Maluma),spotify:track:6mfu6jyFgvnXeTPQrYNs8d,0.0596,0.814,0.683,1.92e-05,0.671,-7.091,0.304,91.963,0.473,60
+39,Madame X (Deluxe),2,4fxz9qgPY0L2EWsbmj5N5j,Dark Ballet,spotify:track:4fxz9qgPY0L2EWsbmj5N5j,0.769,0.475,0.547,0.00106,0.107,-7.703,0.0603,168.045,0.284,48
+40,Madame X (Deluxe),3,1g1KZTgP2crk4QMOIZXlcA,God Control,spotify:track:1g1KZTgP2crk4QMOIZXlcA,0.0179,0.694,0.741,0.00198,0.663,-7.886,0.0603,123.994,0.263,50
+41,Madame X (Deluxe),4,5IQgTY3f8ZeRW8o7cyFMX5,Future (with Quavo),spotify:track:5IQgTY3f8ZeRW8o7cyFMX5,0.455,0.684,0.858,0.0,0.132,-2.398,0.0886,158.031,0.643,49
+42,Madame X (Deluxe),5,35skCNkwwEQIgJCSncfbBe,Batuka,spotify:track:35skCNkwwEQIgJCSncfbBe,0.00559,0.657,0.811,0.00223,0.245,-7.224,0.0567,131.984,0.29,45
+43,Madame X (Deluxe),6,68vWLW3xY35CHvYS2Sn55Q,Killers Who Are Partying,spotify:track:68vWLW3xY35CHvYS2Sn55Q,0.327,0.737,0.447,0.00202,0.286,-7.979,0.0281,99.949,0.258,45
+44,Madame X (Deluxe),7,3DTq6oxUWv20TEKQO9IVF3,Crave (with Swae Lee),spotify:track:3DTq6oxUWv20TEKQO9IVF3,0.454,0.728,0.617,0.0,0.104,-4.677,0.0431,125.987,0.251,50
+45,Madame X (Deluxe),8,3Y6bCKPrsrKRSo8sg6PuL3,Crazy,spotify:track:3Y6bCKPrsrKRSo8sg6PuL3,0.113,0.709,0.674,1.35e-06,0.302,-4.206,0.0769,143.92,0.24,49
+46,Madame X (Deluxe),9,6hHPBnTvgBjmJoUowLa23S,Come Alive,spotify:track:6hHPBnTvgBjmJoUowLa23S,0.323,0.395,0.681,0.000375,0.0744,-7.553,0.191,171.111,0.396,45
+47,Madame X (Deluxe),10,6yUMDlOJja7g0zdEtb6TeP,Extreme Occident,spotify:track:6yUMDlOJja7g0zdEtb6TeP,0.103,0.691,0.52,8.46e-05,0.107,-6.737,0.0412,175.955,0.101,38
+48,Madame X (Deluxe),11,2SC14LGDbRWRlyLg9Wupa0,Faz Gostoso (feat. Anitta),spotify:track:2SC14LGDbRWRlyLg9Wupa0,0.288,0.777,0.695,0.0,0.0734,-6.12,0.0894,130.05,0.652,59
+49,Madame X (Deluxe),12,4EoMHVpNZTLVfAIgYzfufZ,Bitch I’m Loca (feat. Maluma),spotify:track:4EoMHVpNZTLVfAIgYzfufZ,0.0144,0.741,0.863,1.86e-06,0.502,-3.438,0.198,175.949,0.601,50
+50,Madame X (Deluxe),13,6RwkmsgTmxUK2TziYWqlqL,I Don’t Search I Find,spotify:track:6RwkmsgTmxUK2TziYWqlqL,5.06e-05,0.557,0.711,0.597,0.185,-5.572,0.0296,122.047,0.207,46
+51,Madame X (Deluxe),14,1MyVadO3ei1DGHVbDowQGv,Looking For Mercy,spotify:track:1MyVadO3ei1DGHVbDowQGv,0.0207,0.509,0.571,9.71e-05,0.1,-6.997,0.0579,78.942,0.233,45
+52,Madame X (Deluxe),15,7utnsT1Zjty7H3sO46vpt8,I Rise,spotify:track:7utnsT1Zjty7H3sO46vpt8,0.0241,0.593,0.724,1.44e-06,0.191,-6.267,0.0849,154.941,0.323,43
+53,Rebel Heart Tour (Live),1,5U1tMecqLfOkPDIUK9SVKa,Rebel Heart Tour Intro - Live,spotify:track:5U1tMecqLfOkPDIUK9SVKa,0.00827,0.399,0.676,0.000386,0.576,-10.616,0.146,91.846,0.0413,28
+54,Rebel Heart Tour (Live),2,11WgsxZ2Xe9jomfNI6BRcF,Iconic - Live,spotify:track:11WgsxZ2Xe9jomfNI6BRcF,0.0218,0.613,0.733,1.9e-05,0.695,-7.219,0.139,127.934,0.243,31
+55,Rebel Heart Tour (Live),3,3E8cvZMSrKcwNmBYtvhZkJ,Bitch I'm Madonna - Live,spotify:track:3E8cvZMSrKcwNmBYtvhZkJ,0.00339,0.615,0.706,0.00138,0.213,-6.844,0.0533,150.025,0.177,31
+56,Rebel Heart Tour (Live),4,5jkpDH21WI4x5eD2Vm2f9D,Burning Up - Live,spotify:track:5jkpDH21WI4x5eD2Vm2f9D,0.00105,0.61,0.932,0.356,0.794,-4.291,0.0572,133.007,0.498,31
+57,Rebel Heart Tour (Live),5,0e2NMJE1Hy64037qNq3r2P,Holy Water / Vogue - Live,spotify:track:0e2NMJE1Hy64037qNq3r2P,0.00271,0.753,0.676,0.0109,0.249,-8.733,0.0774,119.984,0.111,32
+58,Rebel Heart Tour (Live),6,3AAVH9sMdV97o3gnyrmiaY,Devil Pray - Live,spotify:track:3AAVH9sMdV97o3gnyrmiaY,0.0585,0.705,0.58,2.41e-05,0.851,-9.125,0.0334,106.999,0.239,29
+59,Rebel Heart Tour (Live),7,42Pg7s8m0jr4NSwDeNTK4V,Body Shop - Live,spotify:track:42Pg7s8m0jr4NSwDeNTK4V,0.122,0.687,0.75,0.00431,0.991,-7.608,0.0952,139.971,0.275,27
+60,Rebel Heart Tour (Live),8,3KyzFtarX9Edo9Q3vBQQlQ,True Blue - Live,spotify:track:3KyzFtarX9Edo9Q3vBQQlQ,0.744,0.601,0.419,0.0,0.882,-6.799,0.0311,111.15,0.243,34
+61,Rebel Heart Tour (Live),9,3VPHyCFuLUq12zKGjBHzuv,Deeper And Deeper - Live,spotify:track:3VPHyCFuLUq12zKGjBHzuv,0.000677,0.689,0.887,0.391,0.764,-6.544,0.0327,119.843,0.371,33
+62,Rebel Heart Tour (Live),10,3Oibucptlkx09c03Q6QO7s,HeartBreakCity - Live,spotify:track:3Oibucptlkx09c03Q6QO7s,0.152,0.561,0.658,0.000194,0.943,-7.831,0.0443,92.989,0.251,28
+63,Rebel Heart Tour (Live),11,7Jc83a7lyYaG5SGZtBBhRd,Like A Virgin - Live,spotify:track:7Jc83a7lyYaG5SGZtBBhRd,0.0259,0.676,0.903,0.0169,0.689,-8.215,0.0611,121.979,0.388,31
+64,Rebel Heart Tour (Live),12,5VoIzH8MSU3lf2Q1oZXQNl,Living For Love - Live,spotify:track:5VoIzH8MSU3lf2Q1oZXQNl,0.023,0.642,0.746,0.0141,0.899,-7.313,0.0424,127.928,0.0531,33
+65,Rebel Heart Tour (Live),13,77ndHXBTeSRyuy3MUROxwf,La Isla Bonita - Live,spotify:track:77ndHXBTeSRyuy3MUROxwf,0.0126,0.465,0.861,6.81e-05,0.615,-6.652,0.057,100.082,0.38,39
+66,Rebel Heart Tour (Live),14,7JhmH9KxzRNH8s1h0I0f8b,Dress You Up / Into The Groove - Live,spotify:track:7JhmH9KxzRNH8s1h0I0f8b,0.00051,0.673,0.875,0.286,0.982,-7.379,0.0329,109.993,0.49,31
+67,Rebel Heart Tour (Live),15,7BIbWJN4zI9Bl7QCAk0scm,Rebel Heart - Live,spotify:track:7BIbWJN4zI9Bl7QCAk0scm,0.0264,0.733,0.841,2.91e-06,0.623,-5.398,0.0431,115.024,0.516,29
+68,Rebel Heart Tour (Live),16,5jZRP0N16hHCjTmGjvToC6,Music - Live,spotify:track:5jZRP0N16hHCjTmGjvToC6,0.00308,0.751,0.755,0.00338,0.383,-7.88,0.123,119.965,0.274,29
+69,Rebel Heart Tour (Live),17,7D9H5ViwDGm2AqCnPsKCL3,Candy Shop - Live,spotify:track:7D9H5ViwDGm2AqCnPsKCL3,0.0204,0.843,0.651,0.0723,0.371,-8.686,0.108,116.004,0.537,30
+70,Rebel Heart Tour (Live),18,6RpSsP7B8y73bSDtkHxXsw,Material Girl - Live,spotify:track:6RpSsP7B8y73bSDtkHxXsw,0.000934,0.657,0.749,0.000324,0.99,-8.897,0.089,134.977,0.318,40
+71,Rebel Heart Tour (Live),19,5FO1MB20Ail795uQHq7Nko,La Vie En Rose - Live,spotify:track:5FO1MB20Ail795uQHq7Nko,0.804,0.457,0.229,0.0,0.986,-14.935,0.0616,62.721,0.361,27
+72,Rebel Heart Tour (Live),20,7tMN0IYJieTtsGCc9W5RY6,Unapologetic Bitch - Live,spotify:track:7tMN0IYJieTtsGCc9W5RY6,0.0282,0.662,0.839,4.74e-06,0.682,-6.426,0.288,149.924,0.78,28
+73,Rebel Heart Tour (Live),21,00DSX5KlpCeYrvx2BSuf7w,Holiday - Live,spotify:track:00DSX5KlpCeYrvx2BSuf7w,0.00543,0.793,0.819,0.167,0.482,-8.228,0.0416,116.014,0.318,33
+74,Rebel Heart Tour (Live),22,1jwnLJAPjmsTrc66EPG0FQ,Like A Prayer - Live,spotify:track:1jwnLJAPjmsTrc66EPG0FQ,0.361,0.619,0.847,0.0,0.931,-5.699,0.108,114.484,0.152,36
+94,Rebel Heart (Super Deluxe),1,1fwLP1AzHKaxAnulaayUpl,Beautiful Scars,spotify:track:1fwLP1AzHKaxAnulaayUpl,0.0398,0.745,0.579,3.55e-05,0.169,-6.761,0.0455,112.052,0.549,21
+95,Rebel Heart (Super Deluxe),2,3YyJBnwdLpmjaSk1xb3QKR,Borrowed Time,spotify:track:3YyJBnwdLpmjaSk1xb3QKR,0.131,0.697,0.655,0.00173,0.0986,-4.047,0.028,126.983,0.518,18
+96,Rebel Heart (Super Deluxe),3,5UNf5fU5XIuakfLJOkBoLd,Addicted,spotify:track:5UNf5fU5XIuakfLJOkBoLd,0.0132,0.671,0.533,0.0,0.723,-6.63,0.0451,120.04,0.515,22
+97,Rebel Heart (Super Deluxe),4,4yf2ktLK4ltUV6u5YC6pDM,Graffiti Heart,spotify:track:4yf2ktLK4ltUV6u5YC6pDM,0.0191,0.563,0.653,3.26e-05,0.127,-7.512,0.0534,146.921,0.392,17
+98,Rebel Heart (Super Deluxe),5,08GwpmPqf42nUPVyxi7WIY,Living For Love - PAULO & Jackinsky Full Vocal Mix,spotify:track:08GwpmPqf42nUPVyxi7WIY,0.00138,0.711,0.825,0.123,0.101,-6.308,0.057,127.986,0.559,14
+99,Rebel Heart (Super Deluxe),6,3sgjIT1sWoJNccnmGjHRVI,Living For Love - Funk Generation & H3dRush Dub,spotify:track:3sgjIT1sWoJNccnmGjHRVI,0.000158,0.624,0.972,0.736,0.0443,-5.609,0.0569,129.999,0.578,12
+100,Rebel Heart (Deluxe),1,5AMuHsWAaGAZHX4p1KZWwc,Living For Love,spotify:track:5AMuHsWAaGAZHX4p1KZWwc,0.0361,0.668,0.789,0.000296,0.25,-4.564,0.0879,122.988,0.394,52
+101,Rebel Heart (Deluxe),2,2upReikM2zi3kd0Nl2yaTM,Devil Pray,spotify:track:2upReikM2zi3kd0Nl2yaTM,0.139,0.71,0.634,1.5e-05,0.434,-7.025,0.0381,107.009,0.394,46
+102,Rebel Heart (Deluxe),3,4yDLW1kpgN7RGa6wCtxlL8,Ghosttown,spotify:track:4yDLW1kpgN7RGa6wCtxlL8,0.0362,0.54,0.55,0.000203,0.115,-6.521,0.0368,79.037,0.0899,56
+103,Rebel Heart (Deluxe),4,4NXMr3Zbt4eAmgwyc3goLq,Unapologetic Bitch,spotify:track:4NXMr3Zbt4eAmgwyc3goLq,0.0223,0.763,0.788,0.000323,0.0623,-4.809,0.206,74.997,0.8,44
+104,Rebel Heart (Deluxe),5,29ElwBGAlQQr94ifFjYNI1,Illuminati,spotify:track:29ElwBGAlQQr94ifFjYNI1,0.0609,0.797,0.605,0.00466,0.144,-4.289,0.094,134.902,0.381,40
+105,Rebel Heart (Deluxe),6,2bZMOs3RjmhhGca6MEzjyl,Bitch I'm Madonna,spotify:track:2bZMOs3RjmhhGca6MEzjyl,0.0485,0.722,0.63,0.000294,0.179,-5.784,0.132,150.023,0.519,65
+106,Rebel Heart (Deluxe),7,1MSDYFqzCsVkXAU5BgKs63,Hold Tight,spotify:track:1MSDYFqzCsVkXAU5BgKs63,0.00363,0.652,0.73,0.0193,0.531,-6.512,0.0535,126.599,0.284,39
+107,Rebel Heart (Deluxe),8,5iVB1TQWZwjcrIoTPdECZ8,Joan Of Arc,spotify:track:5iVB1TQWZwjcrIoTPdECZ8,0.256,0.739,0.582,4.3e-06,0.116,-7.54,0.0336,122.005,0.401,43
+108,Rebel Heart (Deluxe),9,2pNxL8YsPdBAopzN4hy4PP,Iconic,spotify:track:2pNxL8YsPdBAopzN4hy4PP,0.00793,0.625,0.823,0.000188,0.739,-4.943,0.0646,127.987,0.379,41
+109,Rebel Heart (Deluxe),10,6bDv5usgImyzAIU6pFRDkA,HeartBreakCity,spotify:track:6bDv5usgImyzAIU6pFRDkA,0.366,0.625,0.546,0.000309,0.105,-7.515,0.0346,92.986,0.25,37
+110,Rebel Heart (Deluxe),11,5ioO0oUd7LRWbYYjZLc42f,Body Shop,spotify:track:5ioO0oUd7LRWbYYjZLc42f,0.604,0.782,0.491,0.000751,0.0992,-7.409,0.0669,139.915,0.668,35
+111,Rebel Heart (Deluxe),12,6gF0FhEbbf2s6BjZx1PJJW,Holy Water,spotify:track:6gF0FhEbbf2s6BjZx1PJJW,0.0113,0.947,0.577,0.0061,0.0647,-9.361,0.179,120.026,0.188,38
+112,Rebel Heart (Deluxe),13,1n2mtdytZ0ZUVEha3oHKmQ,Inside Out,spotify:track:1n2mtdytZ0ZUVEha3oHKmQ,0.301,0.626,0.579,0.000109,0.126,-6.827,0.113,163.687,0.371,37
+113,Rebel Heart (Deluxe),14,30vA6YzScXfbCdl0fLrQE0,Wash All Over Me,spotify:track:30vA6YzScXfbCdl0fLrQE0,0.164,0.262,0.404,0.00022,0.112,-9.707,0.0514,95.112,0.0583,36
+114,Rebel Heart (Deluxe),15,3McJP9776lBXnhONMBsHli,Best Night,spotify:track:3McJP9776lBXnhONMBsHli,0.0625,0.673,0.575,3.99e-05,0.165,-7.366,0.0729,134.972,0.257,35
+115,Rebel Heart (Deluxe),16,5yfuKMXpU8V8v1u9a4NVAN,Veni Vidi Vici,spotify:track:5yfuKMXpU8V8v1u9a4NVAN,0.0421,0.761,0.851,1.19e-06,0.17,-6.436,0.242,140.009,0.571,35
+116,Rebel Heart (Deluxe),17,7qeLPIt6hwhud9y0jt0Fe5,S.E.X.,spotify:track:7qeLPIt6hwhud9y0jt0Fe5,0.0937,0.763,0.439,5.95e-05,0.122,-8.105,0.0651,125.963,0.533,38
+117,Rebel Heart (Deluxe),18,4WQ5Sys59cv4YfqHmobpnW,Messiah,spotify:track:4WQ5Sys59cv4YfqHmobpnW,0.545,0.553,0.543,0.00545,0.103,-7.579,0.0403,114.862,0.361,36
+118,Rebel Heart (Deluxe),19,2YSexVFjvL8Hg7uGvanBOO,Rebel Heart,spotify:track:2YSexVFjvL8Hg7uGvanBOO,0.00484,0.704,0.63,2.03e-05,0.133,-7.031,0.0396,114.974,0.552,42
+136,Rebel Heart (Deluxe),4,2Blqq3KpjZJA0LkU4yotle,Unapologetic B****,spotify:track:2Blqq3KpjZJA0LkU4yotle,0.0204,0.757,0.79,0.000133,0.0432,-4.827,0.207,149.687,0.801,3
+157,Rebel Heart,6,3Ik6ZVvOgr2Pu5cnI8Gsu0,B**** I'm Madonna,spotify:track:3Ik6ZVvOgr2Pu5cnI8Gsu0,0.0478,0.733,0.612,0.000784,0.161,-5.777,0.109,149.999,0.553,17
+166,MDNA World Tour,1,1pG9UBPDateu64y8lfHSOk,Virgin Mary (Intro) - MDNA World Tour / Live 2012,spotify:track:1pG9UBPDateu64y8lfHSOk,0.0388,0.0928,0.781,0.167,0.868,-7.94,0.127,88.127,0.144,30
+167,MDNA World Tour,2,4ZjBIJjpB109HyOwS6Wkqf,Girl Gone Wild - MDNA World Tour / Live 2012,spotify:track:4ZjBIJjpB109HyOwS6Wkqf,0.00558,0.644,0.934,5.81e-05,0.485,-3.863,0.101,132.006,0.37,38
+168,MDNA World Tour,3,7cRFpfwBPqKDdS6XmISqrL,Revolver - MDNA World Tour / Live 2012,spotify:track:7cRFpfwBPqKDdS6XmISqrL,0.0144,0.676,0.906,0.00593,0.371,-3.668,0.0733,125.989,0.379,33
+169,MDNA World Tour,4,0UzNVHE1a4zbpUfkKGAb5C,Gang Bang - MDNA World Tour / Live 2012,spotify:track:0UzNVHE1a4zbpUfkKGAb5C,0.000947,0.563,0.97,0.0493,0.736,-4.583,0.151,126.98,0.205,31
+170,MDNA World Tour,5,3Xxruj2p3PpAJRBSeZRsmg,Papa Don't Preach - MDNA World Tour / Live 2012,spotify:track:3Xxruj2p3PpAJRBSeZRsmg,0.07,0.501,0.939,9.83e-05,0.842,-3.512,0.0752,121.866,0.511,33
+171,MDNA World Tour,6,7ah2B8CWALVC8ZZW9Bt5wI,Hung Up - MDNA World Tour / Live 2012,spotify:track:7ah2B8CWALVC8ZZW9Bt5wI,0.00114,0.605,0.875,0.00387,0.809,-4.998,0.0673,124.952,0.186,34
+172,MDNA World Tour,7,1A0NoP9vSjocL2xvVNeRlC,I Don't Give A - MDNA World Tour / Live 2012,spotify:track:1A0NoP9vSjocL2xvVNeRlC,0.065,0.602,0.944,0.00041,0.368,-4.703,0.0393,97.009,0.28,31
+173,MDNA World Tour,8,1dwXnWJ6cexA4soLB0rbAP,Best Friend (Video Interlude) - MDNA World Tour / Live 2012,spotify:track:1dwXnWJ6cexA4soLB0rbAP,0.000512,0.568,0.771,0.0777,0.976,-9.338,0.0427,144.012,0.174,28
+174,MDNA World Tour,9,06eCNF0leXbSBt8VRYIRBG,Express Yourself - MDNA World Tour / Live 2012,spotify:track:06eCNF0leXbSBt8VRYIRBG,0.00783,0.669,0.985,0.0571,0.414,-3.642,0.0762,115.261,0.477,35
+175,MDNA World Tour,10,2IisY5xkTyYYJsZeMqYBCi,Give Me All Your Luvin' - MDNA World Tour / Live 2012,spotify:track:2IisY5xkTyYYJsZeMqYBCi,0.00152,0.439,0.983,0.628,0.916,-4.761,0.171,129.051,0.0766,32
+176,MDNA World Tour,11,5AHYLeqV4QD8Rz9mr2lhW1,Turn Up The Radio - MDNA World Tour / Live 2012,spotify:track:5AHYLeqV4QD8Rz9mr2lhW1,0.0608,0.511,0.892,0.0,0.846,-3.938,0.0685,126.894,0.387,30
+177,MDNA World Tour,12,3R4gG3tZqKeXBgy1sXpaa4,Open Your Heart - MDNA World Tour / Live 2012,spotify:track:3R4gG3tZqKeXBgy1sXpaa4,0.0542,0.25,0.965,7.28e-06,0.982,-5.606,0.368,81.339,0.0564,30
+178,MDNA World Tour,13,0z4cPv7sqfuA2kUyhW9X4i,Masterpiece - MDNA World Tour / Live 2012,spotify:track:0z4cPv7sqfuA2kUyhW9X4i,0.0166,0.337,0.716,4.62e-05,0.578,-5.504,0.0431,115.152,0.267,30
+179,MDNA World Tour,1,4bBv0T7T4JVFRufmcXyY0X,Justify My Love (Video Interlude) - MDNA World Tour / Live 2012,spotify:track:4bBv0T7T4JVFRufmcXyY0X,0.013,0.456,0.674,0.168,0.407,-9.416,0.0891,102.066,0.152,30
+180,MDNA World Tour,2,4A6LUIzDhbu3A01agDT1yz,Vogue - MDNA World Tour / Live 2012,spotify:track:4A6LUIzDhbu3A01agDT1yz,0.0003,0.639,0.879,0.109,0.195,-4.584,0.0303,116.155,0.101,49
+181,MDNA World Tour,3,7KW26bM0koukpjW4zoy2zj,Erotic Candy Shop - MDNA World Tour / Live 2012,spotify:track:7KW26bM0koukpjW4zoy2zj,0.000345,0.696,0.859,0.0643,0.446,-5.465,0.0493,115.936,0.352,32
+182,MDNA World Tour,4,4an9QEvC619HCcNfJnucjd,Human Nature - MDNA World Tour / Live 2012,spotify:track:4an9QEvC619HCcNfJnucjd,0.0154,0.525,0.916,0.000516,0.642,-4.414,0.0807,95.804,0.511,31
+183,MDNA World Tour,5,1xntxxZlzSikJmTGjEXyrA,Like A Virgin Waltz - MDNA World Tour / Live 2012,spotify:track:1xntxxZlzSikJmTGjEXyrA,0.418,0.186,0.47,0.00151,0.413,-14.755,0.0571,130.21,0.0894,27
+184,MDNA World Tour,6,6X5Ex9NRygwxPUzSY2sMwj,Love Spent - MDNA World Tour / Live 2012,spotify:track:6X5Ex9NRygwxPUzSY2sMwj,0.439,0.206,0.42,0.0,0.699,-7.835,0.0357,137.647,0.0424,28
+185,MDNA World Tour,7,26bB4naFdbeXdsZUZ5KRFD,Nobody Knows Me (Video Interlude) - MDNA World Tour / Live 2012,spotify:track:26bB4naFdbeXdsZUZ5KRFD,0.0134,0.692,0.853,0.000719,0.583,-10.39,0.132,109.998,0.0393,27
+186,MDNA World Tour,8,31nEt3RdA0tmghxcJH5Ejj,I'm Addicted - MDNA World Tour / Live 2012,spotify:track:31nEt3RdA0tmghxcJH5Ejj,0.0429,0.6,0.949,4.99e-05,0.44,-4.609,0.143,125.982,0.213,27
+187,MDNA World Tour,9,6fzZOQ8BJDlll55QVeyuPt,I’m A Sinner - MDNA World Tour / Live 2012,spotify:track:6fzZOQ8BJDlll55QVeyuPt,0.0333,0.52,0.948,0.0,0.534,-2.689,0.0965,126.493,0.162,27
+188,MDNA World Tour,10,2zGNakc2L7zlv6XfypLIV2,Like A Prayer - MDNA World Tour / Live 2012,spotify:track:2zGNakc2L7zlv6XfypLIV2,0.078,0.555,0.955,0.0,0.595,-3.251,0.144,114.534,0.199,33
+189,MDNA World Tour,11,2orzFvcBf6BFeabN0lTO59,Celebration - MDNA World Tour / Live 2012,spotify:track:2orzFvcBf6BFeabN0lTO59,0.000891,0.528,0.944,0.0287,0.308,-5.027,0.111,128.968,0.222,34
+190,MDNA,1,3ZfMci7n6qk9nRodX8BfIb,Girl Gone Wild,spotify:track:3ZfMci7n6qk9nRodX8BfIb,0.0331,0.697,0.598,5.98e-06,0.318,-5.883,0.0708,131.967,0.606,60
+191,MDNA,2,2ySP177IDeiXXOy92Gad9s,Gang Bang,spotify:track:2ySP177IDeiXXOy92Gad9s,0.00456,0.822,0.712,0.43,0.071,-8.84,0.0823,127.007,0.276,40
+192,MDNA,3,44F7nnhln1voGnFCFvgsu6,I’m Addicted,spotify:track:44F7nnhln1voGnFCFvgsu6,0.146,0.655,0.725,0.000286,0.125,-4.979,0.127,125.973,0.506,38
+193,MDNA,4,6yU21STDpGewJKx3Bf8Iqb,Turn Up the Radio,spotify:track:6yU21STDpGewJKx3Bf8Iqb,0.0036,0.694,0.6,0.0,0.328,-6.36,0.0369,126.963,0.392,40
+194,MDNA,5,0QXtw4rDLQtpzqPS4uJbZJ,Give Me All Your Luvin',spotify:track:0QXtw4rDLQtpzqPS4uJbZJ,0.00563,0.68,0.885,0.000756,0.379,-4.345,0.0382,144.998,0.877,56
+195,MDNA,6,4nwZBcYdZRXjZsUFOo6yKr,Some Girls,spotify:track:4nwZBcYdZRXjZsUFOo6yKr,0.00181,0.678,0.83,0.108,0.21,-6.495,0.0403,119.923,0.669,33
+196,MDNA,7,05DgCyE2wqUxo2YbjidokR,Superstar,spotify:track:05DgCyE2wqUxo2YbjidokR,0.000474,0.689,0.932,5.1e-05,0.191,-6.446,0.0314,125.006,0.871,32
+197,MDNA,8,5YY7eaFagjpSpLBdJMd0oo,I Don’t Give A,spotify:track:5YY7eaFagjpSpLBdJMd0oo,0.0765,0.826,0.769,3.46e-06,0.0842,-6.908,0.137,96.975,0.836,37
+198,MDNA,9,421fseScaKfiYHI5FebiGZ,I’m A Sinner,spotify:track:421fseScaKfiYHI5FebiGZ,0.0682,0.715,0.898,0.000116,0.0682,-4.162,0.0539,126.49,0.421,32
+199,MDNA,10,2XgQ6j5jDxf8bQ3hFrIJU5,Love Spent,spotify:track:2XgQ6j5jDxf8bQ3hFrIJU5,0.000315,0.705,0.716,0.0105,0.0771,-6.819,0.0279,125.009,0.367,35
+200,MDNA,11,15s020BUq1jO7wIxtfKuOu,Masterpiece,spotify:track:15s020BUq1jO7wIxtfKuOu,0.0023,0.533,0.58,0.0181,0.12,-7.008,0.0542,173.988,0.374,46
+201,MDNA,12,36gVA7SS0JkBvaMQmAjQO7,Falling Free,spotify:track:36gVA7SS0JkBvaMQmAjQO7,0.927,0.365,0.181,4.66e-05,0.158,-11.142,0.0326,110.109,0.195,32
+202,MDNA,13,1GarUQ75ASh3jcrdSUYQnK,Beautiful Killer,spotify:track:1GarUQ75ASh3jcrdSUYQnK,0.0224,0.741,0.788,6.75e-05,0.321,-5.372,0.0262,127.98,0.802,36
+203,MDNA,14,4pd327p2fRrIWgNoOcKAgs,I Fucked Up,spotify:track:4pd327p2fRrIWgNoOcKAgs,0.0257,0.725,0.583,0.0,0.0805,-5.856,0.039,149.912,0.698,30
+204,MDNA,15,5qlgE1o7pniS4d1g61dL1C,B-Day Song,spotify:track:5qlgE1o7pniS4d1g61dL1C,0.0122,0.775,0.739,0.000618,0.492,-5.255,0.0316,140.034,0.787,43
+205,MDNA,16,1RAVLXHQmJ7YLyfgpKLKaF,Best Friend,spotify:track:1RAVLXHQmJ7YLyfgpKLKaF,0.00166,0.693,0.457,1.93e-05,0.0325,-6.676,0.0594,144.023,0.572,29
+206,MDNA,17,2Jw3pQTzrbBItF1iFgc1fC,Give Me All Your Luvin' - Party Rock Remix,spotify:track:2Jw3pQTzrbBItF1iFgc1fC,0.0238,0.644,0.747,3.76e-06,0.339,-5.663,0.057,131.02,0.678,40
+207,MDNA,18,6zjzJ4VzYnPWBS2TOqks8W,Girl Gone Wild - Dave Audé Wild DUB,spotify:track:6zjzJ4VzYnPWBS2TOqks8W,0.000125,0.629,0.858,0.81,0.111,-4.159,0.0769,129.992,0.446,24
+258,MDNA (Deluxe Version),17,27jewQI9enBYdyBNFdH9uB,Madonna vs. Avicii – Girl Gone Wild - AVICII's UMF Mix,spotify:track:27jewQI9enBYdyBNFdH9uB,0.0695,0.76,0.793,0.105,0.0431,-6.909,0.19,131.973,0.57,27
+297,MDNA,4,3YyuRlTveNTC32fnID0XW9,Give Me All Your Luvin' - Radio Edit,spotify:track:3YyuRlTveNTC32fnID0XW9,0.00584,0.679,0.896,0.000285,0.384,-4.287,0.0387,144.935,0.881,19
+307,MDNA,3,0WyB8NiIQQY5XkliUo6Oqi,Give Me All Your Luvin' - Demolition Crew Remix,spotify:track:0WyB8NiIQQY5XkliUo6Oqi,0.00985,0.738,0.611,0.0498,0.0956,-5.761,0.065,144.993,0.519,2
+311,MDNA,7,3r6XmXxMdZ9w8teZgrKDEp,Turn Up the Radio - Marco V Remix,spotify:track:3r6XmXxMdZ9w8teZgrKDEp,0.0338,0.738,0.916,0.12,0.218,-4.341,0.156,127.006,0.382,2
+319,MDNA (Nightlife Edition),8,2eTDsblvuXAXkFFs2CqFaQ,Masterpiece - Kid Capri's Remix,spotify:track:2eTDsblvuXAXkFFs2CqFaQ,0.01,0.55,0.631,4.06e-06,0.0458,-6.37,0.135,173.785,0.253,5
+320,MDNA (Nightlife Edition),9,7qEGddKLQpe3uBMYNYdtVx,Give Me All Your Luvin’ - Just Blaze Bionic Dub,spotify:track:7qEGddKLQpe3uBMYNYdtVx,0.0006,0.645,0.892,0.103,0.122,-6.133,0.0332,129.057,0.249,4
+321,MDNA (Nightlife Edition),10,5qLy4KrK3sAjUTz2Np4bEw,Turn Up The Radio - Leo Zero Remix,spotify:track:5qLy4KrK3sAjUTz2Np4bEw,0.0404,0.766,0.983,0.288,0.106,-4.065,0.0384,127.013,0.947,3
+322,MDNA (Nightlife Edition),11,1GGSGEV3tN9W0L947e0IRQ,Turn Up The Radio - Richard Vission Speakers Blow Remix,spotify:track:1GGSGEV3tN9W0L947e0IRQ,0.000626,0.694,0.563,0.0292,0.112,-5.103,0.031,127.994,0.256,3
+323,MDNA (Nightlife Edition),12,2LuvUeS3TtOSR8Bl4n9qj4,Give Me All Your Luvin' - Oliver Twizt Remix,spotify:track:2LuvUeS3TtOSR8Bl4n9qj4,0.0175,0.538,0.907,4.13e-06,0.3,-1.055,0.216,130.139,0.268,3
+324,MDNA (Nightlife Edition),13,0d0GRI88cX93aznj9QvFCC,Give Me All Your Luvin' - Sultan + Ned Shepard Remix,spotify:track:0d0GRI88cX93aznj9QvFCC,0.000704,0.635,0.85,0.378,0.558,-5.44,0.0577,129.992,0.509,3

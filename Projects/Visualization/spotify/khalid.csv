@@ -1,0 +1,48 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Scenic Drive (The Tape),1,3UaozDmYZ1sDiSiF1u4azI,Intro (feat. Alicia Keys),spotify:track:3UaozDmYZ1sDiSiF1u4azI,0.289,0.321,0.386,0.109,0.34,-15.333,0.197,144.456,0.402,58
+1,Scenic Drive (The Tape),2,0PdwDpafg7Nz5TrL6U2anU,Present,spotify:track:0PdwDpafg7Nz5TrL6U2anU,0.00206,0.681,0.525,0.0,0.228,-8.349,0.0337,88.013,0.183,69
+2,Scenic Drive (The Tape),3,2LTFSIFfYR9tjPdzX4if0Z,Backseat,spotify:track:2LTFSIFfYR9tjPdzX4if0Z,0.0223,0.732,0.576,0.0062,0.175,-7.454,0.0392,134.045,0.302,67
+3,Scenic Drive (The Tape),4,3v5WRAItrZgr5vCdW3vTmz,Retrograde (feat. 6LACK & Lucky Daye),spotify:track:3v5WRAItrZgr5vCdW3vTmz,0.0749,0.529,0.555,0.000223,0.0726,-6.259,0.0401,179.821,0.582,68
+4,Scenic Drive (The Tape),5,75lHm1sBz6m6ytBR4CBmBP,Brand New (feat. QUIN),spotify:track:75lHm1sBz6m6ytBR4CBmBP,0.106,0.641,0.456,0.0,0.265,-9.279,0.0628,114.861,0.308,63
+5,Scenic Drive (The Tape),6,1cH4Hlu7R2jiN5l6bvvsvT,All I Feel Is Rain (feat. JID),spotify:track:1cH4Hlu7R2jiN5l6bvvsvT,0.116,0.64,0.659,0.0,0.648,-8.307,0.0492,88.933,0.569,66
+6,Scenic Drive (The Tape),7,4hS7b55aChkN6FePTc6CeD,Voicemail (feat. Kiana Ledé),spotify:track:4hS7b55aChkN6FePTc6CeD,0.136,0.58,0.541,0.000119,0.349,-9.003,0.0397,136.756,0.391,64
+7,Scenic Drive (The Tape),8,1VcORtwbt560HNpnDMyCCu,Open (feat. Majid Jordan),spotify:track:1VcORtwbt560HNpnDMyCCu,0.0499,0.691,0.501,0.00011,0.131,-9.089,0.045,126.93,0.332,67
+8,Scenic Drive (The Tape),9,6zIen2DYr2t19vbwqgORY2,Scenic Drive (feat. Ari Lennox & Smino),spotify:track:6zIen2DYr2t19vbwqgORY2,0.0258,0.367,0.552,0.000217,0.154,-9.109,0.0504,93.467,0.0778,75
+18,Free Spirit,1,5BfMJ6iytQnu1r7iiCYSXe,Intro,spotify:track:5BfMJ6iytQnu1r7iiCYSXe,0.308,0.213,0.414,0.0257,0.0912,-9.725,0.0339,79.556,0.0553,59
+19,Free Spirit,2,2vsuel3g4zaLYSOY0mOMbi,Bad Luck,spotify:track:2vsuel3g4zaLYSOY0mOMbi,0.277,0.432,0.52,0.371,0.138,-5.515,0.0548,164.047,0.303,66
+20,Free Spirit,3,2XKFnwB6djxrJCjR3PdeRb,My Bad,spotify:track:2XKFnwB6djxrJCjR3PdeRb,0.547,0.577,0.578,0.59,0.264,-9.146,0.0907,84.963,0.367,63
+22,Free Spirit,5,6TqXcAFInzjp0bODyvrWEq,Talk (feat. Disclosure),spotify:track:6TqXcAFInzjp0bODyvrWEq,0.0516,0.9,0.4,0.0,0.0599,-8.575,0.127,135.984,0.346,76
+23,Free Spirit,6,5A1w94uzc1kO1Zhe8WWxC3,Right Back,spotify:track:5A1w94uzc1kO1Zhe8WWxC3,0.0659,0.788,0.427,3.63e-05,0.171,-9.918,0.308,97.03,0.603,66
+24,Free Spirit,7,1E6DEDWDKHoOW0fcFuDghV,Don't Pretend (feat. SAFE),spotify:track:1E6DEDWDKHoOW0fcFuDghV,0.258,0.697,0.551,0.00551,0.124,-8.833,0.0815,89.0,0.219,64
+25,Free Spirit,8,6fOOKqQWcSy33ApU1wqkkW,Paradise,spotify:track:6fOOKqQWcSy33ApU1wqkkW,0.206,0.581,0.452,0.00329,0.0881,-9.558,0.15,75.046,0.523,63
+26,Free Spirit,9,0HEckRWFSknIupbGzavk5d,Hundred,spotify:track:0HEckRWFSknIupbGzavk5d,0.0521,0.772,0.483,0.000375,0.377,-10.06,0.0564,120.005,0.479,65
+27,Free Spirit,10,09oZ9eXQ2fo6YDrPzJqAoP,Outta My Head (with John Mayer),spotify:track:09oZ9eXQ2fo6YDrPzJqAoP,0.0174,0.729,0.545,0.000274,0.369,-7.818,0.0316,103.012,0.514,70
+28,Free Spirit,11,2kAIpGWnlFLQh48iut6Zzq,Free Spirit,spotify:track:2kAIpGWnlFLQh48iut6Zzq,0.308,0.627,0.446,0.00077,0.111,-9.477,0.0332,139.994,0.11,69
+29,Free Spirit,12,1NgCWYuBLfqBDA3b8MgSVU,Twenty One,spotify:track:1NgCWYuBLfqBDA3b8MgSVU,0.212,0.776,0.445,0.00409,0.124,-8.574,0.0371,109.981,0.405,63
+30,Free Spirit,13,42w7pX3r1TpLR0i55Ek5ND,Bluffin',spotify:track:42w7pX3r1TpLR0i55Ek5ND,0.354,0.529,0.314,0.000436,0.102,-10.323,0.0461,129.666,0.288,59
+31,Free Spirit,14,1WqLtczgKdbHFHhefOU0y7,Self,spotify:track:1WqLtczgKdbHFHhefOU0y7,0.44,0.618,0.693,0.759,0.101,-7.889,0.333,143.98,0.439,59
+32,Free Spirit,15,12VqHHz4wvVcnEdSivjLeQ,Alive,spotify:track:12VqHHz4wvVcnEdSivjLeQ,0.832,0.386,0.406,0.0597,0.171,-10.419,0.0425,78.616,0.205,61
+33,Free Spirit,16,0Hgqglypzt6Qs5Duqskcqs,Heaven,spotify:track:0Hgqglypzt6Qs5Duqskcqs,0.613,0.42,0.479,0.663,0.0679,-8.881,0.0374,116.989,0.11,57
+35,Suncity,1,7EROK3PMgkCG3wdwcbeauW,9.13,spotify:track:7EROK3PMgkCG3wdwcbeauW,0.975,0.289,0.451,0.942,0.222,-15.013,0.0538,131.72,0.59,48
+36,Suncity,2,7stcuQtnHL7C6XdPvpwywv,Vertigo,spotify:track:7stcuQtnHL7C6XdPvpwywv,0.552,0.487,0.458,0.0257,0.117,-7.761,0.0371,115.989,0.207,63
+38,Suncity,4,0v75ti1d2M6pd0sC42UNNN,Salem's Interlude,spotify:track:0v75ti1d2M6pd0sC42UNNN,0.963,0.479,0.485,0.658,0.152,-12.302,0.162,80.933,0.457,47
+39,Suncity,5,65DzdjRWH35DNsBZBjW523,Motion,spotify:track:65DzdjRWH35DNsBZBjW523,0.0982,0.554,0.61,0.0812,0.561,-7.229,0.0804,80.948,0.497,64
+41,Suncity,7,6SkHm6poyKfzV6kc9any8k,Suncity (feat. Empress Of),spotify:track:6SkHm6poyKfzV6kc9any8k,0.0998,0.694,0.63,0.000635,0.12,-6.84,0.162,90.045,0.341,68
+44,Suncity,3,5kfNriitmkNE8mUbZ7gbq8,Saturday Nights,spotify:track:5kfNriitmkNE8mUbZ7gbq8,0.606,0.551,0.44,3.02e-05,0.11,-8.559,0.0985,167.923,0.341,75
+47,Suncity,6,6zeeWid2sgw4lap2jV61PZ,Better,spotify:track:6zeeWid2sgw4lap2jV61PZ,0.0765,0.596,0.552,0.334,0.104,-10.278,0.097,97.949,0.112,81
+64,American Teen (Japan Version),16,5wlSbpgApa8hDcIaE4GMxm,Location (feat. Lil Wayne & Kehlani) - Remix,spotify:track:5wlSbpgApa8hDcIaE4GMxm,0.348,0.684,0.467,1.04e-06,0.127,-11.92,0.526,79.991,0.443,9
+65,American Teen,1,312WNtMs3F28cUukaPY9bo,American Teen,spotify:track:312WNtMs3F28cUukaPY9bo,0.0683,0.658,0.623,0.0,0.321,-6.934,0.0398,100.436,0.207,72
+66,American Teen,2,5Z3GHaZ6ec9bsiI5BenrbY,Young Dumb & Broke,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,0.199,0.799,0.539,1.66e-05,0.165,-6.351,0.0421,136.948,0.394,85
+67,American Teen,3,152lZdxL1OR0ZMW6KquMif,Location,spotify:track:152lZdxL1OR0ZMW6KquMif,0.33,0.736,0.449,0.000162,0.0898,-11.462,0.425,80.126,0.326,83
+68,American Teen,4,52Qu0no0NBho3zyRmjlsHn,Another Sad Love Song,spotify:track:52Qu0no0NBho3zyRmjlsHn,0.412,0.834,0.472,6.76e-05,0.0836,-7.777,0.0873,107.014,0.517,70
+69,American Teen,5,248OFOZef6ShXv6DGgbnxU,Saved,spotify:track:248OFOZef6ShXv6DGgbnxU,0.189,0.739,0.448,0.0,0.118,-10.28,0.138,81.044,0.553,74
+70,American Teen,6,39KG4kom3enSx4GTThuDGt,Coaster,spotify:track:39KG4kom3enSx4GTThuDGt,0.935,0.441,0.219,0.0,0.115,-14.586,0.0419,94.021,0.244,77
+71,American Teen,7,5bgwqaRSS3M8WHWruHgSL5,8TEEN,spotify:track:5bgwqaRSS3M8WHWruHgSL5,0.225,0.83,0.585,0.00209,0.0576,-5.802,0.0366,105.03,0.642,82
+72,American Teen,8,6AIccJIWHGK26xi34FAkwl,Let's Go,spotify:track:6AIccJIWHGK26xi34FAkwl,0.572,0.78,0.371,0.0,0.247,-6.705,0.0559,108.003,0.43,63
+73,American Teen,9,3JTtZUOiZljuWbNiasfHB6,Hopeless,spotify:track:3JTtZUOiZljuWbNiasfHB6,0.643,0.785,0.702,0.0,0.175,-4.517,0.0464,116.021,0.569,62
+74,American Teen,10,34izzOmykADkGT27pUjUvJ,Cold Blooded,spotify:track:34izzOmykADkGT27pUjUvJ,0.777,0.71,0.405,0.000163,0.111,-10.864,0.0519,103.04,0.402,62
+75,American Teen,11,4V3VshJLUTCIWa77YiAkvM,Winter,spotify:track:4V3VshJLUTCIWa77YiAkvM,0.101,0.678,0.575,9.38e-06,0.116,-7.086,0.123,100.007,0.367,63
+76,American Teen,12,25YvGDl2zSE0pH8jrMZ6aY,Therapy,spotify:track:25YvGDl2zSE0pH8jrMZ6aY,0.891,0.707,0.484,0.00344,0.256,-6.579,0.0481,92.988,0.43,65
+77,American Teen,13,6SWHTMywuTXLFlMQ75cAuu,Keep Me,spotify:track:6SWHTMywuTXLFlMQ75cAuu,0.368,0.778,0.574,0.0,0.126,-7.775,0.0327,112.048,0.663,62
+78,American Teen,14,1Ob94QesoxHSBrypyBbdfd,Shot Down,spotify:track:1Ob94QesoxHSBrypyBbdfd,0.893,0.767,0.512,0.000223,0.103,-6.777,0.0591,123.921,0.489,67
+79,American Teen,15,67kXYrMTQbS7MVbXyGyxHm,Angels,spotify:track:67kXYrMTQbS7MVbXyGyxHm,0.959,0.472,0.265,0.000499,0.1,-10.059,0.0356,111.558,0.204,65

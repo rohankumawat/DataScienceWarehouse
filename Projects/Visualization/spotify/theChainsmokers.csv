@@ -1,0 +1,67 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,World War Joy (Japan Edition),1,1z12ytybd2liMXldGrit6d,The Reaper (feat. Amy Shark),spotify:track:1z12ytybd2liMXldGrit6d,0.135,0.633,0.564,0.0,0.201,-7.789,0.0701,164.008,0.648,18
+2,World War Joy (Japan Edition),3,7M2BekPoY7o3XpEZGdHVA1,See The Way (feat. Sabrina Claudio),spotify:track:7M2BekPoY7o3XpEZGdHVA1,0.129,0.558,0.456,0.0,0.189,-8.118,0.0945,94.851,0.566,20
+3,World War Joy (Japan Edition),4,0fOiTY8wUM6u4GLGOFKvZs,P.S. I Hope You're Happy (feat. blink-182),spotify:track:0fOiTY8wUM6u4GLGOFKvZs,0.00883,0.583,0.802,0.0,0.0615,-4.312,0.0367,100.054,0.649,22
+5,World War Joy (Japan Edition),6,20OHzqdcaEj1678EyTT6qm,Takeaway (feat. Lennon Stella),spotify:track:20OHzqdcaEj1678EyTT6qm,0.126,0.528,0.511,0.0,0.101,-8.144,0.0324,100.1,0.351,21
+6,World War Joy (Japan Edition),7,5mLCE4b2u3JRMhTKeFUUtu,Call You Mine (feat. Bebe Rexha),spotify:track:5mLCE4b2u3JRMhTKeFUUtu,0.204,0.585,0.696,0.0,0.344,-5.6,0.0307,104.01,0.522,18
+7,World War Joy (Japan Edition),8,7cPh3OSgtv6YRiYzlfxZV9,Do You Mean (feat. Ty Dolla $ign & bülow),spotify:track:7cPh3OSgtv6YRiYzlfxZV9,0.129,0.356,0.661,0.0,0.114,-9.818,0.0633,99.951,0.551,17
+10,World War Joy (Japan Edition),11,5PYnqtWbSBJTJFl4Ui55HE,Closer - Tokyo Remix,spotify:track:5PYnqtWbSBJTJFl4Ui55HE,0.308,0.723,0.539,0.0,0.109,-5.149,0.0391,95.001,0.635,52
+11,World War Joy (Japan Edition),12,3kCWVUEhV2PxA8i3UGHAdU,Takeaway (feat. Lennon Stella) - Sondr Remix,spotify:track:3kCWVUEhV2PxA8i3UGHAdU,0.0575,0.683,0.896,0.0,0.234,-4.847,0.108,120.954,0.391,15
+12,World War Joy (Japan Edition),13,08B6S2wp6qaxbO4pO3Ynef,Push My Luck - TWINSICK Remix,spotify:track:08B6S2wp6qaxbO4pO3Ynef,0.0434,0.596,0.906,0.0,0.261,-3.197,0.0753,96.03,0.635,16
+13,World War Joy (Japan Edition),14,6OgE9ye8S2swLLw1F5rfUO,Call You Mine (feat. Bebe Rexha) - Keanu Silva Remix,spotify:track:6OgE9ye8S2swLLw1F5rfUO,0.031,0.718,0.921,1.52e-05,0.207,-3.796,0.102,121.967,0.297,17
+14,World War Joy (Japan Edition),15,6UqBIqF059doN7mFsWIahe,Who Do You Love - R3HAB Remix,spotify:track:6UqBIqF059doN7mFsWIahe,0.232,0.525,0.7,0.0,0.299,-6.848,0.0469,142.018,0.358,20
+15,World War Joy,1,0g8Dq6OpSmWengqtLrVr77,The Reaper,spotify:track:0g8Dq6OpSmWengqtLrVr77,0.135,0.633,0.564,0.0,0.201,-7.789,0.0701,164.008,0.648,62
+16,World War Joy,2,3TKpJrY9q49Mj1JOsM9zGL,Family,spotify:track:3TKpJrY9q49Mj1JOsM9zGL,0.426,0.584,0.607,0.0,0.101,-6.605,0.0356,117.817,0.374,68
+17,World War Joy,3,6VWz99969QmNc2gWo21ktl,See The Way,spotify:track:6VWz99969QmNc2gWo21ktl,0.129,0.558,0.456,0.0,0.189,-8.118,0.0945,94.851,0.566,56
+18,World War Joy,4,5GemR0Lr9CEUJVH14mAsDO,P.S. I Hope You're Happy,spotify:track:5GemR0Lr9CEUJVH14mAsDO,0.00883,0.583,0.802,0.0,0.0615,-4.312,0.0367,100.054,0.649,58
+19,World War Joy,5,4h8Pmw3RELdsanPjssyJoB,Push My Luck,spotify:track:4h8Pmw3RELdsanPjssyJoB,0.293,0.563,0.645,0.0,0.202,-6.422,0.0428,89.976,0.523,64
+20,World War Joy,6,3g0mEQx3NTanacLseoP0Gw,Takeaway,spotify:track:3g0mEQx3NTanacLseoP0Gw,0.126,0.528,0.511,0.0,0.101,-8.144,0.0324,100.1,0.351,80
+21,World War Joy,7,2oejEp50ZzPuQTQ6v54Evp,Call You Mine,spotify:track:2oejEp50ZzPuQTQ6v54Evp,0.204,0.585,0.696,0.0,0.344,-5.6,0.0307,104.01,0.522,79
+22,World War Joy,8,5vDCp6yZAikAoJ6NOEEFdp,Do You Mean,spotify:track:5vDCp6yZAikAoJ6NOEEFdp,0.129,0.356,0.661,0.0,0.114,-9.818,0.0633,99.951,0.551,61
+23,World War Joy,9,2PgMUAn2bBpm8gz6yAXvVL,Kills You Slowly,spotify:track:2PgMUAn2bBpm8gz6yAXvVL,0.0636,0.696,0.439,0.0,0.127,-8.77,0.055,149.923,0.229,59
+24,World War Joy,10,2fVHrSxsQbJUuj9MW9zG1e,Who Do You Love,spotify:track:2fVHrSxsQbJUuj9MW9zG1e,0.0101,0.51,0.846,0.0,0.208,-4.595,0.0461,139.927,0.475,77
+25,Sick Boy (Special Edition),1,5ZXvAaLvJRgZ5QjcqBUErr,This Feeling (feat. Kelsea Ballerini),spotify:track:5ZXvAaLvJRgZ5QjcqBUErr,0.0558,0.575,0.571,0.0,0.0912,-7.906,0.0439,105.049,0.449,22
+27,Sick Boy (Special Edition),3,2FYpbLHMJ81Qa4J6WBtzA2,Hope (feat. Winona Oak),spotify:track:2FYpbLHMJ81Qa4J6WBtzA2,0.488,0.773,0.699,3.6e-06,0.0814,-5.982,0.0958,104.941,0.513,16
+29,Sick Boy (Special Edition),5,050vhLCmgUtf2HGzHWvf5A,Side Effects (feat. Emily Warren),spotify:track:050vhLCmgUtf2HGzHWvf5A,0.00217,0.669,0.711,0.0,0.466,-6.758,0.033,110.01,0.544,13
+35,Sick Boy (Special Edition),11,21ZDWqmhXFm68SACpTUvi8,This Feeling (feat. Kelsea Ballerini) - Afrojack & Disto Remix,spotify:track:21ZDWqmhXFm68SACpTUvi8,0.000443,0.62,0.941,6.29e-05,0.112,-3.882,0.0855,150.038,0.147,13
+36,Sick Boy (Special Edition),12,4j5AEg7szs5ONc7n2nsju7,Somebody - Riggi & Piros Remix,spotify:track:4j5AEg7szs5ONc7n2nsju7,0.359,0.407,0.931,0.000585,0.414,-3.409,0.312,101.36,0.181,8
+37,Sick Boy (Special Edition),13,1dg6RaI88BZxXHq5jMYgIJ,Side Effects (feat. Emily Warren) - Fedde Le Grand Remix,spotify:track:1dg6RaI88BZxXHq5jMYgIJ,0.0393,0.627,0.877,1.1e-05,0.364,-4.075,0.0432,126.018,0.589,13
+38,Sick Boy (Special Edition),14,3bEodq2M5JzJ9nTYhklIzf,Sick Boy - Zaxx Remix,spotify:track:3bEodq2M5JzJ9nTYhklIzf,0.0128,0.529,0.716,0.0,0.544,-4.836,0.0451,90.067,0.194,10
+39,Sick Boy (Special Edition),15,2tWCvOCPMjIjYtK3apIf5c,Somebody - Ruhde Remix,spotify:track:2tWCvOCPMjIjYtK3apIf5c,0.462,0.664,0.659,0.0,0.107,-5.795,0.0311,104.022,0.203,10
+40,Sick Boy (Special Edition),16,7Eo7lg3J40eL7n6P9XYW86,Everybody Hates Me - Khrebto Remix,spotify:track:7Eo7lg3J40eL7n6P9XYW86,0.00186,0.409,0.907,1.41e-05,0.36,-3.013,0.112,107.902,0.323,7
+41,Sick Boy (Special Edition),17,6X5SbM9zTr9hlcycNvPzKI,You Owe Me - Magnace Remix,spotify:track:6X5SbM9zTr9hlcycNvPzKI,0.125,0.624,0.761,0.0,0.131,-3.822,0.0432,99.997,0.341,8
+42,Sick Boy (Special Edition),18,6m3IgMF4ah40hvD9YXAezL,Something Just Like This - Alesso Remix,spotify:track:6m3IgMF4ah40hvD9YXAezL,0.24,0.664,0.726,0.000511,0.113,-6.025,0.0506,120.048,0.606,24
+43,Sick Boy (Special Edition),19,1bhKTzYWGncWEDDUluyYkq,Paris - VINAI Remix,spotify:track:1bhKTzYWGncWEDDUluyYkq,0.0625,0.527,0.842,0.0,0.372,-2.588,0.0422,99.863,0.354,14
+44,Sick Boy (Special Edition),20,3M55D5emidn0cYGfidMPfK,Setting Fires - Sigma Remix,spotify:track:3M55D5emidn0cYGfidMPfK,0.0234,0.76,0.864,0.00139,0.0798,-2.635,0.0426,121.998,0.554,10
+45,Sick Boy (Special Edition),21,3iBFCRzx3g5iK5b9roBqqO,Don't Let Me Down (feat. Daya) - W&W Remix,spotify:track:3iBFCRzx3g5iK5b9roBqqO,0.0384,0.433,0.905,0.00311,0.111,-4.661,0.13,159.881,0.479,30
+46,Sick Boy (Special Edition),22,7MMSE8xtit06bShGC0Cn0C,Roses (feat. ROZES) - The Him Remix,spotify:track:7MMSE8xtit06bShGC0Cn0C,0.141,0.632,0.902,0.0358,0.222,-4.98,0.0468,122.0,0.598,12
+47,Sick Boy (Special Edition),23,2IU5L8h5EV0zjo95pSj5fb,Closer - R3hab Remix,spotify:track:2IU5L8h5EV0zjo95pSj5fb,0.0682,0.783,0.57,0.0,0.21,-5.922,0.0413,99.999,0.408,24
+48,Sick Boy,1,4NBTZtAt1F13VvlSKe6KTl,This Feeling,spotify:track:4NBTZtAt1F13VvlSKe6KTl,0.0558,0.575,0.571,0.0,0.0912,-7.906,0.0439,105.049,0.449,78
+49,Sick Boy,2,2bQhVQbV7VBzSOPo8mbkUR,Beach House,spotify:track:2bQhVQbV7VBzSOPo8mbkUR,0.174,0.4,0.838,0.0,0.341,-4.491,0.0526,179.945,0.533,62
+50,Sick Boy,3,4BiiOzZCrXEzHRLYcYFiD5,Hope,spotify:track:4BiiOzZCrXEzHRLYcYFiD5,0.488,0.773,0.699,3.6e-06,0.0814,-5.982,0.0958,104.941,0.513,70
+51,Sick Boy,4,0fTiDOXRNEN0lUeYGoSHml,Somebody,spotify:track:0fTiDOXRNEN0lUeYGoSHml,0.192,0.32,0.63,0.0,0.102,-7.019,0.0493,203.443,0.323,68
+52,Sick Boy,5,0bGLvHd0ApdT4t0shCfpzG,Side Effects,spotify:track:0bGLvHd0ApdT4t0shCfpzG,0.00217,0.669,0.711,0.0,0.466,-6.758,0.033,110.01,0.544,65
+53,Sick Boy,6,58kZ9spgxmlEznXGu6FPdQ,Sick Boy,spotify:track:58kZ9spgxmlEznXGu6FPdQ,0.109,0.663,0.577,0.0,0.12,-7.518,0.0531,89.996,0.454,74
+54,Sick Boy,7,6ufrOaf4v6Qady6GiIpQ0s,Everybody Hates Me,spotify:track:6ufrOaf4v6Qady6GiIpQ0s,0.00703,0.475,0.752,0.0,0.406,-6.596,0.0467,154.957,0.515,65
+55,Sick Boy,8,3K01yfjGY0NslZrXkWVAtK,Siren,spotify:track:3K01yfjGY0NslZrXkWVAtK,0.351,0.588,0.779,0.0114,0.371,-4.284,0.107,150.015,0.264,52
+56,Sick Boy,9,3CgTgHLI8qHAqLoZkz1BdQ,You Owe Me,spotify:track:3CgTgHLI8qHAqLoZkz1BdQ,0.222,0.675,0.445,0.0,0.231,-8.317,0.0394,89.98,0.348,60
+57,Sick Boy,10,27i7Afdxq40V7qCqHnRTt6,Save Yourself,spotify:track:27i7Afdxq40V7qCqHnRTt6,0.000989,0.618,0.871,0.00921,0.0742,-5.154,0.0385,146.033,0.0907,52
+58,Memories...Do Not Open,1,0wfbD5rAksdXUzRvMfM3x5,The One,spotify:track:0wfbD5rAksdXUzRvMfM3x5,0.238,0.76,0.303,8.09e-06,0.294,-11.362,0.0284,99.991,0.15,65
+59,Memories...Do Not Open,2,6cPyTS0Kk2sc4xQwC93kOg,Break Up Every Night,spotify:track:6cPyTS0Kk2sc4xQwC93kOg,0.00411,0.624,0.806,0.0,0.0872,-5.957,0.0437,149.999,0.528,58
+60,Memories...Do Not Open,3,26AuyrZGzWWiYZPSd3XBIg,Bloodstream,spotify:track:26AuyrZGzWWiYZPSd3XBIg,0.0317,0.62,0.627,0.0,0.172,-5.889,0.0259,90.955,0.164,59
+61,Memories...Do Not Open,4,1pJQAHpD51J7GYaFrrFO9S,Don't Say,spotify:track:1pJQAHpD51J7GYaFrrFO9S,0.0199,0.567,0.464,9.31e-06,0.269,-9.66,0.0302,99.806,0.309,57
+62,Memories...Do Not Open,5,6RUKPb4LETWmmr3iAEQktW,Something Just Like This,spotify:track:6RUKPb4LETWmmr3iAEQktW,0.0498,0.617,0.635,1.44e-05,0.164,-6.769,0.0317,103.019,0.446,87
+63,Memories...Do Not Open,6,6V9kwssTrwkKT72imgowj9,My Type,spotify:track:6V9kwssTrwkKT72imgowj9,0.0357,0.604,0.603,0.0,0.126,-6.324,0.0389,94.989,0.15,60
+64,Memories...Do Not Open,7,5xhJmd0I15jFcEdqxfCzKk,It Won't Kill Ya,spotify:track:5xhJmd0I15jFcEdqxfCzKk,0.0647,0.572,0.53,0.000169,0.127,-8.521,0.0654,170.138,0.12,61
+65,Memories...Do Not Open,8,72jbDTw1piOOj770jWNeaG,Paris,spotify:track:72jbDTw1piOOj770jWNeaG,0.0215,0.653,0.658,1.66e-06,0.0939,-6.428,0.0304,99.99,0.219,77
+66,Memories...Do Not Open,9,6KjbNLbRjuoa8rEq5yNA6H,Honest,spotify:track:6KjbNLbRjuoa8rEq5yNA6H,0.0121,0.673,0.514,8.5e-05,0.385,-10.772,0.0465,100.035,0.312,63
+67,Memories...Do Not Open,10,0dj1CtyRxZ4bnIT4Q20jNT,Wake Up Alone,spotify:track:0dj1CtyRxZ4bnIT4Q20jNT,0.0102,0.643,0.52,0.0,0.11,-5.968,0.0334,75.168,0.23,57
+68,Memories...Do Not Open,11,1KeZgPUr54C8iz3FjqzVoz,Young,spotify:track:1KeZgPUr54C8iz3FjqzVoz,0.0105,0.615,0.564,0.0,0.148,-6.384,0.0291,103.006,0.454,67
+69,Memories...Do Not Open,12,6GeD5g9vZTz25Egf8kxoIY,Last Day Alive,spotify:track:6GeD5g9vZTz25Egf8kxoIY,0.0571,0.435,0.706,4.15e-05,0.0903,-8.197,0.0425,144.913,0.24,55
+70,The Chainsmokers- Japan Special Edition,1,6O6M7pJLABmfBRoGZMu76Y,Roses (feat. ROZES),spotify:track:6O6M7pJLABmfBRoGZMu76Y,0.0361,0.716,0.806,0.00413,0.244,-7.602,0.0466,100.033,0.347,34
+71,The Chainsmokers- Japan Special Edition,2,3r7BL2MBMeE62aWj7TOh2a,New York City,spotify:track:3r7BL2MBMeE62aWj7TOh2a,0.0123,0.57,0.658,0.0,0.144,-6.828,0.0401,126.027,0.0637,33
+72,The Chainsmokers- Japan Special Edition,3,3PHAN9g1qziYB16D7Vs91A,Until You Were Gone (feat. Emily Warren),spotify:track:3PHAN9g1qziYB16D7Vs91A,0.0559,0.572,0.63,0.0,0.062,-7.241,0.0462,128.056,0.362,21
+73,The Chainsmokers- Japan Special Edition,4,3aWabkDk3jW0WGpT5hp3eM,Waterbed (feat. Waterbed),spotify:track:3aWabkDk3jW0WGpT5hp3eM,0.00185,0.609,0.867,0.000747,0.346,-7.199,0.0306,105.01,0.171,17
+74,The Chainsmokers- Japan Special Edition,5,0mRHzC25cj7ENZC7JDSzA2,Good Intentions (feat. BullySongs),spotify:track:0mRHzC25cj7ENZC7JDSzA2,0.0039,0.569,0.797,5.29e-06,0.391,-6.148,0.0415,126.0,0.252,14
+75,The Chainsmokers- Japan Special Edition,6,0QsvXIfqM0zZoerQfsI9lm,Don't Let Me Down (feat. Daya),spotify:track:0QsvXIfqM0zZoerQfsI9lm,0.16,0.542,0.859,0.00466,0.137,-5.651,0.197,159.797,0.403,46
+76,The Chainsmokers- Japan Special Edition,7,0Iz5oWKGyV6vo6sG99pNh7,Don't Let Me Down (feat. Daya) - Hardwell & Sephyx Remix,spotify:track:0Iz5oWKGyV6vo6sG99pNh7,0.0831,0.523,0.837,0.000349,0.0628,-4.817,0.0407,149.826,0.31,23

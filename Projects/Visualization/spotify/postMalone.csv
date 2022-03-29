@@ -1,0 +1,75 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Hollywood's Bleeding,1,7sWRlDoTDX8geTR8zzr2vt,Hollywood's Bleeding,spotify:track:7sWRlDoTDX8geTR8zzr2vt,0.331,0.405,0.646,0.0,0.103,-3.206,0.0476,130.218,0.17,78
+1,Hollywood's Bleeding,2,05mDaV9Vb3wrzjF6OPZnhq,Saint-Tropez,spotify:track:05mDaV9Vb3wrzjF6OPZnhq,0.0545,0.617,0.684,0.0,0.104,-3.618,0.0439,132.113,0.295,74
+2,Hollywood's Bleeding,3,0Xek5rqai2jcOWCYWJfVCF,Enemies (feat. DaBaby),spotify:track:0Xek5rqai2jcOWCYWJfVCF,0.0588,0.542,0.674,0.0,0.0955,-4.169,0.21,76.388,0.667,78
+3,Hollywood's Bleeding,4,1YscJ7yVTlFxW3eF6pv5ba,Allergic,spotify:track:1YscJ7yVTlFxW3eF6pv5ba,0.154,0.665,0.741,3.02e-05,0.345,-3.694,0.0787,144.968,0.57,69
+4,Hollywood's Bleeding,5,2J0NXdHr6MYvKDSxB7k3V2,A Thousand Bad Times,spotify:track:2J0NXdHr6MYvKDSxB7k3V2,0.105,0.632,0.732,1.15e-05,0.111,-3.498,0.092,159.0,0.317,71
+5,Hollywood's Bleeding,6,21jGcNKet2qwijlDFuPiPb,Circles,spotify:track:21jGcNKet2qwijlDFuPiPb,0.192,0.695,0.762,0.00244,0.0863,-3.497,0.0395,120.042,0.553,90
+6,Hollywood's Bleeding,7,2C6WXnmZ66tHhHlnvwePiK,Die For Me (feat. Future & Halsey),spotify:track:2C6WXnmZ66tHhHlnvwePiK,0.19,0.614,0.66,0.0,0.211,-2.848,0.0441,145.01,0.452,74
+7,Hollywood's Bleeding,8,12Fkyg9lpmaz2zmKOfw2Y2,On The Road (feat. Meek Mill & Lil Baby),spotify:track:12Fkyg9lpmaz2zmKOfw2Y2,0.0589,0.442,0.737,0.0,0.102,-5.046,0.109,112.93,0.21,73
+8,Hollywood's Bleeding,9,7CZyCXKG6d5ALeq41sLzbw,Take What You Want (feat. Ozzy Osbourne & Travis Scott),spotify:track:7CZyCXKG6d5ALeq41sLzbw,0.0906,0.499,0.8,0.0,0.147,-2.665,0.0502,139.919,0.272,79
+9,Hollywood's Bleeding,10,1ckLp8lCl8LipXI0ypX72m,I'm Gonna Be,spotify:track:1ckLp8lCl8LipXI0ypX72m,0.703,0.746,0.559,0.0,0.148,-4.008,0.0316,117.943,0.368,72
+10,Hollywood's Bleeding,11,5KE9b4x7Zj2A8XtbkqhqTe,Staring At The Sun (feat. SZA),spotify:track:5KE9b4x7Zj2A8XtbkqhqTe,0.25,0.724,0.772,0.0,0.308,-4.389,0.184,95.074,0.347,70
+11,Hollywood's Bleeding,12,0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,spotify:track:0RiRZpuVRbi7oqRdSMwhQY,0.533,0.755,0.522,0.0,0.0685,-4.368,0.0575,89.96,0.925,84
+12,Hollywood's Bleeding,13,0KAzP1Rbp0Vz5pw8i1KDDI,Internet,spotify:track:0KAzP1Rbp0Vz5pw8i1KDDI,0.841,0.469,0.489,0.0,0.103,-6.071,0.0314,74.013,0.201,65
+13,Hollywood's Bleeding,14,0t3ZvGKlmYmVsDzBJAXK8C,Goodbyes (feat. Young Thug),spotify:track:0t3ZvGKlmYmVsDzBJAXK8C,0.456,0.548,0.653,0.0,0.103,-3.875,0.081,150.068,0.163,82
+14,Hollywood's Bleeding,15,2cvOfKHOHgwQlLiuLKP2xR,Myself,spotify:track:2cvOfKHOHgwQlLiuLKP2xR,0.102,0.476,0.701,0.0,0.242,-4.234,0.0349,163.882,0.405,68
+15,Hollywood's Bleeding,16,6b2mfHMqWCA74XmUuVJm8r,I Know,spotify:track:6b2mfHMqWCA74XmUuVJm8r,0.497,0.666,0.603,0.0,0.112,-5.671,0.0763,102.94,0.262,67
+16,Hollywood's Bleeding,17,7xQAfvXzm3AkraOtGPWIZg,Wow.,spotify:track:7xQAfvXzm3AkraOtGPWIZg,0.136,0.829,0.539,1.78e-06,0.103,-7.359,0.208,99.96,0.388,84
+34,beerbongs & bentleys,1,3fpVWegR6YOS1Yk5HSMYIq,Paranoid,spotify:track:3fpVWegR6YOS1Yk5HSMYIq,0.038,0.625,0.536,2.31e-05,0.167,-5.428,0.0776,159.914,0.253,71
+35,beerbongs & bentleys,2,5VuxWXbt7XENQCtE9TzpTv,Spoil My Night (feat. Swae Lee),spotify:track:5VuxWXbt7XENQCtE9TzpTv,0.341,0.672,0.717,2.4e-05,0.106,-2.714,0.034,160.981,0.225,70
+36,beerbongs & bentleys,3,2VdT56BGpdqNHUgOe1j5vc,Rich & Sad,spotify:track:2VdT56BGpdqNHUgOe1j5vc,0.198,0.599,0.571,0.0,0.0969,-4.998,0.0665,151.974,0.285,74
+37,beerbongs & bentleys,4,5lZZmityu9TAjNvSY6GLhR,Zack And Codeine,spotify:track:5lZZmityu9TAjNvSY6GLhR,0.15,0.738,0.824,0.0,0.132,-5.165,0.0437,138.039,0.386,68
+38,beerbongs & bentleys,5,5ffntNJnJOeFv7b7DCd0Bw,Takin' Shots,spotify:track:5ffntNJnJOeFv7b7DCd0Bw,0.61,0.762,0.621,0.0,0.464,-6.24,0.0866,120.056,0.593,67
+39,beerbongs & bentleys,6,0e7ipj03S05BNilyu5bRzt,rockstar (feat. 21 Savage),spotify:track:0e7ipj03S05BNilyu5bRzt,0.124,0.585,0.52,7.01e-05,0.131,-6.136,0.0712,159.801,0.129,88
+40,beerbongs & bentleys,7,09IOPhEh1OMe0HD9b36FJk,Over Now,spotify:track:09IOPhEh1OMe0HD9b36FJk,0.139,0.569,0.777,0.0,0.132,-4.041,0.0834,164.027,0.181,71
+41,beerbongs & bentleys,8,3swc6WTsr7rl9DqQKQA55C,Psycho (feat. Ty Dolla $ign),spotify:track:3swc6WTsr7rl9DqQKQA55C,0.546,0.75,0.56,0.0,0.111,-8.094,0.105,140.06,0.459,82
+42,beerbongs & bentleys,9,7dt6x5M1jzdTEt8oCbisTK,Better Now,spotify:track:7dt6x5M1jzdTEt8oCbisTK,0.331,0.68,0.578,0.0,0.135,-5.804,0.04,145.038,0.341,85
+43,beerbongs & bentleys,10,6IaieqiCVvsNvEt6Y7yOFa,Ball For Me (feat. Nicki Minaj),spotify:track:6IaieqiCVvsNvEt6Y7yOFa,0.513,0.797,0.55,0.0,0.0786,-4.166,0.24,134.206,0.543,71
+44,beerbongs & bentleys,11,4qWCFTuNnmGNdY4egtb4ZY,Otherside,spotify:track:4qWCFTuNnmGNdY4egtb4ZY,0.318,0.652,0.643,2.87e-06,0.208,-5.667,0.0353,104.932,0.109,68
+45,beerbongs & bentleys,12,4H7WNRErSbONkM06blBoGc,Stay,spotify:track:4H7WNRErSbONkM06blBoGc,0.449,0.507,0.48,0.0,0.147,-5.418,0.0266,86.046,0.35,78
+46,beerbongs & bentleys,13,1ZemPoaj7LBj1RAQrb89EC,Blame It On Me,spotify:track:1ZemPoaj7LBj1RAQrb89EC,0.145,0.652,0.591,5.65e-06,0.164,-7.274,0.0418,121.873,0.274,67
+47,beerbongs & bentleys,14,688QpQAwqsLdBR6lr13wK1,Same Bitches (feat. G-Eazy & YG),spotify:track:688QpQAwqsLdBR6lr13wK1,0.434,0.731,0.774,3.34e-06,0.114,-5.273,0.0555,100.005,0.219,69
+48,beerbongs & bentleys,15,0R6Jlsq25eZB3Wftpxi3oF,Jonestown (Interlude),spotify:track:0R6Jlsq25eZB3Wftpxi3oF,0.755,0.38,0.454,0.623,0.263,-10.271,0.0362,77.592,0.288,60
+49,beerbongs & bentleys,16,1D2L6MefbXon28PzIk9I3r,92 Explorer,spotify:track:1D2L6MefbXon28PzIk9I3r,0.265,0.798,0.733,1.25e-06,0.114,-4.811,0.0476,146.046,0.861,72
+50,beerbongs & bentleys,17,32lItqlMi4LBhb4k0BaSaC,Candy Paint,spotify:track:32lItqlMi4LBhb4k0BaSaC,0.64,0.664,0.667,1.22e-06,0.0753,-5.941,0.154,180.064,0.381,80
+51,beerbongs & bentleys,18,0MrRAUcB8AZiB9ue2VOBYe,Sugar Wraith,spotify:track:0MrRAUcB8AZiB9ue2VOBYe,0.262,0.606,0.775,0.0,0.1,-4.269,0.0671,164.02,0.307,68
+53,beerbongs & bentleys,2,1RAI8bswNBe6n6KaC6hqod,Spoil My Night,spotify:track:1RAI8bswNBe6n6KaC6hqod,0.301,0.671,0.712,1.7e-05,0.107,-2.689,0.0337,160.916,0.259,41
+57,beerbongs & bentleys,6,19bX4zmC2zDben2ldhoRB3,rockstar,spotify:track:19bX4zmC2zDben2ldhoRB3,0.145,0.594,0.507,0.000871,0.132,-6.141,0.0816,159.729,0.137,57
+59,beerbongs & bentleys,8,1GXABqvCDvQ58wPbkNhhzh,Psycho,spotify:track:1GXABqvCDvQ58wPbkNhhzh,0.532,0.755,0.557,0.0,0.111,-7.991,0.109,139.977,0.462,55
+61,beerbongs & bentleys,10,3UP4tYlgEes6TajBXh8faH,Ball For Me,spotify:track:3UP4tYlgEes6TajBXh8faH,0.511,0.775,0.527,0.0,0.0799,-4.213,0.296,133.953,0.474,49
+65,beerbongs & bentleys,14,6ku6wzXQd8CgBqmKt5tBv0,Same Bitches,spotify:track:6ku6wzXQd8CgBqmKt5tBv0,0.395,0.73,0.745,5.17e-06,0.114,-5.309,0.0708,100.005,0.196,36
+88,Stoney (Complete Edition),19,1ClVFfFkdrHrLxVh8opspw,Broken Whiskey Glass - Instrumental,spotify:track:1ClVFfFkdrHrLxVh8opspw,0.372,0.63,0.456,0.296,0.119,-12.049,0.0505,99.945,0.0488,37
+89,Stoney (Complete Edition),20,73C8OZvy2e6QqtWzdRzk6A,Big Lie - Instrumental,spotify:track:73C8OZvy2e6QqtWzdRzk6A,0.658,0.551,0.335,0.81,0.0983,-11.721,0.0426,171.099,0.207,37
+90,Stoney (Complete Edition),21,4pQKjAbWS5jywKhDoz86Jw,Deja Vu - Instrumental,spotify:track:4pQKjAbWS5jywKhDoz86Jw,0.0109,0.709,0.556,0.63,0.167,-11.544,0.0379,133.958,0.31,36
+91,Stoney (Complete Edition),22,42E5lPIvUHZEDASuSbQsh0,No Option - Instrumental,spotify:track:42E5lPIvUHZEDASuSbQsh0,0.0132,0.635,0.501,0.136,0.273,-8.43,0.0518,168.074,0.274,36
+92,Stoney (Complete Edition),23,0u0SO9cNqI1Yz1SUZzCELj,Cold - Instrumental,spotify:track:0u0SO9cNqI1Yz1SUZzCELj,0.901,0.807,0.391,0.921,0.105,-9.801,0.0704,133.001,0.352,36
+93,Stoney (Complete Edition),24,4AgfO6WuXQeyyHhcDql5Zi,I Fall Apart - Instrumental,spotify:track:4AgfO6WuXQeyyHhcDql5Zi,0.0578,0.608,0.368,0.00196,0.308,-9.036,0.0284,144.011,0.189,40
+94,Stoney (Complete Edition),25,59WdwJuDEMdFN0wXJcAPCC,Patient - Instrumental,spotify:track:59WdwJuDEMdFN0wXJcAPCC,0.214,0.773,0.339,0.765,0.116,-8.521,0.111,89.997,0.28,35
+95,Stoney (Complete Edition),26,45I0cFWvCXJg1HUYNcwIF6,Go Flex - Instrumental,spotify:track:45I0cFWvCXJg1HUYNcwIF6,0.124,0.772,0.276,0.875,0.101,-11.204,0.0841,81.978,0.0742,36
+96,Stoney (Complete Edition),27,5ZAPpWVnN5vpYZ2u6OBeMR,Feel - Instrumental,spotify:track:5ZAPpWVnN5vpYZ2u6OBeMR,0.236,0.715,0.378,0.797,0.18,-12.035,0.0341,120.032,0.0672,35
+97,Stoney (Complete Edition),28,1q87xLDyoX2YBvNYpHhKz6,Too Young - Instrumental,spotify:track:1q87xLDyoX2YBvNYpHhKz6,0.0564,0.744,0.264,0.803,0.141,-10.801,0.0369,123.034,0.227,35
+98,Stoney (Complete Edition),29,5ZvIh9p9R0bxRbd3stk4oR,Congratulations - Instrumental,spotify:track:5ZvIh9p9R0bxRbd3stk4oR,0.0194,0.585,0.425,0.823,0.255,-7.869,0.0416,122.896,0.322,40
+99,Stoney (Complete Edition),30,7Bmo6whfoysQseB6O5Wm4V,Up There - Instrumental,spotify:track:7Bmo6whfoysQseB6O5Wm4V,0.447,0.742,0.256,0.768,0.0971,-11.222,0.0625,145.915,0.276,35
+100,Stoney (Complete Edition),31,0BsHTvuJOTqugNlgRG9ZF0,"Yours Truly, Austin Post - Instrumental",spotify:track:0BsHTvuJOTqugNlgRG9ZF0,0.692,0.762,0.35,0.886,0.128,-9.776,0.0477,126.006,0.342,35
+101,Stoney (Complete Edition),32,2dnAlwEWCLxzI4VGuZ0PxO,Leave - Instrumental,spotify:track:2dnAlwEWCLxzI4VGuZ0PxO,0.102,0.727,0.505,0.877,0.122,-8.997,0.0323,90.013,0.658,34
+102,Stoney (Complete Edition),33,6OreFZYYpVX9mIYyYYOfxB,Hit This Hard - Instrumental,spotify:track:6OreFZYYpVX9mIYyYYOfxB,0.256,0.815,0.415,0.909,0.0899,-11.286,0.0679,140.061,0.168,34
+103,Stoney (Complete Edition),34,1CHYTLOjp5TML1LEF7mEe6,Money Made Me Do It - Instrumental,spotify:track:1CHYTLOjp5TML1LEF7mEe6,0.034,0.841,0.157,0.761,0.058,-9.914,0.423,83.004,0.0656,34
+104,Stoney (Deluxe),1,5BoOzegGrg5XFRR8UBDtkF,Broken Whiskey Glass,spotify:track:5BoOzegGrg5XFRR8UBDtkF,0.289,0.512,0.673,3.04e-06,0.126,-7.359,0.0523,99.84,0.11,63
+105,Stoney (Deluxe),2,02opp1cycqiFNDpLd2o1J3,Big Lie,spotify:track:02opp1cycqiFNDpLd2o1J3,0.191,0.442,0.684,0.0,0.0725,-4.888,0.168,170.861,0.218,67
+106,Stoney (Deluxe),3,0H8XeaJunhvpBdBFIYi6Sh,Deja Vu,spotify:track:0H8XeaJunhvpBdBFIYi6Sh,0.0931,0.62,0.69,0.0,0.131,-6.508,0.0493,133.935,0.331,72
+107,Stoney (Deluxe),4,6M0IsaUX4GNyto4niSegfI,No Option,spotify:track:6M0IsaUX4GNyto4niSegfI,0.0757,0.575,0.734,0.0,0.241,-4.949,0.057,83.986,0.494,72
+108,Stoney (Deluxe),5,1QWmKmqhv5zcsS3v45FNl0,Cold,spotify:track:1QWmKmqhv5zcsS3v45FNl0,0.647,0.67,0.572,4.72e-06,0.104,-7.312,0.0415,132.98,0.259,62
+109,Stoney (Deluxe),6,6eT7xZZlB2mwyzJ2sUKG6w,White Iverson,spotify:track:6eT7xZZlB2mwyzJ2sUKG6w,0.233,0.675,0.562,0.0,0.0816,-7.678,0.0352,130.098,0.309,80
+110,Stoney (Deluxe),7,75ZvA4QfFiZvzhj2xkaWAh,I Fall Apart,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,0.0689,0.556,0.538,0.0,0.196,-5.408,0.0382,143.95,0.291,83
+111,Stoney (Deluxe),8,5DLTuH4A5VZB2HKpqHQR6t,Patient,spotify:track:5DLTuH4A5VZB2HKpqHQR6t,0.565,0.743,0.662,0.0,0.128,-6.108,0.179,89.975,0.552,66
+112,Stoney (Deluxe),9,5yuShbu70mtHXY0yLzCQLQ,Go Flex,spotify:track:5yuShbu70mtHXY0yLzCQLQ,0.228,0.665,0.498,0.0,0.0757,-8.185,0.0832,81.967,0.127,80
+113,Stoney (Deluxe),10,7MTIDmToGs0I5Oue9V0CHl,Feel,spotify:track:7MTIDmToGs0I5Oue9V0CHl,0.214,0.497,0.507,4.79e-06,0.0948,-8.075,0.0585,119.432,0.192,65
+114,Stoney (Deluxe),11,4SYUUlkScpNR1QvPscXf8t,Too Young,spotify:track:4SYUUlkScpNR1QvPscXf8t,0.271,0.602,0.635,3.2e-05,0.0829,-6.526,0.052,123.05,0.225,69
+115,Stoney (Deluxe),12,3a1lNhkSLSkpJE4MSHpDu9,Congratulations,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,0.215,0.63,0.804,0.0,0.253,-4.183,0.0363,123.146,0.492,86
+116,Stoney (Deluxe),13,2rKmNEYrQxaOPZrOWKZpOc,Up There,spotify:track:2rKmNEYrQxaOPZrOWKZpOc,0.373,0.654,0.378,1.07e-05,0.0971,-8.108,0.0322,72.976,0.437,66
+117,Stoney (Deluxe),14,0LpiKjWMfZTkPPHonlM8nB,"Yours Truly, Austin Post",spotify:track:0LpiKjWMfZTkPPHonlM8nB,0.483,0.649,0.618,2.53e-06,0.166,-5.694,0.0672,125.977,0.421,64
+118,Stoney (Deluxe),15,5dI1yHSqgmilFEqpGbqxHh,Leave,spotify:track:5dI1yHSqgmilFEqpGbqxHh,0.246,0.535,0.55,0.000105,0.124,-7.249,0.0229,90.086,0.619,67
+119,Stoney (Deluxe),16,61jnrkPHpLumBf1kqGpRRt,Hit This Hard,spotify:track:61jnrkPHpLumBf1kqGpRRt,0.294,0.628,0.553,0.00551,0.0825,-8.967,0.0472,140.026,0.367,63
+120,Stoney (Deluxe),17,1ysAvOdJgUjc6CqOQxepaz,Money Made Me Do It,spotify:track:1ysAvOdJgUjc6CqOQxepaz,0.305,0.734,0.429,0.0,0.0659,-6.511,0.16,83.021,0.372,66
+121,Stoney (Deluxe),18,35r28RDot7nPE7y9K9H7l0,Feeling Whitney,spotify:track:35r28RDot7nPE7y9K9H7l0,0.787,0.412,0.227,4.69e-06,0.282,-12.696,0.0359,80.111,0.226,80
