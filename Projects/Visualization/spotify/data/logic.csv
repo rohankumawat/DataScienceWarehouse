@@ -1,0 +1,141 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Bobby Tarantino III,1,3J7DDL3rGkwlIm4UkIyZcQ,introll,spotify:track:3J7DDL3rGkwlIm4UkIyZcQ,0.0867,0.768,0.503,0.0333,0.104,-9.929,0.552,162.055,0.528,54,Logic
+Bobby Tarantino III,2,4lHBn99hzTKCqmEGoZaZcL,Vaccine,spotify:track:4lHBn99hzTKCqmEGoZaZcL,0.043,0.785,0.612,0,0.108,-4.068,0.0521,149.922,0.583,62,Logic
+Bobby Tarantino III,3,6XOY1Y6mZmkzoa9NDfozt3,Get Up,spotify:track:6XOY1Y6mZmkzoa9NDfozt3,0.267,0.692,0.662,0.0214,0.112,-7.694,0.033,153.085,0.722,57,Logic
+Bobby Tarantino III,4,26xfrX9phl1NNsz1H5TJJn,My Way,spotify:track:26xfrX9phl1NNsz1H5TJJn,0.0186,0.608,0.667,0,0.119,-5.751,0.0399,184.021,0.15,56,Logic
+Bobby Tarantino III,5,3GnKQbsTncWdliHNgqg0Av,Call Me,spotify:track:3GnKQbsTncWdliHNgqg0Av,0.271,0.714,0.621,0.00393,0.0783,-10.566,0.244,154.178,0.627,56,Logic
+Bobby Tarantino III,6,4FC0MkDV5elZUcHDXZm1nj,Inside (feat. Cynthia Erivo),spotify:track:4FC0MkDV5elZUcHDXZm1nj,0.168,0.39,0.479,5.82E-06,0.111,-7.362,0.0563,88.365,0.15,56,Logic
+Bobby Tarantino III,7,0OUZoXhXP1XbJnaez0jSJ4,Flawless,spotify:track:0OUZoXhXP1XbJnaez0jSJ4,0.334,0.742,0.654,1.18E-06,0.108,-6.992,0.2,137.054,0.558,61,Logic
+Bobby Tarantino III,8,0aROixALIghwvjNG4iD8pI,Stupid Skit,spotify:track:0aROixALIghwvjNG4iD8pI,0.189,0.838,0.694,0.000129,0.131,-6.234,0.176,77.037,0.783,49,Logic
+Bobby Tarantino III,9,08dXaiP8qdpvQqGKv5rUqE,Theme For The People,spotify:track:08dXaiP8qdpvQqGKv5rUqE,0.618,0.793,0.908,0,0.105,-4.021,0.058,138.055,0.836,57,Logic
+Bobby Tarantino III,10,0p0b3Sq6hHoWLjQwND3etN,God Might Judge,spotify:track:0p0b3Sq6hHoWLjQwND3etN,0.0725,0.517,0.82,0,0.362,-3.868,0.138,93.032,0.483,58,Logic
+Bobby Tarantino III,11,2wRHD4n81GyhlVMxYJ0nks,See You Space Cowboy...,spotify:track:2wRHD4n81GyhlVMxYJ0nks,0.0172,0.507,0.817,1.39E-06,0.108,-5.264,0.276,93.994,0.522,60,Logic
+Bobby Tarantino III,12,4ADNavlMOA9rx9hKw51PCW,untitled,spotify:track:4ADNavlMOA9rx9hKw51PCW,0.252,0.726,0.674,0.000163,0.0991,-4.683,0.213,93.14,0.323,59,Logic
+YS Collection Vol. 1,1,1IY46WkIINigH71KTv7Uv2,All I Do,spotify:track:1IY46WkIINigH71KTv7Uv2,0.0578,0.68,0.756,0,0.349,-7.154,0.19,170.927,0.805,63,Logic
+YS Collection Vol. 1,2,52SUwNCzqElrCJQHxBsq5a,One (feat. Frank Sinatra),spotify:track:52SUwNCzqElrCJQHxBsq5a,0.169,0.519,0.823,0,0.129,-5.85,0.0827,82.58,0.329,53,Logic
+YS Collection Vol. 1,3,50phXS6hmTMpmQbfds8Bvr,The Come Up,spotify:track:50phXS6hmTMpmQbfds8Bvr,0.147,0.759,0.497,0,0.147,-5.068,0.145,87.037,0.281,55,Logic
+YS Collection Vol. 1,4,34xbyF0mABlqub5fj5RkC0,We Get High,spotify:track:34xbyF0mABlqub5fj5RkC0,0.212,0.76,0.766,0.0001,0.256,-5.537,0.061,119.012,0.583,55,Logic
+YS Collection Vol. 1,5,5AgROGBWg39Ln0GK3YFSmz,Relaxation,spotify:track:5AgROGBWg39Ln0GK3YFSmz,0.0282,0.744,0.734,0,0.0745,-6.989,0.294,97.878,0.907,52,Logic
+YS Collection Vol. 1,6,4j9O2n3czrw000jY8ouJZ8,Numbers,spotify:track:4j9O2n3czrw000jY8ouJZ8,0.0247,0.641,0.768,0,0.208,-6.351,0.0997,80.019,0.501,54,Logic
+YS Collection Vol. 1,7,0C1T6YOwB7MMzspV0UbKKA,5 A.M.,spotify:track:0C1T6YOwB7MMzspV0UbKKA,0.205,0.72,0.677,0,0.0966,-4.592,0.162,174.072,0.389,66,Logic
+YS Collection Vol. 1,8,1qblTZmnYTluKZoNha5HXk,Ballin,spotify:track:1qblTZmnYTluKZoNha5HXk,0.0541,0.747,0.865,0,0.0979,-5.957,0.215,150.609,0.693,53,Logic
+YS Collection Vol. 1,9,5U6HACLkmJFWvC75pnxPdw,Man Of The Year,spotify:track:5U6HACLkmJFWvC75pnxPdw,0.148,0.611,0.737,0.00193,0.106,-6.401,0.0381,156.024,0.492,59,Logic
+YS Collection Vol. 1,10,45x4tULmYHSJelP4vRH0Lk,Just Another Day,spotify:track:45x4tULmYHSJelP4vRH0Lk,0.0624,0.697,0.645,0,0.0795,-8.415,0.211,81.992,0.15,48,Logic
+YS Collection Vol. 1,11,3iVFBmRZtDXdp8tFGpK0Et,Dead Presidents lll,spotify:track:3iVFBmRZtDXdp8tFGpK0Et,0.227,0.609,0.912,0,0.359,-4.917,0.344,86.407,0.895,52,Logic
+YS Collection Vol. 1,12,3B02odTuOeLFb1OErDwC43,Inception,spotify:track:3B02odTuOeLFb1OErDwC43,0.103,0.648,0.928,0,0.56,-4.976,0.346,111.254,0.526,53,Logic
+YS Collection Vol. 1,13,6i1T2HszgQegmbChKbvshh,Walk On By,spotify:track:6i1T2HszgQegmbChKbvshh,0.015,0.607,0.924,0.000396,0.289,-2.3,0.167,97.059,0.668,52,Logic
+YS Collection Vol. 1,14,69AFoFpPNM7digmbH2Clyf,Tokyo Nights (feat. Like),spotify:track:69AFoFpPNM7digmbH2Clyf,0.109,0.546,0.648,1.73E-06,0.119,-6.941,0.328,169.963,0.572,53,Logic
+No Pressure,1,41hwbZ1yF705MxJ7H9bwEu,No Pressure Intro,spotify:track:41hwbZ1yF705MxJ7H9bwEu,0.372,0.794,0.845,0,0.124,-6.118,0.387,93.939,0.831,59,Logic
+No Pressure,2,24FR8mXTaiGZPrxnkf1kcP,Hit My Line,spotify:track:24FR8mXTaiGZPrxnkf1kcP,0.143,0.62,0.786,0,0.46,-5.22,0.167,164.057,0.679,62,Logic
+No Pressure,3,1OmmCrliFMIWzNke437KHE,GP4,spotify:track:1OmmCrliFMIWzNke437KHE,0.282,0.809,0.684,1.44E-06,0.241,-3.578,0.273,85.009,0.857,56,Logic
+No Pressure,4,1zjSuvvLpPoJwnywiFIX7E,Celebration,spotify:track:1zjSuvvLpPoJwnywiFIX7E,0.00534,0.44,0.968,0,0.757,-3.068,0.301,179.827,0.503,55,Logic
+No Pressure,5,4L6QpiLxCLok9wZfFIdiqF,Open Mic\\Aquarius III,spotify:track:4L6QpiLxCLok9wZfFIdiqF,0.169,0.751,0.916,0,0.366,-3.917,0.256,89.876,0.745,56,Logic
+No Pressure,6,7e0nXDIIa6hFqI4HmuanLP,Soul Food II,spotify:track:7e0nXDIIa6hFqI4HmuanLP,0.13,0.457,0.909,0,0.48,-4.749,0.328,87.412,0.615,59,Logic
+No Pressure,7,5jbDih9bLGmI8ycUKkN5XA,Perfect,spotify:track:5jbDih9bLGmI8ycUKkN5XA,0.00948,0.769,0.829,6.65E-05,0.301,-5.228,0.0661,159.943,0.648,72,Logic
+No Pressure,8,0ERnYArznxdTBEIj1VSta8,man i is,spotify:track:0ERnYArznxdTBEIj1VSta8,0.365,0.754,0.778,6.96E-05,0.152,-2.745,0.134,74.999,0.95,62,Logic
+No Pressure,9,2Wf2u3sZ8rR1sdiBuSbeR0,DadBod,spotify:track:2Wf2u3sZ8rR1sdiBuSbeR0,0.71,0.81,0.708,0,0.557,-4.657,0.328,92.272,0.722,60,Logic
+No Pressure,10,7ikkUWdCqtyEGgSPyVxePq,5 Hooks,spotify:track:7ikkUWdCqtyEGgSPyVxePq,0.125,0.552,0.861,0,0.388,-4.114,0.243,86.639,0.56,56,Logic
+No Pressure,11,6RIe8KbX9YMO9hFSuowqII,Dark Place,spotify:track:6RIe8KbX9YMO9hFSuowqII,0.39,0.719,0.627,0,0.0981,-7.973,0.35,86.001,0.534,55,Logic
+No Pressure,12,7oFnyYm3SIqDJCAYAA1oZI,A2Z,spotify:track:7oFnyYm3SIqDJCAYAA1oZI,0.603,0.662,0.918,0,0.405,-5.915,0.492,88.833,0.516,51,Logic
+No Pressure,13,6KASl3S3bdyrn8GxjlVimb,Heard Em Say,spotify:track:6KASl3S3bdyrn8GxjlVimb,0.0248,0.473,0.904,0,0.362,-3.958,0.225,86.828,0.159,56,Logic
+No Pressure,14,7JcQlgYb0bewNr7autv7gm,Amen,spotify:track:7JcQlgYb0bewNr7autv7gm,0.448,0.604,0.789,0,0.152,-5.748,0.287,170.339,0.651,54,Logic
+No Pressure,15,6K2WirQZkriGBTliRuL7Y7,Obediently Yours,spotify:track:6K2WirQZkriGBTliRuL7Y7,0.917,0.561,0.905,0.0174,0.573,-4.606,0.274,85.258,0.87,48,Logic
+Confessions of a Dangerous Mind,1,6yIGZp1AaFBoDczu3b4hVU,Confessions of a Dangerous Mind,spotify:track:6yIGZp1AaFBoDczu3b4hVU,0.385,0.806,0.756,0,0.11,-4.093,0.208,141.97,0.637,63,Logic
+Confessions of a Dangerous Mind,2,7M2tXmeS15NAzEn7ABFeBg,Homicide (feat. Eminem),spotify:track:7M2tXmeS15NAzEn7ABFeBg,0.137,0.694,0.759,0,0.167,-5.667,0.398,140.055,0.77,78,Logic
+Confessions of a Dangerous Mind,3,3ur6bQ6Jb17tskma4euqZd,Wannabe,spotify:track:3ur6bQ6Jb17tskma4euqZd,0.0959,0.917,0.828,0,0.0789,-7.551,0.0946,134.012,0.706,51,Logic
+Confessions of a Dangerous Mind,4,2i3D8AJiOYTVCkIu1cOpsH,clickbait,spotify:track:2i3D8AJiOYTVCkIu1cOpsH,0.0466,0.848,0.708,3.79E-05,0.13,-5.625,0.0925,156.007,0.765,52,Logic
+Confessions of a Dangerous Mind,5,760VYgBLbNyEJp4jLa0CZ6,Mama/Show Love (feat. YBN Cordae),spotify:track:760VYgBLbNyEJp4jLa0CZ6,0.116,0.574,0.823,0,0.0898,-4.322,0.124,154.053,0.256,59,Logic
+Confessions of a Dangerous Mind,6,15qVraQOI2EjZPPM05YGBS,Out Of Sight,spotify:track:15qVraQOI2EjZPPM05YGBS,0.0611,0.737,0.918,2.90E-05,0.107,-6.159,0.132,174.022,0.664,55,Logic
+Confessions of a Dangerous Mind,7,6H35Djes2GNU7shF0c822Y,Pardon My Ego,spotify:track:6H35Djes2GNU7shF0c822Y,0.0631,0.876,0.954,0.00538,0.0637,-4.962,0.0683,95.489,0.506,52,Logic
+Confessions of a Dangerous Mind,8,4p28KkjAQ16J3yF8PQHJVg,COMMANDO (feat. G-Eazy),spotify:track:4p28KkjAQ16J3yF8PQHJVg,0.135,0.845,0.486,0,0.104,-6.473,0.313,77.028,0.142,56,Logic
+Confessions of a Dangerous Mind,9,2FzgbCcszptrQpdJOr2Soi,Icy (feat. Gucci Mane),spotify:track:2FzgbCcszptrQpdJOr2Soi,0.163,0.827,0.522,1.19E-06,0.109,-4.866,0.0845,151.99,0.477,60,Logic
+Confessions of a Dangerous Mind,10,199Dz9IgqKekyiRy3LBnHn,Still Ballin (feat. Wiz Khalifa),spotify:track:199Dz9IgqKekyiRy3LBnHn,0.0151,0.79,0.677,1.06E-05,0.169,-5.27,0.104,160.001,0.75,62,Logic
+Confessions of a Dangerous Mind,11,6P9RfMi5rmtu6CmBVZSCAP,Cocaine,spotify:track:6P9RfMi5rmtu6CmBVZSCAP,0.124,0.816,0.808,0,0.142,-4.836,0.268,176.022,0.711,55,Logic
+Confessions of a Dangerous Mind,12,20EmzsRBgZSEVbZWp0fqtx,Limitless,spotify:track:20EmzsRBgZSEVbZWp0fqtx,0.0435,0.838,0.776,0.000121,0.0924,-3.125,0.0933,155.059,0.715,54,Logic
+Confessions of a Dangerous Mind,13,3PYx9Wte3jwb48V0wArMOy,Keanu Reeves,spotify:track:3PYx9Wte3jwb48V0wArMOy,0.0557,0.712,0.891,0,0.134,-6.457,0.24,170.13,0.799,70,Logic
+Confessions of a Dangerous Mind,14,4jdLb7N6U6tmyynmu6PPRM,Don't Be Afraid To Be Different (feat. Will Smith),spotify:track:4jdLb7N6U6tmyynmu6PPRM,0.0294,0.866,0.79,4.94E-05,0.163,-4.921,0.0947,111.005,0.437,49,Logic
+Confessions of a Dangerous Mind,15,2K2b3pVT5LLDxzz1Vy4bHb,BOBBY (feat. My Dad),spotify:track:2K2b3pVT5LLDxzz1Vy4bHb,0.252,0.853,0.864,0,0.0541,-2.669,0.283,111.565,0.869,50,Logic
+Confessions of a Dangerous Mind,16,4Tk9QvtwwOj2Ah9E8ahutZ,Lost In Translation,spotify:track:4Tk9QvtwwOj2Ah9E8ahutZ,0.567,0.573,0.801,5.67E-06,0.0996,-4.173,0.366,93.04,0.367,56,Logic
+Supermarket (Soundtrack),1,7Ii2ALuxW7NkLfQPhV4Rn2,Bohemian Trapsody,spotify:track:7Ii2ALuxW7NkLfQPhV4Rn2,0.0127,0.725,0.838,0.312,0.101,-7.486,0.0312,140.053,0.414,54,Logic
+Supermarket (Soundtrack),2,5JDwLHI2YUkFSFSn4g5pGd,Can I Kick It,spotify:track:5JDwLHI2YUkFSFSn4g5pGd,0.609,0.789,0.774,0.00122,0.298,-4.415,0.0614,100.077,0.488,56,Logic
+Supermarket (Soundtrack),3,3hhmDGfhXLkQnAlOBSte0w,Time Machine,spotify:track:3hhmDGfhXLkQnAlOBSte0w,0.595,0.555,0.464,0.011,0.121,-6.438,0.0348,128.937,0.201,48,Logic
+Supermarket (Soundtrack),4,4Hi4e6G8gvKgbYujB3J4yX,Pretty Young Girl,spotify:track:4Hi4e6G8gvKgbYujB3J4yX,0.206,0.641,0.637,0.000228,0.342,-6.967,0.0356,95.051,0.394,49,Logic
+Supermarket (Soundtrack),5,5cJBMRBaLTxrT02SSaoPJO,Supermarket,spotify:track:5cJBMRBaLTxrT02SSaoPJO,0.0396,0.682,0.574,5.30E-05,0.16,-5.92,0.029,89.991,0.366,48,Logic
+Supermarket (Soundtrack),6,4NQNuItFMPClEJNCceGdF3,Baby,spotify:track:4NQNuItFMPClEJNCceGdF3,0.229,0.682,0.755,0,0.0966,-4.436,0.0488,95.998,0.197,47,Logic
+Supermarket (Soundtrack),7,5vSH6QgQ4WYVf99LASBSXi,By The Bridge,spotify:track:5vSH6QgQ4WYVf99LASBSXi,0.196,0.575,0.696,0.011,0.0986,-4.687,0.029,175.993,0.282,45,Logic
+Supermarket (Soundtrack),8,0Uw8pWFNcZwt3wrRPPwp4s,Best Friend,spotify:track:0Uw8pWFNcZwt3wrRPPwp4s,0.0733,0.425,0.46,0.0126,0.103,-7.381,0.0428,78.539,0.561,43,Logic
+Supermarket (Soundtrack),9,7CmU7JYRrW3AVko82AnZgo,Lemon Drop,spotify:track:7CmU7JYRrW3AVko82AnZgo,0.267,0.888,0.783,4.27E-05,0.0927,-7.337,0.0596,114.969,0.77,45,Logic
+Supermarket (Soundtrack),10,0Sceq3bQBTB70SJwAZm9Nu,I'm Probably Gonna Rock Your World,spotify:track:0Sceq3bQBTB70SJwAZm9Nu,0.745,0.73,0.552,0.0151,0.1,-8.365,0.155,173.981,0.758,47,Logic
+Supermarket (Soundtrack),11,4HGwlPELgeqGz0ndBxHtkh,Vacation From Myself,spotify:track:4HGwlPELgeqGz0ndBxHtkh,0.683,0.644,0.68,0.0142,0.308,-7.574,0.0484,164.922,0.768,43,Logic
+Supermarket (Soundtrack),12,2BxpnZOmEu9RQsAlJtt0pb,DeLorean,spotify:track:2BxpnZOmEu9RQsAlJtt0pb,0.0849,0.745,0.416,0.201,0.103,-5.772,0.0258,99.975,0.18,50,Logic
+Supermarket (Soundtrack),13,2s8w7n22U328L6Pdfwdodg,I Love You Forever,spotify:track:2s8w7n22U328L6Pdfwdodg,0.584,0.467,0.658,5.69E-05,0.162,-6.145,0.0267,147.903,0.245,46,Logic
+YSIV,1,4ut9fdC5ncgcvCo0KaphNY,Thank You (ft. Lucy Rose & The RattPack),spotify:track:4ut9fdC5ncgcvCo0KaphNY,0.169,0.599,0.749,3.03E-06,0.4,-7.12,0.269,159.413,0.574,45,Logic
+YSIV,2,2Egoo3acImq7hV6TfYV90E,Everybody Dies,spotify:track:2Egoo3acImq7hV6TfYV90E,0.141,0.784,0.922,3.48E-06,0.377,-3.92,0.152,94.082,0.836,56,Logic
+YSIV,3,5ZcMWSpUeUPvO87FkSZbJB,The Return,spotify:track:5ZcMWSpUeUPvO87FkSZbJB,0.116,0.801,0.958,0,0.0833,-4.412,0.177,90.012,0.652,56,Logic
+YSIV,4,066QkK1heGoXBUPBbcOhEG,The Glorious Five,spotify:track:066QkK1heGoXBUPBbcOhEG,0.0359,0.823,0.842,0,0.381,-7.539,0.0477,91.995,0.396,53,Logic
+YSIV,5,7rKKh8AGVXuNXgLBpTBTFH,One Day (ft. Ryan Tedder),spotify:track:7rKKh8AGVXuNXgLBpTBTFH,0.139,0.546,0.871,8.28E-05,0.104,-5.81,0.148,189.723,0.303,51,Logic
+YSIV,6,6VDz4m1vEGHDDqQojf1mpc,"Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)",spotify:track:6VDz4m1vEGHDDqQojf1mpc,0.134,0.725,0.809,0,0.369,-4.941,0.309,90.991,0.755,60,Logic
+YSIV,7,4CstQ0SUkl0YkoeZkIZlIx,100 Miles and Running (ft. Wale & John Lindahl),spotify:track:4CstQ0SUkl0YkoeZkIZlIx,0.579,0.835,0.929,1.28E-06,0.38,-3.595,0.0653,119.047,0.96,62,Logic
+YSIV,8,2zIAPysksDdMAiG33qH6kW,Ordinary Day (ft. Hailee Steinfeld),spotify:track:2zIAPysksDdMAiG33qH6kW,0.0224,0.748,0.894,0,0.143,-6.67,0.0748,157.988,0.839,55,Logic
+YSIV,9,3irKogkH8P1B1nONmEcHgY,YSIV,spotify:track:3irKogkH8P1B1nONmEcHgY,0.072,0.769,0.777,0,0.11,-6.066,0.312,91.022,0.696,57,Logic
+YSIV,10,0Me3TlqFkaIzoZzAGU1EDh,Street Dreams II,spotify:track:0Me3TlqFkaIzoZzAGU1EDh,0.0884,0.677,0.871,0,0.736,-6.128,0.273,176.088,0.254,50,Logic
+YSIV,11,5xE8cBcKRjKEDdJwmh1ixN,"The Adventures Of Stoney Bob (ft. Kajo, Slaydro, Big Lenbo)",spotify:track:5xE8cBcKRjKEDdJwmh1ixN,0.0898,0.626,0.852,0,0.354,-6.261,0.303,94.905,0.731,51,Logic
+YSIV,12,5mJAediEZEv8KKpWxrNIqf,Legacy,spotify:track:5mJAediEZEv8KKpWxrNIqf,0.425,0.692,0.791,0,0.138,-3.508,0.274,88,0.638,49,Logic
+YSIV,13,1FmdAhS8FqRoEJ4jcSfuKZ,ICONIC (ft. Jaden Smith),spotify:track:1FmdAhS8FqRoEJ4jcSfuKZ,0.00575,0.388,0.777,0,0.288,-5.55,0.241,175.933,0.192,60,Logic
+YSIV,14,202RUoPIUYZLyg6VtosWci,Last Call,spotify:track:202RUoPIUYZLyg6VtosWci,0.301,0.778,0.818,0,0.101,-5.29,0.33,86.947,0.812,47,Logic
+YSIV,6,4sfVj3VpY980UgO0cJtatk,"Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA",spotify:track:4sfVj3VpY980UgO0cJtatk,0.125,0.712,0.805,0,0.372,-4.997,0.314,91.034,0.753,28,Logic
+Bobby Tarantino II,1,3atCD3dVosUsd3KM2yzfeC,Grandpa's Space Ship,spotify:track:3atCD3dVosUsd3KM2yzfeC,0.266,0.719,0.167,0,0.152,-18.942,0.889,119.082,0.161,47,Logic
+Bobby Tarantino II,2,3s3VVLE1kB7Xk2AoJKlGmr,Overnight,spotify:track:3s3VVLE1kB7Xk2AoJKlGmr,0.00138,0.861,0.745,1.87E-05,0.141,-6.77,0.0608,150.002,0.889,58,Logic
+Bobby Tarantino II,3,7u90MSvVyEjL0c8icaE7jl,Contra,spotify:track:7u90MSvVyEjL0c8icaE7jl,0.104,0.804,0.823,0,0.2,-5.837,0.0488,126.007,0.616,59,Logic
+Bobby Tarantino II,4,4fZxGiES1FKbNqJPrI4L3s,BoomTrap Protocol,spotify:track:4fZxGiES1FKbNqJPrI4L3s,0.0549,0.747,0.532,2.78E-06,0.121,-5.474,0.0394,77.032,0.347,57,Logic
+Bobby Tarantino II,5,0D5CXSUx8GOCHSY8KWgi9h,Yuck,spotify:track:0D5CXSUx8GOCHSY8KWgi9h,0.168,0.619,0.798,0,0.17,-5.517,0.381,156.151,0.71,56,Logic
+Bobby Tarantino II,6,0jqBo5RYn008f4ZY8kPewW,Indica Badu,spotify:track:0jqBo5RYn008f4ZY8kPewW,0.0402,0.742,0.72,0.000846,0.0839,-2.876,0.116,77.011,0.97,66,Logic
+Bobby Tarantino II,7,1GtVGc1UYin3zpMUdNSSpM,Midnight,spotify:track:1GtVGc1UYin3zpMUdNSSpM,0.0867,0.568,0.607,0,0.0972,-7.438,0.108,95.056,0.269,62,Logic
+Bobby Tarantino II,8,3W4JFzOQdo5J2Wgt9DFg24,Warm It Up,spotify:track:3W4JFzOQdo5J2Wgt9DFg24,0.257,0.827,0.643,0,0.094,-6.414,0.0899,95.965,0.433,57,Logic
+Bobby Tarantino II,9,2ycWek3FNNVHBhz2TcnOzZ,Wizard Of Oz,spotify:track:2ycWek3FNNVHBhz2TcnOzZ,0.051,0.72,0.601,0,0.0753,-6.931,0.0376,146.002,0.0527,54,Logic
+Bobby Tarantino II,10,58cvckETahSOG74RP5WE99,State Of Emergency,spotify:track:58cvckETahSOG74RP5WE99,0.0826,0.675,0.675,0,0.12,-7.527,0.283,173.922,0.622,53,Logic
+Bobby Tarantino II,11,5KVciTEfXvpcFHR3RFbtJy,Wassup,spotify:track:5KVciTEfXvpcFHR3RFbtJy,0.0869,0.777,0.57,0,0.121,-6.833,0.0472,139.993,0.321,55,Logic
+Bobby Tarantino II,12,4EAV2cKiqKP5UPZmY6dejk,Everyday,spotify:track:4EAV2cKiqKP5UPZmY6dejk,0.0425,0.667,0.741,0,0.0761,-4.099,0.0378,149.908,0.422,74,Logic
+Bobby Tarantino II,13,3e7Y6sfFlIdBMJhX7wpqVO,44 More,spotify:track:3e7Y6sfFlIdBMJhX7wpqVO,0.0718,0.824,0.584,0,0.106,-7.098,0.221,139.965,0.219,71,Logic
+Everybody,1,7fRfIvHPH6bHdMDjPFwTMh,Hallelujah,spotify:track:7fRfIvHPH6bHdMDjPFwTMh,0.495,0.674,0.596,3.38E-06,0.342,-8.348,0.195,136.059,0.46,52,Logic
+Everybody,2,7cGFbx7MP0H23iHZTZpqMM,Everybody,spotify:track:7cGFbx7MP0H23iHZTZpqMM,0.161,0.885,0.94,0,0.0675,-5.908,0.0913,110.005,0.773,68,Logic
+Everybody,3,58kwvMXeOlsvzPqUlyj75Y,Confess,spotify:track:58kwvMXeOlsvzPqUlyj75Y,0.301,0.74,0.971,0.0016,0.156,-2.81,0.0884,122.952,0.528,51,Logic
+Everybody,4,6OQea06z3cbOqYgG2O6eOZ,Killing Spree,spotify:track:6OQea06z3cbOqYgG2O6eOZ,0.029,0.856,0.757,0,0.105,-5.782,0.145,124.069,0.191,55,Logic
+Everybody,5,6HN5XPJEV31RQJGoyqZ81K,Take It Back,spotify:track:6HN5XPJEV31RQJGoyqZ81K,0.0621,0.837,0.84,0,0.329,-4.293,0.239,135.009,0.691,57,Logic
+Everybody,6,77mLzdHEWRB60CLlV02TV2,America,spotify:track:77mLzdHEWRB60CLlV02TV2,0.131,0.833,0.888,0.000364,0.116,-4.181,0.127,115.019,0.592,50,Logic
+Everybody,7,732btJLGu7gYNHHNdzshrG,Ink Blot,spotify:track:732btJLGu7gYNHHNdzshrG,0.036,0.748,0.691,6.29E-06,0.614,-6.522,0.082,144.072,0.356,48,Logic
+Everybody,8,53LkLW4k4w7EOayzvx70O9,Mos Definitely,spotify:track:53LkLW4k4w7EOayzvx70O9,0.0978,0.604,0.872,0,0.121,-4.01,0.288,64.331,0.732,50,Logic
+Everybody,9,4GP2Idcs08NqAjfEV0rsl6,Waiting Room,spotify:track:4GP2Idcs08NqAjfEV0rsl6,0.756,0.692,0.229,0,0.159,-17.691,0.874,136.512,0.657,43,Logic
+Everybody,10,5tz69p7tJuGPeMGwNTxYuV,1-800-273-8255,spotify:track:5tz69p7tJuGPeMGwNTxYuV,0.569,0.62,0.574,0,0.19,-7.788,0.0479,100.023,0.357,82,Logic
+Everybody,11,6CvTbrBxxc5jFwqsivhpxh,Anziety,spotify:track:6CvTbrBxxc5jFwqsivhpxh,0.326,0.577,0.799,0,0.119,-6.539,0.0721,122.903,0.565,52,Logic
+Everybody,12,7BKUWh5sdtdS17crohRe4L,Black SpiderMan,spotify:track:7BKUWh5sdtdS17crohRe4L,0.11,0.611,0.867,0.000105,0.346,-5.298,0.0896,140.032,0.336,61,Logic
+Everybody,13,76ZrqdtkKxhMl42xAQTnFm,AfricAryaN,spotify:track:76ZrqdtkKxhMl42xAQTnFm,0.155,0.529,0.8,0,0.0858,-7.025,0.166,104.058,0.356,50,Logic
+Bobby Tarantino,1,0cdXG7PwSUOv19gF6dMv5n,illuminatro,spotify:track:0cdXG7PwSUOv19gF6dMv5n,0.522,0.416,0.263,0.739,0.388,-17.614,0.228,82.099,0.152,45,Logic
+Bobby Tarantino,2,2c8sgbZoEanC3QyFNZxUcA,Flexicution,spotify:track:2c8sgbZoEanC3QyFNZxUcA,0.0619,0.782,0.713,0.00125,0.108,-6.576,0.0899,159.839,0.68,67,Logic
+Bobby Tarantino,3,4dVJyyeCPEONr44NIrXvie,The Jam,spotify:track:4dVJyyeCPEONr44NIrXvie,0.0145,0.814,0.589,0,0.114,-7.762,0.324,149.08,0.375,52,Logic
+Bobby Tarantino,4,4Mr73gFwZUeFnrfRov23we,Slave II,spotify:track:4Mr73gFwZUeFnrfRov23we,0.026,0.515,0.508,0.00279,0.108,-5.997,0.16,90.507,0.129,54,Logic
+Bobby Tarantino,5,1AdD7pFBsQICMHiQTz9uwV,A Word From Our Sponsor,spotify:track:1AdD7pFBsQICMHiQTz9uwV,0.824,0.707,0.497,0,0.626,-9.613,0.755,127.971,0.774,41,Logic
+Bobby Tarantino,6,7qT7NUDywO7vNJNTNxqWiN,Wrist,spotify:track:7qT7NUDywO7vNJNTNxqWiN,0.00865,0.854,0.685,4.72E-06,0.0727,-5.319,0.242,139.988,0.526,57,Logic
+Bobby Tarantino,7,1py4qzrEEkOvU8uTHYLuOW,Super Mario World,spotify:track:1py4qzrEEkOvU8uTHYLuOW,0.0548,0.862,0.662,0,0.0993,-7.19,0.209,131.964,0.394,57,Logic
+Bobby Tarantino,8,7mfLCMIvu0cZVNpvdXEVT5,Studio Ambience At Night: Malibu,spotify:track:7mfLCMIvu0cZVNpvdXEVT5,0.554,0.319,0.782,0,0.82,-8.82,0.503,79.807,0.497,41,Logic
+Bobby Tarantino,9,4s2BWgnSQ9NZiOQM4PP4HB,44 Bars,spotify:track:4s2BWgnSQ9NZiOQM4PP4HB,0.351,0.728,0.628,0,0.198,-8.83,0.319,94.128,0.313,66,Logic
+Bobby Tarantino,10,3SrUV8pxnW1QhMbbwegpwG,Slave,spotify:track:3SrUV8pxnW1QhMbbwegpwG,0.0445,0.83,0.707,1.87E-05,0.144,-7.426,0.048,122.986,0.255,51,Logic
+Bobby Tarantino,11,6pK86Tx0QqX0E64mKuDB5Q,Deeper Than Money,spotify:track:6pK86Tx0QqX0E64mKuDB5Q,0.158,0.581,0.886,0,0.101,-4.267,0.266,90.109,0.89,49,Logic
+The Incredible True Story,1,2M5ndhTi0zOIymTD4Ff1T8,Contact,spotify:track:2M5ndhTi0zOIymTD4Ff1T8,0.137,0.629,0.656,0.298,0.107,-7.978,0.0446,135.996,0.285,49,Logic
+The Incredible True Story,2,4QRWA5UqYU1st9aO0UfxOj,Fade Away,spotify:track:4QRWA5UqYU1st9aO0UfxOj,0.27,0.709,0.787,0.00114,0.296,-2.377,0.235,75.986,0.607,64,Logic
+The Incredible True Story,3,5psz20rVFNRlt0u9cpzBpY,Upgrade,spotify:track:5psz20rVFNRlt0u9cpzBpY,0.0904,0.664,0.821,6.70E-06,0.134,-6.134,0.0698,165.977,0.362,54,Logic
+The Incredible True Story,4,7Li7ff5lQ1gqvwbCdRXaQL,White People - Scene,spotify:track:7Li7ff5lQ1gqvwbCdRXaQL,0.0313,0.579,0.372,0.00204,0.165,-13.62,0.383,98.541,0.282,45,Logic
+The Incredible True Story,5,6bM3GKo47KVgvj3gHdWS0U,Like Woah,spotify:track:6bM3GKo47KVgvj3gHdWS0U,0.035,0.717,0.907,0.00696,0.594,-4.457,0.0389,107.051,0.401,60,Logic
+The Incredible True Story,6,0KiKfllNTmhImvXVIHqR0z,Young Jesus,spotify:track:0KiKfllNTmhImvXVIHqR0z,0.0889,0.736,0.903,0,0.129,-3.235,0.127,95.047,0.457,61,Logic
+The Incredible True Story,7,1zucHJN4WKHIzSL4FyiJw9,Innermission,spotify:track:1zucHJN4WKHIzSL4FyiJw9,0.58,0.741,0.759,0,0.103,-4.387,0.21,95.101,0.49,56,Logic
+The Incredible True Story,8,1BTj47Up5m8601KOFrTvkj,I Am The Greatest,spotify:track:1BTj47Up5m8601KOFrTvkj,0.042,0.801,0.815,4.42E-06,0.0741,-4.81,0.148,90.017,0.37,59,Logic
+The Incredible True Story,9,30S46V7RcyGXUModoqW69b,The Cube - Scene,spotify:track:30S46V7RcyGXUModoqW69b,0.117,0.453,0.245,0.0021,0.114,-21.583,0.302,176.405,0.125,5,Logic
+The Incredible True Story,10,4q6oNFTjZmJqkIgPdp8iR1,Lord Willin',spotify:track:4q6oNFTjZmJqkIgPdp8iR1,0.123,0.648,0.85,0.000347,0.0529,-4.248,0.0561,170.061,0.567,60,Logic
+The Incredible True Story,11,5mJbSgVBnJ4ayOjFdmyOdl,City Of Stars,spotify:track:5mJbSgVBnJ4ayOjFdmyOdl,0.119,0.464,0.873,0.0245,0.225,-5.793,0.135,90.137,0.607,58,Logic
+The Incredible True Story,12,5rwOE5J3Y1A2NiRa6y3Yph,Stainless,spotify:track:5rwOE5J3Y1A2NiRa6y3Yph,0.0877,0.705,0.899,6.11E-06,0.268,-4.242,0.0357,139.976,0.641,59,Logic
+The Incredible True Story,13,58RqurG6pfsJVxNyc9OL22,Babel - Scene,spotify:track:58RqurG6pfsJVxNyc9OL22,0.126,0.573,0.326,2.78E-05,0.121,-16.385,0.487,114.383,0.301,44,Logic
+The Incredible True Story,14,0M2ZekrsEkru9Xp5rWnouQ,Paradise,spotify:track:0M2ZekrsEkru9Xp5rWnouQ,0.115,0.551,0.747,0,0.0895,-7.911,0.254,88.937,0.205,53,Logic
+The Incredible True Story,15,0aAk9KMmPChiS2EG9Fg7IX,Never Been,spotify:track:0aAk9KMmPChiS2EG9Fg7IX,0.11,0.664,0.795,4.53E-06,0.575,-6.083,0.0448,101.079,0.64,55,Logic
+The Incredible True Story,16,4iq3zHwgHSxstFvYw4yIsQ,Run It,spotify:track:4iq3zHwgHSxstFvYw4yIsQ,0.216,0.863,0.815,0,0.0887,-6.242,0.232,108.972,0.636,59,Logic
+The Incredible True Story,17,1sQBStJC5unqE7TzStlFQl,Lucidity - Scene,spotify:track:1sQBStJC5unqE7TzStlFQl,0.608,0.514,0.174,0.00581,0.11,-19.674,0.432,138.901,0.253,43,Logic
+The Incredible True Story,18,5FhaG2uuOPmPcGXO9aniCH,The Incredible True Story,spotify:track:5FhaG2uuOPmPcGXO9aniCH,0.0607,0.418,0.771,0.00604,0.449,-7.188,0.0738,97.3,0.405,52,Logic

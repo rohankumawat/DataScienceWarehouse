@@ -1,0 +1,71 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Smile,1,1IIV8jglA0klVZy17q665k,Never Really Over,spotify:track:1IIV8jglA0klVZy17q665k,0.217,0.77,0.881,0,0.324,-4.776,0.067,99.995,0.367,69,Katy Perry
+Smile,3,3i0uu4DEpcmEAudChpVDBh,Teary Eyes,spotify:track:3i0uu4DEpcmEAudChpVDBh,0.104,0.616,0.659,0,0.079,-5.994,0.0404,125.962,0.441,53,Katy Perry
+Smile,4,367wyLNqQMr5e8S2E6Zvpp,Daisies,spotify:track:367wyLNqQMr5e8S2E6Zvpp,0.0825,0.642,0.546,0,0.0989,-5.377,0.0407,122.165,0.142,64,Katy Perry
+Smile,5,3By64Pmpn0LkwPKSjqSTBp,Resilient,spotify:track:3By64Pmpn0LkwPKSjqSTBp,0.317,0.7,0.519,0,0.159,-7.091,0.0576,135.871,0.65,51,Katy Perry
+Smile,6,2F20djOXWDSFEXu3tPdV71,Not the End of the World,spotify:track:2F20djOXWDSFEXu3tPdV71,0.119,0.508,0.738,0,0.0558,-5.126,0.0579,158.131,0.523,60,Katy Perry
+Smile,7,59s3aMqR9uOzLIXAcgBCEm,Smile,spotify:track:59s3aMqR9uOzLIXAcgBCEm,0.0238,0.783,0.912,0,0.339,-3.713,0.243,98.025,0.749,64,Katy Perry
+Smile,8,5iKXqTVr88ghRPwMEeVKVM,Champagne Problems,spotify:track:5iKXqTVr88ghRPwMEeVKVM,0.0185,0.711,0.674,0,0.184,-6.114,0.106,108.883,0.774,56,Katy Perry
+Smile,9,5ahNnBifspeXOi1sMbiXHT,Tucked,spotify:track:5ahNnBifspeXOi1sMbiXHT,0.00544,0.775,0.68,0,0.047,-5.155,0.038,123.005,0.929,59,Katy Perry
+Smile,10,3B4etxytImrRKQgV3XHjnR,Harleys In Hawaii,spotify:track:3B4etxytImrRKQgV3XHjnR,0.162,0.721,0.751,6.59E-06,0.118,-6.203,0.125,140.095,0.738,78,Katy Perry
+Smile,11,6lWp5O5XH6smTt4vzd4Mgy,Only Love,spotify:track:6lWp5O5XH6smTt4vzd4Mgy,0.297,0.71,0.46,0,0.106,-7.56,0.0492,98.033,0.228,50,Katy Perry
+Smile,12,2czhdHhprTLjvlIzj56jQt,What Makes A Woman,spotify:track:2czhdHhprTLjvlIzj56jQt,0.184,0.363,0.594,0,0.106,-7.847,0.079,94.639,0.257,48,Katy Perry
+Smile,2,1RsD951uUUlJx0MRioZfev,Cry About It Later,spotify:track:1RsD951uUUlJx0MRioZfev,0.0796,0.692,0.67,1.65E-05,0.248,-5.829,0.0871,126.004,0.445,59,Katy Perry
+Witness (Deluxe),1,6EzuVdWmzgOBmqHpzbbzfQ,Witness,spotify:track:6EzuVdWmzgOBmqHpzbbzfQ,0.0351,0.599,0.614,0.00017,0.106,-8.811,0.0548,119.831,0.123,51,Katy Perry
+Witness (Deluxe),2,3tqwKg0W8XfYORNrP4aIhu,Hey Hey Hey,spotify:track:3tqwKg0W8XfYORNrP4aIhu,0.0516,0.653,0.703,0,0.0521,-5.632,0.0982,134.064,0.488,57,Katy Perry
+Witness (Deluxe),3,2rk4s5NBhtHhhJIfjoaWES,Roulette,spotify:track:2rk4s5NBhtHhhJIfjoaWES,0.0133,0.639,0.644,1.37E-05,0.119,-4.5,0.0319,112.038,0.413,51,Katy Perry
+Witness (Deluxe),4,3OtMnyUaiipcAT23A8liyi,Swish Swish,spotify:track:3OtMnyUaiipcAT23A8liyi,0.0184,0.838,0.705,1.82E-05,0.102,-5.201,0.0449,119.953,0.583,72,Katy Perry
+Witness (Deluxe),5,60XMmxciP1qewvkcD16qKQ,Déjà Vu,spotify:track:60XMmxciP1qewvkcD16qKQ,0.318,0.636,0.607,0.00081,0.094,-6.895,0.064,120.061,0.165,50,Katy Perry
+Witness (Deluxe),6,6Bat8YJaSEVzWwYFHqgqep,Power,spotify:track:6Bat8YJaSEVzWwYFHqgqep,0.0364,0.559,0.61,1.05E-06,0.0779,-4.717,0.0927,142.146,0.376,46,Katy Perry
+Witness (Deluxe),7,6W20KhhJcEhRh71l5hQq8C,Mind Maze,spotify:track:6W20KhhJcEhRh71l5hQq8C,0.515,0.558,0.474,2.53E-06,0.0848,-7.526,0.0571,119.941,0.228,43,Katy Perry
+Witness (Deluxe),8,7BZSIG9TyowrVzSdZJpmeI,Miss You More,spotify:track:7BZSIG9TyowrVzSdZJpmeI,0.221,0.538,0.48,0,0.113,-8.075,0.0335,123.808,0.253,56,Katy Perry
+Witness (Deluxe),9,7qvxFz3JodM0A7xEM7k3YD,Chained To The Rhythm,spotify:track:7qvxFz3JodM0A7xEM7k3YD,0.0814,0.562,0.8,0,0.199,-5.404,0.112,95.029,0.471,74,Katy Perry
+Witness (Deluxe),10,0frWUvNyEqlfy1WAxBAFbb,Tsunami,spotify:track:0frWUvNyEqlfy1WAxBAFbb,0.0324,0.586,0.561,0,0.107,-6.594,0.0817,161.906,0.446,46,Katy Perry
+Witness (Deluxe),11,4rHmKlFRiFzabiVO6e9w2e,Bon Appétit,spotify:track:4rHmKlFRiFzabiVO6e9w2e,0.131,0.8,0.795,9.02E-05,0.221,-5.835,0.0626,106.031,0.528,71,Katy Perry
+Witness (Deluxe),12,10jcBOZo0OwQVLPxp7bwB6,Bigger Than Me,spotify:track:10jcBOZo0OwQVLPxp7bwB6,0.0237,0.701,0.674,0,0.141,-5.906,0.0405,110.039,0.258,45,Katy Perry
+Witness (Deluxe),13,732x2Fy6jbt7qC70Zg463q,Save As Draft,spotify:track:732x2Fy6jbt7qC70Zg463q,0.349,0.591,0.566,0,0.109,-7.227,0.0487,131.76,0.0474,47,Katy Perry
+Witness (Deluxe),14,6Pp0cu0y4lOyRd04L3e9lS,Pendulum,spotify:track:6Pp0cu0y4lOyRd04L3e9lS,0.00303,0.621,0.788,0.000229,0.0311,-5.642,0.0436,94.004,0.607,45,Katy Perry
+Witness (Deluxe),15,784C7m9r88GPKe2yOAzGYJ,Into Me You See,spotify:track:784C7m9r88GPKe2yOAzGYJ,0.815,0.416,0.254,0,0.0936,-9.998,0.036,111.746,0.202,43,Katy Perry
+Witness (Deluxe),16,5CYXQ9WzVTUbyOYiSKwRFG,Dance With The Devil,spotify:track:5CYXQ9WzVTUbyOYiSKwRFG,0.351,0.704,0.567,0.000105,0.143,-6.378,0.0462,134.009,0.245,41,Katy Perry
+Witness (Deluxe),17,6HtHyWKAzwFwrSnnTunDMl,Act My Age,spotify:track:6HtHyWKAzwFwrSnnTunDMl,0.00708,0.687,0.794,0,0.375,-5.461,0.0907,112.056,0.617,42,Katy Perry
+PRISM (Deluxe),2,5Uc37Y6FijZcM538PqqkWd,Legendary Lovers,spotify:track:5Uc37Y6FijZcM538PqqkWd,0.0224,0.623,0.836,0,0.078,-4.788,0.0846,126.025,0.386,56,Katy Perry
+PRISM (Deluxe),3,2xLOMHjkOK8nzxJ4r6yOKR,Birthday,spotify:track:2xLOMHjkOK8nzxJ4r6yOKR,0.0879,0.719,0.674,3.75E-06,0.112,-5.122,0.0681,125.98,0.843,68,Katy Perry
+PRISM (Deluxe),4,0RCsGhR44nFVAd5WiZZcGq,Walking On Air,spotify:track:0RCsGhR44nFVAd5WiZZcGq,0.00144,0.631,0.908,0,0.23,-4.842,0.0391,128.027,0.821,56,Katy Perry
+PRISM (Deluxe),6,5jrdCoLpJSvHHorevXBATy,Dark Horse,spotify:track:5jrdCoLpJSvHHorevXBATy,0.00314,0.645,0.585,0,0.165,-6.122,0.0513,131.931,0.353,80,Katy Perry
+PRISM (Deluxe),7,5vL0yvddknhGj7IrBc6UTj,This Is How We Do,spotify:track:5vL0yvddknhGj7IrBc6UTj,0.0203,0.69,0.636,0,0.147,-6.028,0.0457,96,0.8,66,Katy Perry
+PRISM (Deluxe),8,5OzIe9IL95B23n4rN59JZ3,International Smile,spotify:track:5OzIe9IL95B23n4rN59JZ3,0.0278,0.514,0.817,0,0.137,-4.269,0.0482,129.98,0.548,54,Katy Perry
+PRISM (Deluxe),10,2BSFAQuiYKu4VcMjovRgRQ,Love Me,spotify:track:2BSFAQuiYKu4VcMjovRgRQ,0.384,0.576,0.626,0,0.108,-6.004,0.0445,142.912,0.431,48,Katy Perry
+PRISM (Deluxe),11,0NfwNHAyi4s9HVes4JkaXA,This Moment,spotify:track:0NfwNHAyi4s9HVes4JkaXA,0.118,0.774,0.769,0,0.0938,-3.798,0.0929,112.943,0.244,47,Katy Perry
+PRISM (Deluxe),12,2ve1HouBhfDbqROVQm2IBd,Double Rainbow,spotify:track:2ve1HouBhfDbqROVQm2IBd,0.27,0.618,0.645,0,0.0645,-7.937,0.0617,96.016,0.412,47,Katy Perry
+PRISM (Deluxe),13,2IRK3qdY6BzbKxKr8eBk8o,By The Grace Of God,spotify:track:2IRK3qdY6BzbKxKr8eBk8o,0.688,0.444,0.367,0,0.11,-7.987,0.0302,162.785,0.217,48,Katy Perry
+PRISM (Deluxe),14,6lOS1dPkjHlAzRCMplJupN,Spiritual,spotify:track:6lOS1dPkjHlAzRCMplJupN,0.0635,0.624,0.748,2.28E-06,0.104,-5.117,0.029,104.992,0.435,46,Katy Perry
+PRISM (Deluxe),15,4MxGfhE3DKxBhdSWTYvc4h,It Takes Two,spotify:track:4MxGfhE3DKxBhdSWTYvc4h,0.0951,0.724,0.673,0,0.0844,-4.348,0.0335,95.98,0.509,50,Katy Perry
+PRISM (Deluxe),16,3rHUpjfq9JjrfaTsEAmQBC,Choose Your Battles,spotify:track:3rHUpjfq9JjrfaTsEAmQBC,0.0246,0.712,0.838,1.01E-06,0.0646,-5.912,0.0859,104.014,0.281,44,Katy Perry
+PRISM,1,27tNWlhdAryQY04Gb2ZhUI,Roar,spotify:track:27tNWlhdAryQY04Gb2ZhUI,0.00492,0.671,0.771,7.28E-06,0.354,-4.821,0.0316,90.003,0.436,81,Katy Perry
+PRISM,5,009ImBOrIUlWgla8U05RAC,Unconditionally,spotify:track:009ImBOrIUlWgla8U05RAC,0.00273,0.432,0.725,0,0.208,-4.862,0.0431,128.902,0.353,83,Katy Perry
+PRISM,9,2Vl6VlxpDQk99QU7TfQGjO,Ghost,spotify:track:2Vl6VlxpDQk99QU7TfQGjO,0.0372,0.55,0.624,0,0.123,-5.372,0.0406,125.007,0.34,47,Katy Perry
+Teenage Dream: The Complete Confection,2,455AfCsOhhLPRc68sE01D8,Last Friday Night (T.G.I.F.),spotify:track:455AfCsOhhLPRc68sE01D8,0.00125,0.649,0.815,4.31E-05,0.671,-3.796,0.0415,126.03,0.765,79,Katy Perry
+Teenage Dream: The Complete Confection,3,6tS3XVuOyu10897O3ae7bi,California Gurls,spotify:track:6tS3XVuOyu10897O3ae7bi,0.00446,0.791,0.754,0,0.163,-3.729,0.0569,125.014,0.425,77,Katy Perry
+Teenage Dream: The Complete Confection,5,0rXw5rWZpOdfeeCbMln8MU,Peacock,spotify:track:0rXw5rWZpOdfeeCbMln8MU,0.0563,0.825,0.759,0,0.202,-3.121,0.0427,139.975,0.942,56,Katy Perry
+Teenage Dream: The Complete Confection,6,7s0YfJE6hNNYq9BV26iCw6,Circle The Drain,spotify:track:7s0YfJE6hNNYq9BV26iCw6,0.00735,0.7,0.775,0,0.082,-3.94,0.0809,134.932,0.751,51,Katy Perry
+Teenage Dream: The Complete Confection,7,3oL3XRtkP1WVbMxf7dtTdu,The One That Got Away,spotify:track:3oL3XRtkP1WVbMxf7dtTdu,0.000802,0.687,0.792,0,0.2,-4.023,0.0353,133.962,0.864,78,Katy Perry
+Teenage Dream: The Complete Confection,8,4z8ssgZfs5TzKiO8HaGWXO,E.T.,spotify:track:4z8ssgZfs5TzKiO8HaGWXO,0.0213,0.603,0.872,0,0.366,-5.404,0.0792,150.104,0.691,75,Katy Perry
+Teenage Dream: The Complete Confection,9,6WR4l21xoK1pQDhjxg7wg7,Who Am I Living For?,spotify:track:6WR4l21xoK1pQDhjxg7wg7,0.0324,0.723,0.645,0,0.131,-6.392,0.0402,119.989,0.487,50,Katy Perry
+Teenage Dream: The Complete Confection,10,0SrCokfLVXjRV94KpP3iPm,Pearl,spotify:track:0SrCokfLVXjRV94KpP3iPm,0.127,0.559,0.577,0,0.31,-6.279,0.0381,116.126,0.219,48,Katy Perry
+Teenage Dream: The Complete Confection,11,089keBWJUOsI9wUeVr1uIr,Hummingbird Heartbeat,spotify:track:089keBWJUOsI9wUeVr1uIr,0.00241,0.596,0.896,0,0.0913,-2.946,0.0945,121.957,0.62,51,Katy Perry
+Teenage Dream: The Complete Confection,12,1EFNEJyZUsctm6yVzGqLl6,Not Like The Movies,spotify:track:1EFNEJyZUsctm6yVzGqLl6,0.881,0.402,0.479,2.75E-06,0.111,-7.75,0.0916,183.013,0.257,51,Katy Perry
+Teenage Dream: The Complete Confection,13,5jx8tCxiO0uIbo2uNia23K,The One That Got Away - Acoustic,spotify:track:5jx8tCxiO0uIbo2uNia23K,0.697,0.714,0.434,0,0.0919,-11.542,0.0396,123.942,0.352,72,Katy Perry
+Teenage Dream: The Complete Confection,14,1nZzRJbFvCEct3uzu04ZoL,Part Of Me,spotify:track:1nZzRJbFvCEct3uzu04ZoL,0.000417,0.678,0.918,0,0.0744,-4.63,0.0355,130.028,0.769,78,Katy Perry
+Teenage Dream: The Complete Confection,15,5JLv62qFIS1DR3zGEcApRt,Wide Awake,spotify:track:5JLv62qFIS1DR3zGEcApRt,0.0749,0.514,0.683,2.64E-06,0.392,-5.099,0.0367,159.814,0.575,71,Katy Perry
+Teenage Dream: The Complete Confection,16,7GsYM767NTEiUFjq00tspw,Dressin' Up,spotify:track:7GsYM767NTEiUFjq00tspw,0.0201,0.715,0.783,0.000684,0.104,-6.146,0.0785,141.558,0.459,49,Katy Perry
+Teenage Dream: The Complete Confection,19,5Rilw7PyAua7lmQCYPiQKq,Tommie Sunshine's Megasix Smash-Up,spotify:track:5Rilw7PyAua7lmQCYPiQKq,0.0196,0.805,0.704,0,0.124,-1.878,0.0417,131.017,0.727,50,Katy Perry
+Teenage Dream,1,235LXPXfi0SmOaS9TaCh3c,Teenage Dream,spotify:track:235LXPXfi0SmOaS9TaCh3c,0.0162,0.719,0.798,2.34E-06,0.134,-4.582,0.0361,120.011,0.591,73,Katy Perry
+Teenage Dream,4,1mXuMM6zjPgjL4asbBsgnt,Firework,spotify:track:1mXuMM6zjPgjL4asbBsgnt,0.141,0.638,0.832,0,0.113,-5.039,0.049,124.071,0.648,77,Katy Perry
+Teenage Dream,13,0PRqWiyOFMHVee81mr1bp6,If We Ever Meet Again,spotify:track:0PRqWiyOFMHVee81mr1bp6,0.00796,0.645,0.606,0,0.0751,-7.157,0.0301,126.008,0.369,51,Katy Perry
+Teenage Dream,14,1CuzzAbJ4q28V5JOLCzQVp,Starstrukk,spotify:track:1CuzzAbJ4q28V5JOLCzQVp,0.00153,0.605,0.795,0,0.207,-6.086,0.0712,139.896,0.263,47,Katy Perry
+Teenage Dream,15,7BAuEd5WLrd4gHKyInRk4B,California Gurls - Passion Pit Main Mix,spotify:track:7BAuEd5WLrd4gHKyInRk4B,0.00526,0.726,0.63,0.000354,0.0679,-8.249,0.0504,131.966,0.763,31,Katy Perry
+Teenage Dream,16,38XaC5ruJI06vqa3uKeB0K,California Gurls - Armand Van Helden Remix,spotify:track:38XaC5ruJI06vqa3uKeB0K,0.0698,0.797,0.961,0.00482,0.329,-5.043,0.212,128.901,0.352,30,Katy Perry
+Teenage Dream,17,3CVi9Tc6zZgaHnkjvj7obb,Teenage Dream - Kaskade Club Remix,spotify:track:3CVi9Tc6zZgaHnkjvj7obb,0.000195,0.554,0.613,7.15E-06,0.19,-5.987,0.0982,125.983,0.572,32,Katy Perry
+Teenage Dream,14,6thrhxX8KYuhcqpVT488Jq,California Gurls - MSTRKRFT Main Mix,spotify:track:6thrhxX8KYuhcqpVT488Jq,0.00704,0.651,0.607,1.41E-06,0.0693,-4.352,0.0718,130.009,0.397,22,Katy Perry
+Teenage Dream,16,14QWEwDmem7WvTebFflddC,Peacock - Cory Enemy & Mia Moretti Vocal Club Mix,spotify:track:14QWEwDmem7WvTebFflddC,0.0373,0.796,0.805,0,0.0892,-4.238,0.186,129.999,0.738,18,Katy Perry
+Teenage Dream,13,06tHNmt00QbOsR40394yCJ,California Gurls - Innerpartysystem Main Mix,spotify:track:06tHNmt00QbOsR40394yCJ,0.00924,0.772,0.727,5.97E-05,0.652,-6.817,0.0845,124.993,0.603,3,Katy Perry

@@ -1,0 +1,58 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Glory Sound Prep,1,1EAZ0APxPiVuzDb7R5TfVI,Conversations with my Wife,spotify:track:1EAZ0APxPiVuzDb7R5TfVI,0.0222,0.496,0.487,1.85E-05,0.638,-7.003,0.0301,138.187,0.321,57,Jon Bellion
+Glory Sound Prep,2,1eftOUoeMO1JkSQQmS6jXF,JT,spotify:track:1eftOUoeMO1JkSQQmS6jXF,0.0168,0.518,0.587,1.19E-06,0.206,-7.937,0.12,98.367,0.631,54,Jon Bellion
+Glory Sound Prep,3,2X1Tygc4uVunRgzNkFb1mG,"Let's Begin (feat. Roc Marciano, RZA, B.Keyz & Travis Mendes)",spotify:track:2X1Tygc4uVunRgzNkFb1mG,0.29,0.647,0.749,1.19E-06,0.126,-5.056,0.42,91.902,0.585,48,Jon Bellion
+Glory Sound Prep,4,7cK7hDrE7vAesPf8xd5zmb,Stupid Deep,spotify:track:7cK7hDrE7vAesPf8xd5zmb,0.732,0.362,0.377,0.000631,0.127,-9.713,0.0339,137.891,0.294,64,Jon Bellion
+Glory Sound Prep,5,359Q4gGdrQIFhRzs7J8gZu,The Internet,spotify:track:359Q4gGdrQIFhRzs7J8gZu,0.106,0.767,0.792,1.02E-05,0.145,-5.053,0.225,119.168,0.699,53,Jon Bellion
+Glory Sound Prep,6,4FUDWkguOUVpLRAVn5C20z,Blu,spotify:track:4FUDWkguOUVpLRAVn5C20z,0.29,0.384,0.465,2.22E-05,0.359,-8.554,0.0341,131.604,0.636,64,Jon Bellion
+Glory Sound Prep,7,7HKSWfpxHhllSmoLk9AQz8,Adult Swim (feat. Tuamie),spotify:track:7HKSWfpxHhllSmoLk9AQz8,0.244,0.701,0.828,0,0.417,-5.606,0.297,89.988,0.651,52,Jon Bellion
+Glory Sound Prep,8,7pMS0byKI7V1Mpl0SlWEDq,Couples Retreat,spotify:track:7pMS0byKI7V1Mpl0SlWEDq,0.0118,0.347,0.672,0.000154,0.245,-6.661,0.52,195.225,0.565,48,Jon Bellion
+Glory Sound Prep,9,6BbANlpji0u8ZlqyPVMQiM,Cautionary Tales,spotify:track:6BbANlpji0u8ZlqyPVMQiM,0.0122,0.582,0.55,2.77E-05,0.128,-8.474,0.0448,94.087,0.696,51,Jon Bellion
+Glory Sound Prep,10,1SefvAcZtoZo22njnX2qy7,Mah's Joint (feat. Quincy Jones),spotify:track:1SefvAcZtoZo22njnX2qy7,0.317,0.271,0.474,0.000489,0.097,-9.718,0.0498,177.907,0.362,48,Jon Bellion
+The Human Condition,1,11P6ab6Sa2LDOjhiH0kpX7,He Is The Same,spotify:track:11P6ab6Sa2LDOjhiH0kpX7,0.226,0.685,0.597,0.00177,0.12,-4.828,0.19,90.677,0.371,52,Jon Bellion
+The Human Condition,2,5KSNxyuyp5K1kDT6LvX8oZ,80's Films,spotify:track:5KSNxyuyp5K1kDT6LvX8oZ,0.0288,0.507,0.461,0,0.0483,-7.761,0.128,136.219,0.665,55,Jon Bellion
+The Human Condition,4,3YQXkAqmNFWfUFlL3HgMbS,New York Soul - Pt. ii,spotify:track:3YQXkAqmNFWfUFlL3HgMbS,0.00734,0.516,0.672,1.21E-06,0.155,-4.491,0.238,86.001,0.297,50,Jon Bellion
+The Human Condition,5,2UiPa2Dc6w4EyWtDxP07UQ,Fashion,spotify:track:2UiPa2Dc6w4EyWtDxP07UQ,0.334,0.571,0.354,0,0.179,-8.529,0.0534,141.502,0.36,49,Jon Bellion
+The Human Condition,6,6pTDPaMcN5KSYD8hJ1uWId,Maybe IDK,spotify:track:6pTDPaMcN5KSYD8hJ1uWId,0.0616,0.54,0.54,0,0.231,-6.517,0.0539,120.266,0.209,57,Jon Bellion
+The Human Condition,7,1zTW7xRtxmprjTUDi6bAHg,Woke The F*ck Up,spotify:track:1zTW7xRtxmprjTUDi6bAHg,0.0406,0.687,0.622,0,0.0653,-5.338,0.0987,93.994,0.624,59,Jon Bellion
+The Human Condition,8,48LwbDH7u5UMrsY3sjfjhe,Overwhelming,spotify:track:48LwbDH7u5UMrsY3sjfjhe,0.252,0.748,0.622,0,0.112,-4.518,0.225,91.77,0.667,63,Jon Bellion
+The Human Condition,9,6dVcavGKwvUjk998frTljW,Weight Of The World,spotify:track:6dVcavGKwvUjk998frTljW,0.451,0.365,0.613,0,0.0752,-4.847,0.0682,139.659,0.439,51,Jon Bellion
+The Human Condition,10,0XA9B3KXLmdgaQ2KcIJa3h,The Good In Me,spotify:track:0XA9B3KXLmdgaQ2KcIJa3h,0.134,0.652,0.53,0,0.137,-4.744,0.0497,122.028,0.335,54,Jon Bellion
+The Human Condition,11,2JXNOtb0ANe6MzgRYDQG2J,Morning In America,spotify:track:2JXNOtb0ANe6MzgRYDQG2J,0.129,0.735,0.665,0,0.0803,-5.933,0.0819,102.018,0.593,56,Jon Bellion
+The Human Condition,12,453QwgDIG95NmmLqSxnPsR,iRobot,spotify:track:453QwgDIG95NmmLqSxnPsR,0.229,0.377,0.576,1.07E-05,0.161,-4.951,0.0639,206.235,0.265,55,Jon Bellion
+The Human Condition,13,2FK1qmw8XNBqUe5CcgTVnE,Guillotine,spotify:track:2FK1qmw8XNBqUe5CcgTVnE,0.102,0.574,0.803,4.15E-06,0.0861,-3.17,0.186,97.967,0.647,64,Jon Bellion
+The Human Condition,14,6ej9jEXBeQI7PTbx68KHfi,Hand Of God - Outro,spotify:track:6ej9jEXBeQI7PTbx68KHfi,0.302,0.538,0.538,0,0.121,-6.601,0.164,153.958,0.389,56,Jon Bellion
+The Human Condition,3,1CnPYaKxTVb4LWOtiGOm0m,All Time Low,spotify:track:1CnPYaKxTVb4LWOtiGOm0m,0.0584,0.617,0.567,0,0.0933,-4.188,0.0828,90.246,0.505,76,Jon Bellion
+The Definition,1,28pdIEbChDEj6JdhAuuXU9,Munny Right,spotify:track:28pdIEbChDEj6JdhAuuXU9,0.627,0.471,0.503,5.62E-05,0.478,-6.213,0.162,90.237,0.175,49,Jon Bellion
+The Definition,2,6luhvKibJJNM4P64RLNwgg,Carry Your Throne,spotify:track:6luhvKibJJNM4P64RLNwgg,0.466,0.568,0.846,0.000406,0.0901,-5.227,0.068,80.019,0.398,54,Jon Bellion
+The Definition,3,0i4Zkb6Ts5JqLJIAMNzSSl,Pre-Occupied,spotify:track:0i4Zkb6Ts5JqLJIAMNzSSl,0.281,0.752,0.743,2.45E-06,0.543,-6.161,0.299,89.065,0.485,46,Jon Bellion
+The Definition,4,23n7KwXOXC9giXTz5Q71NH,Human,spotify:track:23n7KwXOXC9giXTz5Q71NH,0.719,0.647,0.339,1.89E-06,0.104,-8.551,0.185,93.339,0.653,53,Jon Bellion
+The Definition,5,0FsGUPoOMHzHnViGBKbBLX,Run Wild,spotify:track:0FsGUPoOMHzHnViGBKbBLX,0.221,0.636,0.541,0,0.13,-7.691,0.224,90.898,0.789,52,Jon Bellion
+The Definition,6,647YDaQTk75guVjjMQQJt0,A Haunted House,spotify:track:647YDaQTk75guVjjMQQJt0,0.841,0.555,0.328,0,0.0971,-8.569,0.09,79.454,0.294,45,Jon Bellion
+The Definition,7,6pAQxv1etMEoTLiE1zZS1z,Jungle,spotify:track:6pAQxv1etMEoTLiE1zZS1z,0.201,0.777,0.519,1.51E-06,0.0134,-6.032,0.361,90.15,0.715,49,Jon Bellion
+The Definition,8,0wUlGPa8He68F9TmLKdcL4,Simple & Sweet,spotify:track:0wUlGPa8He68F9TmLKdcL4,0.487,0.544,0.394,0.000404,0.0567,-8.369,0.0501,109.92,0.674,53,Jon Bellion
+The Definition,9,0naWM5NRyTF2xqxYO3o4Iy,An Immigrant,spotify:track:0naWM5NRyTF2xqxYO3o4Iy,0.227,0.544,0.501,1.03E-06,0.0403,-8.778,0.485,182.397,0.606,44,Jon Bellion
+The Definition,10,6wmYBQnVQ7IQpgiMYjjNN2,Ooh,spotify:track:6wmYBQnVQ7IQpgiMYjjNN2,0.82,0.827,0.405,8.01E-05,0.103,-8.95,0.0463,114.989,0.531,53,Jon Bellion
+The Definition,11,5CgFGKdTn8R5dXGEPEX6Gm,Luxury,spotify:track:5CgFGKdTn8R5dXGEPEX6Gm,0.0159,0.67,0.393,0.000307,0.104,-9.158,0.122,77.461,0.193,55,Jon Bellion
+The Separation,1,0WGIBojlsV9GT4A5xwjkE4,Eyes To The Sky,spotify:track:0WGIBojlsV9GT4A5xwjkE4,0.317,0.743,0.648,0,0.402,-5.116,0.296,85.933,0.688,49,Jon Bellion
+The Separation,2,1TCSh3FmB3Hhi5KeyHr7l3,Jim Morrison,spotify:track:1TCSh3FmB3Hhi5KeyHr7l3,0.523,0.607,0.569,1.05E-05,0.0845,-6.438,0.413,119.446,0.289,46,Jon Bellion
+The Separation,3,03RNpvzwMGViDHvZKfbNIo,Halloween,spotify:track:03RNpvzwMGViDHvZKfbNIo,0.285,0.807,0.757,0,0.311,-4.43,0.185,99.939,0.534,45,Jon Bellion
+The Separation,4,7pqWbzEcQOahkdDeTQJSUP,2 Rocking Chairs,spotify:track:7pqWbzEcQOahkdDeTQJSUP,0.257,0.758,0.46,0,0.128,-8.067,0.415,92.057,0.706,45,Jon Bellion
+The Separation,5,6p9vTtbwiVHMahR5UwNI7k,Ungrateful Eyes,spotify:track:6p9vTtbwiVHMahR5UwNI7k,0.213,0.786,0.75,5.62E-06,0.0869,-5.137,0.0496,119.967,0.656,48,Jon Bellion
+The Separation,6,4wPbR6XonWB7fiyWUMAaH2,One More Time,spotify:track:4wPbR6XonWB7fiyWUMAaH2,0.0132,0.622,0.758,0,0.0615,-5.384,0.0603,119.927,0.327,44,Jon Bellion
+The Separation,7,7KucgC6JOASHQ0qDtKeomv,To My Future Wife...,spotify:track:7KucgC6JOASHQ0qDtKeomv,0.394,0.464,0.371,1.11E-06,0.0956,-7.348,0.0319,138.898,0.331,43,Jon Bellion
+The Separation,8,7FuyL5VZ172qCdq6opFpq4,A Dedicated Instrumental,spotify:track:7FuyL5VZ172qCdq6opFpq4,0.133,0.864,0.495,0.00947,0.0321,-6.914,0.384,99.675,0.874,38,Jon Bellion
+The Separation,9,06P0q7wYr1S1fqrkewX03G,When The Lions Come,spotify:track:06P0q7wYr1S1fqrkewX03G,0.272,0.568,0.879,0,0.192,-3.965,0.421,152.118,0.24,47,Jon Bellion
+The Separation,10,6ohJSdVEIrNnHMKJWKM9vz,NewYorkSoul,spotify:track:6ohJSdVEIrNnHMKJWKM9vz,0.958,0.759,0.215,2.01E-06,0.134,-13.638,0.039,128.09,0.44,44,Jon Bellion
+The Separation,11,0NaL5rj4VAuEYEuQsk7thM,"Superman, The Gift And The Curse",spotify:track:0NaL5rj4VAuEYEuQsk7thM,0.0733,0.627,0.667,0,0.0835,-4.952,0.421,83.663,0.579,42,Jon Bellion
+The Separation,12,2TpZlmChocrfeL5J6ed70t,Kingdom Come,spotify:track:2TpZlmChocrfeL5J6ed70t,0.0882,0.911,0.587,2.22E-06,0.149,-5.351,0.247,96.959,0.743,59,Jon Bellion
+Translations Through Speakers,1,1a6LRSRHWS4zKvBjQNaF0S,LIFE,spotify:track:1a6LRSRHWS4zKvBjQNaF0S,0.065,0.431,0.649,0,0.0998,-7.175,0.0679,84.246,0.363,49,Jon Bellion
+Translations Through Speakers,2,0yBylQ4liLmENeK82vnHOb,Don't Ask Cuz I Don't Know,spotify:track:0yBylQ4liLmENeK82vnHOb,0.249,0.611,0.565,0,0.149,-5.843,0.178,173.875,0.578,39,Jon Bellion
+Translations Through Speakers,3,7dElV0d6t6egBMvCVdxv0R,The Wonder Years,spotify:track:7dElV0d6t6egBMvCVdxv0R,0.0825,0.659,0.611,0,0.148,-5.142,0.104,101.438,0.577,44,Jon Bellion
+Translations Through Speakers,4,2XPNF1bC6w4HQUn8QPMsyn,While You Count Sheep,spotify:track:2XPNF1bC6w4HQUn8QPMsyn,0.503,0.799,0.502,3.93E-06,0.143,-6.999,0.0792,97.018,0.819,49,Jon Bellion
+Translations Through Speakers,5,1NWmp48T5k0JyPguEjQWeN,For The Dreamers,spotify:track:1NWmp48T5k0JyPguEjQWeN,0.0643,0.43,0.598,1.02E-06,0.245,-6.797,0.338,175.573,0.495,44,Jon Bellion
+Translations Through Speakers,6,4j6lDQ7Nl4ClcTtur36CMN,Dead Man Walking,spotify:track:4j6lDQ7Nl4ClcTtur36CMN,0.78,0.743,0.42,0,0.109,-7.257,0.328,94.248,0.76,55,Jon Bellion
+Translations Through Speakers,7,1hovFMWdOBsbZWxP3roR0L,Wutup Snow?,spotify:track:1hovFMWdOBsbZWxP3roR0L,0.568,0.606,0.514,0,0.136,-7.309,0.363,90.717,0.282,40,Jon Bellion
+Translations Through Speakers,8,51x3XywvkwlEBCzunhWoc8,Waves Of Loneliness,spotify:track:51x3XywvkwlEBCzunhWoc8,0.292,0.75,0.797,0,0.376,-5.097,0.133,133.974,0.637,46,Jon Bellion
+Translations Through Speakers,9,3AzQU9PUcGe9wLERQpDXQA,Paper Planes,spotify:track:3AzQU9PUcGe9wLERQpDXQA,0.645,0.481,0.431,0,0.329,-8.056,0.0804,162.03,0.545,45,Jon Bellion
+Translations Through Speakers,10,7ftFKr5YodntV2NlzbUgIy,Timeless,spotify:track:7ftFKr5YodntV2NlzbUgIy,0.322,0.667,0.67,0,0.267,-6.012,0.178,96.791,0.651,44,Jon Bellion

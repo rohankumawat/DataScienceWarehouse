@@ -1,0 +1,239 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Children Beyond,1,4Cog1TSJc7nVcqA86IBRws,Calling by Tina,spotify:track:4Cog1TSJc7nVcqA86IBRws,0.692,0.401,0.644,0.422,0.133,-7.685,0.0428,167.986,0.107,32,Tina Turner
+Children Beyond,2,7KEq86lOihE0l2an8lKHS7,Om Ah Hum,spotify:track:7KEq86lOihE0l2an8lKHS7,0.543,0.362,0.592,0.905,0.0766,-6.139,0.0288,100.006,0.157,33,Tina Turner
+Children Beyond,3,6zZoj5RN6t3vxMIpulUmdR,Allah Hu,spotify:track:6zZoj5RN6t3vxMIpulUmdR,0.347,0.614,0.542,0.0014,0.106,-6.009,0.0276,81.089,0.426,28,Tina Turner
+Children Beyond,4,1mY7abfCWzILeGyj4bEdPF,Kol Ha' Olam Kulo,spotify:track:1mY7abfCWzILeGyj4bEdPF,0.356,0.472,0.663,0.00273,0.13,-4.237,0.0288,128.114,0.463,25,Tina Turner
+Children Beyond,5,2SJYx92lLa2F6fRu1SjslO,Halleluja,spotify:track:2SJYx92lLa2F6fRu1SjslO,0.947,0.368,0.374,0.00195,0.0739,-5.715,0.0285,81.921,0.306,24,Tina Turner
+Children Beyond,6,5OJdtN0cTpC35jLeTpIm1k,Sa Ta Na Ma,spotify:track:5OJdtN0cTpC35jLeTpIm1k,0.286,0.489,0.577,0.932,0.333,-6.247,0.0255,98.013,0.229,24,Tina Turner
+Children Beyond,7,0BgGiBgSWjSxnnH0AFdRPo,Ganesha Sharanam,spotify:track:0BgGiBgSWjSxnnH0AFdRPo,0.107,0.647,0.896,0.00317,0.305,-5.98,0.0549,152.101,0.851,23,Tina Turner
+Children Beyond,8,1uk5yykU7w0K80RWa152tv,Buddham Saranam Gacchami (feat. Nurbu & Nyima),spotify:track:1uk5yykU7w0K80RWa152tv,0.26,0.514,0.678,0.839,0.115,-7.559,0.0387,170.049,0.174,27,Tina Turner
+Children Beyond,9,4hVRYEm2KqyFaKcJIhV8cj,Jai Da Da,spotify:track:4hVRYEm2KqyFaKcJIhV8cj,0.299,0.51,0.502,0.277,0.0893,-6.507,0.0275,115.048,0.421,24,Tina Turner
+Children Beyond,10,5u1ojiP7cizl2X9hrdrZkq,Sallallah' Ala Muhammad,spotify:track:5u1ojiP7cizl2X9hrdrZkq,0.285,0.539,0.559,0.141,0.0992,-7.485,0.0477,147.97,0.167,21,Tina Turner
+Children Beyond,11,2kxocnSlThRzGOkDZRXUMr,Veni Sancte Spiritus,spotify:track:2kxocnSlThRzGOkDZRXUMr,0.926,0.228,0.307,1.15E-06,0.104,-8.148,0.0323,98.745,0.0748,21,Tina Turner
+Children Beyond,12,30Uc6thYptafrm2OUaJsvA,Ra Ma Da Sa,spotify:track:30Uc6thYptafrm2OUaJsvA,0.4,0.301,0.314,0.000803,0.102,-6.133,0.0292,183.286,0.0733,21,Tina Turner
+Children Beyond,13,3KJxdAap5EagN5qjaUEutL,Sarvesham Svastir Bhavatu,spotify:track:3KJxdAap5EagN5qjaUEutL,0.0638,0.546,0.57,0.0252,0.11,-6.04,0.0295,130.015,0.217,45,Tina Turner
+Children Beyond,14,2xCiTMXetSojx2KStK1koN,Unity,spotify:track:2xCiTMXetSojx2KStK1koN,0.773,0.167,0.305,0.833,0.111,-8.319,0.0361,150.535,0.0515,28,Tina Turner
+Children Beyond,15,7N0HRcaFXOT5v3zk6DM4T8,Breathing In Breathing Out (feat. Alexandra Keller),spotify:track:7N0HRcaFXOT5v3zk6DM4T8,0.0582,0.395,0.473,7.41E-05,0.105,-6.237,0.028,130.028,0.209,25,Tina Turner
+Children Beyond,16,3BpAOG7vq6i4qJCyOz59ga,Breathing In Breathing Out (Instrumental),spotify:track:3BpAOG7vq6i4qJCyOz59ga,0.00861,0.54,0.527,0.465,0.118,-8.349,0.0276,129.997,0.229,19,Tina Turner
+Tina Live,1,4AwlNDyxEDTFx1iFpVFTxo,Steamy Windows - Live in Arnhem,spotify:track:4AwlNDyxEDTFx1iFpVFTxo,0.00177,0.44,0.961,0.218,0.987,-3.018,0.0672,141.94,0.34,36,Tina Turner
+Tina Live,2,4ZmqtdMKZDpRbbqZTqN1xw,"River Deep, Mountain High - Live in Arnhem",spotify:track:4ZmqtdMKZDpRbbqZTqN1xw,0.16,0.364,0.943,2.87E-06,0.977,-2.941,0.0932,156.342,0.345,42,Tina Turner
+Tina Live,3,6EeIbYgPcMLt7g6wiGg06L,What You Get Is What You See - Live in Arnhem,spotify:track:6EeIbYgPcMLt7g6wiGg06L,0.0374,0.431,0.967,8.75E-05,0.938,-3.28,0.0755,162.438,0.614,33,Tina Turner
+Tina Live,4,0kgh8n3SzYp6GMHpPL3gvz,Better Be Good to Me - Live in Arnhem,spotify:track:0kgh8n3SzYp6GMHpPL3gvz,0.00733,0.456,0.99,0.0189,0.967,-3.132,0.112,142.055,0.156,32,Tina Turner
+Tina Live,5,5s0b3c1FUhcXkqn2r6Lqm5,What's Love Got to Do with It - Live in Arnhem,spotify:track:5s0b3c1FUhcXkqn2r6Lqm5,0.292,0.553,0.95,4.54E-05,0.984,-3.516,0.111,101.183,0.285,44,Tina Turner
+Tina Live,6,4oyZsh1Uj6Fk5wthpmyO6B,Private Dancer - Live in Arnhem,spotify:track:4oyZsh1Uj6Fk5wthpmyO6B,0.103,0.491,0.814,0.104,0.988,-4.978,0.042,107.423,0.247,33,Tina Turner
+Tina Live,7,3Ows21GyRpbFbrThLJnmZ2,We Don't Need Another Hero (Thunderdome) - Live in Arnhem,spotify:track:3Ows21GyRpbFbrThLJnmZ2,0.0186,0.516,0.922,0.00644,0.985,-3.747,0.0418,100.009,0.337,34,Tina Turner
+Tina Live,8,3s8kags8YYC6P8l50BGZn9,Let's Stay Together - Live in Arnhem,spotify:track:3s8kags8YYC6P8l50BGZn9,0.419,0.24,0.862,1.09E-05,0.979,-5.378,0.127,199.781,0.24,30,Tina Turner
+Tina Live,9,2gwclWRoK6Qw4W1SlgfyGE,Jumpin' Jack Flash - Live in Arnhem,spotify:track:2gwclWRoK6Qw4W1SlgfyGE,0.0167,0.424,0.973,0.27,0.746,-4.046,0.0974,149.81,0.51,42,Tina Turner
+Tina Live,10,3Zhv08moCHflWTjMd72K51,It's Only Rock 'N' Roll (But I Like It) (feat. Lisa Fischer) - Live in Arnhem,spotify:track:3Zhv08moCHflWTjMd72K51,0.0976,0.469,0.978,4.90E-06,0.963,-3.487,0.109,134.486,0.297,31,Tina Turner
+Tina Live,11,6tq7Ju7gIbcwlOYgMkPHke,Goldeneye - Live in Arnhem,spotify:track:6tq7Ju7gIbcwlOYgMkPHke,0.00848,0.237,0.745,8.11E-06,0.843,-5.12,0.0402,203.836,0.137,30,Tina Turner
+Tina Live,12,2zI35WhpGKTpzfZXkcs6OQ,Addicted to Love - Live in Arnhem,spotify:track:2zI35WhpGKTpzfZXkcs6OQ,0.00631,0.537,0.983,0.00142,0.997,-3.993,0.125,124.003,0.281,35,Tina Turner
+Tina Live,13,1JLLDS0KN1ITeYL9ikHKIr,Simply the Best - Live in Arnhem,spotify:track:1JLLDS0KN1ITeYL9ikHKIr,0.0162,0.548,0.96,0.0013,0.937,-4.017,0.0662,117.975,0.165,54,Tina Turner
+Tina Live,14,2H8bowPGDu0iOymjuw7J0G,Proud Mary - Live in Arnhem,spotify:track:2H8bowPGDu0iOymjuw7J0G,0.0875,0.254,0.929,4.95E-05,0.787,-4.939,0.243,162,0.203,43,Tina Turner
+Tina Live,15,223Y3BYXy404NdxbFjGg6L,Nutbush City Limits - Live in Arnhem,spotify:track:223Y3BYXy404NdxbFjGg6L,0.0367,0.33,0.976,0.00296,0.981,-4.399,0.137,172.374,0.218,33,Tina Turner
+Ike & Tina Turner,1,2JN8Hkv1kdZPA0MQsBCvlk,A Fool In Love,spotify:track:2JN8Hkv1kdZPA0MQsBCvlk,0.22,0.677,0.754,6.10E-06,0.285,-8.791,0.0556,116.791,0.853,18,Tina Turner
+Ike & Tina Turner,2,7oaeDE4iprFg4dkkw2hS3W,I'm Fed Up,spotify:track:7oaeDE4iprFg4dkkw2hS3W,0.542,0.688,0.639,0.000387,0.143,-7.532,0.0466,121.032,0.853,16,Tina Turner
+Ike & Tina Turner,3,2Tzemv10AzzpbBRvKYvyG6,It Sho Ain't Me,spotify:track:2Tzemv10AzzpbBRvKYvyG6,0.61,0.542,0.456,0.000275,0.129,-8.256,0.0243,92.729,0.235,16,Tina Turner
+Ike & Tina Turner,4,2yVqo4SF5yV0YOKBLzAi3A,Too Hot To Hold,spotify:track:2yVqo4SF5yV0YOKBLzAi3A,0.29,0.736,0.498,0.00252,0.385,-8.817,0.0525,97.811,0.816,14,Tina Turner
+Ike & Tina Turner,5,2NBwQlSuFLJpejTCT5XIaS,So Fine,spotify:track:2NBwQlSuFLJpejTCT5XIaS,0.424,0.624,0.411,1.28E-06,0.1,-10.271,0.0277,104.947,0.488,14,Tina Turner
+Ike & Tina Turner,6,00Yglxp0Rr8fE9OFrIQaHe,Shake A Tail Feather,spotify:track:00Yglxp0Rr8fE9OFrIQaHe,0.142,0.537,0.854,2.34E-06,0.0805,-9.687,0.0736,76.749,0.891,17,Tina Turner
+Ike & Tina Turner,7,5biVrbTzQzxvn0KhVfVLZD,We Need An Understanding,spotify:track:5biVrbTzQzxvn0KhVfVLZD,0.359,0.709,0.708,0,0.107,-9.551,0.114,75.984,0.967,14,Tina Turner
+Ike & Tina Turner,8,6H9GkJAd1zqa28QJrPruSo,I Better Get Ta' Steppin',spotify:track:6H9GkJAd1zqa28QJrPruSo,0.0396,0.51,0.644,0.000144,0.0294,-10.414,0.0954,174.437,0.727,13,Tina Turner
+Ike & Tina Turner,9,4cEqEsiEK0Tr56bYSXCmfO,Ain't Nobody's Business,spotify:track:4cEqEsiEK0Tr56bYSXCmfO,0.142,0.727,0.814,8.31E-06,0.0824,-7.564,0.0386,132.276,0.98,13,Tina Turner
+Ike & Tina Turner,10,6Zm6S8e2uylLSt3tyyDRaq,It's Gonna Work Out Fine,spotify:track:6Zm6S8e2uylLSt3tyyDRaq,0.734,0.728,0.68,7.82E-05,0.2,-7.699,0.168,111.392,0.819,13,Tina Turner
+Twenty Four Seven,1,3cAy7GNE2i7XjjEYIYNEhf,Whatever You Need,spotify:track:3cAy7GNE2i7XjjEYIYNEhf,0.235,0.589,0.835,0.000173,0.112,-6.693,0.0535,88.789,0.654,35,Tina Turner
+Twenty Four Seven,2,0z2UX8jBmMfSqh1J5NgssC,All the Woman,spotify:track:0z2UX8jBmMfSqh1J5NgssC,0.122,0.626,0.806,1.96E-06,0.047,-7.999,0.0475,165.756,0.962,21,Tina Turner
+Twenty Four Seven,3,0coFccPox52uxHy3cdLhBr,When the Heartache Is Over,spotify:track:0coFccPox52uxHy3cdLhBr,0.00622,0.688,0.772,7.42E-05,0.073,-6.276,0.0291,114.975,0.43,55,Tina Turner
+Twenty Four Seven,4,5M0lVheDx4o3Gu24zeAwOe,Absolutely Nothing's Changed,spotify:track:5M0lVheDx4o3Gu24zeAwOe,0.00555,0.797,0.858,0.0731,0.154,-7.075,0.029,117.77,0.832,23,Tina Turner
+Twenty Four Seven,5,7MARPzUOFsICreHjQ0mngv,Talk to My Heart,spotify:track:7MARPzUOFsICreHjQ0mngv,0.11,0.63,0.701,0,0.109,-7.65,0.0319,119.8,0.833,25,Tina Turner
+Twenty Four Seven,6,2zGIn2qANKHKsDurGq733y,Don't Leave Me This Way,spotify:track:2zGIn2qANKHKsDurGq733y,0.0606,0.469,0.546,0,0.106,-7.597,0.0595,163.94,0.268,23,Tina Turner
+Twenty Four Seven,7,5hdInmD8ureG613wdmBECy,Go Ahead,spotify:track:5hdInmD8ureG613wdmBECy,0.0155,0.555,0.699,0.249,0.0755,-6.361,0.0395,173.609,0.263,20,Tina Turner
+Twenty Four Seven,8,2OrwEXwceYgKO8YtHQMZXJ,Without You,spotify:track:2OrwEXwceYgKO8YtHQMZXJ,0.0282,0.753,0.852,2.88E-06,0.2,-5.354,0.0686,100.026,0.846,21,Tina Turner
+Twenty Four Seven,9,4G7ruzIprYHy1EnvHwnLGs,Falling,spotify:track:4G7ruzIprYHy1EnvHwnLGs,0.554,0.781,0.332,0.000646,0.087,-9.183,0.0336,153.212,0.577,32,Tina Turner
+Twenty Four Seven,10,0CKqF2MwSf6fvH3xQL2Tf9,I Will Be There,spotify:track:0CKqF2MwSf6fvH3xQL2Tf9,0.427,0.724,0.668,0,0.324,-6.148,0.0261,102.754,0.723,23,Tina Turner
+Twenty Four Seven,11,2dq48h1HVDppjEPEqCwx7u,Twenty Four Seven,spotify:track:2dq48h1HVDppjEPEqCwx7u,0.0218,0.748,0.922,0.000267,0.349,-5.252,0.0285,124.942,0.951,26,Tina Turner
+Twenty Four Seven (Expanded Version),1,76j9kCwnfj5xM4p3BnvYp0,Twenty Four Seven - Live in London '99,spotify:track:76j9kCwnfj5xM4p3BnvYp0,0.0107,0.533,0.885,0.0027,0.982,-5.71,0.042,127.666,0.344,14,Tina Turner
+Twenty Four Seven (Expanded Version),2,7pk5xOBVbJgfWlAyoiqIap,"River Deep, Mountain High - Live in London '99",spotify:track:7pk5xOBVbJgfWlAyoiqIap,0.0841,0.328,0.877,6.87E-05,0.985,-5.848,0.0785,149.17,0.347,17,Tina Turner
+Twenty Four Seven (Expanded Version),3,0HRgivlLFdrfLrURX7jbvX,When the Heartache Is Over - Recorded Live in London '99,spotify:track:0HRgivlLFdrfLrURX7jbvX,0.0256,0.563,0.883,0.00241,0.958,-5.792,0.0374,118.002,0.512,15,Tina Turner
+Twenty Four Seven (Expanded Version),4,4E17f0pEqAJILx1Fz8tiN8,Whatever You Need - Live in London '99,spotify:track:4E17f0pEqAJILx1Fz8tiN8,0.0193,0.351,0.796,0.00251,0.973,-6.69,0.043,88.064,0.196,13,Tina Turner
+Twenty Four Seven (Expanded Version),5,0zneZP2jK1iNzHUKGOQObI,Don't Leave Me This Way - Recorded Live in London '99,spotify:track:0zneZP2jK1iNzHUKGOQObI,0.0214,0.326,0.644,2.23E-06,0.916,-6.377,0.0329,80.827,0.191,12,Tina Turner
+Twenty Four Seven (Expanded Version),6,0ZrVlCY5KjWD2N3VplCZND,Talk to My Heart - Live in London '99,spotify:track:0ZrVlCY5KjWD2N3VplCZND,0.0561,0.507,0.795,0,0.974,-6.474,0.0384,121.203,0.365,13,Tina Turner
+Twenty Four Seven (Expanded Version),7,5WlqWUQcSjKOEKNeQ1jiiC,Hold on I'm Coming - Recorded Live in London '99,spotify:track:5WlqWUQcSjKOEKNeQ1jiiC,0.011,0.466,0.832,0.0388,0.981,-6.025,0.0699,111.604,0.392,20,Tina Turner
+Twenty Four Seven (Expanded Version),8,01pgqpETfoC1SaVSaveVTQ,All the Woman - Recorded Live in London '99,spotify:track:01pgqpETfoC1SaVSaveVTQ,0.0132,0.346,0.89,0.00104,0.978,-5.877,0.0785,173.502,0.507,17,Tina Turner
+Wildest Dreams,12,4GJRaTYfH4kTGcFwyWXT8z,Goldeneye,spotify:track:4GJRaTYfH4kTGcFwyWXT8z,0.00456,0.653,0.51,0.000355,0.073,-10.59,0.0266,102.02,0.373,23,Tina Turner
+Wildest Dreams,1,1VjKN3aUMe3Uyr8KIEzZFZ,Do What You Do,spotify:track:1VjKN3aUMe3Uyr8KIEzZFZ,0.22,0.825,0.708,0.000811,0.192,-3.912,0.0337,104.913,0.763,24,Tina Turner
+Wildest Dreams,2,105O8e996ZPamajj3E9M0Q,Whatever You Want,spotify:track:105O8e996ZPamajj3E9M0Q,0.149,0.599,0.862,2.35E-06,0.316,-4.709,0.0709,105.006,0.362,29,Tina Turner
+Wildest Dreams,3,3h3irV4KpbA9fiNr6V3mtC,Missing You,spotify:track:3h3irV4KpbA9fiNr6V3mtC,0.129,0.66,0.665,0.00119,0.129,-5.484,0.033,104.93,0.351,43,Tina Turner
+Wildest Dreams,5,0yXfyVflNldn0Kb4dgGt1a,Thief of Hearts,spotify:track:0yXfyVflNldn0Kb4dgGt1a,0.0748,0.662,0.857,0,0.133,-4.717,0.0744,113.973,0.324,17,Tina Turner
+Wildest Dreams,6,29n6ozUDsI2METsdBIksJy,In Your Wildest Dreams,spotify:track:29n6ozUDsI2METsdBIksJy,0.26,0.646,0.607,0.0109,0.0861,-8.531,0.0349,88.011,0.583,34,Tina Turner
+Wildest Dreams,7,52gyKQAogIdvABzuwRnr5b,Goldeneye - Single Edit,spotify:track:52gyKQAogIdvABzuwRnr5b,0.0143,0.672,0.635,5.17E-05,0.109,-5.544,0.0273,101.995,0.428,41,Tina Turner
+Wildest Dreams,8,4hQHZeXGLfm4Gtc5xaGe1I,Confidential,spotify:track:4hQHZeXGLfm4Gtc5xaGe1I,0.161,0.705,0.688,0.000337,0.121,-5.605,0.0554,98.98,0.417,20,Tina Turner
+Wildest Dreams,9,0930jOj1gY4cHCEdu6p7fI,Something Beautiful Remains,spotify:track:0930jOj1gY4cHCEdu6p7fI,0.25,0.623,0.699,3.81E-05,0.0761,-7.347,0.033,165.909,0.699,31,Tina Turner
+Wildest Dreams,10,5VrAqqLnMHjDypeiChSTcL,All Kinds of People,spotify:track:5VrAqqLnMHjDypeiChSTcL,0.186,0.488,0.934,0.00444,0.0786,-6.492,0.136,193.418,0.452,18,Tina Turner
+Wildest Dreams,11,3xcBqj2PxjU3suI8Iq8Wvy,Unfinished Sympathy,spotify:track:3xcBqj2PxjU3suI8Iq8Wvy,0.00326,0.591,0.865,0.00346,0.102,-5.386,0.0435,115.01,0.337,21,Tina Turner
+Wildest Dreams,12,0KgUrBvo6ZTqnQHlomAwyn,Dancing in My Dreams,spotify:track:0KgUrBvo6ZTqnQHlomAwyn,0.304,0.286,0.513,0.000242,0.0927,-7.362,0.0635,80.2,0.309,24,Tina Turner
+Wildest Dreams (Expanded Version),4,2ESsNfspVoTIqHuuGbKVQq,On Silent Wings,spotify:track:2ESsNfspVoTIqHuuGbKVQq,0.251,0.52,0.582,0.000944,0.0613,-6.9,0.0337,115.853,0.516,48,Tina Turner
+Wildest Dreams (Expanded Version),1,7e3JHpiOw5yi1H12XPjEuN,In Your Wildest Dreams (feat. Barry White) - Radio Edit,spotify:track:7e3JHpiOw5yi1H12XPjEuN,0.313,0.667,0.601,0.0049,0.0891,-7.812,0.0387,88.037,0.589,48,Tina Turner
+Wildest Dreams (Expanded Version),2,0w8HWY6KCqkHWp0HkNCvns,Something Beautiful Remains - Urban Remix; Edit,spotify:track:0w8HWY6KCqkHWp0HkNCvns,0.0928,0.661,0.488,4.67E-06,0.287,-7.257,0.062,82.849,0.705,16,Tina Turner
+Wildest Dreams (Expanded Version),3,0BhjN9rq1h2pufvYQF9v0e,The Difference Between Us,spotify:track:0BhjN9rq1h2pufvYQF9v0e,0.286,0.757,0.662,0.00029,0.0759,-6.837,0.0475,97.174,0.678,15,Tina Turner
+Wildest Dreams (Expanded Version),4,1FxveqhcFeIkHacLIns3mu,"River Deep, Mountain High - Live",spotify:track:1FxveqhcFeIkHacLIns3mu,0.148,0.347,0.947,0,0.98,-6.337,0.059,157.667,0.626,17,Tina Turner
+Wildest Dreams (Expanded Version),5,23ilr6lfXPsTen31NcrvDq,We Don't Need Another Hero - Live,spotify:track:23ilr6lfXPsTen31NcrvDq,0.113,0.544,0.869,0.00069,0.981,-7.238,0.0345,102.782,0.604,27,Tina Turner
+Wildest Dreams (Expanded Version),7,31StB6r8gyHwMrf4lOezpX,Steamy Windows - Live,spotify:track:31StB6r8gyHwMrf4lOezpX,0.267,0.537,0.946,8.91E-06,0.969,-6.598,0.0342,133.226,0.825,16,Tina Turner
+Wildest Dreams (Expanded Version),8,14APvBITzYlL4QUPqUfb30,The Best - Live,spotify:track:14APvBITzYlL4QUPqUfb30,0.114,0.468,0.928,1.19E-05,0.971,-6.229,0.0566,115.736,0.301,24,Tina Turner
+Wildest Dreams (Expanded Version),9,7MleMcIBR6Ax3oWeAJ38lE,On Silent Wings - Live,spotify:track:7MleMcIBR6Ax3oWeAJ38lE,0.371,0.495,0.821,3.75E-05,0.976,-6.825,0.0379,115.741,0.586,16,Tina Turner
+What's Love Got to Do with It?,1,7IUTUjBJ8mzMwZpyxcI5g0,I Don't Wanna Fight,spotify:track:7IUTUjBJ8mzMwZpyxcI5g0,0.304,0.638,0.762,9.00E-05,0.112,-9.685,0.0381,92.046,0.726,50,Tina Turner
+What's Love Got to Do with It?,2,6XRvAW6Flo5R3v0FXNilVe,Rock Me Baby,spotify:track:6XRvAW6Flo5R3v0FXNilVe,0.162,0.454,0.49,4.60E-05,0.269,-9.792,0.037,78.638,0.719,43,Tina Turner
+What's Love Got to Do with It?,3,4435IXzAIDxcaZaUUKBDx6,Disco Inferno,spotify:track:4435IXzAIDxcaZaUUKBDx6,0.162,0.736,0.733,8.74E-05,0.308,-9.098,0.0306,131.212,0.965,52,Tina Turner
+What's Love Got to Do with It?,4,06zhAbI8721iEjfdXMbxK7,Why Must We Wait Until Tonight,spotify:track:06zhAbI8721iEjfdXMbxK7,0.399,0.734,0.55,0.000913,0.342,-12.691,0.032,89.75,0.672,32,Tina Turner
+What's Love Got to Do with It?,5,4gENKjBd76hTOrRmlca2Jp,Nutbush City Limits,spotify:track:4gENKjBd76hTOrRmlca2Jp,0.145,0.741,0.765,0.00175,0.0191,-9.683,0.0304,150.203,0.963,51,Tina Turner
+What's Love Got to Do with It?,6,2ihQ9hXIeVEnq4N3zv2b2P,(Darlin') You Know I Love You,spotify:track:2ihQ9hXIeVEnq4N3zv2b2P,0.249,0.368,0.748,0.00632,0.427,-9.244,0.0341,90.043,0.758,33,Tina Turner
+What's Love Got to Do with It?,7,6gJdDnF2TzfA1WPMXuCa3x,Proud Mary,spotify:track:6gJdDnF2TzfA1WPMXuCa3x,0.0766,0.397,0.499,1.55E-06,0.111,-10.972,0.0685,171.067,0.367,71,Tina Turner
+What's Love Got to Do with It?,8,0nJw1ePfxoJmaITlSBVgxN,A Fool in Love,spotify:track:0nJw1ePfxoJmaITlSBVgxN,0.678,0.881,0.741,4.01E-06,0.123,-9.963,0.213,128.578,0.919,43,Tina Turner
+What's Love Got to Do with It?,9,3qnVj0DC5OsX0hDs861ugO,It's Gonna Work out Fine,spotify:track:3qnVj0DC5OsX0hDs861ugO,0.279,0.808,0.605,0.00158,0.151,-8.921,0.0303,107.177,0.95,35,Tina Turner
+What's Love Got to Do with It?,10,34qgjBqMzGOqo97DfNyOLf,Stay Awhile,spotify:track:34qgjBqMzGOqo97DfNyOLf,0.398,0.599,0.503,0.000202,0.0973,-10.114,0.0337,156.839,0.347,30,Tina Turner
+What's Love Got to Do with It?,11,5BJul2gz89Qh5xkDoQ1ZPI,I Might Have Been Queen - Soul Survivor,spotify:track:5BJul2gz89Qh5xkDoQ1ZPI,0.172,0.717,0.809,0.00298,0.084,-8.877,0.0328,132.33,0.96,30,Tina Turner
+What's Love Got to Do with It?,12,4kOfxxnW1ukZdsNbCKY9br,What's Love Got to Do with It,spotify:track:4kOfxxnW1ukZdsNbCKY9br,0.219,0.851,0.406,6.41E-06,0.0853,-11.631,0.0661,97.84,0.792,76,Tina Turner
+Foreign Affair,1,3dYmruq1HiKJeOQ8h1OEfz,Steamy Windows,spotify:track:3dYmruq1HiKJeOQ8h1OEfz,0.0626,0.745,0.755,0.00659,0.169,-7.53,0.0318,133.771,0.847,52,Tina Turner
+Foreign Affair,2,6pPWRBubXOBAHnjl5ZIujB,The Best,spotify:track:6pPWRBubXOBAHnjl5ZIujB,0.108,0.662,0.737,0.0191,0.119,-9.54,0.0296,103.867,0.744,74,Tina Turner
+Foreign Affair,3,3KbIenPtDmc0PKmwXGESGT,You Know Who (Is Doing You Know What),spotify:track:3KbIenPtDmc0PKmwXGESGT,0.423,0.785,0.647,0.0175,0.0975,-10.228,0.0393,119.567,0.956,36,Tina Turner
+Foreign Affair,4,0xjFcvVXUpa9NheAMTr4ZV,Undercover Agent for the Blues,spotify:track:0xjFcvVXUpa9NheAMTr4ZV,0.245,0.834,0.54,0.00816,0.0855,-10.359,0.0376,97.114,0.902,38,Tina Turner
+Foreign Affair,5,1Cz1IYLRmCAqGsiRZl0uFC,Look Me in the Heart,spotify:track:1Cz1IYLRmCAqGsiRZl0uFC,0.233,0.766,0.769,0.000225,0.0422,-6.661,0.035,105.519,0.722,45,Tina Turner
+Foreign Affair,6,2lPXW6Fhj4wWpcsJV4dlyt,Be Tender with Me Baby,spotify:track:2lPXW6Fhj4wWpcsJV4dlyt,0.0919,0.451,0.678,0.000481,0.114,-5.915,0.0338,141.402,0.454,43,Tina Turner
+Foreign Affair,7,4xr6gXjl9R6f8FTmmuzpXz,You Can't Stop Me Loving You,spotify:track:4xr6gXjl9R6f8FTmmuzpXz,0.191,0.686,0.868,9.65E-06,0.0583,-8.35,0.0783,91.84,0.874,31,Tina Turner
+Foreign Affair,8,2lgpBjF0e5XvkhYxe9sAj1,Ask Me How I Feel,spotify:track:2lgpBjF0e5XvkhYxe9sAj1,0.12,0.594,0.805,0.00012,0.176,-9.021,0.0351,87.852,0.657,35,Tina Turner
+Foreign Affair,9,4oIwfnQj8kbtLGbfupc3li,Falling like Rain,spotify:track:4oIwfnQj8kbtLGbfupc3li,0.092,0.744,0.812,1.02E-05,0.0689,-9.311,0.0315,110.02,0.846,30,Tina Turner
+Foreign Affair,10,2TxWkdptNrm2Z0CZfMr3Iq,I Don't Wanna Lose You,spotify:track:2TxWkdptNrm2Z0CZfMr3Iq,0.328,0.731,0.7,0,0.278,-6.211,0.0275,94.037,0.54,65,Tina Turner
+Foreign Affair,11,76MFaWkKlGH1ylHDdsVUPY,Not Enough Romance,spotify:track:76MFaWkKlGH1ylHDdsVUPY,0.163,0.691,0.766,9.10E-05,0.0678,-10.833,0.0322,144.653,0.964,30,Tina Turner
+Foreign Affair,12,1tuwxC3imWlflsHGB0plk5,Foreign Affair,spotify:track:1tuwxC3imWlflsHGB0plk5,0.00835,0.722,0.728,0.00148,0.0415,-10.172,0.0312,139.027,0.893,44,Tina Turner
+Foreign Affair (2021 Remaster),1,1oT4JPxnSB7muIRO7kXqOe,Steamy Windows - 2021 Remaster,spotify:track:1oT4JPxnSB7muIRO7kXqOe,0.0302,0.747,0.687,0.00183,0.0749,-9.616,0.0296,133.66,0.774,20,Tina Turner
+Foreign Affair (2021 Remaster),2,3AzmD9VleySJSZRNvAhM69,The Best - 2021 Remaster,spotify:track:3AzmD9VleySJSZRNvAhM69,0.0422,0.649,0.796,0.00555,0.275,-8.232,0.0291,103.794,0.731,25,Tina Turner
+Foreign Affair (2021 Remaster),3,6iipP50LhStdgdZpx3nmfz,You Know Who (Is Doing You Know What) - 2021 Remaster,spotify:track:6iipP50LhStdgdZpx3nmfz,0.371,0.777,0.695,0.0192,0.0622,-8.868,0.0372,119.502,0.939,16,Tina Turner
+Foreign Affair (2021 Remaster),4,1whV3VO1C4hsGqCW6MI6ht,Undercover Agent for the Blues - 2021 Remaster,spotify:track:1whV3VO1C4hsGqCW6MI6ht,0.211,0.827,0.574,0.00777,0.0892,-9.646,0.0359,97.008,0.887,19,Tina Turner
+Foreign Affair (2021 Remaster),5,5en8RLEnFBGtXydyyGGOwe,Look Me in the Heart - 2021 Remaster,spotify:track:5en8RLEnFBGtXydyyGGOwe,0.176,0.761,0.71,0.00038,0.0381,-8.45,0.0319,105.426,0.717,19,Tina Turner
+Foreign Affair (2021 Remaster),6,4TJn9nU3AOgUkXSsY4B4Ca,Be Tender with Me Baby - 2021 Remaster,spotify:track:4TJn9nU3AOgUkXSsY4B4Ca,0.0583,0.398,0.636,0.000281,0.106,-7.312,0.0351,140.693,0.445,16,Tina Turner
+Foreign Affair (2021 Remaster),7,2inxGbceAfMCPYQ57jJhlg,You Can't Stop Me Loving You - 2021 Remaster,spotify:track:2inxGbceAfMCPYQ57jJhlg,0.133,0.689,0.868,9.76E-06,0.0804,-8.093,0.0705,91.77,0.859,15,Tina Turner
+Foreign Affair (2021 Remaster),8,4kwEf3ZSQKIJVMDfAVWBoq,Ask Me How I Feel - 2021 Remaster,spotify:track:4kwEf3ZSQKIJVMDfAVWBoq,0.0728,0.583,0.809,7.53E-05,0.172,-8.624,0.0333,87.815,0.652,17,Tina Turner
+Foreign Affair (2021 Remaster),9,7uKuS0Q1yoO1sGxtWsTx4u,Falling like Rain - 2021 Remaster,spotify:track:7uKuS0Q1yoO1sGxtWsTx4u,0.0458,0.742,0.838,6.57E-06,0.0841,-8.388,0.0319,109.974,0.847,15,Tina Turner
+Foreign Affair (2021 Remaster),10,6akkA5KhpB4MFzNtBfkilG,I Don't Wanna Lose You - 2021 Remaster,spotify:track:6akkA5KhpB4MFzNtBfkilG,0.376,0.736,0.615,1.47E-06,0.314,-8.146,0.0272,93.99,0.598,24,Tina Turner
+Foreign Affair (2021 Remaster),11,5S84ostKjb6kW7r3IGlfsk,Not Enough Romance - 2021 Remaster,spotify:track:5S84ostKjb6kW7r3IGlfsk,0.113,0.686,0.79,4.10E-05,0.0939,-9.328,0.0306,144.572,0.965,13,Tina Turner
+Foreign Affair (2021 Remaster),12,3wo72oXtwRFJ51pluGcrT5,Foreign Affair - 2021 Remaster,spotify:track:3wo72oXtwRFJ51pluGcrT5,0.00344,0.714,0.746,0.00396,0.0712,-9.41,0.0311,138.891,0.872,20,Tina Turner
+Foreign Affair (2021 Remaster),1,2PJkMTAwnLHWUCjwAqYgCd,Bold And Reckless - 2021 Remaster,spotify:track:2PJkMTAwnLHWUCjwAqYgCd,0.00418,0.609,0.863,0.0272,0.377,-9.003,0.0289,115.896,0.802,14,Tina Turner
+Foreign Affair (2021 Remaster),2,0gu2Aaec9DQjQJGjyxA6py,Stronger Than The Wind - 2021 Remaster,spotify:track:0gu2Aaec9DQjQJGjyxA6py,0.439,0.646,0.702,0,0.064,-7.529,0.0308,119.957,0.324,22,Tina Turner
+Foreign Affair (2021 Remaster),3,3wmfvvQB8z9S0Jkl3jl4Pj,Steel Claw (Live) - 2021 Remaster,spotify:track:3wmfvvQB8z9S0Jkl3jl4Pj,0.0204,0.387,0.906,0.00202,0.95,-5.815,0.0537,163.323,0.678,15,Tina Turner
+Foreign Affair (2021 Remaster),4,36ao2wQZQAMhgPTcS1MpLX,Private Dancer (Live) - 2021 Remaster,spotify:track:36ao2wQZQAMhgPTcS1MpLX,0.296,0.574,0.586,0.00072,0.448,-8.39,0.0308,106.524,0.349,15,Tina Turner
+Foreign Affair (2021 Remaster),5,1OOKKMqCk45Fo5PpfT2iAM,Be Tender With Me Baby (Live) - 2021 Remaster,spotify:track:1OOKKMqCk45Fo5PpfT2iAM,0.0594,0.323,0.646,0.0027,0.982,-7.356,0.0383,68.477,0.274,13,Tina Turner
+Foreign Affair (2021 Remaster),6,1tbu5A5DBIA96cWlXnIyaw,The Best (Extended Muscle Mix) - 2021 Remaster,spotify:track:1tbu5A5DBIA96cWlXnIyaw,0.00668,0.626,0.759,0.0856,0.159,-8.529,0.0244,103.878,0.557,18,Tina Turner
+Foreign Affair (2021 Remaster),7,08AXhYoBOq95Y09vqHoKpp,"Steamy Windows - 12“ Vocal Mix, 2021 Remaster",spotify:track:08AXhYoBOq95Y09vqHoKpp,0.00218,0.786,0.953,0.498,0.0436,-6.073,0.0341,134.126,0.953,27,Tina Turner
+Foreign Affair (2021 Remaster),8,3HezVFpgQJQS9ygsbkULSN,Foreign Affair (Shep Pettibone Heartbeat Mix) - 2021 Remaster,spotify:track:3HezVFpgQJQS9ygsbkULSN,0.00496,0.835,0.578,0.000922,0.0644,-9.012,0.064,131.396,0.467,11,Tina Turner
+Foreign Affair (2021 Remaster),9,07mO6YMVnNEqeB0c41111d,Look Me In The Heart (12“ Remix) - 2021 Remaster,spotify:track:07mO6YMVnNEqeB0c41111d,0.127,0.829,0.537,0.00167,0.322,-8.059,0.0405,105.653,0.88,13,Tina Turner
+Foreign Affair (2021 Remaster),10,0fE28bUVNfivcXZ5BITx7C,The Best (Extended Mighty Mix) - 2021 Remaster,spotify:track:0fE28bUVNfivcXZ5BITx7C,0.00629,0.636,0.691,0.0623,0.107,-9.025,0.0264,103.844,0.518,19,Tina Turner
+Foreign Affair (2021 Remaster),11,6NhkSWRhvH0uOLrh3q2wzw,Steamy Windows (Justin Strauss 12“ House Dub Mix) - 2021 Remaster,spotify:track:6NhkSWRhvH0uOLrh3q2wzw,0.000219,0.797,0.852,0.896,0.0351,-7.491,0.0473,128.589,0.857,10,Tina Turner
+Foreign Affair (2021 Remaster),12,5sKqScK7o53wHMp2leqChH,Foreign Affair (Shep Pettibone One In A Million Club Mix) - 2021 Remaster,spotify:track:5sKqScK7o53wHMp2leqChH,0.000225,0.714,0.832,0.359,0.0328,-8.694,0.0372,131.298,0.43,10,Tina Turner
+Foreign Affair (2021 Remaster),13,4STQthYdkrx5SDEUqcQPic,Steamy Windows (12“ Dub Mix) - 2021 Remaster,spotify:track:4STQthYdkrx5SDEUqcQPic,0.000884,0.791,0.987,0.834,0.0634,-5.657,0.0396,134.128,0.965,9,Tina Turner
+Foreign Affair (2021 Remaster),14,69KeeUZFlW28d2fnCkPiyi,Look Me In The Heart (Instrumental) - 2021 Remaster,spotify:track:69KeeUZFlW28d2fnCkPiyi,0.0428,0.771,0.606,0.619,0.0525,-9.473,0.0288,105.633,0.744,8,Tina Turner
+Foreign Affair (2021 Remaster),15,7vjJLCyNnjZUAZrjlSXs7G,Foreign Affair (Shep Pettione Heartbeat Instrumental) - 2021 Remaster,spotify:track:7vjJLCyNnjZUAZrjlSXs7G,0.000201,0.803,0.513,0.863,0.0571,-10.255,0.0396,130.972,0.509,8,Tina Turner
+Foreign Affair (2021 Remaster),16,1CzcqNfKIwe4pJBOs0WSA5,The Best (Demo),spotify:track:1CzcqNfKIwe4pJBOs0WSA5,0.258,0.742,0.793,2.81E-06,0.0317,-6.709,0.0249,101.997,0.736,28,Tina Turner
+Foreign Affair (2021 Remaster),1,2bNsf6q3YxmPZmdOZUdD69,Steamy Windows - Live in Barcelona 1990; 2021 Remaster,spotify:track:2bNsf6q3YxmPZmdOZUdD69,0.0412,0.322,0.91,0.00012,0.993,-7.325,0.312,141.42,0.247,13,Tina Turner
+Foreign Affair (2021 Remaster),2,7KwRRvzgv8mBv4THUh9fgv,Typical Male - Live in Barcelona 1990; 2021 Remaster,spotify:track:7KwRRvzgv8mBv4THUh9fgv,0.0453,0.602,0.91,0.000127,0.971,-6.123,0.0625,111.455,0.541,14,Tina Turner
+Foreign Affair (2021 Remaster),3,0SQGxQDEGtlCZzL3ZRgLPb,Foreign Affair - Live in Barcelona 1990; 2021 Remaster,spotify:track:0SQGxQDEGtlCZzL3ZRgLPb,0.0318,0.505,0.922,0.0001,0.957,-6.434,0.0467,153.286,0.656,14,Tina Turner
+Foreign Affair (2021 Remaster),4,0BEoMWtPKNraK5CZtEfmmk,Undercover Agent For The Blues - Live in Barcelona 1990; 2021 Remaster,spotify:track:0BEoMWtPKNraK5CZtEfmmk,0.113,0.592,0.816,1.02E-05,0.941,-6.935,0.0313,98.952,0.794,14,Tina Turner
+Foreign Affair (2021 Remaster),5,3OIytOoCrqmKiO6QaJcEjw,Ask Me How I Feel - Live in Barcelona 1990; 2021 Remaster,spotify:track:3OIytOoCrqmKiO6QaJcEjw,0.193,0.53,0.864,0,0.987,-5.74,0.0833,102.309,0.525,17,Tina Turner
+Foreign Affair (2021 Remaster),6,2wREdqiLbnPRWb7dM9KK15,We Don’t Need Another Hero - Live in Barcelona 1990; 2021 Remaster,spotify:track:2wREdqiLbnPRWb7dM9KK15,0.175,0.575,0.809,1.17E-05,0.99,-6.373,0.0372,104.996,0.544,19,Tina Turner
+Foreign Affair (2021 Remaster),7,1UI9Jm2PTPnjbsqa5Pwzw5,Private Dancer - Live in Barcelona 1990; 2021 Remaster],spotify:track:1UI9Jm2PTPnjbsqa5Pwzw5,0.401,0.557,0.652,0.00186,0.984,-8.611,0.0439,107.321,0.213,12,Tina Turner
+Foreign Affair (2021 Remaster),8,0gblEWcrnhYh5XSR5jQXZ1,Nutbush City Limits - Live in Barcelona 1990; 2021 Remaster,spotify:track:0gblEWcrnhYh5XSR5jQXZ1,0.121,0.364,0.966,4.83E-06,0.981,-4.924,0.12,176.519,0.4,13,Tina Turner
+Foreign Affair (2021 Remaster),9,4XR6dhCQuTVW39TqKW82Ht,Addicted To Love - Live in Barcelona 1990; 2021 Remaster,spotify:track:4XR6dhCQuTVW39TqKW82Ht,0.0112,0.463,0.913,0,0.455,-5.325,0.0639,124.443,0.848,14,Tina Turner
+Foreign Affair (2021 Remaster),1,69Rv0Jbib1cjuksmNLNnPf,The Best - Live in Barcelona 1990; 2021 Remaster,spotify:track:69Rv0Jbib1cjuksmNLNnPf,0.163,0.632,0.817,0,0.948,-6.219,0.0596,110.155,0.368,17,Tina Turner
+Foreign Affair (2021 Remaster),2,56xcQhjF12BW8H3kidI3Ta,I Don’t Wanna Lose You - Live in Barcelona 1990; 2021 Remaster,spotify:track:56xcQhjF12BW8H3kidI3Ta,0.71,0.501,0.697,0,0.646,-7.461,0.0595,97.604,0.416,14,Tina Turner
+Foreign Affair (2021 Remaster),3,30u9CY3u8gBNDL6OOkCJQj,What's Love Got To Do With It - Live in Barcelona 1990; 2021 Remaster,spotify:track:30u9CY3u8gBNDL6OOkCJQj,0.395,0.62,0.663,0,0.722,-8.765,0.0798,98.756,0.608,13,Tina Turner
+Foreign Affair (2021 Remaster),4,5ELPMtbhquPLvYda512Qm6,Let's Stay Together - Live in Barcelona 1990; 2021 Remaster,spotify:track:5ELPMtbhquPLvYda512Qm6,0.606,0.504,0.727,4.35E-06,0.9,-8.746,0.178,99.213,0.305,11,Tina Turner
+Foreign Affair (2021 Remaster),5,1pYxz0Mi2qj9NSAwzxDOt8,Proud Mary - Live in Barcelona 1990; 2021 Remaster,spotify:track:1pYxz0Mi2qj9NSAwzxDOt8,0.209,0.311,0.849,0,0.981,-6.444,0.115,178.39,0.457,14,Tina Turner
+Foreign Affair (2021 Remaster),6,7hZwvcjq8ZBH3Iq42DUjy9,Better Be Good To Me - Live in Barcelona 1990; 2021 Remaster,spotify:track:7hZwvcjq8ZBH3Iq42DUjy9,0.09,0.431,0.932,0.000223,0.984,-5.606,0.0653,147.846,0.474,13,Tina Turner
+Foreign Affair (2021 Remaster),7,56BST20l1hECZI66oXG6ku,Be Tender With Me Baby - Live in Barcelona 1990; 2021 Remaster,spotify:track:56BST20l1hECZI66oXG6ku,0.424,0.294,0.604,0.000523,0.966,-7.148,0.0369,138.316,0.369,11,Tina Turner
+Tina Live in Europe,1,4EfTFlwwrgu4oiUsot8xjZ,What You Get Is What You See - Live,spotify:track:4EfTFlwwrgu4oiUsot8xjZ,0.00612,0.424,0.906,0.00186,0.988,-10.985,0.061,168.447,0.676,32,Tina Turner
+Tina Live in Europe,2,2o0Meu41HrIsE3nqGMe46F,Break Every Rule - Live,spotify:track:2o0Meu41HrIsE3nqGMe46F,0.247,0.543,0.813,1.08E-06,0.988,-10.808,0.0453,128.43,0.805,29,Tina Turner
+Tina Live in Europe,3,2gtjMjgagtxCCb5SP1jWIA,I Can't Stand the Rain - Live,spotify:track:2gtjMjgagtxCCb5SP1jWIA,0.0807,0.574,0.752,0.000776,0.371,-13.093,0.0365,89.681,0.837,28,Tina Turner
+Tina Live in Europe,4,2tkHUHhRwmyTgOxwkYqZu4,Two People - Live in Europe; 1985,spotify:track:2tkHUHhRwmyTgOxwkYqZu4,0.59,0.559,0.485,0,0.847,-12.657,0.0332,89.261,0.374,24,Tina Turner
+Tina Live in Europe,5,5Sj31OVH01SbtohCOsRsMv,Girls - Live,spotify:track:5Sj31OVH01SbtohCOsRsMv,0.0159,0.39,0.683,0.000531,0.882,-11.832,0.0654,127.728,0.355,21,Tina Turner
+Tina Live in Europe,6,2FlnacROb9rHiEnOpvYjyy,Typical Male - Live,spotify:track:2FlnacROb9rHiEnOpvYjyy,0.0188,0.616,0.757,0.000952,0.845,-10.153,0.046,110.735,0.68,26,Tina Turner
+Tina Live in Europe,7,7w0risLXwyF7t1c95JOkih,Back Where You Started - Live,spotify:track:7w0risLXwyF7t1c95JOkih,0.142,0.43,0.898,0.317,0.962,-8.729,0.0614,126.437,0.406,22,Tina Turner
+Tina Live in Europe,8,5OvV3q5hg6yNWrFc7dr4bO,Better Be Good to Me - Live,spotify:track:5OvV3q5hg6yNWrFc7dr4bO,0.0118,0.486,0.811,0.000233,0.381,-10.379,0.0653,138.015,0.53,25,Tina Turner
+Tina Live in Europe,9,0ZhnCLC4btD79ysYzCSAxl,"Addicted to Love - Live at Camden Palace, London",spotify:track:0ZhnCLC4btD79ysYzCSAxl,0.0802,0.596,0.915,0.00283,0.935,-6.112,0.0431,112.154,0.749,31,Tina Turner
+Tina Live in Europe,10,6zg3JBEgyCN8IbrbS1XcUH,Private Dancer - Live,spotify:track:6zg3JBEgyCN8IbrbS1XcUH,0.381,0.568,0.404,0.00243,0.927,-14.458,0.0324,106.462,0.306,34,Tina Turner
+Tina Live in Europe,11,1Q7NYQPcVBuHGZsy4VIwik,We Don't Need Another Hero (Thunderdome) - Live,spotify:track:1Q7NYQPcVBuHGZsy4VIwik,0.0187,0.493,0.72,0.00134,0.968,-11.936,0.0382,97.289,0.469,28,Tina Turner
+Tina Live in Europe,12,4DwLgE8L8KGZJUcgpXyaTX,What's Love Got to Do with It - Live,spotify:track:4DwLgE8L8KGZJUcgpXyaTX,0.217,0.626,0.645,1.95E-06,0.763,-13.806,0.0557,100.527,0.62,30,Tina Turner
+Tina Live in Europe,13,5JOPtmjr5IAMPxHS52z290,Let's Stay Together - Live,spotify:track:5JOPtmjr5IAMPxHS52z290,0.414,0.512,0.514,1.17E-05,0.91,-14.284,0.0389,106.142,0.367,24,Tina Turner
+Tina Live in Europe,14,4SLEiYTLa3qFCEGvyMXkdM,Show Some Respect - Live,spotify:track:4SLEiYTLa3qFCEGvyMXkdM,0.332,0.441,0.867,0.000149,0.966,-11.096,0.0367,147.036,0.771,21,Tina Turner
+Tina Live in Europe,1,7IuPAPAJlB726Dfcsrq8oC,Land of a Thousand Dances - Live,spotify:track:7IuPAPAJlB726Dfcsrq8oC,0.421,0.39,0.992,0.00558,0.488,-10.392,0.0559,178.49,0.284,27,Tina Turner
+Tina Live in Europe,2,7Ef9HFZVdAFxgMDKHAgZGP,In the Midnight Hour - Live,spotify:track:7Ef9HFZVdAFxgMDKHAgZGP,0.197,0.482,0.851,1.17E-05,0.992,-10.425,0.0406,115.769,0.693,22,Tina Turner
+Tina Live in Europe,3,3Q1SqBblEJGwJGTeFzzcMt,634-5789 - Live,spotify:track:3Q1SqBblEJGwJGTeFzzcMt,0.503,0.583,0.724,0,0.388,-9.682,0.0878,108.935,0.846,28,Tina Turner
+Tina Live in Europe,4,6BpQvdlfjoMHLUbLB7eROv,A Change Is Gonna Come - Live,spotify:track:6BpQvdlfjoMHLUbLB7eROv,0.679,0.286,0.536,0.00374,0.975,-11.802,0.0349,149.027,0.336,24,Tina Turner
+Tina Live in Europe,5,11vOAxDyOExktYxTOB3QRe,"River Deep, Mountain High - Live in Europe",spotify:track:11vOAxDyOExktYxTOB3QRe,0.207,0.393,0.765,1.88E-06,0.989,-11.274,0.0396,144.293,0.594,23,Tina Turner
+Tina Live in Europe,6,79M75ssjwSoWVYrMdAWVAf,Tearing Us Apart (with Eric Clapton) - Live,spotify:track:79M75ssjwSoWVYrMdAWVAf,0.362,0.476,0.926,0.167,0.747,-11.038,0.062,125.894,0.777,28,Tina Turner
+Tina Live in Europe,7,7s7JwWQ4xgp0eFFsNAnrVh,Proud Mary - Live,spotify:track:7s7JwWQ4xgp0eFFsNAnrVh,0.156,0.321,0.839,1.15E-05,0.994,-11.51,0.0789,96.843,0.459,30,Tina Turner
+Tina Live in Europe,8,4j4FqnJ70mNM58Ha1BEvEp,Help! - Live,spotify:track:4j4FqnJ70mNM58Ha1BEvEp,0.284,0.332,0.396,0,0.945,-14.455,0.0405,127.458,0.214,34,Tina Turner
+Tina Live in Europe,9,1RKreBdhKUXDXTZWY9Mu7v,Tonight (With David Bowie) - Live,spotify:track:1RKreBdhKUXDXTZWY9Mu7v,0.195,0.593,0.722,0.00108,0.933,-12.516,0.0465,101.539,0.719,56,Tina Turner
+Tina Live in Europe,10,0OauKmBACNzYuRpAQ0h9Uh,Let's Dance (With David Bowie) - Live,spotify:track:0OauKmBACNzYuRpAQ0h9Uh,0.0904,0.397,0.771,0.0491,0.989,-13.47,0.0724,117.177,0.338,31,Tina Turner
+Tina Live in Europe,11,2MN264oXemk1aUTlLRuVrN,Overnight Sensation - Live,spotify:track:2MN264oXemk1aUTlLRuVrN,0.553,0.361,0.866,5.11E-05,0.892,-11.304,0.0589,155.421,0.75,19,Tina Turner
+Tina Live in Europe,12,4x0uncFgwgMLjWBlvJrX9e,It's Only Love (With Bryan Adams) - Live,spotify:track:4x0uncFgwgMLjWBlvJrX9e,0.142,0.181,0.849,0.00122,0.987,-10.595,0.12,204.598,0.54,30,Tina Turner
+Tina Live in Europe,13,2Nq6zRctfDOynOLJfQzOH6,Nutbush City Limits - Live,spotify:track:2Nq6zRctfDOynOLJfQzOH6,0.0701,0.37,0.926,0.00414,0.616,-8.694,0.0811,177.077,0.308,25,Tina Turner
+Tina Live in Europe,14,4WLYLC67xzuIuokBH75FGo,Paradise Is Here - Live,spotify:track:4WLYLC67xzuIuokBH75FGo,0.16,0.434,0.701,1.58E-05,0.847,-11.108,0.037,100.197,0.275,26,Tina Turner
+Break Every Rule,1,2fjJt3OQ8MPaZ3LMzAWiTA,Typical Male,spotify:track:2fjJt3OQ8MPaZ3LMzAWiTA,0.0172,0.762,0.745,0.0137,0.0612,-7.772,0.0407,106.013,0.794,55,Tina Turner
+Break Every Rule,2,5kr90kavZCFmPhzk338xrX,What You Get Is What You See,spotify:track:5kr90kavZCFmPhzk338xrX,0.0153,0.623,0.628,0.0229,0.244,-10.253,0.0349,156.292,0.93,47,Tina Turner
+Break Every Rule,3,4Zu3egEh8DxX4Z8mSLjf8L,Two People,spotify:track:4Zu3egEh8DxX4Z8mSLjf8L,0.267,0.743,0.574,0.000441,0.0526,-6.563,0.0289,89.685,0.682,52,Tina Turner
+Break Every Rule,4,6UtLgklJRJNx0GsAn3dgWo,Till the Right Man Comes Along,spotify:track:6UtLgklJRJNx0GsAn3dgWo,0.172,0.773,0.537,0.0153,0.0458,-11.609,0.0349,98.841,0.863,26,Tina Turner
+Break Every Rule,5,6G4T8eLriLRAiaZkYIuFZl,Afterglow,spotify:track:6G4T8eLriLRAiaZkYIuFZl,0.243,0.903,0.309,0.000125,0.0979,-14.189,0.0427,111.042,0.839,27,Tina Turner
+Break Every Rule,6,1nFyVqpQ1npW4JnpfTotdJ,Girls,spotify:track:1nFyVqpQ1npW4JnpfTotdJ,0.366,0.62,0.436,0.00118,0.114,-14.511,0.0402,126.454,0.334,25,Tina Turner
+Break Every Rule,7,6hN2CKxH3JF9E87DBRDitj,Back Where You Started,spotify:track:6hN2CKxH3JF9E87DBRDitj,0.0628,0.523,0.73,0.000197,0.202,-12.835,0.0554,121.083,0.398,24,Tina Turner
+Break Every Rule,8,2uabJKR8oOhyk89TsfMxgu,Break Every Rule,spotify:track:2uabJKR8oOhyk89TsfMxgu,0.00459,0.653,0.625,0.00256,0.0897,-13.594,0.0285,123.946,0.978,43,Tina Turner
+Break Every Rule,9,7lu7p30eWOCwAmeLRGKI7X,Overnight Sensation,spotify:track:7lu7p30eWOCwAmeLRGKI7X,0.481,0.688,0.605,0.00154,0.0663,-14.966,0.0479,149.932,0.969,31,Tina Turner
+Break Every Rule,10,2w1j0lD69tcZbFH4GnLcIh,Paradise Is Here,spotify:track:2w1j0lD69tcZbFH4GnLcIh,0.233,0.751,0.291,0.0132,0.326,-17.902,0.0278,107.109,0.448,30,Tina Turner
+Break Every Rule,11,3r2kWtnQTdEEUjOnO0dt97,I'll Be Thunder,spotify:track:3r2kWtnQTdEEUjOnO0dt97,0.256,0.57,0.396,4.17E-05,0.0671,-15.71,0.0327,119.696,0.231,36,Tina Turner
+Mad Max Beyond Thunderdome,2,6dBqmc9SVzKJTbtvMlHQ4V,One Of The Living,spotify:track:6dBqmc9SVzKJTbtvMlHQ4V,0.0706,0.717,0.905,0.00403,0.0497,-7.019,0.0326,111.133,0.873,25,Tina Turner
+Mad Max Beyond Thunderdome,3,4rlTGV02Ne7Qqs9PNXrYwK,We Don't Need Another Hero (Thunderdome) (Instrumental),spotify:track:4rlTGV02Ne7Qqs9PNXrYwK,0.147,0.739,0.495,0.842,0.172,-10.583,0.0352,97.989,0.41,17,Tina Turner
+Mad Max Beyond Thunderdome,4,5QBaIVBJCCZ6urIj4y6u4n,Bartertown,spotify:track:5QBaIVBJCCZ6urIj4y6u4n,0.431,0.268,0.389,0.307,0.181,-12.569,0.0352,88.719,0.134,13,Tina Turner
+Mad Max Beyond Thunderdome,5,6lsTeexfQ7tda3VP8uWcrC,The Children,spotify:track:6lsTeexfQ7tda3VP8uWcrC,0.839,0.403,0.35,0.704,0.0698,-13.491,0.0414,119.884,0.161,11,Tina Turner
+Mad Max Beyond Thunderdome,6,4dMeMVm78KNb0odQjzOxvu,Coming Home,spotify:track:4dMeMVm78KNb0odQjzOxvu,0.896,0.209,0.299,0.935,0.0964,-15.844,0.0412,89.262,0.039,12,Tina Turner
+Private Dancer (30th Anniversary Issue),1,27v32fV3y5dD2ltG3iPOAv,I Might Have Been Queen - 2015 Remaster,spotify:track:27v32fV3y5dD2ltG3iPOAv,0.144,0.696,0.897,0.00676,0.247,-5.089,0.0311,132.513,0.914,42,Tina Turner
+Private Dancer (30th Anniversary Issue),2,3ErsOxqe2RmXkR65wkygDz,What's Love Got to Do with It - 2015 Remaster,spotify:track:3ErsOxqe2RmXkR65wkygDz,0.254,0.855,0.48,2.16E-05,0.151,-8.902,0.0588,97.793,0.798,69,Tina Turner
+Private Dancer (30th Anniversary Issue),3,4nuk4c4QdrxGVROylbgE2P,Show Some Respect - 2015 Remaster,spotify:track:4nuk4c4QdrxGVROylbgE2P,0.398,0.858,0.725,0.00151,0.234,-4.014,0.0496,143.707,0.964,33,Tina Turner
+Private Dancer (30th Anniversary Issue),4,6rQojhEQbtyjpDjfl9F64O,I Can't Stand the Rain - 2015 Remaster,spotify:track:6rQojhEQbtyjpDjfl9F64O,0.147,0.775,0.751,0.000202,0.0347,-5.803,0.0974,88.245,0.834,43,Tina Turner
+Private Dancer (30th Anniversary Issue),5,5JjdJK0uGRUk4skRTuQdUZ,Private Dancer - 2015 Remaster,spotify:track:5JjdJK0uGRUk4skRTuQdUZ,0.363,0.587,0.572,0.0871,0.0915,-9.656,0.0413,115.466,0.471,63,Tina Turner
+Private Dancer (30th Anniversary Issue),6,19DVNifOaTnuP0iq1kTqgW,Let's Stay Together - 2015 Remaster,spotify:track:19DVNifOaTnuP0iq1kTqgW,0.635,0.671,0.802,0.00069,0.119,-5.792,0.0691,104.401,0.492,62,Tina Turner
+Private Dancer (30th Anniversary Issue),7,4N5HyZ1PlXuP6sryIa4hOQ,Better Be Good to Me - 2015 Remaster,spotify:track:4N5HyZ1PlXuP6sryIa4hOQ,0.0344,0.748,0.722,0.0164,0.0857,-6.499,0.0347,120.678,0.835,52,Tina Turner
+Private Dancer (30th Anniversary Issue),8,5H3iFrBIeh2dxyVsds1X16,Steel Claw - 2015 Remaster,spotify:track:5H3iFrBIeh2dxyVsds1X16,0.00059,0.46,0.98,0.00324,0.419,-4.223,0.0959,179.77,0.618,33,Tina Turner
+Private Dancer (30th Anniversary Issue),9,2pS0CrdMkR6fdjRmSaWkg2,Help! - 2015 Remaster,spotify:track:2pS0CrdMkR6fdjRmSaWkg2,0.429,0.649,0.516,2.03E-06,0.121,-8.324,0.0357,126.157,0.383,44,Tina Turner
+Private Dancer (30th Anniversary Issue),10,1X2VNi0IN4CXflM6dJt2vq,1984 - 2015 Remaster,spotify:track:1X2VNi0IN4CXflM6dJt2vq,0.0777,0.655,0.831,4.99E-06,0.342,-6.883,0.0398,125.986,0.601,28,Tina Turner
+Private Dancer (30th Anniversary Issue),11,6vlF9kYjNLtQ4tkW9DqZET,Ball Of Confusion (with B.E.F.) - Remix;2011 Remastered Version,spotify:track:6vlF9kYjNLtQ4tkW9DqZET,0.0281,0.647,0.946,0.00482,0.0685,-5.143,0.055,165.221,0.794,0,Tina Turner
+Private Dancer (30th Anniversary Issue),12,2NHRK5mZGIKYVPz9ovJ3jy,I Wrote a Letter - 2015 Remaster,spotify:track:2NHRK5mZGIKYVPz9ovJ3jy,0.0397,0.57,0.869,0.00152,0.595,-4.164,0.0357,123.032,0.853,26,Tina Turner
+Private Dancer (30th Anniversary Issue),13,7MdEuQBaU6YppzMpK25an0,Rock 'n' Roll Widow - 2015 Remaster,spotify:track:7MdEuQBaU6YppzMpK25an0,0.542,0.677,0.359,4.65E-06,0.095,-10.124,0.0361,112.976,0.291,32,Tina Turner
+Private Dancer (30th Anniversary Issue),14,4iNmFm4MoTM8gXZqkzGcM5,Don't Rush the Good Things - 2015 Remaster,spotify:track:4iNmFm4MoTM8gXZqkzGcM5,0.041,0.533,0.718,0.000144,0.36,-5.628,0.0305,202.581,0.732,25,Tina Turner
+Private Dancer (30th Anniversary Issue),15,1laDpMbGNl2ZQcnZPui8Ai,When I Was Young - 2015 Remaster,spotify:track:1laDpMbGNl2ZQcnZPui8Ai,0.0401,0.611,0.616,3.37E-05,0.105,-6.726,0.0317,118.639,0.497,25,Tina Turner
+Private Dancer (30th Anniversary Issue),16,13k1qoAZKseFYbbTFmUa6i,Keep Your Hands off My Baby - 2015 Remaster,spotify:track:13k1qoAZKseFYbbTFmUa6i,0.0362,0.644,0.723,0,0.244,-5.873,0.0351,135.507,0.867,25,Tina Turner
+Private Dancer (30th Anniversary Issue),17,1LKNMH0ZI5m1jAUasXzAkN,"Tonight (with David Bowie) - Live AT NEC, Birmingham; 2015 Remaster",spotify:track:1LKNMH0ZI5m1jAUasXzAkN,0.156,0.358,0.89,0.000411,0.982,-5.501,0.063,204.03,0.683,37,Tina Turner
+Private Dancer (30th Anniversary Issue),18,4lZqh8Sut9w5Rz6t9EDMOz,Let's Pretend We're Married - Live; 2015 Remaster,spotify:track:4lZqh8Sut9w5Rz6t9EDMOz,0.228,0.466,0.979,0.000187,0.343,-4.764,0.0635,192.739,0.685,24,Tina Turner
+Private Dancer (30th Anniversary Issue),19,12rm612h847Y42q9MK320E,"What's Love Got to Do with It - Extended 12"" Remix; 2015 Remaster",spotify:track:12rm612h847Y42q9MK320E,0.217,0.865,0.479,0.000242,0.266,-8.978,0.0781,97.802,0.672,35,Tina Turner
+Private Dancer (30th Anniversary Issue),20,2rh3M0zDORmVU4K1CewZac,"Better Be Good to Me - Extended 12"" Remix; 2015 Remaster",spotify:track:2rh3M0zDORmVU4K1CewZac,0.0402,0.712,0.841,0.849,0.191,-6.69,0.0392,121.44,0.862,29,Tina Turner
+Private Dancer (30th Anniversary Issue),21,1vyPz26Qiew0MjlJtpsvN2,"I Can't Stand the Rain - Extended 12"" Remix; 2015 Remaster",spotify:track:1vyPz26Qiew0MjlJtpsvN2,0.077,0.781,0.654,0.00666,0.0248,-6.688,0.081,88.215,0.863,39,Tina Turner
+Private Dancer (30th Anniversary Issue),22,1m5XatTVMVoowSAUYMmQDK,Show Some Respect - Extended Mix; 2015 Remaster,spotify:track:1m5XatTVMVoowSAUYMmQDK,0.349,0.876,0.716,0.00369,0.0987,-5.082,0.0449,143.858,0.961,23,Tina Turner
+Private Dancer (30th Anniversary Issue),23,50XXRUFNjs85P0MjCZ1c9X,We Don't Need Another Hero (Thunderdome),spotify:track:50XXRUFNjs85P0MjCZ1c9X,0.2,0.69,0.674,0.00648,0.115,-5.866,0.047,98.85,0.714,63,Tina Turner
+Private Dancer (30th Anniversary Issue),24,1lnhqGHVTUYdu9DlxaGUve,One of the Living,spotify:track:1lnhqGHVTUYdu9DlxaGUve,0.0113,0.683,0.928,0.00309,0.17,-4.555,0.0311,110.428,0.858,30,Tina Turner
+Private Dancer (30th Anniversary Issue),25,2tjrG7QH5L4WcsxozEK0wy,It's Only Love (with Tina Turner),spotify:track:2tjrG7QH5L4WcsxozEK0wy,0.0082,0.492,0.848,4.79E-05,0.0588,-3.701,0.0364,101.052,0.74,0,Tina Turner
+Love Explosion,1,4WSL9m9Dnq0L4YjbCpTLCk,Love Explosion,spotify:track:4WSL9m9Dnq0L4YjbCpTLCk,0.138,0.7,0.862,0.0513,0.185,-13.002,0.0445,124.821,0.79,3,Tina Turner
+Love Explosion,2,1EpntF66uTiWK6d7nMluM6,Fool for Your Love,spotify:track:1EpntF66uTiWK6d7nMluM6,0.472,0.659,0.558,0,0.657,-12.508,0.0785,129.843,0.783,2,Tina Turner
+Love Explosion,3,1XrInPJEnIC6KNH4LMrQIJ,Sunset on Sunset,spotify:track:1XrInPJEnIC6KNH4LMrQIJ,0.404,0.62,0.626,2.90E-05,0.0602,-12.743,0.0488,123.7,0.801,2,Tina Turner
+Love Explosion,4,5j7karhB4NC6iZmvzGN5eD,Music Keeps Me Dancin',spotify:track:5j7karhB4NC6iZmvzGN5eD,0.339,0.7,0.832,0.000485,0.244,-12.578,0.0954,132.881,0.541,3,Tina Turner
+Love Explosion,5,6KvxUqgCO2dB8ED08kPwgY,I See Home,spotify:track:6KvxUqgCO2dB8ED08kPwgY,0.345,0.369,0.463,0,0.191,-12.587,0.0478,150.565,0.497,1,Tina Turner
+Love Explosion,6,1zzC35Csec8NbyeW8yMlX6,Backstabbers,spotify:track:1zzC35Csec8NbyeW8yMlX6,0.478,0.785,0.578,6.33E-05,0.0724,-14.087,0.0366,115.046,0.87,2,Tina Turner
+Love Explosion,7,47iX17OHKzql2bh9gRGusI,Just a Little Lovin',spotify:track:47iX17OHKzql2bh9gRGusI,0.714,0.397,0.316,0,0.108,-14.879,0.0421,99.197,0.347,1,Tina Turner
+Love Explosion,8,4CF1zAmsEwg18SQ5P9fmgS,You Got What I'm Gonna Get,spotify:track:4CF1zAmsEwg18SQ5P9fmgS,0.423,0.459,0.721,0,0.157,-12.642,0.115,140.205,0.498,1,Tina Turner
+Love Explosion,9,5tuPeNIGg2qo7yjhSyBv2l,On the Radio,spotify:track:5tuPeNIGg2qo7yjhSyBv2l,0.208,0.888,0.693,0.000525,0.0824,-14.727,0.0694,115.235,0.83,3,Tina Turner
+Rough,1,3PlOIUS1qavXP47zs1DWnz,Fruits of the Night,spotify:track:3PlOIUS1qavXP47zs1DWnz,0.0182,0.698,0.637,0.0484,0.0405,-12.144,0.0586,124.223,0.728,3,Tina Turner
+Rough,2,3gSqBCp0ueCA1qzV8yknPC,The Bitch Is Back,spotify:track:3gSqBCp0ueCA1qzV8yknPC,0.00702,0.633,0.764,0.0394,0.0368,-10.03,0.0506,143.759,0.969,20,Tina Turner
+Rough,3,54w0ZhNwDAPb1jITn1woIO,The Woman I'm Supposed to Be,spotify:track:54w0ZhNwDAPb1jITn1woIO,0.294,0.373,0.521,1.33E-05,0.134,-10.341,0.0367,72.89,0.392,2,Tina Turner
+Rough,4,5jV6aNpiUpNqT0Iqe0xQTp,Viva La Money,spotify:track:5jV6aNpiUpNqT0Iqe0xQTp,0.0431,0.575,0.664,2.30E-05,0.0994,-10.048,0.143,173.979,0.944,3,Tina Turner
+Rough,5,6ZCY4xg30GApds103N5D5U,Funny How Time Slips Away,spotify:track:6ZCY4xg30GApds103N5D5U,0.512,0.412,0.467,0.000513,0.0585,-11.363,0.0479,140.339,0.508,3,Tina Turner
+Rough,6,4cvvclNhR7VXWx9u8IiiJu,Earthquake & Hurricane,spotify:track:4cvvclNhR7VXWx9u8IiiJu,0.445,0.68,0.414,0.000138,0.0864,-12.647,0.0379,159.594,0.802,2,Tina Turner
+Rough,7,2rPOjW3942lyUs0DoOaFRd,"Root, Toot Unndisputable Rock 'N Roller",spotify:track:2rPOjW3942lyUs0DoOaFRd,0.0683,0.67,0.863,0.0641,0.0332,-10.039,0.0666,135.984,0.8,7,Tina Turner
+Rough,8,6WZYT7ZbmlRbw199PPkC6h,Fire Down Below,spotify:track:6WZYT7ZbmlRbw199PPkC6h,0.039,0.679,0.755,0.00515,0.163,-9.516,0.0658,133.941,0.94,5,Tina Turner
+Rough,9,2PUykQgPRSELZ0ZHl47Oz0,Sometimes When We Touch,spotify:track:2PUykQgPRSELZ0ZHl47Oz0,0.137,0.425,0.489,3.50E-06,0.116,-11.843,0.0607,135.694,0.466,5,Tina Turner
+Rough,10,4msd9pERO8iSKZ76i8lGwj,A Woman in a Man's World,spotify:track:4msd9pERO8iSKZ76i8lGwj,0.652,0.407,0.287,0,0.221,-11.46,0.0322,125.114,0.154,2,Tina Turner
+Rough,11,3OQqe4mKH3VK7p3wtGz0Bx,Night Time Is the Right Time,spotify:track:3OQqe4mKH3VK7p3wtGz0Bx,0.0515,0.404,0.704,8.30E-06,0.314,-9.942,0.0884,119.886,0.524,3,Tina Turner

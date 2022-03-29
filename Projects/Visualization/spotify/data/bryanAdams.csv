@@ -1,0 +1,144 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+So Happy It Hurts,1,6RZNw4khjjd6mehiLQ6Ztz,So Happy It Hurts,spotify:track:6RZNw4khjjd6mehiLQ6Ztz,0.00205,0.615,0.773,0,0.106,-3.491,0.0319,123.476,0.666,56,Bryan Adams
+So Happy It Hurts,2,6QYtCZjxl44kEBTUCzWfBs,Never Gonna Rain,spotify:track:6QYtCZjxl44kEBTUCzWfBs,0.125,0.751,0.683,0,0.0789,-4.637,0.0284,98.973,0.827,53,Bryan Adams
+So Happy It Hurts,3,3DxnBErRruq0yypv85mdOO,You Lift Me Up,spotify:track:3DxnBErRruq0yypv85mdOO,0.134,0.574,0.575,0,0.275,-4.815,0.0244,78.005,0.471,53,Bryan Adams
+So Happy It Hurts,4,2BB42sfZaeUMUpQESgj0P3,I've Been Looking For You,spotify:track:2BB42sfZaeUMUpQESgj0P3,0.223,0.495,0.918,0,0.155,-4.237,0.0614,199.946,0.796,52,Bryan Adams
+So Happy It Hurts,5,02p16pYf7Hk0zgkwGF5EzL,"Always Have, Always Will",spotify:track:02p16pYf7Hk0zgkwGF5EzL,0.159,0.633,0.684,1.41E-06,0.368,-3.858,0.0265,132.999,0.727,59,Bryan Adams
+So Happy It Hurts,6,60uhNXNCgG2xWvHZJvTxbK,On The Road,spotify:track:60uhNXNCgG2xWvHZJvTxbK,0.00856,0.66,0.791,3.77E-06,0.118,-4.607,0.0295,117.508,0.818,51,Bryan Adams
+So Happy It Hurts,7,5jx0Var4vjw2FDEtTsYr05,Kick Ass,spotify:track:5jx0Var4vjw2FDEtTsYr05,0.0101,0.533,0.855,0,0.775,-4.478,0.0859,148.037,0.511,50,Bryan Adams
+So Happy It Hurts,8,4u69rAEnGGLLW3xNRU2J3l,I Ain't Worth Shit Without You,spotify:track:4u69rAEnGGLLW3xNRU2J3l,0.0103,0.654,0.91,4.60E-06,0.212,-3.061,0.0346,113.972,0.771,49,Bryan Adams
+So Happy It Hurts,9,1thUBnY8HHA9Yrma6WQsOO,Let's Do This,spotify:track:1thUBnY8HHA9Yrma6WQsOO,0.0495,0.634,0.729,0,0.286,-5.375,0.0262,78.015,0.719,50,Bryan Adams
+So Happy It Hurts,10,5bD9MN63bBmPDVewWU27ai,"Just Like Me, Just Like You",spotify:track:5bD9MN63bBmPDVewWU27ai,0.00699,0.639,0.819,0,0.12,-5.033,0.0279,125.046,0.824,49,Bryan Adams
+So Happy It Hurts,11,1quCUXrxRgGuZDCvjq2ETW,Just About Gone,spotify:track:1quCUXrxRgGuZDCvjq2ETW,0.22,0.463,0.938,0,0.319,-3.371,0.0618,165.063,0.813,49,Bryan Adams
+So Happy It Hurts,12,2b547blFDhWrbTpU4OVcTx,These Are The Moments That Make Up My Life,spotify:track:2b547blFDhWrbTpU4OVcTx,0.00701,0.611,0.701,4.57E-05,0.103,-5.957,0.0238,111.021,0.217,50,Bryan Adams
+Pretty Woman - The Musical,1,06sKo9TjlzTVskNta5TU9Y,Welcome To Hollywood,spotify:track:06sKo9TjlzTVskNta5TU9Y,0.00651,0.714,0.827,0,0.191,-4.507,0.033,126.993,0.666,44,Bryan Adams
+Pretty Woman - The Musical,2,7gy4wEy8lkzWvvGFSoedD5,Anywhere But Here,spotify:track:7gy4wEy8lkzWvvGFSoedD5,0.154,0.664,0.62,0,0.131,-5.607,0.032,124.952,0.287,38,Bryan Adams
+Pretty Woman - The Musical,3,56VvV2CQUzt79pw0Qshdmt,Something About Her,spotify:track:56VvV2CQUzt79pw0Qshdmt,0.0851,0.501,0.612,7.37E-05,0.0623,-5.335,0.0278,94.957,0.222,38,Bryan Adams
+Pretty Woman - The Musical,4,1w7LCHwjxjGOYPNGqCgfua,Luckiest Girl In The World,spotify:track:1w7LCHwjxjGOYPNGqCgfua,0.914,0.506,0.258,0,0.0892,-10.878,0.0403,184.228,0.4,37,Bryan Adams
+Pretty Woman - The Musical,5,3UJZqO3WVo8bmgfyUmJn8g,Rodeo Drive,spotify:track:3UJZqO3WVo8bmgfyUmJn8g,0.0151,0.711,0.784,0,0.0738,-4.488,0.0359,132,0.608,36,Bryan Adams
+Pretty Woman - The Musical,6,4hDXf2Om6ul3f21S3wrDAO,On A Night Like Tonight,spotify:track:4hDXf2Om6ul3f21S3wrDAO,0.12,0.705,0.663,0,0.0725,-5.81,0.03,122.019,0.621,36,Bryan Adams
+Pretty Woman - The Musical,7,03p0naYb6P9yhzdumNg2y8,Don't Forget To Dance,spotify:track:03p0naYb6P9yhzdumNg2y8,0.919,0.619,0.137,0,0.108,-10.865,0.0644,113.139,0.197,47,Bryan Adams
+Pretty Woman - The Musical,8,6E2juCyIByns2h1FM4RjKR,Freedom,spotify:track:6E2juCyIByns2h1FM4RjKR,0.285,0.657,0.466,6.52E-05,0.0657,-7.626,0.0255,93.041,0.412,36,Bryan Adams
+Pretty Woman - The Musical,9,6JUCki6JEcWhmeumhLP8R7,You're Beautiful,spotify:track:6JUCki6JEcWhmeumhLP8R7,0.00123,0.69,0.778,5.70E-06,0.473,-5.15,0.0276,133.987,0.561,38,Bryan Adams
+Pretty Woman - The Musical,10,7lvOsNYcNgPgiRkgcTpqcd,This Is Your Life,spotify:track:7lvOsNYcNgPgiRkgcTpqcd,0.00967,0.524,0.606,6.33E-05,0.12,-6.48,0.0292,139.872,0.244,35,Bryan Adams
+Pretty Woman - The Musical,11,27RbSUPckHrV3qpaYNKQs1,Never Give Up On A Dream,spotify:track:27RbSUPckHrV3qpaYNKQs1,0.0259,0.715,0.618,0,0.293,-5.141,0.0378,160.111,0.796,34,Bryan Adams
+Pretty Woman - The Musical,12,2ICQFdhZsFAd3Cva1JzKh7,You And I,spotify:track:2ICQFdhZsFAd3Cva1JzKh7,0.0816,0.596,0.649,0,0.222,-4.808,0.026,140.118,0.384,37,Bryan Adams
+Pretty Woman - The Musical,13,47RBr9z8UddgfMEDoXPp8w,I Could Get Used To This,spotify:track:47RBr9z8UddgfMEDoXPp8w,0.00355,0.62,0.923,0,0.508,-4.723,0.0411,125.016,0.859,34,Bryan Adams
+Pretty Woman - The Musical,14,7zz378zL0WIiHYbSLeZ2U9,You Can't Go Back,spotify:track:7zz378zL0WIiHYbSLeZ2U9,0.0764,0.639,0.638,0,0.0874,-5.127,0.0293,94.998,0.382,34,Bryan Adams
+Pretty Woman - The Musical,15,51ovdjG3GyVi9grGeByKoB,Long Way Home,spotify:track:51ovdjG3GyVi9grGeByKoB,0.0899,0.617,0.546,0,0.118,-6.78,0.0262,99.524,0.312,34,Bryan Adams
+Pretty Woman - The Musical,16,0RZq17mMnVG7mJZsj1SzD1,Together Forever,spotify:track:0RZq17mMnVG7mJZsj1SzD1,0.0237,0.738,0.798,0,0.0806,-4.817,0.0283,122.009,0.871,34,Bryan Adams
+Shine A Light,1,5Op9PcisNc0oGnS4dysmbu,Shine A Light,spotify:track:5Op9PcisNc0oGnS4dysmbu,0.000735,0.552,0.858,7.55E-06,0.178,-3.942,0.0386,126.961,0.69,50,Bryan Adams
+Shine A Light,2,0ulowZLPw2b7Y5D4iOpyIr,That’s How Strong Our Love Is,spotify:track:0ulowZLPw2b7Y5D4iOpyIr,0.000843,0.613,0.876,3.11E-06,0.254,-3.468,0.0431,140.049,0.549,40,Bryan Adams
+Shine A Light,3,2R26TTA5lF2rw26SY4DIaZ,"Part Friday Night, Part Sunday Morning",spotify:track:2R26TTA5lF2rw26SY4DIaZ,0.0743,0.592,0.885,0,0.0812,-3.252,0.0399,166.027,0.785,38,Bryan Adams
+Shine A Light,4,5VeJgtWmwpzhTkPPbO0jrD,Driving Under The Influence Of Love,spotify:track:5VeJgtWmwpzhTkPPbO0jrD,0.0198,0.548,0.981,0,0.112,-2.745,0.0475,141.037,0.7,34,Bryan Adams
+Shine A Light,5,0KcmruzlIbN7S3U71heYU7,All Or Nothing,spotify:track:0KcmruzlIbN7S3U71heYU7,0.0861,0.664,0.922,0,0.0975,-1.181,0.0541,127.023,0.851,36,Bryan Adams
+Shine A Light,6,6nUC2Uvaggfk8P4w85TfGL,No Time For Love,spotify:track:6nUC2Uvaggfk8P4w85TfGL,0.0769,0.636,0.903,0,0.0903,-4.014,0.0745,148.066,0.494,33,Bryan Adams
+Shine A Light,8,5rVAxn5Vxgu1Au9z1wWRAz,Talk To Me,spotify:track:5rVAxn5Vxgu1Au9z1wWRAz,0.479,0.645,0.585,2.00E-06,0.174,-5.062,0.0286,136.018,0.363,33,Bryan Adams
+Shine A Light,9,1qKub3rN0rEFu8YinP6497,The Last Night On Earth,spotify:track:1qKub3rN0rEFu8YinP6497,0.00633,0.606,0.8,9.04E-06,0.506,-4.194,0.0271,130.006,0.691,36,Bryan Adams
+Shine A Light,10,32LyLbterLHDDNOrsPHZ1Z,Nobody’s Girl,spotify:track:32LyLbterLHDDNOrsPHZ1Z,0.00833,0.521,0.945,2.37E-06,0.0817,-3.479,0.0543,135.951,0.572,31,Bryan Adams
+Shine A Light,11,0Ld0d1Y0NNes6WtJ3iejU8,Don’t Look Back,spotify:track:0Ld0d1Y0NNes6WtJ3iejU8,0.0638,0.59,0.944,6.58E-05,0.238,-2.31,0.0346,115.035,0.855,33,Bryan Adams
+Shine A Light,12,5IjcZB2ulQYI9fOzsK7YVr,Whiskey In The Jar,spotify:track:5IjcZB2ulQYI9fOzsK7YVr,0.233,0.523,0.56,4.18E-06,0.0931,-2.093,0.027,134.868,0.264,44,Bryan Adams
+Shine A Light,2,7idNykun3SuVy6yEvMTg38,That's How Strong Our Love Is,spotify:track:7idNykun3SuVy6yEvMTg38,0.049,0.584,0.774,0,0.313,-5.187,0.0452,137.932,0.693,1,Bryan Adams
+Shine A Light,10,7rxhnL7rUXowgGHYR5tFl9,Nobody's Girl,spotify:track:7rxhnL7rUXowgGHYR5tFl9,0.00764,0.518,0.919,2.73E-06,0.0828,-4.704,0.0507,135.952,0.608,0,Bryan Adams
+Shine A Light,11,2bMRkjGrkXQZP3tVUm0AVx,Don't Look Back,spotify:track:2bMRkjGrkXQZP3tVUm0AVx,0.0549,0.59,0.925,0.0001,0.238,-3.611,0.0349,115.051,0.833,0,Bryan Adams
+Wembley 1996 Live,1,1lhCo0okuyQz96IhVGtrQ9,The Only Thing That Looks Good On Me Is You - Live,spotify:track:1lhCo0okuyQz96IhVGtrQ9,0.142,0.355,0.916,1.89E-05,0.969,-5.548,0.0646,119.552,0.558,30,Bryan Adams
+Wembley 1996 Live,2,2EZ5n9VPMFrQ5FSii5SIeF,Do To You - Live,spotify:track:2EZ5n9VPMFrQ5FSii5SIeF,0.0389,0.4,0.915,2.42E-05,0.958,-6.447,0.0634,89.701,0.251,26,Bryan Adams
+Wembley 1996 Live,3,1f6VZVUIDfXVeKT4qx8pnw,Kids Wanna Rock - Live,spotify:track:1f6VZVUIDfXVeKT4qx8pnw,0.199,0.123,0.977,3.71E-05,0.646,-4.741,0.175,163.496,0.0723,26,Bryan Adams
+Wembley 1996 Live,4,4RUHuYAUPRjYXqo2INjdAj,Can't Stop This Thing We Started - Live,spotify:track:4RUHuYAUPRjYXqo2INjdAj,0.314,0.315,0.898,0,0.434,-4.032,0.058,112.96,0.405,28,Bryan Adams
+Wembley 1996 Live,5,0wF2lQtqh9DTwr0oKuMidJ,This Time - Live,spotify:track:0wF2lQtqh9DTwr0oKuMidJ,0.0601,0.312,0.942,6.51E-05,0.712,-5.045,0.106,129.16,0.336,25,Bryan Adams
+Wembley 1996 Live,6,3ROb7XIaM1D2PnP3OSFf57,18 'Til I Die - Live,spotify:track:3ROb7XIaM1D2PnP3OSFf57,0.334,0.228,0.893,2.85E-06,0.902,-5.816,0.063,118.372,0.451,26,Bryan Adams
+Wembley 1996 Live,7,2uzgEL6ND8IbBttccDzMWQ,Have You Ever Really Loved A Woman? - Live,spotify:track:2uzgEL6ND8IbBttccDzMWQ,0.716,0.217,0.682,3.21E-05,0.964,-8.771,0.0454,144.732,0.339,30,Bryan Adams
+Wembley 1996 Live,8,4qCKKKA2CJW40Po6VguIYi,Touch The Hand - Live,spotify:track:4qCKKKA2CJW40Po6VguIYi,0.102,0.185,0.935,2.02E-05,0.973,-5.155,0.0933,124.681,0.313,24,Bryan Adams
+Wembley 1996 Live,9,67jRUriVPWDCjMOhWysmX7,Cuts Like A Knife - Live,spotify:track:67jRUriVPWDCjMOhWysmX7,0.0367,0.235,0.875,7.74E-05,0.965,-6.781,0.0833,91.295,0.569,27,Bryan Adams
+Wembley 1996 Live,10,4RdMEkVVOdOsXVP4AC0CBw,It's Only Love - Live,spotify:track:4RdMEkVVOdOsXVP4AC0CBw,0.0679,0.196,0.946,8.73E-06,0.972,-4.748,0.0765,96.872,0.46,26,Bryan Adams
+Wembley 1996 Live,11,2H3X14gOBrk2In3INsJZwC,Somebody - Live,spotify:track:2H3X14gOBrk2In3INsJZwC,0.0739,0.221,0.814,0.000501,0.985,-6.206,0.0448,93.572,0.497,26,Bryan Adams
+Wembley 1996 Live,12,36Mp5VhuSWl8Mem4CKidSg,(Everything I Do) I Do It For You - Live,spotify:track:36Mp5VhuSWl8Mem4CKidSg,0.303,0.281,0.708,1.51E-05,0.983,-7.523,0.0424,130.688,0.355,39,Bryan Adams
+Wembley 1996 Live,13,5UflAs9uBZJF8V5DHUltSY,Run To You - Live,spotify:track:5UflAs9uBZJF8V5DHUltSY,0.344,0.199,0.89,0.000113,0.989,-5.575,0.0821,127.08,0.453,29,Bryan Adams
+Wembley 1996 Live,14,28bASHZNkiiUJKLo06RNEP,There Will Never Be Another Tonight - Live,spotify:track:28bASHZNkiiUJKLo06RNEP,0.362,0.226,0.885,0,0.951,-5.539,0.0529,141.722,0.508,23,Bryan Adams
+Wembley 1996 Live,15,0FNJ81YERdcDzLEm53Chi7,Seven Nights To Rock - Live,spotify:track:0FNJ81YERdcDzLEm53Chi7,0.265,0.35,0.956,0,0.975,-6.87,0.24,106.31,0.297,22,Bryan Adams
+Wembley 1996 Live,16,4bqNpTq9HjYEbjWPG03A9e,I Wanna Be Your Underwear - Live,spotify:track:4bqNpTq9HjYEbjWPG03A9e,0.364,0.185,0.944,0,0.985,-7.945,0.468,172.225,0.344,21,Bryan Adams
+Wembley 1996 Live,17,5vQFOD3sVVDTdFIMmmdSbZ,Wild Thing - Live,spotify:track:5vQFOD3sVVDTdFIMmmdSbZ,0.036,0.2,0.862,0.0396,0.967,-7.725,0.082,95.947,0.35,21,Bryan Adams
+Wembley 1996 Live,18,02gsTrWzgr62Dm3oaUxoWJ,It Ain't A Party (If You Can't Come 'Round) - Live,spotify:track:02gsTrWzgr62Dm3oaUxoWJ,0.185,0.337,0.882,0,0.939,-5.787,0.0742,113.991,0.392,20,Bryan Adams
+Wembley 1996 Live,19,3IfhlNBF1tzc2demps1H9C,She's Only Happy When She's Dancin' - Live,spotify:track:3IfhlNBF1tzc2demps1H9C,0.00795,0.17,0.954,0,0.987,-5.986,0.16,146.735,0.137,21,Bryan Adams
+Wembley 1996 Live,20,5yFz31GA3yuUCe9Gu2PLBK,Summer Of '69 - Live,spotify:track:5yFz31GA3yuUCe9Gu2PLBK,0.196,0.17,0.823,1.50E-05,0.741,-6.386,0.0509,141.624,0.276,37,Bryan Adams
+Wembley 1996 Live,21,2WNJoDfi8ZsP1ulP87FeEY,All For Love - Live,spotify:track:2WNJoDfi8ZsP1ulP87FeEY,0.378,0.18,0.863,8.81E-06,0.96,-7.42,0.108,68.597,0.177,27,Bryan Adams
+Wembley 1996 Live,22,5g8oQIMa4a27dfEFtXpBuK,Let's Make A Night To Remember - Live,spotify:track:5g8oQIMa4a27dfEFtXpBuK,0.503,0.163,0.803,0.000592,0.914,-8.377,0.0579,178.16,0.372,24,Bryan Adams
+Wembley 1996 Live,23,2fcYGICDA0GjQ9hCXNzTel,I Fought The Law - Live,spotify:track:2fcYGICDA0GjQ9hCXNzTel,0.237,0.121,0.888,0,0.906,-6.031,0.0576,149.191,0.649,23,Bryan Adams
+Wembley 1996 Live,24,6HnlVVOWlT9op9QC0d3UnS,Heaven - Live,spotify:track:6HnlVVOWlT9op9QC0d3UnS,0.117,0.192,0.742,0,0.949,-6.983,0.0411,68.072,0.407,37,Bryan Adams
+Get Up (Deluxe),1,4gCOUZ3ftLsjQDDFraI9I4,You Belong To Me,spotify:track:4gCOUZ3ftLsjQDDFraI9I4,0.0452,0.551,0.904,0.188,0.113,-5.565,0.106,100.059,0.398,50,Bryan Adams
+Get Up (Deluxe),2,7Ajfp3K8cagEu9qfm2ZOVN,Go Down Rockin',spotify:track:7Ajfp3K8cagEu9qfm2ZOVN,0.402,0.524,0.818,0.0363,0.262,-5.573,0.03,112.071,0.822,30,Bryan Adams
+Get Up (Deluxe),3,5RVgcNhlo1zdnmxKEL9t8D,We Did It All,spotify:track:5RVgcNhlo1zdnmxKEL9t8D,0.512,0.314,0.638,2.99E-06,0.119,-6.727,0.0326,176.215,0.214,27,Bryan Adams
+Get Up (Deluxe),4,31CCDvdHOojOguhquynQbN,That's Rock and Roll,spotify:track:31CCDvdHOojOguhquynQbN,0.525,0.635,0.898,1.31E-06,0.272,-6.299,0.038,124.037,0.963,28,Bryan Adams
+Get Up (Deluxe),5,0qNktFrrw8IOR84CAkIVdQ,Don't Even Try,spotify:track:0qNktFrrw8IOR84CAkIVdQ,0.452,0.562,0.74,0.00331,0.132,-6.439,0.0356,120.058,0.741,28,Bryan Adams
+Get Up (Deluxe),6,3fei5r89I3J5AlZ91hkKmp,Do What Ya Gotta Do,spotify:track:3fei5r89I3J5AlZ91hkKmp,0.554,0.507,0.961,0.0217,0.089,-5.221,0.0801,130.052,0.706,25,Bryan Adams
+Get Up (Deluxe),7,26T7XXj0PCCDhsRnVZqTcy,Thunderbolt,spotify:track:26T7XXj0PCCDhsRnVZqTcy,0.376,0.505,0.965,1.08E-06,0.279,-4.953,0.0803,131.952,0.685,22,Bryan Adams
+Get Up (Deluxe),8,1p0WtrOQ7cgAH2hZRfxoZ7,Yesterday Was Just A Dream,spotify:track:1p0WtrOQ7cgAH2hZRfxoZ7,0.0989,0.396,0.832,0,0.207,-5.753,0.0444,154.151,0.512,25,Bryan Adams
+Get Up (Deluxe),9,77nRYwCYdF3k2mLeq2VMwG,Brand New Day,spotify:track:77nRYwCYdF3k2mLeq2VMwG,0.00312,0.512,0.928,0.000134,0.347,-5.254,0.0335,130.709,0.825,39,Bryan Adams
+Get Up (Deluxe),10,57anCSo6E5FyB4ans2o3vV,Don't Even Try - Acoustic,spotify:track:57anCSo6E5FyB4ans2o3vV,0.898,0.616,0.3,0,0.111,-8.86,0.031,113.582,0.139,23,Bryan Adams
+Get Up (Deluxe),11,6E7Rih2Bv5dXZPEhEhNZaj,We Did It All - Acoustic,spotify:track:6E7Rih2Bv5dXZPEhEhNZaj,0.906,0.389,0.26,1.05E-06,0.111,-9.035,0.0309,174.379,0.115,22,Bryan Adams
+Get Up (Deluxe),12,0G4gA9mLYIceFSdNc9WOhz,You Belong To Me - Acoustic,spotify:track:0G4gA9mLYIceFSdNc9WOhz,0.9,0.588,0.419,0.00985,0.127,-8.392,0.026,97.124,0.225,25,Bryan Adams
+Get Up (Deluxe),13,0gQAxq1wlHbglhofchKkts,Brand New Day - Acoustic,spotify:track:0gQAxq1wlHbglhofchKkts,0.889,0.635,0.438,0,0.0897,-8.286,0.0303,132.606,0.258,22,Bryan Adams
+Get Up (Deluxe),14,46ta9p8SCQpjKJazgGd5W0,Interview,spotify:track:46ta9p8SCQpjKJazgGd5W0,0.869,0.614,0.183,0,0.31,-24.32,0.956,175.665,0.471,17,Bryan Adams
+Get Up,14,7vuIj44hApuUUECsUFPftK,Bryan Adams Interview,spotify:track:7vuIj44hApuUUECsUFPftK,0.87,0.614,0.182,0,0.307,-24.32,0.955,76.001,0.454,3,Bryan Adams
+Tracks of My Years (Deluxe),17,2mLTlXs1AkYKczkj1iPycb,Let It Be Me,spotify:track:2mLTlXs1AkYKczkj1iPycb,0.974,0.353,0.137,5.06E-05,0.104,-13.644,0.0372,176.02,0.14,7,Bryan Adams
+Tracks Of My Years (Deluxe),1,1zQ5Ec9uiMSFLreu4PyJEZ,Any Time At All,spotify:track:1zQ5Ec9uiMSFLreu4PyJEZ,0.0704,0.577,0.786,0,0.346,-4.425,0.0277,137.99,0.771,30,Bryan Adams
+Tracks Of My Years (Deluxe),2,4w5ENg5fgCDppQKLiysdiV,She Knows Me,spotify:track:4w5ENg5fgCDppQKLiysdiV,0.0782,0.691,0.66,0,0.072,-5.522,0.0294,121.007,0.554,35,Bryan Adams
+Tracks Of My Years (Deluxe),3,2dTLX8abIGl8SpHSnOQknD,I Can't Stop Loving You,spotify:track:2dTLX8abIGl8SpHSnOQknD,0.801,0.586,0.309,0.000195,0.103,-8.259,0.0265,79.019,0.393,48,Bryan Adams
+Tracks Of My Years (Deluxe),4,5L94QvLzpjepFlGme1kDJU,Kiss And Say Goodbye,spotify:track:5L94QvLzpjepFlGme1kDJU,0.304,0.766,0.388,0,0.0999,-6.844,0.0378,131.14,0.667,37,Bryan Adams
+Tracks Of My Years (Deluxe),5,77n8MEg6esghqSwSCF4hum,Lay Lady Lay,spotify:track:77n8MEg6esghqSwSCF4hum,0.681,0.502,0.526,0.00278,0.121,-8.927,0.0262,148.008,0.279,29,Bryan Adams
+Tracks Of My Years (Deluxe),6,2VyUXEn07i2tA7rfIONmkC,Rock And Roll Music,spotify:track:2VyUXEn07i2tA7rfIONmkC,0.178,0.578,0.956,0,0.311,-3.423,0.115,166.886,0.96,27,Bryan Adams
+Tracks Of My Years (Deluxe),7,5gshTSnUZ7aXtscQDKd05r,Down On The Corner,spotify:track:5gshTSnUZ7aXtscQDKd05r,0.649,0.751,0.614,0,0.0884,-5.366,0.0435,101.038,0.859,26,Bryan Adams
+Tracks Of My Years (Deluxe),8,5bCyJGkddGtAjIp35z5zje,Never My Love,spotify:track:5bCyJGkddGtAjIp35z5zje,0.549,0.586,0.6,0.00638,0.127,-6.229,0.0229,93.959,0.546,29,Bryan Adams
+Tracks Of My Years (Deluxe),9,61aiS48Do0KK3QTps3GgdD,Sunny,spotify:track:61aiS48Do0KK3QTps3GgdD,0.153,0.718,0.742,0,0.0496,-5.706,0.0369,129.027,0.738,29,Bryan Adams
+Tracks Of My Years (Deluxe),10,7lH7Ei2c8IITMom3nkaglR,The Tracks Of My Tears,spotify:track:7lH7Ei2c8IITMom3nkaglR,0.701,0.657,0.481,0,0.104,-6.43,0.0242,93.027,0.594,24,Bryan Adams
+Tracks Of My Years (Deluxe),11,0eodGK72exnrkqk1KROLNf,God Only Knows,spotify:track:0eodGK72exnrkqk1KROLNf,0.982,0.375,0.0567,1.25E-05,0.109,-13.784,0.0426,86.47,0.225,38,Bryan Adams
+Tracks Of My Years (Deluxe),12,07ccP7PxuWZJHrMd3HDUbH,You've Been A Friend To Me,spotify:track:07ccP7PxuWZJHrMd3HDUbH,0.0244,0.677,0.731,5.19E-06,0.177,-3.063,0.0373,172.089,0.852,25,Bryan Adams
+Tracks Of My Years (Deluxe),13,67IU3MitGxEbANz9TJ5oAz,Help Me Make It Through The Night,spotify:track:67IU3MitGxEbANz9TJ5oAz,0.532,0.764,0.253,2.54E-05,0.0934,-9.803,0.0337,117.939,0.49,33,Bryan Adams
+Tracks Of My Years (Deluxe),14,59gyZWrgXEsX2PrrGV4esK,C'mon Everybody,spotify:track:59gyZWrgXEsX2PrrGV4esK,0.175,0.504,0.882,0.000258,0.133,-4.244,0.0392,174.569,0.95,24,Bryan Adams
+Tracks Of My Years (Deluxe),15,3brfeP4Q2JYG2oBSy1m9eK,Many Rivers To Cross,spotify:track:3brfeP4Q2JYG2oBSy1m9eK,0.742,0.592,0.394,1.26E-06,0.216,-6.634,0.0283,134.066,0.303,23,Bryan Adams
+Tracks Of My Years (Deluxe),16,0zxSWpMba0YiBiCQE0CbZp,You Shook Me,spotify:track:0zxSWpMba0YiBiCQE0CbZp,0.0162,0.267,0.896,2.55E-05,0.069,-3.766,0.0682,170.411,0.687,19,Bryan Adams
+Tracks Of My Years,12,0nr0oYWegl8U52oocdE5H7,Help Me Make It Through The Night - Live At Bush Hall,spotify:track:0nr0oYWegl8U52oocdE5H7,0.887,0.531,0.214,5.20E-06,0.66,-12.302,0.0469,127.161,0.525,1,Bryan Adams
+Live At The Sydney Opera House,1,0QHyF3ygE4S3kIyFAVxARn,Run To You - Live At Sydney Opera House / 2013,spotify:track:0QHyF3ygE4S3kIyFAVxARn,0.803,0.396,0.492,0,0.962,-6.857,0.0335,127.045,0.435,17,Bryan Adams
+Live At The Sydney Opera House,2,6QbwjriP24DHNYfnoTaOdl,Back To You - Live At Sydney Opera House / 2013,spotify:track:6QbwjriP24DHNYfnoTaOdl,0.544,0.476,0.766,0,0.962,-4.723,0.033,134.146,0.379,9,Bryan Adams
+Live At The Sydney Opera House,3,0l6nU9wXTobLzTvTesMOBe,Here I Am - Live At Sydney Opera House / 2013,spotify:track:0l6nU9wXTobLzTvTesMOBe,0.79,0.494,0.422,0,0.996,-7.869,0.0329,101.596,0.325,9,Bryan Adams
+Live At The Sydney Opera House,4,2mXRUuiBhbrtjDvMshIU9x,I'm Ready - Live At Sydney Opera House / 2013,spotify:track:2mXRUuiBhbrtjDvMshIU9x,0.691,0.368,0.358,0,0.944,-9.004,0.0288,151.174,0.312,8,Bryan Adams
+Live At The Sydney Opera House,5,3gZ23ERqdqGX2LaCDeyGey,This Time - Live At Sydney Opera House / 2013,spotify:track:3gZ23ERqdqGX2LaCDeyGey,0.671,0.457,0.746,0,0.94,-5.788,0.0426,130.48,0.493,9,Bryan Adams
+Live At The Sydney Opera House,6,53yZThCw5xeSdzXL3Ty3fy,Flying - Live At Sydney Opera House / 2013,spotify:track:53yZThCw5xeSdzXL3Ty3fy,0.846,0.5,0.268,0,0.981,-10.969,0.0363,136.136,0.437,7,Bryan Adams
+Live At The Sydney Opera House,7,1w4AECx3UibZHOFqA7207H,Can't Stop This Thing We Started - Live At Sydney Opera House / 2013,spotify:track:1w4AECx3UibZHOFqA7207H,0.637,0.526,0.752,0,0.97,-6.143,0.0475,126.832,0.643,8,Bryan Adams
+Live At The Sydney Opera House,8,5StkDRlabUXt7OZdhQTJMU,Waiting On The '49 - Live At Sydney Opera House / 2013,spotify:track:5StkDRlabUXt7OZdhQTJMU,0.79,0.463,0.306,0,0.974,-9.087,0.0349,136.762,0.374,6,Bryan Adams
+Live At The Sydney Opera House,9,3KhOIBttASep2od1dKQNUK,In The Heat Of The Night - Live At Sydney Opera House / 2013,spotify:track:3KhOIBttASep2od1dKQNUK,0.701,0.582,0.668,1.11E-05,0.728,-5.542,0.0359,92.297,0.465,8,Bryan Adams
+Live At The Sydney Opera House,10,6rkrntfXaP4c5M0GpfgxW0,(Everything I Do) I Do It For You - Live At Sydney Opera House / 2013,spotify:track:6rkrntfXaP4c5M0GpfgxW0,0.789,0.399,0.356,0,0.906,-7.626,0.0313,135.73,0.312,17,Bryan Adams
+Live At The Sydney Opera House,11,4HJBCh9j2eC7SBAKwIJCgJ,Cuts Like A Knife - Live At Sydney Opera House / 2013,spotify:track:4HJBCh9j2eC7SBAKwIJCgJ,0.324,0.601,0.453,1.16E-05,0.924,-6.846,0.0267,100.805,0.27,9,Bryan Adams
+Live At The Sydney Opera House,12,38qFkIl5szcmKhBm6n65Lm,Tonight In Babylon - Live At Sydney Opera House / 2013,spotify:track:38qFkIl5szcmKhBm6n65Lm,0.488,0.541,0.534,1.04E-06,0.839,-6.432,0.0329,139.702,0.258,6,Bryan Adams
+Live At The Sydney Opera House,13,4b1Bwrkz7jtqg4JR6Q5jb1,Summer Of '69 - Live At Sydney Opera House / 2013,spotify:track:4b1Bwrkz7jtqg4JR6Q5jb1,0.65,0.453,0.866,0,0.89,-3.704,0.0386,142.929,0.549,17,Bryan Adams
+Live At The Sydney Opera House,14,0Z75kLQp0mp0kwCjJyuWsF,Walk On By - Live At Sydney Opera House / 2013,spotify:track:0Z75kLQp0mp0kwCjJyuWsF,0.764,0.594,0.138,0,0.937,-15.87,0.0526,115.819,0.392,6,Bryan Adams
+Live At The Sydney Opera House,15,3rkmsjhQOuTlgFfYLv0GVz,Heaven - Live At Sydney Opera House / 2013,spotify:track:3rkmsjhQOuTlgFfYLv0GVz,0.762,0.409,0.456,0,0.986,-7.878,0.048,134.872,0.422,17,Bryan Adams
+Live At The Sydney Opera House,16,28eQYzcQdhVUVXB5PbsL8j,The Right Place - Live At Sydney Opera House / 2013,spotify:track:28eQYzcQdhVUVXB5PbsL8j,0.738,0.464,0.403,0,0.986,-8.221,0.0662,133.487,0.434,5,Bryan Adams
+Live At The Sydney Opera House,17,3K6USnqKdvrkSbvnHELFw9,The Only Thing That Looks Good On Me Is You - Live At Sydney Opera House / 2013,spotify:track:3K6USnqKdvrkSbvnHELFw9,0.745,0.521,0.712,0,0.855,-6.195,0.0522,138.915,0.486,5,Bryan Adams
+Live At The Sydney Opera House,18,6dZ3TmSYEL0BAXTRhnj91T,You've Been A Friend To Me - Live At Sydney Opera House / 2013,spotify:track:6dZ3TmSYEL0BAXTRhnj91T,0.546,0.463,0.837,0,0.972,-4.745,0.048,90.807,0.507,5,Bryan Adams
+Live At The Sydney Opera House,19,22GTIQauDmgXkPKGVHEhP1,When You're Gone - Live At Sydney Opera House / 2013,spotify:track:22GTIQauDmgXkPKGVHEhP1,0.544,0.516,0.858,0,0.986,-4.601,0.0369,137.688,0.697,7,Bryan Adams
+Live At The Sydney Opera House,20,2q72VKWekeGD2BynZIzl6j,Have You Ever Really Loved A Woman? - Live At Sydney Opera House / 2013,spotify:track:2q72VKWekeGD2BynZIzl6j,0.779,0.345,0.434,0,0.976,-8.345,0.0336,98.876,0.352,10,Bryan Adams
+Live At The Sydney Opera House,21,3Oy1KEEU12oUObEv1VfqPE,I Still Miss You... A Little Bit - Live At Sydney Opera House / 2013,spotify:track:3Oy1KEEU12oUObEv1VfqPE,0.696,0.464,0.686,0,0.969,-5.747,0.046,81.469,0.452,5,Bryan Adams
+Live At The Sydney Opera House,22,0pLBUDbEnAZajn61ENhh7u,Straight From The Heart - Live At Sydney Opera House / 2013,spotify:track:0pLBUDbEnAZajn61ENhh7u,0.712,0.336,0.248,0,0.96,-12.487,0.0556,180.133,0.339,10,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,1,72nmcPjc5Hlqu69jjvtfl4,Run To You - Live at Sydney Opera House,spotify:track:72nmcPjc5Hlqu69jjvtfl4,0.805,0.405,0.502,0,0.966,-6.827,0.0306,130.211,0.461,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,2,41Wk7mMhJRbLwEO2C76Pqi,Back To You - Live at Sydney Opera House,spotify:track:41Wk7mMhJRbLwEO2C76Pqi,0.539,0.474,0.755,0,0.962,-4.745,0.0319,134.187,0.391,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,3,2gvyhicNnucuobKJzqQp5U,Here I Am - Live at Sydney Opera House,spotify:track:2gvyhicNnucuobKJzqQp5U,0.801,0.284,0.418,0,0.995,-7.802,0.0396,203.151,0.353,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,4,6XBLXmmueqd2ZOuR8nh6aM,I'm Ready - Live at Sydney Opera House,spotify:track:6XBLXmmueqd2ZOuR8nh6aM,0.682,0.367,0.358,0,0.94,-8.973,0.0281,150.897,0.318,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,5,2UphGsxHxnjr1bLyYG9h4V,This Time - Live at Sydney Opera House,spotify:track:2UphGsxHxnjr1bLyYG9h4V,0.699,0.453,0.748,0,0.936,-5.802,0.0456,131.934,0.491,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,6,54GEtBhUv78SP7CvN2tZBE,Flying - Live at Sydney Opera House,spotify:track:54GEtBhUv78SP7CvN2tZBE,0.848,0.514,0.267,0,0.982,-10.995,0.0345,135.475,0.427,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,7,7JAhAGBwWXe8W12rowkbh1,Can't Stop This Thing We Started - Live at Sydney Opera House,spotify:track:7JAhAGBwWXe8W12rowkbh1,0.606,0.55,0.756,0,0.97,-6.155,0.044,126.606,0.636,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,8,1AEszJfHzmzIuTxQggw0gw,Waiting On The '49 - Live at Sydney Opera House,spotify:track:1AEszJfHzmzIuTxQggw0gw,0.809,0.466,0.295,0,0.974,-9.137,0.0341,136.186,0.386,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,9,53L0dz2YHQxYyQ5FJTR4LA,In The Heat Of The Night - Live at Sydney Opera House,spotify:track:53L0dz2YHQxYyQ5FJTR4LA,0.701,0.587,0.668,1.26E-05,0.726,-5.526,0.0364,92.572,0.465,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,10,1qF8cCrWgqeZPmmbf4jIxq,(Everything I Do) I Do It For You - Live at Sydney Opera House,spotify:track:1qF8cCrWgqeZPmmbf4jIxq,0.763,0.409,0.354,0,0.911,-7.634,0.0311,136.914,0.317,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,11,0HkCv6WRJXsnIezLmVfSPi,Cuts Like A Knife - Live at Sydney Opera House,spotify:track:0HkCv6WRJXsnIezLmVfSPi,0.312,0.337,0.449,1.48E-05,0.929,-6.854,0.0365,200.481,0.248,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,12,7iH86hmZZY6sgJkoX5r2ZZ,Tonight In Babylon - Live at Sydney Opera House,spotify:track:7iH86hmZZY6sgJkoX5r2ZZ,0.495,0.54,0.535,0,0.714,-6.459,0.0328,139.678,0.201,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,13,2hNRWtiVc1aHdVAFtwSkUM,Summer Of '69 - Live at Sydney Opera House,spotify:track:2hNRWtiVc1aHdVAFtwSkUM,0.641,0.452,0.864,0,0.889,-3.702,0.044,142.957,0.532,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,14,5W2nVONFzaygz82ZcWz3Go,Walk On By - Live at Sydney Opera House,spotify:track:5W2nVONFzaygz82ZcWz3Go,0.768,0.591,0.137,0,0.947,-15.853,0.0515,115.756,0.398,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,15,5xRLRf5DEx2x6ZVLCnnJOr,Heaven - Live at Sydney Opera House,spotify:track:5xRLRf5DEx2x6ZVLCnnJOr,0.753,0.41,0.456,0,0.986,-7.895,0.0487,134.895,0.402,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,16,5PLL2pZUFl9Gf1Rtyhna7y,The Right Place - Live at Sydney Opera House,spotify:track:5PLL2pZUFl9Gf1Rtyhna7y,0.765,0.484,0.408,0,0.987,-8.191,0.0678,132.883,0.437,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,17,7hWULf5luUc6bSBOvxQAHE,The Only Thing That Looks Good On Me Is You - Live at Sydney Opera House,spotify:track:7hWULf5luUc6bSBOvxQAHE,0.74,0.527,0.716,0,0.848,-6.227,0.0591,138.893,0.472,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,18,6cJ9wroF18Wy6te5RQe8lx,You've Been A Friend To Me - Live at Sydney Opera House,spotify:track:6cJ9wroF18Wy6te5RQe8lx,0.56,0.46,0.84,0,0.97,-4.725,0.0473,90.808,0.483,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,19,00QqIqPxeP7kvJQe8kDTtk,When You're Gone - Live at Sydney Opera House,spotify:track:00QqIqPxeP7kvJQe8kDTtk,0.555,0.519,0.852,0,0.985,-4.593,0.0393,137.703,0.688,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,20,4j4rJYRR3Zevc0eu6LDGH6,Have You Ever Really Loved A Woman - Live at Sydney Opera House,spotify:track:4j4rJYRR3Zevc0eu6LDGH6,0.784,0.35,0.438,0,0.979,-8.308,0.0331,100.168,0.372,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,21,0A1azlH8WZVX93mmK23FyM,I Still Miss You... A Little Bit - Live at Sydney Opera House,spotify:track:0A1azlH8WZVX93mmK23FyM,0.679,0.457,0.682,0,0.969,-5.753,0.0374,81.365,0.484,0,Bryan Adams
+Bryan Adams: Live at Sydney Opera House,22,6skhWTlyY7czP6AYW9Tj97,Straight From The Heart - Live at Sydney Opera House,spotify:track:6skhWTlyY7czP6AYW9Tj97,0.727,0.494,0.253,0,0.964,-12.508,0.0385,90.303,0.326,0,Bryan Adams

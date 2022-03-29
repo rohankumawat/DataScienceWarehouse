@@ -1,0 +1,106 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+One Night In Malibu,1,2B4u4howohJ8kbkWcbuAUM,Horizon - from One Night In Malibu,spotify:track:2B4u4howohJ8kbkWcbuAUM,0.861,0.438,0.152,0.0689,0.105,-23.868,0.0768,132.146,0.138,53,One Republic
+One Night In Malibu,2,2gPWnjEtKZaCcEXRlH9yT4,Distance - from One Night In Malibu,spotify:track:2gPWnjEtKZaCcEXRlH9yT4,0.151,0.558,0.665,5.75E-05,0.098,-9.693,0.0395,150.928,0.639,55,One Republic
+One Night In Malibu,3,5ngFtRMAHVwCczceA9tUQD,Take Care Of You - from One Night In Malibu,spotify:track:5ngFtRMAHVwCczceA9tUQD,0.0703,0.579,0.594,1.49E-05,0.12,-9.817,0.0358,98.05,0.307,54,One Republic
+One Night In Malibu,4,0qdpBSgdFsOPGv9QLxEjdu,Good Life - from One Night In Malibu,spotify:track:0qdpBSgdFsOPGv9QLxEjdu,0.0176,0.686,0.663,0,0.0713,-8.751,0.0415,94.991,0.599,56,One Republic
+One Night In Malibu,5,5tzvqXAnA3WfPd1PcZgxSX,Rescue Me - from One Night In Malibu,spotify:track:5tzvqXAnA3WfPd1PcZgxSX,0.616,0.695,0.554,0.000192,0.099,-9.819,0.0449,120.996,0.395,52,One Republic
+One Night In Malibu,6,18kUq9I5PGlJcB36dMhcOy,Secrets - from One Night In Malibu,spotify:track:18kUq9I5PGlJcB36dMhcOy,0.114,0.606,0.731,6.51E-05,0.0906,-8.769,0.0378,147.896,0.348,53,One Republic
+One Night In Malibu,7,0LoY54m9XFnSaSxeQZEI00,Wanted - from One Night In Malibu,spotify:track:0LoY54m9XFnSaSxeQZEI00,0.226,0.678,0.528,0,0.0695,-11.071,0.0779,145.833,0.676,50,One Republic
+One Night In Malibu,8,27tjAlOAJbhdEMLXhFqnxj,Lose Somebody - from One Night In Malibu,spotify:track:27tjAlOAJbhdEMLXhFqnxj,0.774,0.589,0.437,0,0.0922,-10.377,0.0352,147.846,0.659,52,One Republic
+One Night In Malibu,9,5mmxExsbydcTmXfs2fSDBk,Better Days - from One Night In Malibu,spotify:track:5mmxExsbydcTmXfs2fSDBk,0.571,0.367,0.462,0.000128,0.0624,-11.359,0.0401,177.826,0.12,49,One Republic
+One Night In Malibu,10,3v5dEeN8mrw8XFq3wnGL1H,Run - From One Night In Malibu,spotify:track:3v5dEeN8mrw8XFq3wnGL1H,0.449,0.778,0.626,1.55E-05,0.0848,-10.126,0.0478,117.005,0.67,60,One Republic
+One Night In Malibu,11,6Eid9fMZCjDm65gotziFAh,I Lived - from One Night In Malibu,spotify:track:6Eid9fMZCjDm65gotziFAh,0.136,0.371,0.41,0.000114,0.0923,-10.632,0.0368,119.969,0.151,51,One Republic
+One Night In Malibu,12,0Fh0kfS6IBEilmHaiDNahG,Someday - from One Night In Malibu,spotify:track:0Fh0kfS6IBEilmHaiDNahG,0.0957,0.567,0.559,0.000121,0.154,-10.302,0.0339,120.903,0.199,51,One Republic
+One Night In Malibu,13,5ID6Vqa2LDhrezdhNzQFbX,Ships + Tides - from One Night In Malibu,spotify:track:5ID6Vqa2LDhrezdhNzQFbX,0.815,0.261,0.186,0.00235,0.101,-13.463,0.0305,138.221,0.11,51,One Republic
+One Night In Malibu,14,2yt0Pcxf88XnbMOQVLu0MV,Apologize - from One Night In Malibu,spotify:track:2yt0Pcxf88XnbMOQVLu0MV,0.083,0.686,0.504,0.00193,0.136,-10.063,0.0268,118.008,0.167,50,One Republic
+One Night In Malibu,15,35zUCwNjhCK9Azdt9TRlYU,Love Runs Out - from One Night In Malibu,spotify:track:35zUCwNjhCK9Azdt9TRlYU,0.0627,0.678,0.836,0.000186,0.117,-7.633,0.0309,120.033,0.786,50,One Republic
+One Night In Malibu,16,5JaPbIWYgYoA5Hhl5FdujT,Counting Stars - from One Night In Malibu,spotify:track:5JaPbIWYgYoA5Hhl5FdujT,0.0667,0.662,0.644,2.60E-06,0.0796,-9.454,0.0395,121.993,0.475,51,One Republic
+One Night In Malibu,17,6bodwiB48M5lD9cIOOwF0i,Wild Life - from One Night In Malibu,spotify:track:6bodwiB48M5lD9cIOOwF0i,0.0069,0.547,0.736,0.0172,0.131,-10.484,0.0309,115.982,0.166,48,One Republic
+Human (Deluxe),1,6KL88T4Ma4ABXqzgUoEwkd,Run,spotify:track:6KL88T4Ma4ABXqzgUoEwkd,0.321,0.682,0.72,0,0.205,-8.176,0.0382,116.988,0.649,78,One Republic
+Human (Deluxe),2,2l3gQ8Zv1KlGqyE6B4ntPC,Distance,spotify:track:2l3gQ8Zv1KlGqyE6B4ntPC,0.112,0.611,0.766,7.13E-06,0.195,-5.686,0.0634,150.956,0.713,56,One Republic
+Human (Deluxe),3,6aDsgHPZsMztSbZernzlF8,Someday,spotify:track:6aDsgHPZsMztSbZernzlF8,0.0311,0.576,0.679,0,0.323,-7.237,0.034,121.005,0.213,82,One Republic
+Human (Deluxe),4,2IpeTEPICyB66jjg2hU4Vg,Didn't I,spotify:track:2IpeTEPICyB66jjg2hU4Vg,0.0186,0.611,0.61,0,0.125,-6.745,0.0314,123.943,0.242,58,One Republic
+Human (Deluxe),5,37LNNQNbL1YLyutBG6aWRx,Rescue Me,spotify:track:37LNNQNbL1YLyutBG6aWRx,0.157,0.761,0.606,0,0.574,-7.742,0.0424,121.038,0.646,69,One Republic
+Human (Deluxe),6,4VhR9r9zgzikeruUScgj8A,Savior,spotify:track:4VhR9r9zgzikeruUScgj8A,0.016,0.59,0.583,8.49E-05,0.0703,-6.985,0.0309,92.995,0.234,53,One Republic
+Human (Deluxe),7,2ExaKO7GhafvrUHOjWxjgC,Take Care Of You,spotify:track:2ExaKO7GhafvrUHOjWxjgC,0.00788,0.461,0.704,8.88E-06,0.148,-6.451,0.0377,98.539,0.25,53,One Republic
+Human (Deluxe),8,73xYQWRzImNfVHhz0x9ETV,Forgot About You,spotify:track:73xYQWRzImNfVHhz0x9ETV,0.318,0.793,0.627,0,0.0696,-5.689,0.0528,142.91,0.544,52,One Republic
+Human (Deluxe),9,2z8S9ARUXOXWT9h0PdF4yP,Somebody To Love,spotify:track:2z8S9ARUXOXWT9h0PdF4yP,0.0158,0.401,0.503,0,0.134,-8.084,0.0439,118.486,0.236,56,One Republic
+Human (Deluxe),10,3fT6xqEkC1jm4mHjOyXbKw,Wanted,spotify:track:3fT6xqEkC1jm4mHjOyXbKw,0.165,0.665,0.539,0,0.0912,-6.613,0.0699,145.828,0.666,57,One Republic
+Human (Deluxe),11,7lISY14A9I1w3m7to2kWv1,Take It Out On Me,spotify:track:7lISY14A9I1w3m7to2kWv1,0.81,0.437,0.314,0,0.116,-8.007,0.0372,119.888,0.13,51,One Republic
+Human (Deluxe),12,2SLxgJ2YFohfd8KwuJZTUE,Better Days,spotify:track:2SLxgJ2YFohfd8KwuJZTUE,0.255,0.618,0.725,0,0.424,-4.952,0.0479,88.982,0.242,61,One Republic
+Human (Deluxe),13,4zD9RBG51Lj8bnQwolLnyu,Wild Life,spotify:track:4zD9RBG51Lj8bnQwolLnyu,0.00711,0.479,0.762,0.011,0.0965,-7.86,0.0378,115.956,0.0519,50,One Republic
+Human (Deluxe),14,0GUncXNah8KoaErnDd7H1L,Ships + Tides,spotify:track:0GUncXNah8KoaErnDd7H1L,0.768,0.242,0.354,0.0234,0.117,-8.783,0.0299,135.852,0.183,53,One Republic
+Human (Deluxe),15,5CJQMw0y824OWaQJSlszY5,Someday - Acoustic,spotify:track:5CJQMw0y824OWaQJSlszY5,0.565,0.575,0.494,0,0.156,-7.487,0.0297,120.998,0.207,52,One Republic
+Human (Deluxe),16,5JAQXve1J0iUpslwMI3J7C,Lose Somebody,spotify:track:5JAQXve1J0iUpslwMI3J7C,0.347,0.582,0.589,0,0.0755,-6.871,0.0355,147.992,0.495,0,One Republic
+CLOUDS (Music From The Disney+ Original Movie),1,5GWOpEPh1YAu1c25EENFlF,Galaxies,spotify:track:5GWOpEPh1YAu1c25EENFlF,0.869,0.513,0.277,0,0.0621,-10.587,0.0296,135.926,0.132,40,One Republic
+CLOUDS (Music From The Disney+ Original Movie),2,3KKUAEaehogQNQUSIlZxF1,Sexy And I Know It,spotify:track:3KKUAEaehogQNQUSIlZxF1,0.795,0.583,0.269,0,0.0938,-9.823,0.0882,106.921,0.5,37,One Republic
+CLOUDS (Music From The Disney+ Original Movie),3,6b2WZQaW8BWRCY7AMHaMP1,Blueberries,spotify:track:6b2WZQaW8BWRCY7AMHaMP1,0.823,0.602,0.363,0,0.091,-8.393,0.0362,177.954,0.483,46,One Republic
+CLOUDS (Music From The Disney+ Original Movie),4,0nCfCedKIf6EjWFt55AXum,Clouds (with Sabrina Carpenter),spotify:track:0nCfCedKIf6EjWFt55AXum,0.571,0.583,0.633,0.000816,0.156,-7.662,0.0279,95.037,0.379,60,One Republic
+CLOUDS (Music From The Disney+ Original Movie),5,1ERCrZMVMSpqDW4zmr4sRc,afterthoughts,spotify:track:1ERCrZMVMSpqDW4zmr4sRc,0.86,0.51,0.229,3.03E-05,0.118,-11.394,0.0352,93.309,0.107,57,One Republic
+CLOUDS (Music From The Disney+ Original Movie),6,3tlYKGhlexHCt8Ac5pYG49,Fix Me Up (with Sabrina Carpenter),spotify:track:3tlYKGhlexHCt8Ac5pYG49,0.731,0.396,0.418,9.46E-06,0.164,-8.504,0.0294,126.083,0.142,56,One Republic
+CLOUDS (Music From The Disney+ Original Movie),7,60FOYIclKOq7bdwY5z5GRw,My Little Dancer,spotify:track:60FOYIclKOq7bdwY5z5GRw,0.907,0.558,0.178,0,0.132,-12.816,0.0396,79.53,0.373,44,One Republic
+CLOUDS (Music From The Disney+ Original Movie),8,0v0o4Otymd018Md9coeR4i,How To Go To Confession,spotify:track:0v0o4Otymd018Md9coeR4i,0.482,0.278,0.552,0.000174,0.101,-6.305,0.0518,161.958,0.193,48,One Republic
+CLOUDS (Music From The Disney+ Original Movie),9,5l3HdNxHfzukubdqakV6hL,Clouds Score Suite,spotify:track:5l3HdNxHfzukubdqakV6hL,0.873,0.383,0.238,0.917,0.0716,-13.231,0.0288,102.042,0.0369,35,One Republic
+CLOUDS (Music From The Disney+ Original Movie),10,4Ad8uVajbb6QpUNQSmuswp,Purple Pink,spotify:track:4Ad8uVajbb6QpUNQSmuswp,0.686,0.752,0.336,0.000133,0.11,-13.032,0.0377,95.996,0.521,36,One Republic
+CLOUDS (Music From The Disney+ Original Movie),11,0Om29oA0R3YPxVuf8Okowh,Star Hopping - Film Version,spotify:track:0Om29oA0R3YPxVuf8Okowh,0.809,0.48,0.282,0,0.112,-10.37,0.0824,199.724,0.498,33,One Republic
+CLOUDS (Music From The Disney+ Original Movie),12,6Y9HBKuFzPRzmW1Cc4j3Rs,Ames - Film Version,spotify:track:6Y9HBKuFzPRzmW1Cc4j3Rs,0.62,0.456,0.349,0,0.0778,-9.298,0.0386,139.609,0.276,34,One Republic
+CLOUDS (Music From The Disney+ Original Movie),13,3f8zH05JnpK8wtuTqvSFsg,Sandcastles - Film Version,spotify:track:3f8zH05JnpK8wtuTqvSFsg,0.703,0.436,0.473,0,0.089,-8.986,0.0426,186.078,0.351,36,One Republic
+Oh My My,1,05sCp83gcMm1iecYydKJS3,Let's Hurt Tonight,spotify:track:05sCp83gcMm1iecYydKJS3,0.33,0.359,0.713,0,0.324,-4.526,0.0366,61.519,0.272,67,One Republic
+Oh My My,2,2JATE4qxTuVgKEKe12sqLp,Future Looks Good,spotify:track:2JATE4qxTuVgKEKe12sqLp,0.214,0.33,0.548,1.21E-05,0.12,-7.922,0.0426,78.594,0.559,57,One Republic
+Oh My My,3,0QaCNjtdot0XiD8E347iQn,Oh My My,spotify:track:0QaCNjtdot0XiD8E347iQn,0.0783,0.74,0.673,0.00244,0.0628,-5.284,0.1,115.016,0.719,44,One Republic
+Oh My My,4,5mQNY6pTeSDl2doFB7uLbE,Kids,spotify:track:5mQNY6pTeSDl2doFB7uLbE,0.0153,0.596,0.732,0,0.318,-6.189,0.0401,99.98,0.228,65,One Republic
+Oh My My,5,7kAykEQsPsC67ML8qQmOSW,Dream,spotify:track:7kAykEQsPsC67ML8qQmOSW,0.189,0.756,0.64,0.000141,0.132,-6.093,0.0498,104.993,0.553,43,One Republic
+Oh My My,6,5xtliWYBVT4cKo9BtBn43B,Choke,spotify:track:5xtliWYBVT4cKo9BtBn43B,0.302,0.582,0.607,0,0.116,-6.397,0.0346,92.021,0.263,54,One Republic
+Oh My My,7,5xRcy8i64lENBk48rOe7K8,A.I.,spotify:track:5xRcy8i64lENBk48rOe7K8,0.0744,0.705,0.668,0.215,0.114,-7.279,0.0432,118.007,0.261,42,One Republic
+Oh My My,8,5oLP3yTZ7oQlRJ8bSCWvzN,Better,spotify:track:5oLP3yTZ7oQlRJ8bSCWvzN,0.0305,0.713,0.645,1.20E-06,0.545,-5.121,0.0524,135.98,0.557,46,One Republic
+Oh My My,9,797fEwjPjyNhkoQCHDkzne,Born,spotify:track:797fEwjPjyNhkoQCHDkzne,0.0715,0.251,0.843,3.99E-06,0.361,-5.318,0.055,93.102,0.211,51,One Republic
+Oh My My,10,7FQgwxkgClQLTwEilUlscr,Fingertips,spotify:track:7FQgwxkgClQLTwEilUlscr,0.901,0.357,0.281,3.53E-05,0.0927,-11.982,0.0417,130.857,0.0507,51,One Republic
+Oh My My,11,5NbplIIyJnnAPrUWeJAbQ4,Human,spotify:track:5NbplIIyJnnAPrUWeJAbQ4,0.138,0.587,0.913,2.71E-06,0.108,-6.685,0.248,140.067,0.313,42,One Republic
+Oh My My,12,0x7oCog91UWqiYJQEee3uK,Lift Me Up,spotify:track:0x7oCog91UWqiYJQEee3uK,0.0107,0.69,0.84,0,0.0785,-6.104,0.0307,115,0.701,53,One Republic
+Oh My My,13,6zsFCfP4TK2J48tMYjb668,NbHD,spotify:track:6zsFCfP4TK2J48tMYjb668,0.0011,0.547,0.804,2.54E-06,0.687,-5.413,0.0424,97.005,0.343,50,One Republic
+Oh My My,15,5SlNjNaibdMLveJPYqAAaE,All These Things,spotify:track:5SlNjNaibdMLveJPYqAAaE,0.0247,0.584,0.654,1.48E-05,0.434,-6.485,0.0361,151.916,0.287,51,One Republic
+Oh My My,16,1lFHaHvZeLf6XrOqX6iLlS,Heaven,spotify:track:1lFHaHvZeLf6XrOqX6iLlS,0.0607,0.585,0.724,0,0.105,-6.658,0.0321,95.009,0.37,55,One Republic
+Oh My My (Deluxe),14,46jLy47W8rkf8rEX04gMKB,Wherever I Go,spotify:track:46jLy47W8rkf8rEX04gMKB,0.0915,0.552,0.689,0,0.27,-6.444,0.0425,99.961,0.349,76,One Republic
+Oh My My (Deluxe),17,2UyZTPrWFSMysY9cVVjmaB,Colors,spotify:track:2UyZTPrWFSMysY9cVVjmaB,0.452,0.705,0.664,0.00552,0.0759,-6.093,0.0302,140.059,0.588,40,One Republic
+Oh My My (Deluxe),18,0zDu21d7aHrScpTHXRddNr,The Less I Know,spotify:track:0zDu21d7aHrScpTHXRddNr,0.5,0.715,0.631,0.000827,0.0992,-7.235,0.0334,122.024,0.716,32,One Republic
+Oh My My (Deluxe),19,0IcL9jPFBst0l7vUcuYVH3,Heaven - Acoustic,spotify:track:0IcL9jPFBst0l7vUcuYVH3,0.506,0.429,0.526,0,0.0684,-7.92,0.0312,126.835,0.349,31,One Republic
+Oh My My (Deluxe),20,1CSjnpL63KuOa0VnF6T3uS,Better - String Version,spotify:track:1CSjnpL63KuOa0VnF6T3uS,0.412,0.77,0.399,1.58E-05,0.712,-7.756,0.0375,135.974,0.608,31,One Republic
+Native,2,3cOO5IQtOYs7huq4Z6lYfr,Love Runs Out,spotify:track:3cOO5IQtOYs7huq4Z6lYfr,0.171,0.715,0.931,0,0.0757,-3.793,0.0565,120.025,0.742,69,One Republic
+Native,4,45snfGBgpEPQnS1DjspBYn,Feel Again - With Heartbeats,spotify:track:45snfGBgpEPQnS1DjspBYn,0.0218,0.465,0.828,0,0.119,-8.019,0.0553,139.978,0.288,44,One Republic
+Native,14,2y46vI6iNKI6LteqOFsKaV,Something's Gotta Give,spotify:track:2y46vI6iNKI6LteqOFsKaV,0.00445,0.567,0.521,0.000193,0.0499,-8.051,0.0293,80.005,0.265,38,One Republic
+Native,15,1MYvRetU8Z4OyITvXwbdfK,Life In Color,spotify:track:1MYvRetU8Z4OyITvXwbdfK,0.000622,0.417,0.904,0,0.0815,-3.484,0.0642,126.867,0.356,46,One Republic
+Native,16,5QPg2mhf4lXe53bj4hhuO7,If I Lose Myself - Acoustic,spotify:track:5QPg2mhf4lXe53bj4hhuO7,0.693,0.537,0.618,0,0.133,-7.996,0.0284,139.956,0.59,52,One Republic
+Native,17,5PyIglAIskDKWPwwLI5GO4,What You Wanted - Acoustic,spotify:track:5PyIglAIskDKWPwwLI5GO4,0.641,0.637,0.676,0.00654,0.0922,-8.397,0.0317,119.961,0.388,36,One Republic
+Native,18,1V67g4o5LyRWJziAbJzP7b,Burning Bridges - Acoustic,spotify:track:1V67g4o5LyRWJziAbJzP7b,0.364,0.401,0.433,2.18E-06,0.0824,-8.859,0.027,97.611,0.211,39,One Republic
+Native,19,3ScJy88F8KqGDfWu8XJhHx,If I Lose Myself - Alesso vs OneRepublic,spotify:track:3ScJy88F8KqGDfWu8XJhHx,0.258,0.519,0.754,3.75E-06,0.139,-5.689,0.0402,125.975,0.16,72,One Republic
+Native,4,75hLNJfiXV5k2YGrbGEW51,Feel Again,spotify:track:75hLNJfiXV5k2YGrbGEW51,0.0198,0.467,0.815,1.23E-06,0.118,-7.929,0.0524,140.047,0.335,59,One Republic
+Native,5,21fq2CKL93mfnYHItpitxg,What You Wanted,spotify:track:21fq2CKL93mfnYHItpitxg,0.00243,0.554,0.85,0.172,0.108,-7.428,0.0401,120.011,0.244,45,One Republic
+Native,7,1Ib5tLTFz8teJPcxZycpj3,Light It Up,spotify:track:1Ib5tLTFz8teJPcxZycpj3,0.0251,0.46,0.932,0.0761,0.184,-5.642,0.104,139.95,0.294,39,One Republic
+Native,8,62EsBz11VlUwSu3jFy7Rlo,Can’t Stop,spotify:track:62EsBz11VlUwSu3jFy7Rlo,0.113,0.634,0.737,0.000427,0.114,-5.732,0.03,89.994,0.27,42,One Republic
+Native,9,1p50TN8eyDm3mJHZVgcTxm,Au Revoir,spotify:track:1p50TN8eyDm3mJHZVgcTxm,0.905,0.524,0.518,0.298,0.121,-9.427,0.0286,117.059,0.133,44,One Republic
+Native,10,3qd6wKpFQf4JljGU7y18CJ,Burning Bridges,spotify:track:3qd6wKpFQf4JljGU7y18CJ,0.051,0.579,0.739,0,0.083,-5.266,0.0258,97.976,0.235,45,One Republic
+Native,12,4XOVGSQjmxtSbt3pKk0Ouh,Preacher,spotify:track:4XOVGSQjmxtSbt3pKk0Ouh,0.106,0.479,0.708,0,0.736,-4.393,0.0275,140.032,0.342,46,One Republic
+Native,13,22PSLtxaajzAAOPiOzcViz,Don't Look Down,spotify:track:22PSLtxaajzAAOPiOzcViz,0.0258,0.294,0.416,0.888,0.121,-11.381,0.0432,114.824,0.0615,37,One Republic
+Native,1,2tpWsVSb9UEmDRxAl1zhX1,Counting Stars,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,0.0654,0.664,0.705,0,0.118,-4.972,0.0382,122.016,0.477,88,One Republic
+Native,2,5xS9R5yNeVsB9shSR60eX3,If I Lose Myself,spotify:track:5xS9R5yNeVsB9shSR60eX3,0.0849,0.491,0.688,0,0.111,-6.05,0.0453,140.072,0.279,65,One Republic
+Native,5,3IQF4xCQUPicbA4hWfTxPo,I Lived,spotify:track:3IQF4xCQUPicbA4hWfTxPo,0.0683,0.593,0.851,0,0.271,-5.456,0.0446,119.987,0.344,75,One Republic
+Native,10,5aIZ2jtxZ4o4GHQXTybkIa,Something I Need,spotify:track:5aIZ2jtxZ4o4GHQXTybkIa,0.134,0.683,0.591,0,0.235,-6.955,0.0314,98.982,0.628,64,One Republic
+Native (Standard),13,3VQlvWmdhxq6h1HQPqtJjz,Feel Again - Fred Falke Club Remix,spotify:track:3VQlvWmdhxq6h1HQPqtJjz,0.00361,0.728,0.554,0.0108,0.407,-6.658,0.248,127.994,0.763,14,One Republic
+Waking Up,12,0ofnqQsNG6fUcmybAjOqHv,Mercy,spotify:track:0ofnqQsNG6fUcmybAjOqHv,0.205,0.569,0.522,0,0.12,-6.119,0.0316,131.273,0.811,14,One Republic
+Waking Up,1,1uRQzm3P0nRGnSfnuzMTpq,Made For You,spotify:track:1uRQzm3P0nRGnSfnuzMTpq,0.14,0.64,0.555,0.0192,0.0981,-10.204,0.0411,122.038,0.395,44,One Republic
+Waking Up,2,5XRHGXut00SrJUFmcn2lQF,All The Right Moves,spotify:track:5XRHGXut00SrJUFmcn2lQF,0.258,0.529,0.948,9.35E-06,0.283,-3.527,0.0474,146.024,0.65,70,One Republic
+Waking Up,3,1NhPKVLsHhFUHIOZ32QnS2,Secrets,spotify:track:1NhPKVLsHhFUHIOZ32QnS2,0.0717,0.516,0.764,0,0.115,-6.223,0.0366,148.021,0.376,80,One Republic
+Waking Up,4,0Q0Vl9fKJF5MDxfVKbD78e,Everybody Loves Me,spotify:track:0Q0Vl9fKJF5MDxfVKbD78e,0.0229,0.578,0.907,0,0.557,-4.869,0.0895,170.04,0.66,65,One Republic
+Waking Up,5,0PtU7G83PFe3apGJSVhMJp,Missing Persons 1 & 2,spotify:track:0PtU7G83PFe3apGJSVhMJp,0.491,0.269,0.443,0.00169,0.093,-12.359,0.0388,164.877,0.087,40,One Republic
+Waking Up,6,6OtCIsQZ64Vs1EbzztvAv4,Good Life,spotify:track:6OtCIsQZ64Vs1EbzztvAv4,0.0771,0.634,0.69,0,0.132,-7.804,0.052,94.988,0.645,78,One Republic
+Waking Up,7,3jBZ215eVz9qwazMIQNSOO,All This Time,spotify:track:3jBZ215eVz9qwazMIQNSOO,0.433,0.413,0.374,0,0.111,-10.744,0.0321,144.93,0.105,55,One Republic
+Waking Up,8,0sQ21u4HJkZbbEYc3xiVeS,Fear,spotify:track:0sQ21u4HJkZbbEYc3xiVeS,0.383,0.541,0.556,0.707,0.107,-11.523,0.0255,110.046,0.473,41,One Republic
+Waking Up,9,1GQO5U0Sx74BUoH1faCUWC,Waking Up,spotify:track:1GQO5U0Sx74BUoH1faCUWC,0.0551,0.171,0.564,0.0205,0.188,-6.936,0.0312,133.993,0.0618,41,One Republic
+Waking Up,10,4BUtvtGTRvJB49Hx2F7lle,Marchin On,spotify:track:4BUtvtGTRvJB49Hx2F7lle,0.333,0.508,0.807,0.00363,0.136,-8.581,0.0686,123.034,0.306,57,One Republic
+Waking Up,11,1QijFEB8TfVgDHdBqPczo6,Lullaby,spotify:track:1QijFEB8TfVgDHdBqPczo6,0.73,0.247,0.362,0.133,0.0973,-15.358,0.0334,140.081,0.149,43,One Republic
+Waking Up (Deluxe),12,3LzDGNWo1EuIN1bW2RTw2x,Passenger,spotify:track:3LzDGNWo1EuIN1bW2RTw2x,0.114,0.303,0.677,2.72E-05,0.109,-6.505,0.0367,125.967,0.191,29,One Republic
+Waking Up (Deluxe),13,3WANeXpetY3TAi6PTlIMpc,It's A Shame,spotify:track:3WANeXpetY3TAi6PTlIMpc,0.0366,0.452,0.68,0,0.0927,-6.293,0.0284,81.966,0.275,27,One Republic
+Waking Up (Deluxe),14,7Jf6ay2g947vLxqRUkC09Q,Trap Door,spotify:track:7Jf6ay2g947vLxqRUkC09Q,0.0848,0.355,0.871,0,0.144,-4.684,0.0467,154.05,0.555,25,One Republic
+Waking Up (Deluxe),15,5phIlbhXRbIgZwf8yFlSWv,Sucker Punch,spotify:track:5phIlbhXRbIgZwf8yFlSWv,0.261,0.434,0.856,6.43E-06,0.24,-5.147,0.0542,140.965,0.272,25,One Republic
+Waking Up (International Deluxe Version),12,1ScNnI2IU12csZu6Szx1QZ,Sleep,spotify:track:1ScNnI2IU12csZu6Szx1QZ,0.0319,0.22,0.681,0.000404,0.423,-5.517,0.037,100.051,0.116,22,One Republic
+Waking Up (International Deluxe Version),13,4PVKld0kvcKIifVZLILP2m,Shout - Live In Glasgow,spotify:track:4PVKld0kvcKIifVZLILP2m,0.0632,0.221,0.872,2.77E-06,0.697,-5.05,0.0712,97.827,0.0647,24,One Republic

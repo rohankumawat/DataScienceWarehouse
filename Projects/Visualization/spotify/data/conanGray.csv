@@ -1,0 +1,13 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Kid Krow,1,6uaBrivDHCaV0uBTiwHTUi,Comfort Crowd,spotify:track:6uaBrivDHCaV0uBTiwHTUi,0.163,0.678,0.431,1.94E-06,0.147,-6.749,0.0326,90.941,0.404,73,Conan Gray
+Kid Krow,2,0kn2gu8Pd03DiYHzRvX2Xk,Wish You Were Sober,spotify:track:0kn2gu8Pd03DiYHzRvX2Xk,0.0178,0.701,0.728,0,0.17,-5.226,0.0468,91.071,0.696,78,Conan Gray
+Kid Krow,3,6KfoDhO4XUWSbnyKjNp9c4,Maniac,spotify:track:6KfoDhO4XUWSbnyKjNp9c4,0.00162,0.628,0.639,0,0.354,-5.46,0.0435,108.045,0.493,86,Conan Gray
+Kid Krow,4,1WVunZLZM2zLTm5rAvKZkF,(Online Love),spotify:track:1WVunZLZM2zLTm5rAvKZkF,0.891,0.433,0.253,0.00013,0.389,-11.243,0.0476,77.72,0.85,63,Conan Gray
+Kid Krow,5,3SnpCALgmzVy7k07aAXbuA,Checkmate,spotify:track:3SnpCALgmzVy7k07aAXbuA,0.0669,0.512,0.716,9.04E-06,0.147,-4.13,0.304,151.484,0.703,69,Conan Gray
+Kid Krow,6,7wTqEW5nrMhvyEhEyTnOMd,The Cut That Always Bleeds,spotify:track:7wTqEW5nrMhvyEhEyTnOMd,0.59,0.489,0.413,0,0.0639,-6.499,0.0314,136.116,0.246,72,Conan Gray
+Kid Krow,7,0yfDVYKVKYrHknz9gVOlQr,Fight or Flight,spotify:track:0yfDVYKVKYrHknz9gVOlQr,0.363,0.397,0.552,0,0.076,-5.409,0.0567,142.528,0.569,68,Conan Gray
+Kid Krow,8,0vq7fkHZl2khMonn5G7d9l,Affluenza,spotify:track:0vq7fkHZl2khMonn5G7d9l,0.116,0.685,0.67,0,0.179,-5.663,0.0393,117.98,0.863,66,Conan Gray
+Kid Krow,9,05JtBVWRtSzqLoj7jj30kn,(Can We Be Friends?),spotify:track:05JtBVWRtSzqLoj7jj30kn,0.9,0.423,0.613,0.00159,0.328,-7.577,0.0768,74.695,0.136,59,Conan Gray
+Kid Krow,10,4xqrdfXkTW4T0RauPLv3WA,Heather,spotify:track:4xqrdfXkTW4T0RauPLv3WA,0.584,0.357,0.425,0,0.322,-7.301,0.0333,102.078,0.27,90,Conan Gray
+Kid Krow,11,3XOHxCoPkXW0pvR6xl4f0M,Little League,spotify:track:3XOHxCoPkXW0pvR6xl4f0M,0.0227,0.558,0.778,4.54E-06,0.114,-6.423,0.106,142.052,0.543,66,Conan Gray
+Kid Krow,12,5GVPVxgdgTKJFxSxLVIw1A,The Story,spotify:track:5GVPVxgdgTKJFxSxLVIw1A,0.817,0.542,0.299,0,0.109,-10.379,0.0305,141.917,0.274,74,Conan Gray

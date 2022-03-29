@@ -1,0 +1,84 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+3.15.20,1,4Ksj9mKfsYC5b8v8Ey3c8I,0,spotify:track:4Ksj9mKfsYC5b8v8Ey3c8I,0.672,0.174,0.0466,0.196,0.42,-18.458,0.0495,116.713,0.0337,47,Childish Gambino
+3.15.20,2,07FOCFJhMmCVQDyWX1d3gR,Algorhythm,spotify:track:07FOCFJhMmCVQDyWX1d3gR,0.036,0.715,0.649,0.0199,0.0795,-11.294,0.109,100.077,0.478,57,Childish Gambino
+3.15.20,3,2Aq78kKI9yuloJQkcbhQbU,Time (feat. Ariana Grande),spotify:track:2Aq78kKI9yuloJQkcbhQbU,0.0117,0.621,0.538,0.0189,0.583,-9.307,0.0401,85.977,0.311,54,Childish Gambino
+3.15.20,4,011ZwIM48eD8ee2UBpG8nK,"12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",spotify:track:011ZwIM48eD8ee2UBpG8nK,0.197,0.691,0.524,4.29E-05,0.488,-9.718,0.16,164.047,0.41,65,Childish Gambino
+3.15.20,5,5X4R93Qcw54yp9Utwy7Mlr,19.1,spotify:track:5X4R93Qcw54yp9Utwy7Mlr,0.012,0.715,0.597,0.00273,0.0925,-8.939,0.0749,114.98,0.186,61,Childish Gambino
+3.15.20,6,3IB89bAf5k60jLUFoWAmn1,24.19,spotify:track:3IB89bAf5k60jLUFoWAmn1,0.0946,0.538,0.463,0.000304,0.114,-13.573,0.038,149.927,0.207,52,Childish Gambino
+3.15.20,7,5UxxCtrLtSqOVRBQQn4ZJ3,32.22,spotify:track:5UxxCtrLtSqOVRBQQn4ZJ3,0.605,0.708,0.636,0.42,0.115,-10.655,0.299,108.035,0.487,46,Childish Gambino
+3.15.20,8,4vS4FB3HXgOSmICeqEY0Gh,35.31,spotify:track:4vS4FB3HXgOSmICeqEY0Gh,0.286,0.798,0.559,0,0.349,-10.868,0.0592,102.018,0.604,54,Childish Gambino
+3.15.20,9,2VMzIZtoTgnKydwx6cRPq7,39.28,spotify:track:2VMzIZtoTgnKydwx6cRPq7,0.808,0.44,0.106,0,0.285,-13.786,0.271,93.921,0.175,46,Childish Gambino
+3.15.20,10,5CTzapBNGovLrqPas4cy7J,42.26,spotify:track:5CTzapBNGovLrqPas4cy7J,0.456,0.576,0.486,0.134,0.0676,-9.727,0.154,165.816,0.178,51,Childish Gambino
+3.15.20,11,7l8qR2ndOxgE9hbfQf6gxA,47.48,spotify:track:7l8qR2ndOxgE9hbfQf6gxA,0.378,0.681,0.597,0.582,0.125,-12.623,0.0637,148.018,0.486,52,Childish Gambino
+3.15.20,12,2alJKJoqOOEPVU1Do3eIjJ,53.49,spotify:track:2alJKJoqOOEPVU1Do3eIjJ,0.0287,0.518,0.952,0,0.381,-5.274,0.198,171.905,0.622,53,Childish Gambino
+"""Awaken, My Love!""",1,31tf1qEai5o5f4r66Kd0pU,Me and Your Mama,spotify:track:31tf1qEai5o5f4r66Kd0pU,0.0116,0.554,0.433,0.0449,0.0667,-12.628,0.0341,117.996,0.237,78,Childish Gambino
+"""Awaken, My Love!""",2,3baESV24ilV6meyqLUh0WU,Have Some Love,spotify:track:3baESV24ilV6meyqLUh0WU,0.0171,0.783,0.782,0.0261,0.682,-7.003,0.0854,148.214,0.934,59,Childish Gambino
+"""Awaken, My Love!""",3,0SunFlwqT44E0BU0yrgM7u,Boogieman,spotify:track:0SunFlwqT44E0BU0yrgM7u,0.0963,0.713,0.753,0.19,0.206,-8.64,0.0877,88.026,0.64,58,Childish Gambino
+"""Awaken, My Love!""",4,3rBOkpPCniY6AxOIavGGsg,Zombies,spotify:track:3rBOkpPCniY6AxOIavGGsg,0.507,0.721,0.395,0.00146,0.0671,-12.706,0.0731,80.035,0.467,58,Childish Gambino
+"""Awaken, My Love!""",5,3YxunxpAExKBEvhuf7wQOK,Riot,spotify:track:3YxunxpAExKBEvhuf7wQOK,0.000225,0.498,0.942,8.70E-06,0.41,-6.664,0.0708,91.358,0.603,58,Childish Gambino
+"""Awaken, My Love!""",6,0wXuerDYiBnERgIpbb3JBR,Redbone,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.169,0.743,0.344,0.00879,0.103,-11.174,0.118,160.15,0.577,87,Childish Gambino
+"""Awaken, My Love!""",7,6Ik9aiuaoEYxsEKGdQaEJB,California,spotify:track:6Ik9aiuaoEYxsEKGdQaEJB,0.315,0.879,0.419,0,0.118,-11.932,0.588,148.953,0.847,59,Childish Gambino
+"""Awaken, My Love!""",8,5MKSl2ZHsImt0wOfBAs87U,Terrified,spotify:track:5MKSl2ZHsImt0wOfBAs87U,0.425,0.468,0.397,0.571,0.0989,-11.707,0.0572,139.973,0.0993,61,Childish Gambino
+"""Awaken, My Love!""",9,2qbw3lSGERDdUawZ736wmN,Baby Boy,spotify:track:2qbw3lSGERDdUawZ736wmN,0.13,0.536,0.392,0.508,0.0659,-7.72,0.036,199.957,0.716,62,Childish Gambino
+"""Awaken, My Love!""",10,6iGPBcdGv5gVGFZiKAGID5,The Night Me and Your Mama Met,spotify:track:6iGPBcdGv5gVGFZiKAGID5,0.967,0.416,0.112,0.188,0.0611,-15.055,0.0311,134.043,0.102,59,Childish Gambino
+"""Awaken, My Love!""",11,25BSBxpCtoDbOpVd7cpqbw,Stand Tall,spotify:track:25BSBxpCtoDbOpVd7cpqbw,0.693,0.318,0.235,0.00284,0.125,-14.084,0.036,88.474,0.123,58,Childish Gambino
+Kauai,2,77hL9s5AHzOhgXFxbLCdv1,Pop Thieves (Make It Feel Good),spotify:track:77hL9s5AHzOhgXFxbLCdv1,0.0755,0.489,0.83,1.15E-05,0.105,-8.546,0.0703,104.815,0.0741,58,Childish Gambino
+Kauai,3,1nRTH500HbZX8PYwT4ZMby,Retro (Rough),spotify:track:1nRTH500HbZX8PYwT4ZMby,0.246,0.862,0.614,0.00757,0.113,-5.875,0.0393,110.061,0.323,64,Childish Gambino
+Kauai,5,7jGmjNPjLuMwWtcVteKKVF,Poke,spotify:track:7jGmjNPjLuMwWtcVteKKVF,0.0149,0.447,0.757,0,0.0666,-6.045,0.191,150.103,0.565,48,Childish Gambino
+Kauai,6,2rEdmsqaSMd4Ci7oH0tMbH,Late Night In Kauai,spotify:track:2rEdmsqaSMd4Ci7oH0tMbH,0.757,0.785,0.408,0.249,0.109,-14.379,0.294,91.864,0.318,48,Childish Gambino
+Kauai,7,7xE37ctm10lifJZpmFLlX7,V. 3005 - Beach Picnic Version,spotify:track:7xE37ctm10lifJZpmFLlX7,0.0108,0.561,0.431,0.202,0.117,-9.53,0.0444,165.854,0.132,51,Childish Gambino
+Kauai,1,5NhlpQ6BOIz3S5welptk1W,Sober,spotify:track:5NhlpQ6BOIz3S5welptk1W,0.124,0.707,0.562,1.58E-05,0.561,-7.621,0.0305,98.094,0.418,76,Childish Gambino
+Kauai,3,5CxFl4XSOMAClE8sL1zFv9,Retro [ROUGH],spotify:track:5CxFl4XSOMAClE8sL1zFv9,0.268,0.877,0.61,0.00282,0.114,-6.722,0.0468,109.963,0.338,54,Childish Gambino
+Kauai,4,7dI2aYLZuGZYLcxVOtL3pq,The Palisades,spotify:track:7dI2aYLZuGZYLcxVOtL3pq,0.0059,0.738,0.661,3.80E-06,0.149,-7.006,0.0566,100.071,0.443,58,Childish Gambino
+Because the Internet,1,45sXSfqfwXxOtknUc9lkjV,The Library - Intro,spotify:track:45sXSfqfwXxOtknUc9lkjV,0.909,0,0.713,0.706,0,-21.666,0,0,0,2,Childish Gambino
+Because the Internet,2,0ccmrEgpKa5iFvijTxIrGf,I.Crawl,spotify:track:0ccmrEgpKa5iFvijTxIrGf,0.0445,0.588,0.539,4.82E-06,0.121,-8.816,0.0396,132.976,0.343,60,Childish Gambino
+Because the Internet,3,79ADanDPMKL9FdjJmdtNj5,II. Worldstar,spotify:track:79ADanDPMKL9FdjJmdtNj5,0.347,0.705,0.598,0.159,0.135,-9.684,0.141,119.985,0.229,60,Childish Gambino
+Because the Internet,4,62KMWKXOfDWwdY6pZr11iX,Dial Up,spotify:track:62KMWKXOfDWwdY6pZr11iX,0.91,0.455,0.254,0.655,0.535,-17.844,0.0408,97.076,0.511,54,Childish Gambino
+Because the Internet,5,17wxjHNmOSstc6nVIe401T,I. The Worst Guys,spotify:track:17wxjHNmOSstc6nVIe401T,0.0572,0.593,0.639,0,0.0622,-7.558,0.114,97.088,0.347,68,Childish Gambino
+Because the Internet,6,074OTSJiAus6qfpGKx3IJP,II. Shadows,spotify:track:074OTSJiAus6qfpGKx3IJP,0.0878,0.606,0.727,0.0301,0.332,-9.802,0.194,116.312,0.379,60,Childish Gambino
+Because the Internet,7,0VXfZi7XhfJnuBvF6XiypU,"III. Telegraph Ave. (""Oakland"" by Lloyd)",spotify:track:0VXfZi7XhfJnuBvF6XiypU,0.159,0.496,0.693,0.0261,0.142,-9.576,0.247,129.929,0.597,68,Childish Gambino
+Because the Internet,8,00GOPLxW4PGQuUYdPJh8K1,IV. Sweatpants,spotify:track:00GOPLxW4PGQuUYdPJh8K1,0.154,0.71,0.47,0,0.643,-9.33,0.142,80.027,0.581,75,Childish Gambino
+Because the Internet,9,2ZltjIqztEpZtafc8w0I9t,3005,spotify:track:2ZltjIqztEpZtafc8w0I9t,0.113,0.472,0.448,0,0.0914,-7.272,0.326,166.077,0.636,83,Childish Gambino
+Because the Internet,10,1jWoeUIvNJniadGbeTj03X,Playing Around Before the Party Starts,spotify:track:1jWoeUIvNJniadGbeTj03X,0.995,0.263,0.126,0.948,0.243,-22.601,0.0399,166.073,0.0879,54,Childish Gambino
+Because the Internet,11,6men4y6a8QuGtE5qkFkOgR,I. The Party,spotify:track:6men4y6a8QuGtE5qkFkOgR,0.153,0.508,0.567,0.00446,0.139,-11.415,0.347,146.303,0.389,55,Childish Gambino
+Because the Internet,12,4UcvB6ncHwHKIrIvzDYoOo,II. No Exit,spotify:track:4UcvB6ncHwHKIrIvzDYoOo,0.702,0.698,0.554,0.00203,0.195,-9.499,0.392,92.153,0.176,54,Childish Gambino
+Because the Internet,13,7lEPggUPWLsDNw8P3Ej3Kw,Death By Numbers,spotify:track:7lEPggUPWLsDNw8P3Ej3Kw,0.416,0.639,0.377,0.765,0.169,-11.204,0.0708,100.254,0.464,52,Childish Gambino
+Because the Internet,14,5k8eNtmqlKe21qjIFIp1Du,I. Flight of the Navigator,spotify:track:5k8eNtmqlKe21qjIFIp1Du,0.0539,0.304,0.668,0.141,0.128,-10.739,0.0439,79.319,0.166,63,Childish Gambino
+Because the Internet,15,4J5vBoKj2w2mBXbGqNDFYV,II. Zealots of Stockholm [Free Information],spotify:track:4J5vBoKj2w2mBXbGqNDFYV,0.0863,0.24,0.402,0.0003,0.281,-11.734,0.0875,73.575,0.0959,57,Childish Gambino
+Because the Internet,16,08l1JURDZhRhQsOM1OTL8w,III. Urn,spotify:track:08l1JURDZhRhQsOM1OTL8w,0.623,0.594,0.445,0.00235,0.0731,-12.759,0.073,140.034,0.399,61,Childish Gambino
+Because the Internet,17,1o18SV1lvB4oO6fLquctDS,I. Pink Toes,spotify:track:1o18SV1lvB4oO6fLquctDS,0.0598,0.409,0.619,0.000223,0.575,-9.512,0.091,79.579,0.347,63,Childish Gambino
+Because the Internet,18,3KJ9YerG9YWIK4xEgi4AM8,II. Earth: The Oldest Computer (The Last Night),spotify:track:3KJ9YerG9YWIK4xEgi4AM8,0.00435,0.562,0.688,0.000186,0.047,-7.247,0.0507,139.895,0.124,57,Childish Gambino
+Because the Internet,19,4lLR5MdqQx2d2jS0VEScUW,III. Life: The Biggest Troll [Andrew Auernheimer],spotify:track:4lLR5MdqQx2d2jS0VEScUW,0.0179,0.52,0.61,0,0.111,-7.798,0.219,80.101,0.523,56,Childish Gambino
+Because the Internet,2,2avNkU03zrPbVC8hlUkSbB,I. Crawl,spotify:track:2avNkU03zrPbVC8hlUkSbB,0.0389,0.418,0.537,9.03E-06,0.137,-8.772,0.0508,127.205,0.357,32,Childish Gambino
+Because the Internet,7,6gSO6Uss4ampMAj6fC7BwK,"III. Telegraph Ave. (""Oakland"" By Lloyd)",spotify:track:6gSO6Uss4ampMAj6fC7BwK,0.185,0.518,0.698,0.0488,0.141,-9.622,0.258,129.98,0.577,33,Childish Gambino
+Because the Internet,9,1rfJQpYr0clcyXssjQjk4T,V. 3005,spotify:track:1rfJQpYr0clcyXssjQjk4T,0.119,0.676,0.446,0,0.112,-7.153,0.329,82.912,0.655,53,Childish Gambino
+Because the Internet,15,6vvVvhKaZyS9M0otnfYp2U,II. Zealots of Stockholm (Free Information),spotify:track:6vvVvhKaZyS9M0otnfYp2U,0.0875,0.296,0.409,0.000378,0.3,-11.78,0.0554,95.912,0.102,22,Childish Gambino
+Because the Internet,19,3bPHxTtFisXwfjleBUXoWr,III. Life: The Biggest Troll (Andrew Auernheimer),spotify:track:3bPHxTtFisXwfjleBUXoWr,0.0199,0.382,0.595,0,0.11,-7.85,0.274,81.292,0.462,20,Childish Gambino
+Heartbeat (Remix Bundle),1,7EWZcbw55Wm2dX9Zyny4a1,Heartbeat - OLIVER Remix,spotify:track:7EWZcbw55Wm2dX9Zyny4a1,0.0017,0.822,0.677,0.0489,0.0792,-4.112,0.104,109.988,0.643,32,Childish Gambino
+Heartbeat (Remix Bundle),2,0G1cKDOIwwcvdEnNYzSuvm,Heartbeat - Treasure Fingers Remix,spotify:track:0G1cKDOIwwcvdEnNYzSuvm,0.00742,0.794,0.742,0.67,0.077,-6.639,0.0496,126.024,0.357,30,Childish Gambino
+Heartbeat (Remix Bundle),3,07KD5XKkLiz2HH1VgvKWfP,Heartbeat - Michael Brun Remix,spotify:track:07KD5XKkLiz2HH1VgvKWfP,0.0796,0.821,0.777,0.185,0.0897,-5.553,0.11,125.994,0.794,29,Childish Gambino
+Heartbeat (Remix Bundle),4,0d4awoiZSNdqh3xQXiOMdE,Heartbeat - Tommie Sunshine Remix,spotify:track:0d4awoiZSNdqh3xQXiOMdE,0.00546,0.699,0.592,0.0104,0.104,-7.118,0.0849,127.989,0.388,27,Childish Gambino
+Heartbeat (Remix Bundle),5,4qxJBTv1PzzAlQpYxTNyKd,Heartbeat - Peter Wade/MNDR Remix,spotify:track:4qxJBTv1PzzAlQpYxTNyKd,0.00485,0.727,0.487,0.134,0.109,-14.287,0.0519,130.015,0.405,26,Childish Gambino
+Heartbeat (Remix Bundle),6,5tjf7DrmgOcfnwVdwteOcd,Heartbeat - Ashworth IV Remix,spotify:track:5tjf7DrmgOcfnwVdwteOcd,0.313,0.733,0.751,0.0813,0.324,-8.315,0.0474,128.006,0.772,37,Childish Gambino
+Heartbeat (Remix Bundle),7,4bibphaojyB9maEHNR2kCm,Heartbeat - Religion Remix,spotify:track:4bibphaojyB9maEHNR2kCm,0.00239,0.637,0.895,0.00582,0.125,-4.684,0.401,127.012,0.288,26,Childish Gambino
+Heartbeat (Remix Bundle),8,3pvdPF6kFQoqlkc2uZWqmM,All the Shine - Little Dragon Remix,spotify:track:3pvdPF6kFQoqlkc2uZWqmM,0.0091,0.858,0.539,0.000192,0.163,-9.109,0.196,102.881,0.764,26,Childish Gambino
+Camp,1,1ffy4Bi6ROMpZTxIWyPMKG,Outside,spotify:track:1ffy4Bi6ROMpZTxIWyPMKG,0.395,0.467,0.557,0,0.118,-7.482,0.0972,175.274,0.187,53,Childish Gambino
+Camp,2,2Wd1jxXCTPhDCy2GMPC9fB,Fire Fly,spotify:track:2Wd1jxXCTPhDCy2GMPC9fB,0.146,0.673,0.887,0,0.272,-4.121,0.22,87.484,0.484,60,Childish Gambino
+Camp,3,799f6Ih1Pu4AUApMyXhxUc,Bonfire,spotify:track:799f6Ih1Pu4AUApMyXhxUc,0.0594,0.506,0.745,0,0.341,-6.044,0.331,161.808,0.311,75,Childish Gambino
+Camp,4,7iSlHsDWlZxSHt5igejoc6,All The Shine,spotify:track:7iSlHsDWlZxSHt5igejoc6,0.0217,0.34,0.579,0.000132,0.15,-8.054,0.133,80.077,0.362,54,Childish Gambino
+Camp,5,5VYNQQn0klbYd5PjpOr4bw,Letter Home,spotify:track:5VYNQQn0klbYd5PjpOr4bw,0.509,0.232,0.345,4.02E-05,0.128,-9.983,0.0327,79.351,0.276,51,Childish Gambino
+Camp,6,3WWAvWDBQANpJeNbvVbjMg,Heartbeat,spotify:track:3WWAvWDBQANpJeNbvVbjMg,0.00373,0.8,0.545,0.000507,0.0445,-7.002,0.126,119.965,0.292,78,Childish Gambino
+Camp,7,5NHrileSKnB4rAhuvsl46i,Backpackers,spotify:track:5NHrileSKnB4rAhuvsl46i,0.296,0.545,0.851,0,0.0821,-6.095,0.429,170.419,0.586,53,Childish Gambino
+Camp,8,0mCVNGC4Vvb6gDDQrDpaRh,Les,spotify:track:0mCVNGC4Vvb6gDDQrDpaRh,0.00654,0.524,0.674,9.30E-05,0.221,-7.038,0.0895,102.901,0.128,81,Childish Gambino
+Camp,9,6C7YFHZnzkSMsR5Hu4xVfL,Hold You Down,spotify:track:6C7YFHZnzkSMsR5Hu4xVfL,0.229,0.584,0.69,1.74E-05,0.146,-7.878,0.101,85.046,0.512,52,Childish Gambino
+Camp,10,7bVFBtEO81LmuOWDm62tdK,Kids,spotify:track:7bVFBtEO81LmuOWDm62tdK,0.0311,0.68,0.468,0,0.207,-11.128,0.0947,84.994,0.348,53,Childish Gambino
+Camp,11,6Rs79BpoJYdQpbMXP41I3B,You See Me,spotify:track:6Rs79BpoJYdQpbMXP41I3B,0.048,0.672,0.804,0,0.0831,-6.685,0.534,69.748,0.686,57,Childish Gambino
+Camp,12,79wnZenDjYupQIDHLtHRue,Sunrise,spotify:track:79wnZenDjYupQIDHLtHRue,0.011,0.546,0.695,0,0.0713,-6.374,0.0454,79.932,0.182,58,Childish Gambino
+Camp,13,2HI4QQQDjKde4ua1lbkFcN,That Power,spotify:track:2HI4QQQDjKde4ua1lbkFcN,0.111,0.42,0.676,0,0.157,-7.334,0.18,82.166,0.689,54,Childish Gambino
+Camp,4,6nukg9CqxxSVtMfGIJtvHx,All the Shine,spotify:track:6nukg9CqxxSVtMfGIJtvHx,0.0246,0.578,0.597,0.00018,0.153,-7.088,0.106,79.995,0.366,17,Childish Gambino
+Camp,8,67vLqeMunbQyd1YcgeqolS,LES,spotify:track:67vLqeMunbQyd1YcgeqolS,0.0069,0.517,0.493,0.000155,0.212,-13.023,0.12,102.933,0.139,12,Childish Gambino
+Camp (Deluxe Edition),18,2czRfMzcLeCLfns1hhXznY,Heartbeat - Cole Medina Remix,spotify:track:2czRfMzcLeCLfns1hhXznY,0.00462,0.825,0.674,0.00429,0.0746,-5.68,0.083,112.013,0.849,0,Childish Gambino
+Camp (Deluxe Edition),15,420xbjZjxsEjNjWuiLM10o,Not Going Back,spotify:track:420xbjZjxsEjNjWuiLM10o,0.143,0.651,0.685,0,0.119,-8.859,0.178,95.18,0.378,29,Childish Gambino
+Camp (Deluxe Edition),16,6Er0AI3mJNfg7eYX53xTx8,Heartbeat (Treasure Fingers Remix),spotify:track:6Er0AI3mJNfg7eYX53xTx8,0.00739,0.794,0.748,0.727,0.0758,-6.423,0.0493,126.011,0.358,0,Childish Gambino
+Camp (Deluxe Edition),17,6FngBaGHu8bt0hJlBet4xO,Heartbeat (OLIVER Remix) - Oliver Remix,spotify:track:6FngBaGHu8bt0hJlBet4xO,0.00165,0.82,0.684,0.0721,0.0769,-3.904,0.0991,109.983,0.648,0,Childish Gambino
+Camp (Deluxe Version),14,3zzkyV6aVCEkejkiislD09,Freaks And Geeks,spotify:track:3zzkyV6aVCEkejkiislD09,0.124,0.676,0.866,0,0.0687,-5.578,0.317,81.121,0.765,43,Childish Gambino

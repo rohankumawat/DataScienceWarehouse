@@ -1,0 +1,12 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+SOUR,1,6SRsiMl7w1USE4mFqrOhHC,brutal,spotify:track:6SRsiMl7w1USE4mFqrOhHC,0.0311,0.672,0.526,1.37E-06,0.28,-6.446,0.0599,123.999,0.28,86,Olivia Rodrigo
+SOUR,2,5CZ40GBx1sQ9agT82CLQCT,traitor,spotify:track:5CZ40GBx1sQ9agT82CLQCT,0.691,0.38,0.339,0,0.12,-7.885,0.0338,100.607,0.0849,94,Olivia Rodrigo
+SOUR,3,5wANPM4fQCJwkGd4rN57mH,drivers license,spotify:track:5wANPM4fQCJwkGd4rN57mH,0.768,0.561,0.431,1.42E-05,0.106,-8.81,0.0578,143.875,0.137,93,Olivia Rodrigo
+SOUR,4,4wcBRRpIfesgcyUtis7PEg,"1 step forward, 3 steps back",spotify:track:4wcBRRpIfesgcyUtis7PEg,0.941,0.473,0.203,0,0.126,-12.627,0.102,168.884,0.419,82,Olivia Rodrigo
+SOUR,5,6HU7h9RYOaPRFeh0R3UeAr,deja vu,spotify:track:6HU7h9RYOaPRFeh0R3UeAr,0.584,0.442,0.612,5.70E-06,0.37,-7.222,0.112,180.917,0.178,91,Olivia Rodrigo
+SOUR,6,4ZtFanR9U6ndgddUvNcjcG,good 4 u,spotify:track:4ZtFanR9U6ndgddUvNcjcG,0.335,0.563,0.664,0,0.0849,-5.044,0.154,166.928,0.688,95,Olivia Rodrigo
+SOUR,7,2TOzTqQXNmR2zDJXihjZ2e,enough for you,spotify:track:2TOzTqQXNmR2zDJXihjZ2e,0.753,0.638,0.259,0,0.219,-10.706,0.0898,88.485,0.269,83,Olivia Rodrigo
+SOUR,8,2tGvwE8GcFKwNdAXMnlbfl,happier,spotify:track:2tGvwE8GcFKwNdAXMnlbfl,0.765,0.395,0.443,9.67E-06,0.0839,-9.72,0.133,168.924,0.338,89,Olivia Rodrigo
+SOUR,9,0MMyJUC3WNnFS1lit5pTjk,"jealousy, jealousy",spotify:track:0MMyJUC3WNnFS1lit5pTjk,0.198,0.695,0.575,0,0.0614,-6.334,0.116,163.929,0.699,89,Olivia Rodrigo
+SOUR,10,5JCoSi02qi3jJeHdZXMmR8,favorite crime,spotify:track:5JCoSi02qi3jJeHdZXMmR8,0.866,0.369,0.272,0,0.147,-10.497,0.0364,172.929,0.218,89,Olivia Rodrigo
+SOUR,11,1zejeOnykpCoyVSit6Bwp3,hope ur ok,spotify:track:1zejeOnykpCoyVSit6Bwp3,0.388,0.443,0.298,1.00E-05,0.103,-12.181,0.0644,77.253,0.172,81,Olivia Rodrigo

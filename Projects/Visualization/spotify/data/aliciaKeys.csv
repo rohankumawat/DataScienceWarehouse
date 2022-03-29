@@ -1,0 +1,178 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+KEYS,1,5kpMJZx9jseAlheN36Orfm,Plentiful (Originals) (feat. Pusha T),spotify:track:5kpMJZx9jseAlheN36Orfm,0.243,0.664,0.765,0.000699,0.11,-6.145,0.134,82.171,0.149,52,Alicia Keys
+KEYS,2,5PA2gFY6o222j3nRb5uvPd,Skydive (Originals),spotify:track:5PA2gFY6o222j3nRb5uvPd,0.89,0.464,0.633,0.000368,0.345,-6.816,0.231,151.628,0.574,49,Alicia Keys
+KEYS,3,0VuONk2yU3wnSBtB881QXM,Best Of Me (Originals),spotify:track:0VuONk2yU3wnSBtB881QXM,0.123,0.742,0.872,0.00314,0.102,-6.439,0.0656,79.979,0.814,52,Alicia Keys
+KEYS,4,1Wf0r1NwBppEb2HmoOGUVJ,Dead End Road (Originals),spotify:track:1Wf0r1NwBppEb2HmoOGUVJ,0.95,0.601,0.397,0,0.232,-5.861,0.032,114.697,0.133,47,Alicia Keys
+KEYS,5,7Mhy9CP8YGOJZ9vn6M2b6D,Is It Insane (Originals),spotify:track:7Mhy9CP8YGOJZ9vn6M2b6D,0.884,0.415,0.25,2.59E-05,0.124,-11.81,0.0305,91.984,0.114,46,Alicia Keys
+KEYS,6,32Y1Y8TToghJsXjJEn4Toh,Billions (Originals),spotify:track:32Y1Y8TToghJsXjJEn4Toh,0.255,0.381,0.565,8.62E-06,0.124,-6.15,0.0301,100.378,0.0552,47,Alicia Keys
+KEYS,7,7sKlDgyVEvTA6k7jpVJ9PJ,Love When You Call My Name (Originals),spotify:track:7sKlDgyVEvTA6k7jpVJ9PJ,0.902,0.553,0.431,0.0116,0.113,-7.588,0.0298,104.889,0.191,45,Alicia Keys
+KEYS,8,4CN5QwsYFty7KkcVguSBXr,Only You (Originals),spotify:track:4CN5QwsYFty7KkcVguSBXr,0.963,0.294,0.283,0.167,0.174,-10.538,0.0303,129.614,0.199,44,Alicia Keys
+KEYS,9,0NA4CSpUEWzFHCI6RzvbS1,Daffodils (Originals),spotify:track:0NA4CSpUEWzFHCI6RzvbS1,0.978,0.274,0.283,1.52E-05,0.115,-6.642,0.0289,171.043,0.161,45,Alicia Keys
+KEYS,10,0Rq2JIejWvQ6ibgWBSTcpu,Old Memories (Originals),spotify:track:0Rq2JIejWvQ6ibgWBSTcpu,0.808,0.455,0.37,3.30E-06,0.386,-8.485,0.0445,179.815,0.178,56,Alicia Keys
+KEYS,11,1DO2DASHJl61O13YFMTZLf,Nat King Cole (Originals),spotify:track:1DO2DASHJl61O13YFMTZLf,0.81,0.488,0.577,0.00322,0.132,-7.349,0.0494,126.16,0.228,45,Alicia Keys
+KEYS,12,6saHM8nij3vANjWtsQtw2Q,Paper Flowers (Originals) (feat. Brandi Carlile),spotify:track:6saHM8nij3vANjWtsQtw2Q,0.918,0.301,0.376,0.00011,0.238,-7.639,0.0376,72.024,0.101,46,Alicia Keys
+KEYS,13,5lVwpU4qZ6XpGee6Zc4Ohd,Like Water (Originals),spotify:track:5lVwpU4qZ6XpGee6Zc4Ohd,0.971,0.391,0.351,0.000545,0.12,-7.294,0.0365,78.919,0.393,43,Alicia Keys
+KEYS,14,1RIXer9Ww45TrBy7XAE0qW,KEYS,spotify:track:1RIXer9Ww45TrBy7XAE0qW,0.99,0.2,0.165,0.894,0.111,-20.825,0.0392,74.601,0.085,43,Alicia Keys
+KEYS,1,1cE8372XYLlNlerewl1ZTE,Only You (Unlocked),spotify:track:1cE8372XYLlNlerewl1ZTE,0.509,0.731,0.622,0.000608,0.128,-6.667,0.0329,101.008,0.248,44,Alicia Keys
+KEYS,2,2NkTPQXGYgEK1yshkio7Wb,Skydive (Unlocked),spotify:track:2NkTPQXGYgEK1yshkio7Wb,0.154,0.787,0.715,0.000474,0.164,-5.283,0.135,92.956,0.841,43,Alicia Keys
+KEYS,3,1fjuFBHNdLSGutjypWmAIZ,Best Of Me (Unlocked),spotify:track:1fjuFBHNdLSGutjypWmAIZ,0.259,0.675,0.723,0.0103,0.12,-6.389,0.124,79.957,0.627,43,Alicia Keys
+KEYS,4,1P3RSPnpzibXUDIMz3kLxE,LALA (Unlocked) (feat. Swae Lee),spotify:track:1P3RSPnpzibXUDIMz3kLxE,0.0837,0.577,0.563,0.000291,0.119,-5.188,0.275,139.457,0.358,49,Alicia Keys
+KEYS,5,7c6RtH1KwiYh3GnUEDOpqb,Nat King Cole (Unlocked) (feat. Lil Wayne),spotify:track:7c6RtH1KwiYh3GnUEDOpqb,0.0659,0.561,0.736,0,0.306,-4.538,0.0532,126.11,0.36,44,Alicia Keys
+KEYS,6,4YtdthKvxbTT7pgtuq2tVR,Is It Insane (Unlocked),spotify:track:4YtdthKvxbTT7pgtuq2tVR,0.579,0.625,0.301,0.00745,0.15,-6.877,0.0288,84.734,0.194,42,Alicia Keys
+KEYS,7,0GDTDoQIJPk8zKBK4r1pzK,Come For Me (Unlocked) (feat. Khalid & Lucky Daye),spotify:track:0GDTDoQIJPk8zKBK4r1pzK,0.365,0.668,0.511,8.23E-06,0.0944,-7.221,0.229,140.977,0.45,66,Alicia Keys
+KEYS,8,6RS5y5qPXhKajRP9jcPFPQ,Old Memories (Unlocked),spotify:track:6RS5y5qPXhKajRP9jcPFPQ,0.0277,0.499,0.775,1.08E-05,0.113,-4.354,0.0745,121.68,0.251,40,Alicia Keys
+KEYS,9,5SWJWdQoALOTU3LsVtI05U,Dead End Road (Unlocked),spotify:track:5SWJWdQoALOTU3LsVtI05U,0.313,0.698,0.475,0.00264,0.0899,-8.509,0.0753,126.762,0.144,39,Alicia Keys
+KEYS,10,0CSbPg8yLS8ZpAvVdedRbz,Love When You Call My Name (Unlocked),spotify:track:0CSbPg8yLS8ZpAvVdedRbz,0.0713,0.728,0.554,0.275,0.149,-3.988,0.0241,107.029,0.194,39,Alicia Keys
+KEYS,11,0ShXeGrXOTNfIr6YvCJHJP,Daffodils (Unlocked),spotify:track:0ShXeGrXOTNfIr6YvCJHJP,0.415,0.601,0.867,1.32E-05,0.237,-5.112,0.0616,115.333,0.384,38,Alicia Keys
+KEYS,12,3d41OMTbqPPtjQtbZ3PiDV,Billions (Unlocked),spotify:track:3d41OMTbqPPtjQtbZ3PiDV,0.646,0.617,0.613,0.291,0.168,-8.792,0.101,130.005,0.311,39,Alicia Keys
+Songs In A Minor (20th Anniversary Edition),18,5OkUMuMU4LxkIwmlZULFin,I Won't (Crazy World),spotify:track:5OkUMuMU4LxkIwmlZULFin,0.309,0.483,0.749,1.14E-05,0.174,-5.68,0.167,170.417,0.55,26,Alicia Keys
+Songs In A Minor (20th Anniversary Edition),19,1C1KvQ8BUB0rjEiX39P29C,Foolish Heart,spotify:track:1C1KvQ8BUB0rjEiX39P29C,0.82,0.443,0.273,2.59E-06,0.298,-12.185,0.0439,130.786,0.147,32,Alicia Keys
+Songs In A Minor (20th Anniversary Edition),20,1Z2iAIUrpMUiuE3a9aLDFM,Crazy (Mi Corazon),spotify:track:1Z2iAIUrpMUiuE3a9aLDFM,0.248,0.348,0.648,0.000124,0.166,-6.592,0.0688,161.542,0.67,26,Alicia Keys
+ALICIA,1,0R1gvYe91vj2CtqOe8dQte,Truth Without Love,spotify:track:0R1gvYe91vj2CtqOe8dQte,0.593,0.247,0.52,0,0.175,-4.205,0.0335,169.097,0.321,40,Alicia Keys
+ALICIA,2,5mK9w8MYTh3SpmycLZ561K,Time Machine,spotify:track:5mK9w8MYTh3SpmycLZ561K,0.0146,0.759,0.652,0.00367,0.122,-5.401,0.0977,105.954,0.498,44,Alicia Keys
+ALICIA,3,13BHxtf5YIEODKlf8wRyXp,Authors Of Forever,spotify:track:13BHxtf5YIEODKlf8wRyXp,0.512,0.697,0.63,1.91E-05,0.121,-5.767,0.224,98.081,0.68,43,Alicia Keys
+ALICIA,4,09vOpQsWEd7lK1OYGVhPH9,Wasted Energy (feat. Diamond Platnumz),spotify:track:09vOpQsWEd7lK1OYGVhPH9,0.135,0.669,0.593,1.23E-05,0.105,-5.151,0.182,80,0.825,45,Alicia Keys
+ALICIA,5,7FsAFw1oZeTJUZmIzSh0cg,Underdog,spotify:track:7FsAFw1oZeTJUZmIzSh0cg,0.542,0.657,0.726,0,0.137,-4.74,0.0458,90.105,0.282,72,Alicia Keys
+ALICIA,6,3WBpLOiuBWlkSjqxXfqQrH,3 Hour Drive (feat. Sampha),spotify:track:3WBpLOiuBWlkSjqxXfqQrH,0.128,0.49,0.349,0.000196,0.11,-11.156,0.0491,79.47,0.284,52,Alicia Keys
+ALICIA,7,4HWhqsHKli9ujBAFVabKuJ,Me x 7 (feat. Tierra Whack),spotify:track:4HWhqsHKli9ujBAFVabKuJ,0.357,0.807,0.486,3.27E-06,0.111,-8.462,0.204,80.976,0.389,46,Alicia Keys
+ALICIA,8,31dgrKXIJ7FCxlENs8uxuo,Show Me Love (feat. Miguel),spotify:track:31dgrKXIJ7FCxlENs8uxuo,0.476,0.351,0.456,0,0.162,-6.922,0.053,86.374,0.519,61,Alicia Keys
+ALICIA,9,0DC6yJLAPwIEeZh6EZpn1f,So Done (feat. Khalid),spotify:track:0DC6yJLAPwIEeZh6EZpn1f,0.788,0.587,0.431,0,0.104,-7.522,0.0638,82.427,0.367,62,Alicia Keys
+ALICIA,10,4nztMpRbOZN19lPpSgvjaf,Gramercy Park,spotify:track:4nztMpRbOZN19lPpSgvjaf,0.768,0.785,0.368,0,0.0907,-6.669,0.0415,118.066,0.589,52,Alicia Keys
+ALICIA,11,0HL5XOeVxgX1cEPY2KgRRa,Love Looks Better,spotify:track:0HL5XOeVxgX1cEPY2KgRRa,0.0211,0.562,0.683,0,0.176,-6.179,0.0328,97.061,0.464,62,Alicia Keys
+ALICIA,12,4vXSx9EFAd81zyACNmMIsA,You Save Me (feat. Snoh Aalegra),spotify:track:4vXSx9EFAd81zyACNmMIsA,0.921,0.559,0.282,0,0.106,-8.603,0.0355,77.648,0.205,52,Alicia Keys
+ALICIA,13,7ajm1QlAaMFkNFlpZbcceL,Jill Scott (feat. Jill Scott),spotify:track:7ajm1QlAaMFkNFlpZbcceL,0.0847,0.447,0.527,0.00425,0.355,-9.488,0.0393,83.02,0.233,42,Alicia Keys
+ALICIA,14,4rxetbgJZra2oJKBIF8vr5,Perfect Way To Die,spotify:track:4rxetbgJZra2oJKBIF8vr5,0.941,0.442,0.409,6.89E-05,0.207,-5.592,0.0379,85.218,0.246,42,Alicia Keys
+ALICIA,15,3qHo2MASEJ79lbJcaDvhRE,Good Job,spotify:track:3qHo2MASEJ79lbJcaDvhRE,0.957,0.408,0.384,0.00164,0.0932,-5.798,0.0368,179.583,0.394,59,Alicia Keys
+ALICIA,16,59L6QLLnI97zXuXAMe1Zhg,Three Hour Drive - A COLORS SHOW (feat. SiR),spotify:track:59L6QLLnI97zXuXAMe1Zhg,0.226,0.555,0.347,0.00079,0.0925,-10.465,0.0408,80.147,0.252,44,Alicia Keys
+ALICIA,17,4Z8DyhYIN47p8LgrPVOYeL,A Beautiful Noise,spotify:track:4Z8DyhYIN47p8LgrPVOYeL,0.948,0.563,0.328,1.28E-06,0.114,-6.873,0.061,75.85,0.265,43,Alicia Keys
+ALICIA,18,7IM5Blpr2xlz9hFBgr79cC,Wasted Energy (feat. Kaash Paige & Diamond Platnumz) - Remix,spotify:track:7IM5Blpr2xlz9hFBgr79cC,0.146,0.688,0.638,0.000669,0.0805,-5.562,0.0907,79.948,0.83,49,Alicia Keys
+HERE,13,5PYTJEwwn4hOQtRhj6XoCX,You Glow (Interlude),spotify:track:5PYTJEwwn4hOQtRhj6XoCX,0.45,0.726,0.34,0,0.0988,-14.327,0.948,81.947,0.936,0,Alicia Keys
+HERE,19,5xKLUk3qy5AGLJy2i8zKQN,In Common - Black Coffee Remix,spotify:track:5xKLUk3qy5AGLJy2i8zKQN,0.00455,0.801,0.712,0.0536,0.112,-6.56,0.0537,119.998,0.726,4,Alicia Keys
+HERE,20,00XCPYFqZQ3AKNH6q00io4,In Common - Kaskade Remix,spotify:track:00XCPYFqZQ3AKNH6q00io4,0.0272,0.628,0.919,0.0019,0.0673,-4.831,0.0796,119.952,0.475,4,Alicia Keys
+HERE,1,1vsMpyfbr0EVX4BOrmEr2k,The Beginning (Interlude),spotify:track:1vsMpyfbr0EVX4BOrmEr2k,0.914,0.469,0.188,1.11E-06,0.141,-17.602,0.0733,78.381,0.381,29,Alicia Keys
+HERE,2,4ZmZpbcmJUVBgETosOn0sK,The Gospel,spotify:track:4ZmZpbcmJUVBgETosOn0sK,0.0477,0.489,0.883,0,0.649,-3.569,0.36,186.982,0.52,35,Alicia Keys
+HERE,3,1jFFhbn3IZLP5buAertmU6,Pawn It All,spotify:track:1jFFhbn3IZLP5buAertmU6,0.0237,0.762,0.83,0.0126,0.117,-3.943,0.207,91.044,0.618,46,Alicia Keys
+HERE,4,32niUFJvA4W0Vqc2VeE7Ug,Elaine Brown (Interlude),spotify:track:32niUFJvA4W0Vqc2VeE7Ug,0.955,0.673,0.364,0,0.28,-12.828,0.901,89.549,0.705,28,Alicia Keys
+HERE,5,3h6REaoQnSAn0tQleNo3Qp,Kill Your Mama,spotify:track:3h6REaoQnSAn0tQleNo3Qp,0.9,0.749,0.407,1.20E-06,0.15,-6.792,0.0622,92.023,0.306,32,Alicia Keys
+HERE,6,1RFYQnLeiY60S8XqSPGcp7,She Don't Really Care_1 Luv,spotify:track:1RFYQnLeiY60S8XqSPGcp7,0.0681,0.5,0.581,0.0184,0.305,-8.481,0.144,87.559,0.463,36,Alicia Keys
+HERE,7,467kGQSPBcQPppRB8Nu1Ff,Elevate (Interlude),spotify:track:467kGQSPBcQPppRB8Nu1Ff,0.826,0.54,0.272,0,0.209,-19.055,0.548,76.025,0.593,27,Alicia Keys
+HERE,8,3CMnKJNcZBtELH6nyLqkKg,Illusion Of Bliss,spotify:track:3CMnKJNcZBtELH6nyLqkKg,0.128,0.475,0.356,0.00386,0.0949,-8.428,0.0514,37.431,0.339,36,Alicia Keys
+HERE,9,5FOAptZGxeMAO0BJSQh2fc,Blended Family (What You Do For Love) (feat. A$AP Rocky),spotify:track:5FOAptZGxeMAO0BJSQh2fc,0.0658,0.721,0.518,0.000113,0.069,-7.619,0.0719,96.988,0.231,48,Alicia Keys
+HERE,10,3r3XrpjHZVrK8dohg1gksD,Work On It,spotify:track:3r3XrpjHZVrK8dohg1gksD,0.18,0.495,0.391,0,0.599,-9.061,0.335,173.599,0.674,36,Alicia Keys
+HERE,11,3ypK4y87QItf30jLrbU6TA,Cocoa Butter (Cross & Pic Interlude),spotify:track:3ypK4y87QItf30jLrbU6TA,0.838,0.643,0.429,0,0.696,-10.549,0.817,64.965,0.784,27,Alicia Keys
+HERE,12,1i71nDy9Q2ST3wp85IsqAb,Girl Can't Be Herself,spotify:track:1i71nDy9Q2ST3wp85IsqAb,0.00238,0.696,0.848,0,0.0918,-4.724,0.165,88.64,0.871,34,Alicia Keys
+HERE,14,1LNTSZ2tzwhYpN9xopkDqI,More Than We Know,spotify:track:1LNTSZ2tzwhYpN9xopkDqI,0.229,0.696,0.847,1.38E-05,0.281,-3.811,0.161,83.995,0.673,34,Alicia Keys
+HERE,15,6MkLrbCWPOTNw6rGGXru2L,Where Do We Begin Now,spotify:track:6MkLrbCWPOTNw6rGGXru2L,0.0758,0.33,0.458,0.00314,0.122,-11.031,0.203,185.83,0.42,30,Alicia Keys
+HERE,16,1u9UlmBG5Ht6dY0jObpMOE,Holy War,spotify:track:1u9UlmBG5Ht6dY0jObpMOE,0.29,0.609,0.566,4.47E-06,0.0949,-8.639,0.105,131.976,0.281,39,Alicia Keys
+HERE,17,1AHR24HYoVVCTHC5bujra6,Hallelujah,spotify:track:1AHR24HYoVVCTHC5bujra6,0.0923,0.424,0.496,1.05E-05,0.2,-6.94,0.0414,124.915,0.282,40,Alicia Keys
+HERE,18,2y292SsIKqyBnII5TZuhv7,In Common,spotify:track:2y292SsIKqyBnII5TZuhv7,0.0198,0.582,0.671,0,0.0461,-6.383,0.0946,119.282,0.334,42,Alicia Keys
+HERE,9,5urU79wSXrxVUhQAYYNWnF,Blended Family (What You Do For Love),spotify:track:5urU79wSXrxVUhQAYYNWnF,0.0658,0.721,0.518,0.000113,0.069,-7.619,0.0719,96.988,0.231,39,Alicia Keys
+Alicia Keys - VH1 Storytellers,1,0BleHROB2SxV7jv9dOQr7J,"No One - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:0BleHROB2SxV7jv9dOQr7J,0.483,0.595,0.714,2.90E-06,0.977,-5.427,0.072,89.861,0.204,35,Alicia Keys
+Alicia Keys - VH1 Storytellers,2,5TLvpT88QJpYUBocif45eW,"Brand New Me - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:5TLvpT88QJpYUBocif45eW,0.884,0.428,0.358,4.72E-06,0.847,-12.699,0.334,139.909,0.238,30,Alicia Keys
+Alicia Keys - VH1 Storytellers,3,5GN64eubzE5lICCzMzcErB,"You Don't Know My Name - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:5GN64eubzE5lICCzMzcErB,0.248,0.567,0.463,0.000287,0.886,-8.703,0.144,156.79,0.296,30,Alicia Keys
+Alicia Keys - VH1 Storytellers,4,63kqWV4uJovbh830PAwC1J,"Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:63kqWV4uJovbh830PAwC1J,0.294,0.509,0.439,3.46E-05,0.725,-8.011,0.0395,89.241,0.258,42,Alicia Keys
+Alicia Keys - VH1 Storytellers,5,0UYPz6aqeAHf2FW7hyuphz,"Not Even the King - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:0UYPz6aqeAHf2FW7hyuphz,0.881,0.454,0.233,0,0.942,-15.596,0.0641,94.717,0.114,28,Alicia Keys
+Alicia Keys - VH1 Storytellers,6,3pTHh8iYearZ6hCWvLvbX9,"Fallin' - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:3pTHh8iYearZ6hCWvLvbX9,0.095,0.304,0.602,0.00884,0.963,-8.078,0.0764,178.348,0.329,35,Alicia Keys
+Alicia Keys - VH1 Storytellers,7,6AxNWiBl9n2bBBEnDYgi82,"If I Ain't Got You - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:6AxNWiBl9n2bBBEnDYgi82,0.0536,0.376,0.536,0.000288,0.938,-9.039,0.0597,109.113,0.223,37,Alicia Keys
+Alicia Keys - VH1 Storytellers,8,3w4f2Y44t8JENk6QkweXcA,"Girl On Fire - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:3w4f2Y44t8JENk6QkweXcA,0.0337,0.447,0.614,6.21E-05,0.93,-6.499,0.087,92.45,0.225,32,Alicia Keys
+Alicia Keys - VH1 Storytellers,9,55HgyfEki0BiJVPZo2Z2qY,"New Day - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:55HgyfEki0BiJVPZo2Z2qY,0.291,0.394,0.601,0,0.722,-8.306,0.473,193.158,0.188,26,Alicia Keys
+Alicia Keys - VH1 Storytellers,10,4L7x4hi3kGbRdhxqZRtBFw,"Try Sleeping with a Broken Heart - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:4L7x4hi3kGbRdhxqZRtBFw,0.00146,0.544,0.629,0.0076,0.787,-5.831,0.109,83.214,0.108,29,Alicia Keys
+Alicia Keys - VH1 Storytellers,11,3HsmV8zIm1HqCN5mlbnllm,"Un-thinkable (I'm Ready) - Live at Metropolis Studios, New York, NY - May 2013",spotify:track:3HsmV8zIm1HqCN5mlbnllm,0.0893,0.401,0.334,0.000439,0.715,-9.02,0.0653,81.167,0.0467,28,Alicia Keys
+Girl On Fire,1,0qGeOcsFxUBOZWjH1IhbJA,De Novo Adagio (Intro),spotify:track:0qGeOcsFxUBOZWjH1IhbJA,0.966,0.343,0.0443,0.939,0.111,-20.072,0.0433,116.094,0.0598,39,Alicia Keys
+Girl On Fire,2,0827eActpDYORuhgvWB0oY,Brand New Me,spotify:track:0827eActpDYORuhgvWB0oY,0.739,0.383,0.328,0.000105,0.152,-12.604,0.0605,145.222,0.154,56,Alicia Keys
+Girl On Fire,3,1cjasBke0KVEj9rltg49SM,When It's All Over,spotify:track:1cjasBke0KVEj9rltg49SM,0.19,0.532,0.693,0.00171,0.144,-6.468,0.0501,106.078,0.343,33,Alicia Keys
+Girl On Fire,4,6o7wI6gmY7nmqOy5tAL5fq,Listen to Your Heart,spotify:track:6o7wI6gmY7nmqOy5tAL5fq,0.266,0.571,0.482,0.00822,0.148,-9.895,0.122,101.991,0.246,34,Alicia Keys
+Girl On Fire,5,2rMreweJkDadtWMOEv1w67,New Day,spotify:track:2rMreweJkDadtWMOEv1w67,0.0166,0.493,0.81,0.000114,0.122,-6.026,0.237,193.592,0.422,47,Alicia Keys
+Girl On Fire,6,3XyMPyuWwHcGMvXeJY6Qt0,Girl On Fire (feat. Nicki Minaj) - Inferno Version,spotify:track:3XyMPyuWwHcGMvXeJY6Qt0,0.0869,0.591,0.808,0.00396,0.147,-5.943,0.288,92.864,0.337,62,Alicia Keys
+Girl On Fire,7,5VIUVUvwHPM2vJaQpznd5W,Fire We Make,spotify:track:5VIUVUvwHPM2vJaQpznd5W,0.402,0.434,0.403,3.81E-06,0.0617,-11.791,0.205,67.363,0.383,58,Alicia Keys
+Girl On Fire,8,1wPW7Ux4srJ8ugwXiHIP80,Tears Always Win,spotify:track:1wPW7Ux4srJ8ugwXiHIP80,0.475,0.706,0.743,0.00013,0.152,-5.045,0.131,143.66,0.83,51,Alicia Keys
+Girl On Fire,9,55do1f4mkLfM314tQDlyfw,Not Even the King,spotify:track:55do1f4mkLfM314tQDlyfw,0.936,0.484,0.236,0,0.0963,-10.718,0.0449,86.891,0.549,37,Alicia Keys
+Girl On Fire,10,24lEIdWXVJiEZ2IOCU0T9b,That's When I Knew,spotify:track:24lEIdWXVJiEZ2IOCU0T9b,0.667,0.662,0.527,0,0.213,-5.12,0.0495,121.842,0.406,41,Alicia Keys
+Girl On Fire,11,4qbucOk69GoJdBCWFfHPhk,Limitedless,spotify:track:4qbucOk69GoJdBCWFfHPhk,0.0508,0.533,0.737,0.000438,0.319,-6.533,0.251,170.029,0.71,31,Alicia Keys
+Girl On Fire,12,5oBaKT5xC8Qjr1E5xIGQGa,One Thing,spotify:track:5oBaKT5xC8Qjr1E5xIGQGa,0.67,0.614,0.501,0.00107,0.123,-10.36,0.0699,83.005,0.163,34,Alicia Keys
+Girl On Fire,13,7wMPExYjxfDzu4SWDUt7dQ,101,spotify:track:7wMPExYjxfDzu4SWDUt7dQ,0.791,0.277,0.289,0.000632,0.0838,-9.389,0.0599,170.046,0.0825,32,Alicia Keys
+The Element Of Freedom,1,7JxiUfSIlnspU7TwJBj172,The Element of Freedom (Intro),spotify:track:7JxiUfSIlnspU7TwJBj172,0.646,0,0.0498,0,0.146,-33.442,0,0,0,1,Alicia Keys
+The Element Of Freedom,2,7ttSUbfkcokfXiWyvJFvjj,Love Is Blind,spotify:track:7ttSUbfkcokfXiWyvJFvjj,0.282,0.512,0.554,0.0187,0.3,-6.83,0.0316,121.929,0.35,43,Alicia Keys
+The Element Of Freedom,3,5bpx60gYQoDDJcP7vBygPB,Doesn't Mean Anything,spotify:track:5bpx60gYQoDDJcP7vBygPB,0.0365,0.713,0.408,0.000285,0.0963,-7.104,0.0308,103.968,0.103,57,Alicia Keys
+The Element Of Freedom,4,1yK9LISg5uBOOW5bT2Wm0i,Try Sleeping with a Broken Heart,spotify:track:1yK9LISg5uBOOW5bT2Wm0i,0.158,0.496,0.821,0.246,0.13,-5.155,0.112,110.977,0.549,64,Alicia Keys
+The Element Of Freedom,5,6JAzU3Vy6uxrnh2zAd0byh,Wait Til You See My Smile,spotify:track:6JAzU3Vy6uxrnh2zAd0byh,0.364,0.622,0.507,0.0422,0.103,-9.469,0.0269,119.941,0.0687,43,Alicia Keys
+The Element Of Freedom,6,1fxBWsodffWuabuKkXrSXR,That's How Strong My Love Is,spotify:track:1fxBWsodffWuabuKkXrSXR,0.908,0.459,0.403,0,0.135,-8.792,0.033,141.736,0.368,49,Alicia Keys
+The Element Of Freedom,7,4JOP8ELK6AaeySe7sKe996,Un-thinkable (I'm Ready),spotify:track:4JOP8ELK6AaeySe7sKe996,0.732,0.596,0.505,1.97E-05,0.106,-7.892,0.0619,86.097,0.335,67,Alicia Keys
+The Element Of Freedom,8,0YXj3sGj6ejeROqSXsmWo4,Love Is My Disease,spotify:track:0YXj3sGj6ejeROqSXsmWo4,0.047,0.387,0.57,0.0504,0.0999,-8.927,0.0824,151.414,0.337,40,Alicia Keys
+The Element Of Freedom,9,3fnpMcMbhrep8wMIjKsNVS,Like the Sea,spotify:track:3fnpMcMbhrep8wMIjKsNVS,0.297,0.743,0.629,0.000182,0.153,-7.764,0.261,132.036,0.615,39,Alicia Keys
+The Element Of Freedom,10,2PxefLyJ3Fw7ZZlROnbpTp,Put It In a Love Song (feat. Beyoncé Knowles),spotify:track:2PxefLyJ3Fw7ZZlROnbpTp,0.0793,0.634,0.689,0,0.296,-7.904,0.285,184.87,0.653,48,Alicia Keys
+The Element Of Freedom,11,1EwZUh0VdTJp12EcBwez6O,This Bed,spotify:track:1EwZUh0VdTJp12EcBwez6O,0.112,0.845,0.561,0,0.0442,-7.006,0.0989,129.984,0.889,37,Alicia Keys
+The Element Of Freedom,12,1fDm1kCj6dwmviArCtCsOA,Distance and Time,spotify:track:1fDm1kCj6dwmviArCtCsOA,0.378,0.45,0.434,0.00238,0.108,-8.952,0.0294,139.561,0.227,50,Alicia Keys
+The Element Of Freedom,13,7ahSkRJouFINMWokIywAwG,How It Feels to Fly,spotify:track:7ahSkRJouFINMWokIywAwG,0.276,0.554,0.447,0.000101,0.119,-8.573,0.0339,141.896,0.297,40,Alicia Keys
+The Element Of Freedom,14,5sra5UY6sD658OabHL3QtI,Empire State of Mind (Part II) Broken Down,spotify:track:5sra5UY6sD658OabHL3QtI,0.74,0.484,0.368,3.82E-05,0.118,-7.784,0.0341,92.923,0.142,77,Alicia Keys
+As I Am (Expanded Edition),1,2Akflbx1R68FZOOUx33xTc,As I Am (Intro),spotify:track:2Akflbx1R68FZOOUx33xTc,0.0373,0.281,0.415,0.904,0.767,-15.21,0.0409,167.616,0.0351,39,Alicia Keys
+As I Am (Expanded Edition),2,2FeADxLaweWn04ktlPCxUt,Go Ahead,spotify:track:2FeADxLaweWn04ktlPCxUt,0.0731,0.461,0.779,0.00115,0.109,-6.756,0.0834,162.031,0.763,41,Alicia Keys
+As I Am (Expanded Edition),3,694V3efHIeLmVRZIDMGc4O,Superwoman,spotify:track:694V3efHIeLmVRZIDMGc4O,0.266,0.408,0.494,0.00297,0.11,-8.291,0.0475,161.701,0.135,59,Alicia Keys
+As I Am (Expanded Edition),4,6IwKcFdiRQZOWeYNhUiWIv,No One,spotify:track:6IwKcFdiRQZOWeYNhUiWIv,0.0209,0.644,0.549,8.85E-06,0.134,-5.415,0.0285,90.04,0.167,82,Alicia Keys
+As I Am (Expanded Edition),5,3JHDtmFdX9kdx9wz0md98U,Like You'll Never See Me Again,spotify:track:3JHDtmFdX9kdx9wz0md98U,0.173,0.562,0.657,0.000272,0.102,-8.074,0.0315,127.808,0.266,60,Alicia Keys
+As I Am (Expanded Edition),6,2c3jpiVWrH2l8O5HHRkJ5e,Lesson Learned (feat. John Mayer),spotify:track:2c3jpiVWrH2l8O5HHRkJ5e,0.48,0.681,0.461,3.24E-06,0.342,-8.557,0.0526,121.906,0.452,55,Alicia Keys
+As I Am (Expanded Edition),7,1JVN2oMHiWXHD5j5nhniST,Wreckless Love,spotify:track:1JVN2oMHiWXHD5j5nhniST,0.171,0.479,0.552,1.21E-05,0.0661,-6.642,0.245,180.963,0.659,50,Alicia Keys
+As I Am (Expanded Edition),8,0dS5vi71dgXFID7jlyjKsr,The Thing About Love,spotify:track:0dS5vi71dgXFID7jlyjKsr,0.278,0.457,0.587,0,0.0906,-7.863,0.0636,95.776,0.345,41,Alicia Keys
+As I Am (Expanded Edition),9,34ClgyHf8Awds1ew9vMX26,Teenage Love Affair,spotify:track:34ClgyHf8Awds1ew9vMX26,0.632,0.636,0.826,0,0.197,-4.668,0.161,87.665,0.677,54,Alicia Keys
+As I Am (Expanded Edition),10,1uD76u7VzeiplKKmvLEJ43,I Need You,spotify:track:1uD76u7VzeiplKKmvLEJ43,0.0899,0.636,0.625,3.01E-05,0.11,-7.599,0.049,93.01,0.333,40,Alicia Keys
+As I Am (Expanded Edition),11,2v0PxHCpmeVW2DLjMunBtt,Where Do We Go from Here,spotify:track:2v0PxHCpmeVW2DLjMunBtt,0.00458,0.574,0.706,0.00402,0.365,-7.433,0.0395,93.923,0.378,40,Alicia Keys
+As I Am (Expanded Edition),12,3tKe0M3LzqgmItYMVuzTKj,Prelude To a Kiss,spotify:track:3tKe0M3LzqgmItYMVuzTKj,0.971,0.32,0.129,2.04E-06,0.297,-15.449,0.0337,82.38,0.161,38,Alicia Keys
+As I Am (Expanded Edition),13,0wz4b1QeGaMp4Y9Mvdj8ym,Tell You Something (Nana's Reprise),spotify:track:0wz4b1QeGaMp4Y9Mvdj8ym,0.37,0.551,0.561,1.01E-06,0.131,-6.94,0.0836,79.922,0.335,41,Alicia Keys
+As I Am (Expanded Edition),14,2uIKuDo8401SdhQWxasMWD,Sure Looks Good to Me,spotify:track:2uIKuDo8401SdhQWxasMWD,0.284,0.345,0.514,1.51E-05,0.0805,-8.409,0.0366,96.994,0.265,37,Alicia Keys
+As I Am (Expanded Edition),15,3ODl8J0TZAykdMCtCIO28n,Another Way to Die,spotify:track:3ODl8J0TZAykdMCtCIO28n,0.0239,0.486,0.765,3.02E-05,0.11,-4.23,0.128,141.933,0.386,60,Alicia Keys
+As I Am (Expanded Edition),16,5YAWeJWnS3cbpb7sR3m1tN,Doncha Know (Sky Is Blue),spotify:track:5YAWeJWnS3cbpb7sR3m1tN,0.0162,0.607,0.721,0.000552,0.0802,-6.815,0.0456,102.209,0.375,36,Alicia Keys
+As I Am (Expanded Edition),17,5qM2mg8cJsUHLr7b1iyKH0,Saviour,spotify:track:5qM2mg8cJsUHLr7b1iyKH0,0.523,0.594,0.65,0,0.122,-6.177,0.0503,128.788,0.365,34,Alicia Keys
+Unplugged,1,0WsTC9cdexSxgjoW4NlwTW,"Intro Alicia's Prayer (Acappella) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:0WsTC9cdexSxgjoW4NlwTW,0.92,0.319,0.228,0.000596,0.974,-22.46,0.106,83.165,0.238,30,Alicia Keys
+Unplugged,2,1uCZq3hBa2ZTxOn18lkp2I,"Karma - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:1uCZq3hBa2ZTxOn18lkp2I,0.0491,0.431,0.688,1.04E-06,0.126,-7.699,0.133,99.387,0.385,35,Alicia Keys
+Unplugged,3,0aIdmsQsG22oMaw5G3CLFo,"Heartburn - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:0aIdmsQsG22oMaw5G3CLFo,0.0396,0.505,0.673,4.35E-05,0.257,-10.047,0.164,107.507,0.344,32,Alicia Keys
+Unplugged,4,2KxLC0zzzCvJ5xg9dZPnA2,"A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:2KxLC0zzzCvJ5xg9dZPnA2,0.194,0.452,0.324,8.74E-06,0.126,-14.199,0.324,80.091,0.297,42,Alicia Keys
+Unplugged,5,2DRcaAO76feWOoWCWP1cPp,"Unbreakable - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:2DRcaAO76feWOoWCWP1cPp,0.0145,0.504,0.429,0.00149,0.628,-12.735,0.232,83.711,0.33,44,Alicia Keys
+Unplugged,6,09oPdIGjxiJbzyX8AcHply,"How Come You Don't Call Me - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:09oPdIGjxiJbzyX8AcHply,0.546,0.501,0.447,1.57E-05,0.175,-13.425,0.672,138.193,0.434,37,Alicia Keys
+Unplugged,7,3dQtowkCSVxACYPkd2waXq,"If I Was Your Woman - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:3dQtowkCSVxACYPkd2waXq,0.439,0.425,0.359,0,0.668,-11.944,0.0733,129.189,0.164,33,Alicia Keys
+Unplugged,8,2QcuQQRX2P0bhZcs861SJY,"If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:2QcuQQRX2P0bhZcs861SJY,0.829,0.495,0.341,0,0.765,-9.578,0.0502,116.836,0.52,56,Alicia Keys
+Unplugged,9,4NEy474L2DgDhOgLWDzyE4,"Every Little Bit Hurts - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:4NEy474L2DgDhOgLWDzyE4,0.165,0.406,0.453,7.26E-06,0.545,-9.216,0.056,139.827,0.303,35,Alicia Keys
+Unplugged,10,1wfaQ0EpdUNqZdDjgG989o,"Streets of New York (City Life) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:1wfaQ0EpdUNqZdDjgG989o,0.138,0.345,0.47,1.36E-05,0.327,-11.376,0.24,166.674,0.336,38,Alicia Keys
+Unplugged,11,6zo52JP3T62BJWN1Fd802D,"Wild Horses (feat. Adam Levine) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:6zo52JP3T62BJWN1Fd802D,0.665,0.375,0.422,0.000471,0.702,-9.197,0.0322,133.051,0.0886,53,Alicia Keys
+Unplugged,12,0oznE2fXDwAoja4j2R39lj,"Diary - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:0oznE2fXDwAoja4j2R39lj,0.287,0.45,0.472,2.54E-05,0.931,-9.775,0.0493,132.108,0.272,36,Alicia Keys
+Unplugged,13,2YpcIMAlj3xnB1Vr3qFYL1,"You Don't Know My Name - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:2YpcIMAlj3xnB1Vr3qFYL1,0.136,0.389,0.635,0.000173,0.754,-9.113,0.37,173.972,0.269,36,Alicia Keys
+Unplugged,14,78hbE62MIMLm5QTzkqTILh,"Stolen Moments - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:78hbE62MIMLm5QTzkqTILh,0.142,0.391,0.477,0.0528,0.215,-10.403,0.0644,180.504,0.355,31,Alicia Keys
+Unplugged,15,1fzYdlr2RdnhxsI0bZsTms,"Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:1fzYdlr2RdnhxsI0bZsTms,0.307,0.203,0.457,0.00221,0.214,-8.845,0.0523,184.24,0.187,45,Alicia Keys
+Unplugged,16,3Z3HiCJT6fxv4uEx88wftl,"Love It or Leave It Alone/Welcome to Jamrock (feat. Damien Marley, Mos Def & Common & Friends, feat. Mos Def & Common) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",spotify:track:3Z3HiCJT6fxv4uEx88wftl,0.137,0.501,0.685,0,0.71,-7.347,0.321,99.218,0.385,32,Alicia Keys
+The Diary Of Alicia Keys (Expanded Edition),16,0yaVHZEoposbVtxGpQ6y2f,Streets Of New York (feat. Nas & Rakim),spotify:track:0yaVHZEoposbVtxGpQ6y2f,0.0162,0.382,0.904,0,0.262,-7.09,0.28,169.773,0.652,0,Alicia Keys
+The Diary Of Alicia Keys,1,1B6dE1LulqFg6OjHIVBv3r,Harlem's Nocturne,spotify:track:1B6dE1LulqFg6OjHIVBv3r,0.343,0.42,0.633,0.467,0.177,-9.892,0.0881,93.504,0.332,41,Alicia Keys
+The Diary Of Alicia Keys,2,588RGyR1f4Plc8nm7SrdCa,Karma,spotify:track:588RGyR1f4Plc8nm7SrdCa,0.0743,0.727,0.736,0.00311,0.0348,-6.203,0.0615,85.098,0.687,55,Alicia Keys
+The Diary Of Alicia Keys,3,4SQjx8r47JIqjvurpZtxOi,Heartburn,spotify:track:4SQjx8r47JIqjvurpZtxOi,0.219,0.717,0.63,0.00396,0.0378,-9.109,0.365,119.85,0.84,41,Alicia Keys
+The Diary Of Alicia Keys,4,0IHa9skAs65KA2AIH4RGFb,If I Was Your Woman / Walk On By,spotify:track:0IHa9skAs65KA2AIH4RGFb,0.13,0.744,0.473,5.01E-06,0.656,-7.71,0.123,82.95,0.627,50,Alicia Keys
+The Diary Of Alicia Keys,5,6LGwYMXXgURfaequXipzHx,You Don't Know My Name,spotify:track:6LGwYMXXgURfaequXipzHx,0.59,0.264,0.663,0.00443,0.342,-8.264,0.187,167.078,0.249,66,Alicia Keys
+The Diary Of Alicia Keys,6,3XVBdLihbNbxUwZosxcGuJ,If I Ain't Got You,spotify:track:3XVBdLihbNbxUwZosxcGuJ,0.603,0.609,0.444,6.86E-06,0.104,-9.129,0.106,118.402,0.166,83,Alicia Keys
+The Diary Of Alicia Keys,7,5dxHF4lrDimKqnI3GaZUmC,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),spotify:track:5dxHF4lrDimKqnI3GaZUmC,0.555,0.663,0.465,0.00183,0.125,-9.711,0.0317,127.932,0.279,60,Alicia Keys
+The Diary Of Alicia Keys,8,7q4ElMUqO1sqqdrIvQ6HEY,Dragon Days,spotify:track:7q4ElMUqO1sqqdrIvQ6HEY,0.163,0.672,0.553,0.0783,0.101,-7.689,0.0849,165.997,0.581,41,Alicia Keys
+The Diary Of Alicia Keys,9,5uOLfAXKYvGB57XRNCejRu,Wake Up,spotify:track:5uOLfAXKYvGB57XRNCejRu,0.372,0.745,0.561,0.000187,0.118,-9.114,0.0683,99.004,0.416,41,Alicia Keys
+The Diary Of Alicia Keys,10,4SZOVptbDIwRegbsYCOHRJ,So Simple (feat. Lellow),spotify:track:4SZOVptbDIwRegbsYCOHRJ,0.047,0.678,0.64,1.77E-06,0.0993,-7.721,0.207,91.996,0.892,41,Alicia Keys
+The Diary Of Alicia Keys,11,7M4VDk55yaOIgGNsIcOnRv,When You Really Love Someone,spotify:track:7M4VDk55yaOIgGNsIcOnRv,0.434,0.764,0.635,0.00152,0.323,-6.168,0.0749,100.485,0.614,51,Alicia Keys
+The Diary Of Alicia Keys,12,4noLzwgD4GzlbLRbSCElVq,"Feeling U, Feeling Me (Interlude)",spotify:track:4noLzwgD4GzlbLRbSCElVq,0.891,0.452,0.165,0.0096,0.126,-11.421,0.0369,120.748,0.312,46,Alicia Keys
+The Diary Of Alicia Keys,13,4EvZwWEf8kXXCEpFj8BSwp,Slow Down,spotify:track:4EvZwWEf8kXXCEpFj8BSwp,0.0957,0.609,0.61,0.00205,0.106,-9.528,0.0457,157.818,0.57,40,Alicia Keys
+The Diary Of Alicia Keys,14,6npWWhIMwgd3zEPApjjDCl,Samsonite Man,spotify:track:6npWWhIMwgd3zEPApjjDCl,0.233,0.769,0.772,0.00563,0.107,-7.364,0.104,88.951,0.747,37,Alicia Keys
+The Diary Of Alicia Keys,15,4g8W8YNI1lbb4v8Rd49pmA,Nobody Not Really (Interlude),spotify:track:4g8W8YNI1lbb4v8Rd49pmA,0.418,0.382,0.784,0.000933,0.372,-8.048,0.0502,80.759,0.226,37,Alicia Keys
+Songs In A Minor (Expanded Edition),2,60SmFQAfTCe5W6pboQzWwO,Girlfriend,spotify:track:60SmFQAfTCe5W6pboQzWwO,0.022,0.596,0.902,1.41E-05,0.241,-7.35,0.239,185.553,0.59,47,Alicia Keys
+Songs In A Minor (Expanded Edition),3,5bAEFsQjo0DEJalVwFVmsW,How Come You Don't Call Me,spotify:track:5bAEFsQjo0DEJalVwFVmsW,0.155,0.835,0.547,0.000291,0.0579,-7.69,0.0515,124.55,0.759,51,Alicia Keys
+Songs In A Minor (Expanded Edition),7,1NRorokmYEtr1koWybvaE4,A Woman's Worth,spotify:track:1NRorokmYEtr1koWybvaE4,0.333,0.652,0.41,0,0.064,-8.323,0.158,75.09,0.495,57,Alicia Keys
+Songs In A Minor (Expanded Edition),12,6FyPqOyyNJt5t7FICy1cdm,Never Felt This Way,spotify:track:6FyPqOyyNJt5t7FICy1cdm,0.94,0.489,0.135,2.25E-05,0.139,-11.504,0.0395,105.148,0.411,45,Alicia Keys
+Songs In A Minor (Expanded Edition),16,40UjDmQuYPOpa0zki1udgC,Lovin U,spotify:track:40UjDmQuYPOpa0zki1udgC,0.117,0.54,0.524,0.000763,0.0689,-7.651,0.0504,129.872,0.446,37,Alicia Keys
+Songs In A Minor (Expanded Edition),1,0G5yBg1Ct7yjrALCMRGalP,A Woman's Worth (feat. Nas) - Remix,spotify:track:0G5yBg1Ct7yjrALCMRGalP,0.26,0.68,0.783,1.21E-06,0.355,-4.114,0.0861,136.984,0.71,35,Alicia Keys
+Songs In A Minor (Expanded Edition),2,3VmPZPYkNOtDvMBRJUK2Kh,Juiciest - Mixtape Version,spotify:track:3VmPZPYkNOtDvMBRJUK2Kh,0.249,0.873,0.711,0.000337,0.32,-4.055,0.291,96.542,0.704,42,Alicia Keys
+Songs In A Minor (Expanded Edition),3,3sYfKr8qPclTzAhCkmh9vL,If I Was Your Woman - Original Funky Demo,spotify:track:3sYfKr8qPclTzAhCkmh9vL,0.229,0.77,0.455,5.31E-05,0.396,-6.633,0.0939,76.968,0.764,26,Alicia Keys
+Songs In A Minor (Expanded Edition),4,5UUdMHdajiyrYdNYlaqDXb,"Fallin' - ""Ali"" Soundtrack Version",spotify:track:5UUdMHdajiyrYdNYlaqDXb,0.787,0.465,0.37,0.0233,0.355,-9.427,0.025,96.134,0.228,31,Alicia Keys
+Songs In A Minor (Expanded Edition),5,4cW56ih15Z3qqnUHUGcXL1,Typewriter,spotify:track:4cW56ih15Z3qqnUHUGcXL1,0.411,0.528,0.679,2.03E-05,0.0997,-6.53,0.0727,100.954,0.469,25,Alicia Keys
+Songs In A Minor (Expanded Edition),6,69gsntpO6xvuow4qEmf6Vi,Butterflyz - The Drumline Mix,spotify:track:69gsntpO6xvuow4qEmf6Vi,0.156,0.436,0.591,0,0.225,-6.17,0.139,104.045,0.42,33,Alicia Keys
+Songs In A Minor,1,3QEOzzBVrTxMtgVn2ISNgE,Piano & I,spotify:track:3QEOzzBVrTxMtgVn2ISNgE,0.651,0.536,0.451,0.664,0.111,-10.691,0.0524,174.001,0.17,36,Alicia Keys
+Songs In A Minor,4,0KQx6HOpJueiSkztcS0r7D,Fallin',spotify:track:0KQx6HOpJueiSkztcS0r7D,0.263,0.652,0.609,0.00101,0.233,-7.519,0.037,95.986,0.482,72,Alicia Keys
+Songs In A Minor,5,4QD2WHH386lGJ6OotpY17G,Troubles,spotify:track:4QD2WHH386lGJ6OotpY17G,0.0702,0.54,0.787,0.00146,0.225,-8.578,0.161,145.955,0.344,38,Alicia Keys
+Songs In A Minor,6,3G1mHhhfk7nGKzpKinIVfk,Rock wit U,spotify:track:3G1mHhhfk7nGKzpKinIVfk,0.00755,0.665,0.621,0.0333,0.0854,-8.952,0.0457,92.006,0.535,36,Alicia Keys
+Songs In A Minor,8,2GAaGPdruK38sZ4VphDd3j,Jane Doe,spotify:track:2GAaGPdruK38sZ4VphDd3j,0.655,0.674,0.66,0,0.323,-7.472,0.0475,92.906,0.624,35,Alicia Keys
+Songs In A Minor,9,38SQVzwBUdL985UDY81shh,Goodbye,spotify:track:38SQVzwBUdL985UDY81shh,0.483,0.419,0.503,9.13E-06,0.133,-8.928,0.0394,139.938,0.345,34,Alicia Keys
+Songs In A Minor,10,1AmMOm1zogvO40BahFoml0,The Life,spotify:track:1AmMOm1zogvO40BahFoml0,0.0167,0.421,0.743,0.0234,0.125,-5.757,0.0756,84.442,0.661,33,Alicia Keys
+Songs In A Minor,11,1YcX0dnem3cvDuGgpqTg1v,Mr. Man,spotify:track:1YcX0dnem3cvDuGgpqTg1v,0.0299,0.622,0.719,0.00457,0.0852,-7.753,0.0487,160.153,0.566,35,Alicia Keys
+Songs In A Minor,13,2rfRICVLPoWlFVGx7f48Cw,Butterflyz,spotify:track:2rfRICVLPoWlFVGx7f48Cw,0.701,0.398,0.31,5.69E-05,0.267,-10.292,0.0379,77.881,0.294,40,Alicia Keys
+Songs In A Minor,14,1sfU9JyyzGBiByxyv6g8ef,Why Do I Feel so Sad,spotify:track:1sfU9JyyzGBiByxyv6g8ef,0.203,0.563,0.529,5.99E-05,0.117,-8.284,0.0574,81.864,0.396,36,Alicia Keys
+Songs In A Minor,15,1G0GVr97uqZiNt5VGt35KC,Caged Bird,spotify:track:1G0GVr97uqZiNt5VGt35KC,0.953,0.368,0.0453,0.000107,0.0919,-18.894,0.0433,131.514,0.04,31,Alicia Keys

@@ -1,0 +1,171 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Pluto x Baby Pluto (Deluxe),1,0anUgBvnA4u5LsHUeLRprc,Tic Tac,spotify:track:0anUgBvnA4u5LsHUeLRprc,0.0773,0.942,0.566,0,0.11,-4.834,0.226,132.858,0.479,67,Future
+Pluto x Baby Pluto (Deluxe),2,4V9K7DLPZNhCH77wLsAiNF,My Legacy,spotify:track:4V9K7DLPZNhCH77wLsAiNF,0.104,0.89,0.682,0,0.116,-5.249,0.323,143.979,0.526,54,Future
+Pluto x Baby Pluto (Deluxe),3,669gYFBhezfYPXQP1hBMOX,Heart In Pieces,spotify:track:669gYFBhezfYPXQP1hBMOX,0.276,0.872,0.699,0,0.103,-6.127,0.0487,138.929,0.725,61,Future
+Pluto x Baby Pluto (Deluxe),4,6vbe3GmRG30x2nraEvHudq,Because of You,spotify:track:6vbe3GmRG30x2nraEvHudq,0.445,0.781,0.469,0,0.0921,-8.456,0.0549,132.989,0.518,55,Future
+Pluto x Baby Pluto (Deluxe),5,2z0LyXYmPgos95olIAQIO3,Bust a Move,spotify:track:2z0LyXYmPgos95olIAQIO3,0.0109,0.804,0.683,0,0.0693,-7.344,0.055,140.035,0.229,53,Future
+Pluto x Baby Pluto (Deluxe),6,4Y4Xmm8OLUJSdR9OkaxV97,Baby Sasuke,spotify:track:4Y4Xmm8OLUJSdR9OkaxV97,0.689,0.66,0.633,0,0.129,-5.782,0.149,145.995,0.715,60,Future
+Pluto x Baby Pluto (Deluxe),23,3f9RZbFJrmttvXYwiwqDlb,Patek,spotify:track:3f9RZbFJrmttvXYwiwqDlb,0.00301,0.801,0.596,0,0.162,-4.72,0.0534,120.028,0.134,59,Future
+Pluto x Baby Pluto (Deluxe),24,7JsuXl9Odf3V38ksu4FWDZ,Over Your Head,spotify:track:7JsuXl9Odf3V38ksu4FWDZ,0.00198,0.773,0.742,0,0.558,-5.453,0.162,148.949,0.35,56,Future
+Pluto x Baby Pluto,1,6lt8iodSkYWEV0ifKCSlfg,Stripes Like Burberry,spotify:track:6lt8iodSkYWEV0ifKCSlfg,0.216,0.758,0.574,0,0.144,-7.833,0.217,144.081,0.706,57,Future
+Pluto x Baby Pluto,2,6NaVCCFGylOLZAgk5eTTid,Marni On Me,spotify:track:6NaVCCFGylOLZAgk5eTTid,0.0187,0.759,0.52,0,0.313,-7.042,0.447,123.189,0.116,54,Future
+Pluto x Baby Pluto,3,0DUHmrwC8ZviGGC2o2JBy1,Sleeping On The Floor,spotify:track:0DUHmrwC8ZviGGC2o2JBy1,0.0233,0.851,0.621,0,0.161,-6.679,0.362,150.969,0.532,53,Future
+Pluto x Baby Pluto,4,1rP5gAqMlm8d6UnfseuzSm,Real Baby Pluto,spotify:track:1rP5gAqMlm8d6UnfseuzSm,0.0165,0.898,0.567,0,0.109,-6.446,0.302,141.973,0.602,57,Future
+Pluto x Baby Pluto,5,0k7wmahjkn389wAZdz19Cv,Drankin N Smokin,spotify:track:0k7wmahjkn389wAZdz19Cv,0.0421,0.752,0.658,0,0.0927,-6.297,0.342,151.951,0.387,81,Future
+Pluto x Baby Pluto,6,7liO3TEHfUqLnIlN54CW1D,Million Dollar Play,spotify:track:7liO3TEHfUqLnIlN54CW1D,0.11,0.839,0.502,0,0.115,-5.886,0.398,150.07,0.585,56,Future
+Pluto x Baby Pluto,7,6GK5du9ndZ7ZwMBrTRTGMH,Plastic,spotify:track:6GK5du9ndZ7ZwMBrTRTGMH,0.0485,0.773,0.505,0,0.158,-5.716,0.061,160.031,0.142,55,Future
+Pluto x Baby Pluto,8,5n6gBhdEjCuj3obgCoTEFD,That’s It,spotify:track:5n6gBhdEjCuj3obgCoTEFD,0.12,0.94,0.532,0,0.0925,-5.998,0.358,123.043,0.599,67,Future
+Pluto x Baby Pluto,9,5syD6f38Jhckk5g9DgoCta,Bought A Bad Bitch,spotify:track:5syD6f38Jhckk5g9DgoCta,0.112,0.866,0.72,0,0.172,-6.641,0.0646,136.077,0.785,52,Future
+Pluto x Baby Pluto,10,0NXeZp31dd0cJ9t8FdKsTg,Rockstar Chainz,spotify:track:0NXeZp31dd0cJ9t8FdKsTg,0.0116,0.867,0.517,0,0.31,-6.914,0.307,143.043,0.271,52,Future
+Pluto x Baby Pluto,11,2N7KguJOBZtV2Px3T1z5sB,Lullaby,spotify:track:2N7KguJOBZtV2Px3T1z5sB,0.0391,0.494,0.743,0,0.068,-6.716,0.441,160.084,0.59,49,Future
+Pluto x Baby Pluto,12,7yOoJXW6wkpzlJpfjDKhIV,She Never Been To Pluto,spotify:track:7yOoJXW6wkpzlJpfjDKhIV,0.0159,0.827,0.615,0,0.307,-5.879,0.222,132.996,0.221,51,Future
+Pluto x Baby Pluto,13,5qk0TivMEVkujTu7xJLKu7,Off Dat,spotify:track:5qk0TivMEVkujTu7xJLKu7,0.0154,0.898,0.641,0,0.665,-7.673,0.297,151.937,0.578,52,Future
+Pluto x Baby Pluto,14,7JwmlNz8ic9ATnLn7DyAKx,I Don’t Wanna Break Up,spotify:track:7JwmlNz8ic9ATnLn7DyAKx,0.00405,0.615,0.584,0,0.114,-5.638,0.235,162.169,0.529,54,Future
+Pluto x Baby Pluto,15,3h1LpNOGh1NgKVQPetS2Ed,Bankroll,spotify:track:3h1LpNOGh1NgKVQPetS2Ed,0.133,0.83,0.735,0,0.216,-5.23,0.301,139.932,0.682,52,Future
+Pluto x Baby Pluto,16,5iHaOaMTQA3f24kD4oTR2x,Moment of Clarity,spotify:track:5iHaOaMTQA3f24kD4oTR2x,0.183,0.862,0.624,0,0.195,-5.348,0.147,122.029,0.523,55,Future
+High Off Life,1,6QeUzTuBoasiii8nevDciq,Trapped In The Sun,spotify:track:6QeUzTuBoasiii8nevDciq,0.435,0.701,0.546,0,0.188,-5.918,0.133,151.9,0.118,58,Future
+High Off Life,2,5v1STk4ZTTDrhgCs6LD3nd,HiTek Tek,spotify:track:5v1STk4ZTTDrhgCs6LD3nd,0.00102,0.873,0.591,0,0.13,-7.332,0.293,150.057,0.188,57,Future
+High Off Life,3,29s4u1adFGLWtGehbR5xkq,Touch The Sky,spotify:track:29s4u1adFGLWtGehbR5xkq,0.0361,0.898,0.577,0,0.176,-7.785,0.238,83.018,0.266,55,Future
+High Off Life,4,4kfeRwpq5KUaqTkgi4TbDF,Solitaires (feat. Travis Scott),spotify:track:4kfeRwpq5KUaqTkgi4TbDF,0.122,0.691,0.632,0,0.0646,-7.598,0.0513,169.982,0.488,69,Future
+High Off Life,5,6PHbWsTTlmQKF9i9VC1KFv,Ridin Strikers,spotify:track:6PHbWsTTlmQKF9i9VC1KFv,0.0106,0.595,0.534,0.00157,0.107,-8.747,0.318,162.066,0.134,59,Future
+High Off Life,6,12ZpiGAd2uPgJiofgoZMue,One Of My,spotify:track:12ZpiGAd2uPgJiofgoZMue,0.103,0.95,0.5,3.77E-05,0.103,-8.18,0.399,114.009,0.598,58,Future
+High Off Life,7,7enaBBJnekyUCcXRuwGEH6,Posted With Demons,spotify:track:7enaBBJnekyUCcXRuwGEH6,0.283,0.931,0.574,0,0.274,-5.695,0.381,129.967,0.449,57,Future
+High Off Life,8,66z5CuZkqkb18VhFTRwbZk,Hard To Choose One,spotify:track:66z5CuZkqkb18VhFTRwbZk,0.011,0.884,0.436,0,0.101,-9.922,0.255,119.013,0.254,65,Future
+High Off Life,9,740kQ8xwSGloumdiKR5Cwz,Trillionaire (feat. Youngboy Never Broke Again),spotify:track:740kQ8xwSGloumdiKR5Cwz,0.237,0.768,0.526,0,0.139,-7.182,0.209,139.999,0.473,65,Future
+High Off Life,10,3cFHCXuBZKMJd8Q4Wt8RB3,Harlem Shake (feat. Young Thug),spotify:track:3cFHCXuBZKMJd8Q4Wt8RB3,7.68E-05,0.864,0.689,0.000467,0.111,-7.273,0.22,152.946,0.412,53,Future
+High Off Life,11,5i8AHhRU9tfp8c3drQetaa,Up the River,spotify:track:5i8AHhRU9tfp8c3drQetaa,0.22,0.79,0.569,0,0.161,-7.591,0.235,86.011,0.213,55,Future
+High Off Life,12,5D2M4HrTJjrksPGDOKa3tY,Pray For A Key,spotify:track:5D2M4HrTJjrksPGDOKa3tY,0.176,0.858,0.539,0,0.126,-7.964,0.369,84.531,0.436,52,Future
+High Off Life,13,0biVzpdI2z0vAxwfU9xuuA,Too Comfortable,spotify:track:0biVzpdI2z0vAxwfU9xuuA,0.0455,0.935,0.472,0,0.19,-9.304,0.0575,130.041,0.659,72,Future
+High Off Life,14,021lWIHJrURZrmvYQ1xcM8,All Bad (feat. Lil Uzi Vert),spotify:track:021lWIHJrURZrmvYQ1xcM8,0.0144,0.931,0.667,0,0.15,-7.043,0.318,142.039,0.667,63,Future
+High Off Life,15,6b3i6FDLfhuB3OB8zeANrH,Outer Space Bih,spotify:track:6b3i6FDLfhuB3OB8zeANrH,0.0931,0.878,0.57,0.000227,0.106,-8.6,0.146,79.997,0.298,53,Future
+High Off Life,16,6n6CmyLTCIXJCPZnv7h2rn,Accepting My Flaws,spotify:track:6n6CmyLTCIXJCPZnv7h2rn,0.169,0.769,0.586,6.60E-06,0.138,-8.609,0.385,90.978,0.137,58,Future
+High Off Life,17,1K5KBOgreBi5fkEHvg5ap3,Life Is Good (feat. Drake),spotify:track:1K5KBOgreBi5fkEHvg5ap3,0.067,0.795,0.574,0,0.15,-6.903,0.487,142.053,0.537,78,Future
+High Off Life,18,1Sm3NRIXjCqYWSi8NlV8fd,Last Name (feat. Lil Durk),spotify:track:1Sm3NRIXjCqYWSi8NlV8fd,0.162,0.775,0.542,0,0.14,-7.532,0.474,112.456,0.326,57,Future
+High Off Life,19,05TpY5Fov3Hgfp8V1KILZ8,Tycoon,spotify:track:05TpY5Fov3Hgfp8V1KILZ8,0.022,0.854,0.599,0,0.173,-7.406,0.355,157.031,0.849,52,Future
+High Off Life,20,3Uoy2lrZdhocMWO0jIdjAp,100 Shooters (feat. Meek Mill & Doe Boy),spotify:track:3Uoy2lrZdhocMWO0jIdjAp,0.0122,0.827,0.664,0,0.251,-5.756,0.176,120.672,0.198,58,Future
+High Off Life,21,4Qd0pa3JO76UEwhos9JmN0,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",spotify:track:4Qd0pa3JO76UEwhos9JmN0,0.106,0.79,0.566,0,0.119,-8.33,0.437,142.016,0.586,56,Future
+SAVE ME,1,3tZ4zv4UuenjJGSNUMfBNG,XanaX Damage,spotify:track:3tZ4zv4UuenjJGSNUMfBNG,0.368,0.551,0.609,0.000154,0.192,-8.975,0.143,139.084,0.324,55,Future
+SAVE ME,2,4lrSsZ9nRgkrHXekhM8Fy0,St. Lucia,spotify:track:4lrSsZ9nRgkrHXekhM8Fy0,0.00846,0.558,0.703,0,0.112,-5.735,0.342,146.426,0.305,49,Future
+SAVE ME,3,4ANFPo7dzs2DdPuONXC9bp,Please Tell Me,spotify:track:4ANFPo7dzs2DdPuONXC9bp,0.0091,0.881,0.549,0,0.137,-5.589,0.272,144.019,0.202,52,Future
+SAVE ME,4,3TirmOKwMAD738H0DOVrB9,Shotgun,spotify:track:3TirmOKwMAD738H0DOVrB9,0.313,0.728,0.694,0,0.316,-4.499,0.206,127.958,0.443,47,Future
+SAVE ME,5,2QEnZJ8FwpBoyLKcFcgceT,Government Official,spotify:track:2QEnZJ8FwpBoyLKcFcgceT,0.0365,0.801,0.774,3.03E-06,0.114,-5.125,0.157,144.988,0.321,51,Future
+SAVE ME,6,6z6YV7ANb27fmra1O3wAOD,Extra,spotify:track:6z6YV7ANb27fmra1O3wAOD,0.294,0.668,0.47,3.92E-06,0.149,-8.059,0.0941,105.902,0.173,49,Future
+SAVE ME,7,6voLIzmNKZ9ZN53rQ4yQn1,Love Thy Enemies,spotify:track:6voLIzmNKZ9ZN53rQ4yQn1,0.79,0.5,0.402,6.77E-05,0.123,-9.292,0.0444,99.925,0.268,49,Future
+Future Hndrxx Presents: The WIZRD,1,1AGPmw3QJBNfOK6XioDhZp,Never Stop,spotify:track:1AGPmw3QJBNfOK6XioDhZp,0.0662,0.571,0.556,0.000149,0.137,-5.857,0.223,155.465,0.0762,56,Future
+Future Hndrxx Presents: The WIZRD,2,1I3ZAmPmbFV78oNKnibOiW,Jumpin on a Jet,spotify:track:1I3ZAmPmbFV78oNKnibOiW,0.0571,0.824,0.595,3.70E-06,0.0876,-6.346,0.091,140.039,0.157,56,Future
+Future Hndrxx Presents: The WIZRD,3,4HfaOznGhHYWqPtpLYz2PB,Rocket Ship,spotify:track:4HfaOznGhHYWqPtpLYz2PB,0.00957,0.953,0.38,0,0.127,-4.941,0.261,133.941,0.128,58,Future
+Future Hndrxx Presents: The WIZRD,4,2gXOzCwbVXACCaYRj4Qrep,Temptation,spotify:track:2gXOzCwbVXACCaYRj4Qrep,0.164,0.66,0.55,0.000204,0.199,-6.744,0.184,130.004,0.299,52,Future
+Future Hndrxx Presents: The WIZRD,5,7wcyO1rrH3Ru4t659IjG41,Crushed Up,spotify:track:7wcyO1rrH3Ru4t659IjG41,0.0415,0.781,0.597,0,0.152,-6.794,0.23,158.043,0.544,64,Future
+Future Hndrxx Presents: The WIZRD,6,5YP6yKgGGsXKukqxXypVAf,F&N,spotify:track:5YP6yKgGGsXKukqxXypVAf,0.01,0.728,0.628,6.53E-05,0.0735,-4.766,0.191,160.94,0.393,59,Future
+Future Hndrxx Presents: The WIZRD,7,1WlU4jsJ8AoTB96dgd8LJA,Call the Coroner,spotify:track:1WlU4jsJ8AoTB96dgd8LJA,0.146,0.853,0.805,0.0515,0.204,-3.331,0.202,134.55,0.879,53,Future
+Future Hndrxx Presents: The WIZRD,8,2aR4gdgyCgacqHGqUZ91YS,Talk Shit Like a Preacher,spotify:track:2aR4gdgyCgacqHGqUZ91YS,0.00728,0.878,0.452,0.000423,0.107,-8.695,0.496,154.035,0.425,55,Future
+Future Hndrxx Presents: The WIZRD,9,7EB2UpfRbS4QVjZQlKLi3Z,Promise U That,spotify:track:7EB2UpfRbS4QVjZQlKLi3Z,0.338,0.638,0.568,0,0.487,-6.579,0.159,127.806,0.446,54,Future
+Future Hndrxx Presents: The WIZRD,10,0F7FlaQBiyNkV8iakTocsW,Stick to the Models,spotify:track:0F7FlaQBiyNkV8iakTocsW,0.088,0.813,0.543,7.42E-06,0.112,-6.555,0.211,137.986,0.165,55,Future
+Future Hndrxx Presents: The WIZRD,11,5OUHuypXfqeKaHNO44ojio,Overdose,spotify:track:5OUHuypXfqeKaHNO44ojio,0.0382,0.731,0.706,2.41E-05,0.636,-4.958,0.417,153.074,0.384,45,Future
+Future Hndrxx Presents: The WIZRD,12,465mhRDuwxjrJ61UrvRvrZ,Krazy but True,spotify:track:465mhRDuwxjrJ61UrvRvrZ,0.0545,0.738,0.499,0,0.14,-7.456,0.428,73.152,0.314,51,Future
+Future Hndrxx Presents: The WIZRD,13,5FWyHjKMW85oZoqgG1zD9b,Servin Killa Kam,spotify:track:5FWyHjKMW85oZoqgG1zD9b,0.000807,0.847,0.661,0.00126,0.104,-4.614,0.0548,143.979,0.184,49,Future
+Future Hndrxx Presents: The WIZRD,14,01sjbEk3X7KNXFvXXXN5MY,Baptiize,spotify:track:01sjbEk3X7KNXFvXXXN5MY,0.108,0.648,0.581,0,0.496,-6.958,0.315,153.947,0.235,49,Future
+Future Hndrxx Presents: The WIZRD,15,2U3LJfQB0ALLxC7Yy0QW7l,Unicorn Purp (feat. Young Thug & Gunna),spotify:track:2U3LJfQB0ALLxC7Yy0QW7l,0.0158,0.833,0.761,1.41E-06,0.161,-4.905,0.195,134.047,0.377,54,Future
+Future Hndrxx Presents: The WIZRD,16,6QFzUXTIZXOLesQcgmGOsR,Goin Dummi,spotify:track:6QFzUXTIZXOLesQcgmGOsR,0.0151,0.888,0.665,0,0.219,-7.055,0.093,78.021,0.568,51,Future
+Future Hndrxx Presents: The WIZRD,17,3WRIaWsws011vHMd9uzPjG,First Off (feat. Travis Scott),spotify:track:3WRIaWsws011vHMd9uzPjG,0.013,0.734,0.683,0,0.28,-6.105,0.0776,162.038,0.445,66,Future
+Future Hndrxx Presents: The WIZRD,18,5R2pz8i4k4bvRAqiIFXzKz,Faceshot,spotify:track:5R2pz8i4k4bvRAqiIFXzKz,0.00772,0.802,0.833,0,0.346,-4.234,0.0832,165.97,0.132,48,Future
+Future Hndrxx Presents: The WIZRD,19,0SCEdR34DyPTgNWvho3zLF,Ain't Coming Back,spotify:track:0SCEdR34DyPTgNWvho3zLF,0.00738,0.675,0.747,0,0.121,-4.46,0.0741,152.928,0.255,47,Future
+Future Hndrxx Presents: The WIZRD,20,2HEsewd9dzzLg4751JIS4p,Tricks on Me,spotify:track:2HEsewd9dzzLg4751JIS4p,0.435,0.7,0.742,0,0.092,-5.233,0.347,140.172,0.635,48,Future
+Future Hndrxx Presents: The WIZRD,8,5vGFLdO7rKYrjA5VUG2ZFK,Talk Sh*t Like a Preacher,spotify:track:5vGFLdO7rKYrjA5VUG2ZFK,0.00579,0.882,0.429,0.000417,0.105,-8.919,0.5,154.036,0.36,0,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,1,2OsDoAzo5SGq10qwmKSQBv,Jet Lag (feat. Young Scooter),spotify:track:2OsDoAzo5SGq10qwmKSQBv,0.266,0.81,0.458,0,0.174,-7.495,0.105,125.049,0.493,67,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,2,2vs5ubqg8QUbfyWZpMfvWe,Astronauts,spotify:track:2vs5ubqg8QUbfyWZpMfvWe,0.0402,0.732,0.586,2.66E-06,0.121,-7.868,0.232,76.48,0.73,66,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,3,5274I4mUMnYczyeXkGDWZN,Fine China,spotify:track:5274I4mUMnYczyeXkGDWZN,0.0484,0.656,0.542,0,0.126,-7.358,0.323,166.111,0.551,78,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,4,3fFBZvG777xoKyvcrBq7lc,Red Bentley (feat. Young Thug),spotify:track:3fFBZvG777xoKyvcrBq7lc,0.0301,0.903,0.609,1.61E-05,0.179,-7.555,0.237,149.991,0.268,62,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,5,2EhJijFUs0WUmNClDBpYJq,Make It Back,spotify:track:2EhJijFUs0WUmNClDBpYJq,0.122,0.75,0.387,0,0.0993,-10.123,0.487,143.019,0.739,67,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,6,0nWMTq3fBceV1uZlhFn6of,Oxy (feat. Lil Wayne),spotify:track:0nWMTq3fBceV1uZlhFn6of,0.00779,0.811,0.526,0.0642,0.13,-7.003,0.161,149.954,0.248,61,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,7,1hHe7cirScEJWgAS0JFqTL,7 Am Freestyle,spotify:track:1hHe7cirScEJWgAS0JFqTL,0.0185,0.951,0.401,0,0.149,-8.92,0.411,129.976,0.539,66,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,8,3thLnNvO9IctWoccbsZyJV,Different (feat. Yung Bans),spotify:track:3thLnNvO9IctWoccbsZyJV,0.098,0.456,0.516,0,0.115,-10.512,0.459,77.058,0.684,62,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,9,5ExHDzOoOhC4xZGPh9zyQZ,Shorty,spotify:track:5ExHDzOoOhC4xZGPh9zyQZ,0.245,0.795,0.386,0,0.0973,-10.638,0.18,131.971,0.619,65,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,10,4VMiNOpnjRwSCwmHaUfOMM,Realer N Realer,spotify:track:4VMiNOpnjRwSCwmHaUfOMM,0.0117,0.73,0.465,0,0.28,-6.29,0.278,148.028,0.367,70,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,11,7L95O7D34EWhwtDCQkwGMR,No Issue,spotify:track:7L95O7D34EWhwtDCQkwGMR,0.114,0.818,0.443,0,0.412,-11.444,0.404,74.491,0.722,64,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,12,3xBHLZwRfi0fjO9euaj5zf,WRLD On Drugs,spotify:track:3xBHLZwRfi0fjO9euaj5zf,0.0172,0.819,0.719,1.11E-05,0.107,-8.084,0.168,149.97,0.575,65,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,13,4hEbkVAl2qRs8vZy03tsDi,Afterlife,spotify:track:4hEbkVAl2qRs8vZy03tsDi,0.0895,0.577,0.488,1.10E-05,0.103,-8.252,0.418,108.238,0.115,61,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,14,0JR7iZZ6Ql79sXW3rbiS3F,Ain't Livin Right (feat. Gunna),spotify:track:0JR7iZZ6Ql79sXW3rbiS3F,0.0492,0.755,0.503,0,0.226,-8.06,0.206,142.011,0.524,65,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,15,2MfcvcvWSUkstTDZXYIakq,Transformer (feat. Nicki Minaj),spotify:track:2MfcvcvWSUkstTDZXYIakq,0.00151,0.753,0.616,7.10E-06,0.291,-7.34,0.165,156.83,0.287,60,Future
+Future & Juice WRLD Present... WRLD ON DRUGS,16,6gzIcEUuswJQGfJNPYMjjv,Hard Work Pays Off,spotify:track:6gzIcEUuswJQGfJNPYMjjv,0.327,0.736,0.482,0,0.229,-8.242,0.196,140.064,0.608,72,Future
+BEASTMODE 2,1,6WlxcZKpEV6Bwe9InoVhMp,WIFI LIT,spotify:track:6WlxcZKpEV6Bwe9InoVhMp,0.064,0.884,0.579,2.38E-06,0.182,-6.847,0.299,144.973,0.313,53,Future
+BEASTMODE 2,2,5UVNjOSh27encRBqTpBWup,CUDDLE MY WRIST,spotify:track:5UVNjOSh27encRBqTpBWup,0.0744,0.903,0.503,2.09E-05,0.125,-9.188,0.335,125,0.203,51,Future
+BEASTMODE 2,3,4lc61NBCDzy2srBHDQeTfN,RACKS BLUE,spotify:track:4lc61NBCDzy2srBHDQeTfN,0.233,0.868,0.548,2.67E-06,0.181,-7.864,0.171,139.999,0.557,52,Future
+BEASTMODE 2,4,7MywASx2OFZngfoORjo1yy,31 DAYS,spotify:track:7MywASx2OFZngfoORjo1yy,0.267,0.875,0.644,0,0.125,-6.554,0.222,139.086,0.788,54,Future
+BEASTMODE 2,5,3AALcuKu2uN5VChEChnD7v,RED LIGHT,spotify:track:3AALcuKu2uN5VChEChnD7v,0.0682,0.569,0.573,0,0.126,-6.286,0.215,150.295,0.326,47,Future
+BEASTMODE 2,6,0U06Yqe0nkkJlptlr7O4uO,DOH DOH (feat. Young Scooter),spotify:track:0U06Yqe0nkkJlptlr7O4uO,0.0321,0.892,0.66,2.70E-05,0.185,-8.12,0.127,155.955,0.662,46,Future
+BEASTMODE 2,7,7JrAZVBsIxO42bLi9HnRYp,WHEN I THINK ABOUT IT,spotify:track:7JrAZVBsIxO42bLi9HnRYp,0.134,0.523,0.665,0,0.138,-6.534,0.151,155.073,0.506,45,Future
+BEASTMODE 2,8,5sT2yQrTJbs0aubnGwuuiw,SOME MORE,spotify:track:5sT2yQrTJbs0aubnGwuuiw,0.493,0.919,0.442,0,0.233,-7.948,0.155,110.032,0.485,48,Future
+BEASTMODE 2,9,4pXiV088jJbJzQgU9XcZXQ,HATE THE REAL ME,spotify:track:4pXiV088jJbJzQgU9XcZXQ,0.0859,0.71,0.553,0,0.142,-6.795,0.0602,142.984,0.143,52,Future
+SUPERFLY (Original Motion Picture Soundtrack),1,0rdmYZpqudklj3mhejRH1v,If You Want It (Sleepy Brown feat. Scar),spotify:track:0rdmYZpqudklj3mhejRH1v,0.0175,0.645,0.785,5.61E-06,0.0898,-6.868,0.0353,110.994,0.569,29,Future
+SUPERFLY (Original Motion Picture Soundtrack),2,5BojMTUzwug3YQ21nThLhv,What's Up With That (Future feat. 21 Savage),spotify:track:5BojMTUzwug3YQ21nThLhv,0.0691,0.841,0.824,0.000126,0.192,-6.242,0.243,152.068,0.653,43,Future
+SUPERFLY (Original Motion Picture Soundtrack),3,2txxneWmDggnj8J0IlA4ZF,No Shame (Future feat. PARTYNEXTDOOR),spotify:track:2txxneWmDggnj8J0IlA4ZF,0.162,0.362,0.755,0,0.342,-7.187,0.311,173.719,0.236,44,Future
+SUPERFLY (Original Motion Picture Soundtrack),4,5r0J5io1my6Am0jmFV94OV,Walk On Minks (Future),spotify:track:5r0J5io1my6Am0jmFV94OV,0.0213,0.75,0.794,0,0.359,-6.539,0.168,129.993,0.645,42,Future
+SUPERFLY (Original Motion Picture Soundtrack),5,15oK0dIiG9xeYU8gk2DB4m,Tie My Shoes (Future feat. Young Thug),spotify:track:15oK0dIiG9xeYU8gk2DB4m,0.0303,0.884,0.896,7.23E-05,0.0913,-4.669,0.131,149.021,0.711,36,Future
+SUPERFLY (Original Motion Picture Soundtrack),6,1PxxpjnzU4miVn1ULHlo8L,Stains (Future),spotify:track:1PxxpjnzU4miVn1ULHlo8L,0.0278,0.885,0.713,0.000318,0.154,-4.853,0.261,148.058,0.275,39,Future
+SUPERFLY (Original Motion Picture Soundtrack),7,0TBHAzNgH8aMmJBtpzfMfj,Show My Chain Some Love (Future feat. Young Thug),spotify:track:0TBHAzNgH8aMmJBtpzfMfj,0.0445,0.758,0.765,1.08E-05,0.0999,-5.067,0.117,139.993,0.448,38,Future
+SUPERFLY (Original Motion Picture Soundtrack),8,2OaNdSbmHAgrSEfRd3czAK,R.A.N. (Miguel),spotify:track:2OaNdSbmHAgrSEfRd3czAK,0.115,0.538,0.626,1.00E-05,0.137,-8.272,0.0455,132.908,0.241,45,Future
+SUPERFLY (Original Motion Picture Soundtrack),9,0XUHYxHOOctkSXReILAaJV,This Way (Khalid x H.E.R.),spotify:track:0XUHYxHOOctkSXReILAaJV,0.694,0.62,0.282,0,0.119,-10.533,0.0464,124.609,0.193,50,Future
+SUPERFLY (Original Motion Picture Soundtrack),10,09rpYKV7YcVTl4vzQgQjYG,Bag (Future feat. Yung Bans),spotify:track:09rpYKV7YcVTl4vzQgQjYG,0.0811,0.857,0.457,0,0.191,-8.939,0.297,132.01,0.616,43,Future
+SUPERFLY (Original Motion Picture Soundtrack),11,6dAxsn3aP6EBo3oJDN8mL4,Drive Itself (Future feat. Lil Wayne),spotify:track:6dAxsn3aP6EBo3oJDN8mL4,0.018,0.831,0.604,0,0.283,-6.08,0.251,142.985,0.141,38,Future
+SUPERFLY (Original Motion Picture Soundtrack),12,0urHaAHTNeprwQuj4QzY1Q,Money Train (Future feat. Young Thug & Gunna),spotify:track:0urHaAHTNeprwQuj4QzY1Q,0.0413,0.862,0.763,1.21E-05,0.135,-4.936,0.183,150.029,0.691,43,Future
+SUPERFLY (Original Motion Picture Soundtrack),13,3Bbx1UN5T0KH9uasjSSZ2q,Nowhere (Future),spotify:track:3Bbx1UN5T0KH9uasjSSZ2q,0.0813,0.817,0.493,2.42E-06,0.114,-5.09,0.134,137.104,0.227,41,Future
+SUPERFLY (Original Motion Picture Soundtrack),1,4PyEyFo5PyPQXf6FputONC,Trappin' So Hard (Rich The Kid & Rico Love),spotify:track:4PyEyFo5PyPQXf6FputONC,0.215,0.867,0.564,0,0.112,-6.815,0.0909,109.95,0.237,31,Future
+SUPERFLY (Original Motion Picture Soundtrack),2,2RC86WM8zX8v1z4QNtZ2sI,New Goals (French Montana),spotify:track:2RC86WM8zX8v1z4QNtZ2sI,0.112,0.8,0.749,0,0.334,-4.548,0.0593,115.076,0.247,30,Future
+SUPERFLY (Original Motion Picture Soundtrack),3,2ld9oNdFAMIiAwyCFd5i9G,That's How I Grew Up (G Herbo feat. 21 Savage),spotify:track:2ld9oNdFAMIiAwyCFd5i9G,0.0372,0.787,0.771,0,0.329,-5.964,0.359,74.993,0.53,32,Future
+SUPERFLY (Original Motion Picture Soundtrack),4,1nBlR1MbfZ1nLrecwVoLXE,"Rep Yo Click (Lil Jon feat. Bangladesh, Freeway & CyHi The Prynce)",spotify:track:1nBlR1MbfZ1nLrecwVoLXE,0.0215,0.466,0.774,0,0.158,-5.322,0.235,116.118,0.536,36,Future
+SUPERFLY (Original Motion Picture Soundtrack),5,4bhu77kvSM5qMzTXAVzsuI,"Please Forgive (Lecrae, Sean Garrett & Crystal Nicole)",spotify:track:4bhu77kvSM5qMzTXAVzsuI,0.476,0.554,0.694,0,0.0681,-5.803,0.149,145.986,0.385,30,Future
+SUPERFLY (Original Motion Picture Soundtrack),6,5Q98gqWkpDY7hfDa3Ho4ch,Capone Suite (Rick Ross feat. Smif-N-Wessun),spotify:track:5Q98gqWkpDY7hfDa3Ho4ch,0.000932,0.343,0.883,0,0.315,-5.335,0.315,76.959,0.554,30,Future
+SUPERFLY (Original Motion Picture Soundtrack),7,28lYNTAmeSis1dZ7cJs6Fw,Struggles (Future feat. Sleepy Brown),spotify:track:28lYNTAmeSis1dZ7cJs6Fw,0.0858,0.772,0.456,0,0.224,-9.986,0.0703,129.988,0.275,30,Future
+SUPERFLY (Original Motion Picture Soundtrack),8,4gxnTpSiGsXZNXlABEQHiL,Find My Way Out (HoodCelebrityy),spotify:track:4gxnTpSiGsXZNXlABEQHiL,0.0181,0.749,0.419,7.15E-06,0.0703,-7.562,0.0437,96.977,0.432,28,Future
+SUPERFLY (Original Motion Picture Soundtrack),9,6CSRySSCq53b6aS4XcKxQq,La Dueña (A.CHAL),spotify:track:6CSRySSCq53b6aS4XcKxQq,0.162,0.89,0.484,0,0.0698,-4.896,0.198,139.774,0.521,33,Future
+SUPERFLY (Original Motion Picture Soundtrack),10,4eVAlCGYvDOsI0jCjdxvBD,Georgia (Future feat. Young Thug),spotify:track:4eVAlCGYvDOsI0jCjdxvBD,0.402,0.639,0.587,0,0.101,-5.329,0.237,139.822,0.379,36,Future
+SUPER SLIMEY,1,06Gyf2pFDVmN5K8XAawG96,No Cap,spotify:track:06Gyf2pFDVmN5K8XAawG96,0.00108,0.8,0.523,0,0.352,-6.578,0.107,147.057,0.379,59,Future
+SUPER SLIMEY,2,4W598w0KcHVG5Nwqk0qMpj,Three,spotify:track:4W598w0KcHVG5Nwqk0qMpj,0.00841,0.725,0.692,0,0.0912,-5.742,0.257,169.025,0.298,54,Future
+SUPER SLIMEY,3,1wWRtPIKD7ZNvtsrzLyTev,All da Smoke,spotify:track:1wWRtPIKD7ZNvtsrzLyTev,0.0265,0.893,0.583,1.33E-05,0.149,-6.862,0.341,147,0.115,55,Future
+SUPER SLIMEY,4,5b06JZjts6dgyyuY1m7roq,200,spotify:track:5b06JZjts6dgyyuY1m7roq,0.00924,0.84,0.65,0,0.201,-6.708,0.262,145.972,0.527,53,Future
+SUPER SLIMEY,5,3C4FUqrrjuvWoHwsumWfIu,Cruise Ship,spotify:track:3C4FUqrrjuvWoHwsumWfIu,0.0107,0.793,0.742,0,0.119,-6.185,0.21,150.076,0.21,54,Future
+SUPER SLIMEY,6,7r6LNJT2LqpLpEyZQJPygt,Patek Water (feat. Offset),spotify:track:7r6LNJT2LqpLpEyZQJPygt,0.274,0.86,0.561,0,0.108,-5.757,0.185,152.984,0.354,60,Future
+SUPER SLIMEY,7,3lyeSiAIdLoZUHhV8psOTI,Feed Me Dope,spotify:track:3lyeSiAIdLoZUHhV8psOTI,0.0118,0.853,0.688,0,0.151,-6.509,0.296,150.012,0.565,58,Future
+SUPER SLIMEY,8,2ya9d4B06EQ8Fpj5SSqiTH,Drip on Me,spotify:track:2ya9d4B06EQ8Fpj5SSqiTH,0.00362,0.834,0.618,2.67E-05,0.126,-7.653,0.231,135.889,0.553,54,Future
+SUPER SLIMEY,9,1OwNWr75pNTyhifOTT0uIG,Real Love,spotify:track:1OwNWr75pNTyhifOTT0uIG,0.0201,0.75,0.579,6.40E-05,0.219,-6.256,0.0856,145.949,0.262,53,Future
+SUPER SLIMEY,10,3IJ6BBFLD2I2CH3hHFQj3O,4 da Gang,spotify:track:3IJ6BBFLD2I2CH3hHFQj3O,0.0751,0.705,0.474,0,0.229,-7.534,0.355,146.244,0.179,56,Future
+SUPER SLIMEY,11,0jPLBur1qXRfj3pbuJSX03,Killed Before,spotify:track:0jPLBur1qXRfj3pbuJSX03,0.275,0.697,0.675,0,0.0767,-4.688,0.317,158.133,0.292,55,Future
+SUPER SLIMEY,12,1KF7iLK6wK3hjjtqxjRiym,Mink Flow,spotify:track:1KF7iLK6wK3hjjtqxjRiym,0.00355,0.692,0.533,0,0.114,-6.165,0.176,78.902,0.25,55,Future
+SUPER SLIMEY,13,3kciYQvHGFkQYaZd0m1Pbc,Group Home,spotify:track:3kciYQvHGFkQYaZd0m1Pbc,0.0613,0.568,0.609,9.11E-06,0.0954,-7.698,0.279,143.351,0.396,52,Future
+FUTURE,1,4Zxdw0Hno7YDu0IzvY76Qo,Rent Money,spotify:track:4Zxdw0Hno7YDu0IzvY76Qo,0.0331,0.694,0.493,2.04E-06,0.431,-8.581,0.373,166.457,0.313,21,Future
+FUTURE,2,3yaq0WhtGS0Y6r7vDkw4lc,Good Dope,spotify:track:3yaq0WhtGS0Y6r7vDkw4lc,0.0887,0.863,0.409,0.0281,0.359,-8.55,0.321,130.011,0.2,10,Future
+FUTURE,3,7iAiOtm19uRwipMm7TH6lw,Zoom,spotify:track:7iAiOtm19uRwipMm7TH6lw,0.0145,0.852,0.438,0,0.263,-7.673,0.426,150.945,0.627,12,Future
+FUTURE,4,67dyMPOUsbZ9Yg06PnfAAh,Draco,spotify:track:67dyMPOUsbZ9Yg06PnfAAh,0.000668,0.804,0.456,0,0.31,-7.44,0.0468,130.014,0.165,24,Future
+FUTURE,5,5e0RPsQUTQu0A29wqD6bZR,Super Trapper,spotify:track:5e0RPsQUTQu0A29wqD6bZR,0.423,0.816,0.414,0,0.125,-7.953,0.119,150.008,0.197,11,Future
+FUTURE,6,7BzjpnOxxngXt1LZiVXhND,POA,spotify:track:7BzjpnOxxngXt1LZiVXhND,0.000441,0.818,0.746,2.11E-06,0.176,-6.187,0.177,147.977,0.609,12,Future
+FUTURE,7,3rOSwuTsUlJp0Pu0MkN8r8,Mask Off,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,0.0102,0.833,0.434,0.0219,0.165,-8.795,0.431,150.062,0.281,50,Future
+FUTURE,8,3CyICSGQGqUaFeYvMJgpnt,High Demand,spotify:track:3CyICSGQGqUaFeYvMJgpnt,0.0175,0.907,0.465,1.54E-05,0.117,-7.123,0.288,141.957,0.188,13,Future
+FUTURE,9,133V82vMO7TB1WYehNUMwW,Outta Time,spotify:track:133V82vMO7TB1WYehNUMwW,0.00597,0.75,0.546,3.18E-05,0.377,-6.951,0.384,75.443,0.438,10,Future
+FUTURE,10,3s2rQnjOKEENte75MloNMq,Scrape,spotify:track:3s2rQnjOKEENte75MloNMq,0.133,0.928,0.496,0.000196,0.231,-8.385,0.154,126.017,0.0782,9,Future
+FUTURE,11,4lozYCMRLtEc46exlhoK2Q,I'm so Groovy,spotify:track:4lozYCMRLtEc46exlhoK2Q,0.0418,0.938,0.478,0.00884,0.0801,-9.739,0.265,138.059,0.386,21,Future
+FUTURE,12,572NmogOEHowA9JdNqh036,Might as Well,spotify:track:572NmogOEHowA9JdNqh036,0.119,0.914,0.545,0,0.395,-7.323,0.459,134.057,0.802,12,Future
+FUTURE,13,77zIq99gy96DGkMak3a2wF,Poppin' Tags,spotify:track:77zIq99gy96DGkMak3a2wF,0.00103,0.857,0.601,1.58E-05,0.149,-5.837,0.0782,147.076,0.279,10,Future
+FUTURE,14,2Yimo750CLgO2mDPPndSK6,Massage In My Room,spotify:track:2Yimo750CLgO2mDPPndSK6,0.0313,0.799,0.426,0.00153,0.376,-8.089,0.0727,75.538,0.171,8,Future
+FUTURE,15,1RLRjT3mBJ7PW83rIvE2bu,Flip,spotify:track:1RLRjT3mBJ7PW83rIvE2bu,0.126,0.755,0.317,0,0.128,-11.071,0.487,145.978,0.588,6,Future
+FUTURE,16,4IcwdrlHrNF7IxMMMloEBh,When I Was Broke,spotify:track:4IcwdrlHrNF7IxMMMloEBh,0.36,0.883,0.583,0,0.15,-7.55,0.234,125.898,0.533,8,Future
+FUTURE,17,7sMBRW8Y8iL19IchYMAogN,Feds Did a Sweep,spotify:track:7sMBRW8Y8iL19IchYMAogN,0.437,0.799,0.468,1.70E-06,0.0778,-10.077,0.267,117.994,0.344,15,Future
+HNDRXX,1,0526DaOuV7mRlPKxhMSJKw,My Collection,spotify:track:0526DaOuV7mRlPKxhMSJKw,0.729,0.697,0.459,8.35E-06,0.0971,-8.498,0.448,80.085,0.409,62,Future
+HNDRXX,2,1B87ZDrD3Pno9hS4stamWO,Comin Out Strong (feat. The Weeknd),spotify:track:1B87ZDrD3Pno9hS4stamWO,0.29,0.628,0.481,0,0.118,-7.775,0.475,108.761,0.33,67,Future
+HNDRXX,3,6Mz7ULRwNSCOdut6M3tNs2,Lookin Exotic,spotify:track:6Mz7ULRwNSCOdut6M3tNs2,0.0601,0.589,0.63,0,0.102,-5.289,0.0985,76.494,0.0486,54,Future
+HNDRXX,4,0XarUcoGDMFuooo2tk70Yk,Damage,spotify:track:0XarUcoGDMFuooo2tk70Yk,0.174,0.704,0.682,0,0.121,-5.862,0.307,149.988,0.594,51,Future
+HNDRXX,5,6mxz6tKfJw2RvzdowwDELj,Use Me,spotify:track:6mxz6tKfJw2RvzdowwDELj,0.253,0.573,0.538,0,0.0622,-5.462,0.138,152.096,0.148,53,Future
+HNDRXX,6,2qwn6whaZf7gax7SaqUZSC,Incredible,spotify:track:2qwn6whaZf7gax7SaqUZSC,0.0634,0.79,0.438,0,0.1,-6.462,0.133,90.022,0.247,59,Future
+HNDRXX,7,31suvgK8vvhfVXyEa2JpH8,Testify,spotify:track:31suvgK8vvhfVXyEa2JpH8,0.212,0.681,0.524,2.13E-06,0.112,-7.47,0.327,96.183,0.15,50,Future
+HNDRXX,8,0knX1FaKl445Hej9Tjj07N,Fresh Air,spotify:track:0knX1FaKl445Hej9Tjj07N,0.0223,0.817,0.526,0,0.192,-7.426,0.127,125.014,0.419,52,Future
+HNDRXX,9,4Q40ZOINE8zsLJE3pWIqix,Neva Missa Lost,spotify:track:4Q40ZOINE8zsLJE3pWIqix,0.271,0.747,0.492,1.11E-05,0.263,-8.399,0.11,124.87,0.189,49,Future
+HNDRXX,10,1j703cUWGLGtl3n41HI3Hx,Keep Quiet,spotify:track:1j703cUWGLGtl3n41HI3Hx,0.0292,0.815,0.528,0,0.0896,-7.414,0.12,133.981,0.198,47,Future
+HNDRXX,11,7IeHIGriFrJaTeaC4W0a8W,Hallucinating,spotify:track:7IeHIGriFrJaTeaC4W0a8W,0.365,0.787,0.492,2.47E-05,0.239,-6.574,0.256,130.016,0.241,59,Future
+HNDRXX,12,3cq1t3pSjD7vt0n17g4mVm,I Thank U,spotify:track:3cq1t3pSjD7vt0n17g4mVm,0.0862,0.858,0.574,1.24E-06,0.132,-7.664,0.216,130.072,0.329,48,Future
+HNDRXX,13,0qH1jbTUbpCxZE7AMkjApD,New Illuminati,spotify:track:0qH1jbTUbpCxZE7AMkjApD,0.0182,0.904,0.715,0.000707,0.215,-6.509,0.285,140.001,0.625,46,Future
+HNDRXX,14,4j9G1hsYMHg3n6OBG8AQFS,Turn On Me,spotify:track:4j9G1hsYMHg3n6OBG8AQFS,0.231,0.729,0.384,0,0.115,-9.662,0.131,126.982,0.3,53,Future
+HNDRXX,15,6yHkPtl6UQ7RjtJLBPzbJw,Selfish (feat. Rihanna),spotify:track:6yHkPtl6UQ7RjtJLBPzbJw,0.0303,0.415,0.369,7.64E-06,0.383,-10.044,0.0741,95.746,0.0913,63,Future
+HNDRXX,16,4lH6nENd1y81jp7Yt9lTBX,Solo,spotify:track:4lH6nENd1y81jp7Yt9lTBX,0.0538,0.784,0.486,0.497,0.101,-6.497,0.0475,110.964,0.0894,67,Future
+HNDRXX,17,4CPsMAG28OgzzDk1DcOtBx,Sorry,spotify:track:4CPsMAG28OgzzDk1DcOtBx,0.428,0.87,0.531,0,0.0798,-6.471,0.0992,100.01,0.315,57,Future
+HNDRXX,18,5FsJ8AUxW1KBypdhFvbdkd,PIE (feat. Chris Brown),spotify:track:5FsJ8AUxW1KBypdhFvbdkd,0.144,0.755,0.6,0,0.117,-6.431,0.309,155.982,0.652,59,Future
+HNDRXX,19,4AFgK4wP1iD5i8BYaLr9Vf,You Da Baddest (feat. Nicki Minaj),spotify:track:4AFgK4wP1iD5i8BYaLr9Vf,0.109,0.807,0.736,0.00729,0.104,-6.748,0.151,154.023,0.54,59,Future

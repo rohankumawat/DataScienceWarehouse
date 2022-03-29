@@ -1,0 +1,28 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Soul Searching,1,17GbCAyjyXNvFBAgXrwzvu,Humble Beginnings,spotify:track:17GbCAyjyXNvFBAgXrwzvu,0.292,0.732,0.642,0,0.653,-6.572,0.0485,111.997,0.215,48,Bazzi
+Soul Searching,2,6Zk5sNLpRnZRbDjOBgkyiD,Soul Searching,spotify:track:6Zk5sNLpRnZRbDjOBgkyiD,0.229,0.748,0.482,0,0.146,-8.253,0.143,81.995,0.401,53,Bazzi
+Soul Searching,3,2FqqVHvC4eKrsk97vpMRid,Focus (feat. 21 Savage),spotify:track:2FqqVHvC4eKrsk97vpMRid,0.00694,0.752,0.703,0,0.143,-5.268,0.0969,77.021,0.538,69,Bazzi
+Soul Searching,4,0yYwS7CXKIPC4kWPvZQfsT,No Way!,spotify:track:0yYwS7CXKIPC4kWPvZQfsT,0.174,0.665,0.709,0,0.142,-4.117,0.0407,76.058,0.357,59,Bazzi
+Soul Searching,5,5mkLYZuYpxlaZD6r2B0HZR,Conversations with Myself,spotify:track:5mkLYZuYpxlaZD6r2B0HZR,0.663,0.584,0.331,0,0.232,-13.037,0.402,96.401,0.337,44,Bazzi
+Soul Searching,6,4zYSbuAuRUlHPfTItmwLvs,Fallin (feat. 6LACK),spotify:track:4zYSbuAuRUlHPfTItmwLvs,0.176,0.784,0.594,0,0.379,-5.996,0.0458,136.986,0.206,53,Bazzi
+Soul Searching,7,5Kn75xmVIB3zqj3NGpr97C,Can We Go Back to Bed?,spotify:track:5Kn75xmVIB3zqj3NGpr97C,0.258,0.792,0.584,0,0.362,-8.856,0.288,80.966,0.15,46,Bazzi
+Soul Searching,8,3QDnzbpwnVPhx314RDZotp,Live Forever,spotify:track:3QDnzbpwnVPhx314RDZotp,0.243,0.572,0.664,2.42E-05,0.0614,-5.498,0.061,169.822,0.539,45,Bazzi
+Soul Searching,9,4a6q8CR2hzLk2plDkSxkfD,I.F.L.Y.,spotify:track:4a6q8CR2hzLk2plDkSxkfD,0.379,0.812,0.519,0,0.13,-4.823,0.0385,104.954,0.554,80,Bazzi
+Soul Searching,10,0Rx0DJI556Ix5gBny6EWmn,Paradise,spotify:track:0Rx0DJI556Ix5gBny6EWmn,0.0828,0.844,0.644,0,0.113,-6.273,0.0479,122.061,0.591,80,Bazzi
+Soul Searching,11,5g1esgsLugGgd6zhhYiSqy,Who Am I?,spotify:track:5g1esgsLugGgd6zhhYiSqy,0.523,0.586,0.513,0,0.177,-6.347,0.0336,88.007,0.215,48,Bazzi
+COSMIC,1,6fZpcVRr45Z6fLtciswBBU,Dreams,spotify:track:6fZpcVRr45Z6fLtciswBBU,0.583,0.663,0.666,3.85E-06,0.222,-5.441,0.125,159.983,0.605,65,Bazzi
+COSMIC,2,4pabDIdwjv80lbsx7XcNwZ,Soarin,spotify:track:4pabDIdwjv80lbsx7XcNwZ,0.0635,0.45,0.674,0,0.381,-5.268,0.0332,76.882,0.211,57,Bazzi
+COSMIC,3,5YLHLxoZsodDWjqSgjhBf3,Myself,spotify:track:5YLHLxoZsodDWjqSgjhBf3,0.465,0.745,0.561,1.12E-06,0.0338,-5.513,0.072,195.918,0.902,73,Bazzi
+COSMIC,4,2JuIs3XJlYPy8vBO66CEkJ,Star,spotify:track:2JuIs3XJlYPy8vBO66CEkJ,0.3,0.694,0.389,0,0.158,-5.41,0.0706,90.984,0.409,63,Bazzi
+COSMIC,5,7lozLnUfzcgEpMMVQI7yhA,Why,spotify:track:7lozLnUfzcgEpMMVQI7yhA,0.353,0.676,0.67,0,0.103,-6.584,0.0374,113.01,0.54,75,Bazzi
+COSMIC,6,6pmZMP2ET1OJi5rKfLO8jD,03:15,spotify:track:6pmZMP2ET1OJi5rKfLO8jD,0.385,0.651,0.654,0,0.181,-5.481,0.0466,141.975,0.539,71,Bazzi
+COSMIC,7,11Tfh16o0SW8KdiQdeESEX,Honest,spotify:track:11Tfh16o0SW8KdiQdeESEX,0.309,0.677,0.594,0,0.118,-6.264,0.0695,76.996,0.427,62,Bazzi
+COSMIC,8,2hxWNzVB1LPieCA9dU6k0P,Mirror,spotify:track:2hxWNzVB1LPieCA9dU6k0P,0.4,0.793,0.77,0,0.219,-4.403,0.0551,149.982,0.56,53,Bazzi
+COSMIC,9,0BPPXRTLzEySdF5DZm0Hmg,Gone,spotify:track:0BPPXRTLzEySdF5DZm0Hmg,0.0337,0.68,0.779,4.02E-06,0.112,-5.834,0.0532,91.963,0.355,54,Bazzi
+COSMIC,10,1i36kkhmhBxf4lYJscg5zK,Fantasy,spotify:track:1i36kkhmhBxf4lYJscg5zK,0.154,0.699,0.668,3.20E-06,0.362,-4.272,0.0336,144.105,0.314,79,Bazzi
+COSMIC,11,6LVsIWAAQwGjHMv7SOQjnY,BRB,spotify:track:6LVsIWAAQwGjHMv7SOQjnY,0.523,0.66,0.616,0,0.391,-4.753,0.0333,138.942,0.536,54,Bazzi
+COSMIC,12,2v6zKkf71lJYTHOmsKo02e,Cartier,spotify:track:2v6zKkf71lJYTHOmsKo02e,0.243,0.481,0.547,0,0.521,-5.894,0.349,91.019,0.457,58,Bazzi
+COSMIC,13,5TVirkSwFEXF1nLJEebe2I,Beautiful,spotify:track:5TVirkSwFEXF1nLJEebe2I,0.214,0.666,0.677,0,0.0979,-5.743,0.0326,100.014,0.178,74,Bazzi
+COSMIC,14,7uzmGiiJyRfuViKKK3lVmR,Mine,spotify:track:7uzmGiiJyRfuViKKK3lVmR,0.0161,0.71,0.789,2.77E-06,0.451,-3.874,0.0722,142.929,0.717,80,Bazzi
+COSMIC,15,6k7o3KrLtM6xfcszKVVNrZ,Changed,spotify:track:6k7o3KrLtM6xfcszKVVNrZ,0.226,0.852,0.635,0.000321,0.111,-5.065,0.0418,122.005,0.088,55,Bazzi
+COSMIC,16,0spaxhg6lGn0rOGCH5I0LS,Somebody,spotify:track:0spaxhg6lGn0rOGCH5I0LS,0.345,0.49,0.743,0,0.183,-4.201,0.0915,99.158,0.137,52,Bazzi

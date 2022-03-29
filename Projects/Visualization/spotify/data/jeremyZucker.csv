@@ -1,0 +1,44 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+CRUSHER,1,5Ce2uuguJIWLN332NTq8l7,i-70,spotify:track:5Ce2uuguJIWLN332NTq8l7,0.0232,0.662,0.665,9.52E-05,0.0367,-7.03,0.0587,166.01,0.799,55,Jeremy Zucker
+CRUSHER,2,1hmcogF6Lz6QqiibEZqXjQ,Deep end,spotify:track:1hmcogF6Lz6QqiibEZqXjQ,0.185,0.836,0.552,9.77E-06,0.315,-6.034,0.131,145.029,0.673,62,Jeremy Zucker
+CRUSHER,3,46LAHXpuIUZ5kR7AyQ1qmd,Cry with you,spotify:track:46LAHXpuIUZ5kR7AyQ1qmd,0.489,0.516,0.323,4.82E-06,0.189,-9.688,0.0716,159.861,0.386,58,Jeremy Zucker
+CRUSHER,4,7HK7IsqsiOk4LQSpBZ0Hq3,I can't look at you,spotify:track:7HK7IsqsiOk4LQSpBZ0Hq3,0.00552,0.731,0.608,0.000388,0.103,-8.876,0.0359,96,0.305,52,Jeremy Zucker
+CRUSHER,5,6OcWZzb75imvzv1HrCYXiq,When i'm around,spotify:track:6OcWZzb75imvzv1HrCYXiq,0.6,0.679,0.306,0.0321,0.121,-16.428,0.0502,75.995,0.425,47,Jeremy Zucker
+CRUSHER,6,4AlIVxkLsxGiRxxqxHpvb5,Therapist,spotify:track:4AlIVxkLsxGiRxxqxHpvb5,0.0307,0.657,0.757,4.93E-06,0.098,-6.196,0.032,139.958,0.906,56,Jeremy Zucker
+CRUSHER,7,4bJM6SNVyvzgcJR0f5QtYo,Sex & cigarettes,spotify:track:4bJM6SNVyvzgcJR0f5QtYo,0.281,0.532,0.436,0.000143,0.458,-9.996,0.0844,84.892,0.511,53,Jeremy Zucker
+CRUSHER,8,650OnBWs9kATgVIFEhVdQg,HONEST,spotify:track:650OnBWs9kATgVIFEhVdQg,0.134,0.754,0.617,0,0.101,-7.233,0.129,100.057,0.8,51,Jeremy Zucker
+CRUSHER,9,1No2CqopteR18XVL4RJHNO,18,spotify:track:1No2CqopteR18XVL4RJHNO,0.0445,0.783,0.599,0,0.108,-5.688,0.0441,113.97,0.611,58,Jeremy Zucker
+CRUSHER,10,4DAcGCqgdTk02tDMx92sfx,Sociopath,spotify:track:4DAcGCqgdTk02tDMx92sfx,0.482,0.596,0.467,0,0.255,-9.991,0.0337,140.031,0.306,60,Jeremy Zucker
+CRUSHER,11,3zz8HUCC8QuP6yPnTKunYt,"Don't come over, i'm an a**hole",spotify:track:3zz8HUCC8QuP6yPnTKunYt,0.121,0.656,0.627,0.0111,0.135,-8.981,0.0466,91.972,0.237,47,Jeremy Zucker
+CRUSHER,12,520k3n0rxcCBZypLNJYxqU,No one hates you (like i do),spotify:track:520k3n0rxcCBZypLNJYxqU,0.00858,0.631,0.42,0.314,0.101,-8.034,0.0356,140.103,0.166,48,Jeremy Zucker
+brent: live from the internet,1,7msryUKEvrdXkWXlc3kQHb,this is how you fall in love - live from the internet,spotify:track:7msryUKEvrdXkWXlc3kQHb,0.789,0.408,0.208,0,0.161,-12.39,0.0542,74.26,0.279,42,Jeremy Zucker
+brent: live from the internet,2,08b6kgunplTM3or5fFqKnn,please - live from the internet,spotify:track:08b6kgunplTM3or5fFqKnn,0.745,0.612,0.303,0.00045,0.174,-12.142,0.0261,97.971,0.269,46,Jeremy Zucker
+brent: live from the internet,3,42KIGrDfaw6gAaVhVn4oQg,parent song - live from the internet,spotify:track:42KIGrDfaw6gAaVhVn4oQg,0.759,0.606,0.365,0,0.348,-10.736,0.0308,95.944,0.185,39,Jeremy Zucker
+brent: live from the internet,4,3aHFzz6nnlhhgk2dX1pf2g,the stars - live from the internet,spotify:track:3aHFzz6nnlhhgk2dX1pf2g,0.528,0.607,0.385,0.0046,0.292,-11.469,0.0335,123.864,0.154,38,Jeremy Zucker
+brent: live from the internet,5,5bOJhUvSnyXiqXcEFW3ezK,brooklyn boy - live from the internet,spotify:track:5bOJhUvSnyXiqXcEFW3ezK,0.876,0.461,0.22,3.81E-05,0.414,-13.967,0.065,127.717,0.341,37,Jeremy Zucker
+brent: live from the internet,6,7r5aDh1HfrtMd4gQfYSYev,better off - live from the internet,spotify:track:7r5aDh1HfrtMd4gQfYSYev,0.881,0.559,0.268,8.52E-06,0.156,-12.88,0.0284,90.035,0.498,38,Jeremy Zucker
+brent: live from the internet,7,4nFCtEWoVY2lwTppKruLgJ,our lovely band <3 - live from the internet,spotify:track:4nFCtEWoVY2lwTppKruLgJ,0.337,0.586,0.231,0.000257,0.278,-15.43,0.115,83.566,0.567,32,Jeremy Zucker
+brent: live from the internet,8,3sh6CHB3JEhoIZX2MlGXuv,emily - live from the internet,spotify:track:3sh6CHB3JEhoIZX2MlGXuv,0.695,0.335,0.399,5.22E-06,0.164,-8.677,0.0406,155.953,0.249,41,Jeremy Zucker
+brent: live from the internet,9,6P1kBUMgugXkgQKgODngfs,you were good to me - live from the internet,spotify:track:6P1kBUMgugXkgQKgODngfs,0.898,0.413,0.101,1.65E-05,0.104,-13.505,0.034,101.59,0.2,38,Jeremy Zucker
+brent: live from the internet,10,6iJ8iSSR7AdYJ2O1ctXEgH,thank you - live from the internet,spotify:track:6iJ8iSSR7AdYJ2O1ctXEgH,0.558,0.792,0.39,0,0.784,-16.771,0.938,60.662,0.421,31,Jeremy Zucker
+love is not dying,1,11bLln5Po79dvNwSsNPvBE,still,spotify:track:11bLln5Po79dvNwSsNPvBE,0.39,0.267,0.364,0.985,0.323,-14.834,0.047,131.048,0.0384,43,Jeremy Zucker
+love is not dying,2,5JDtA0J56rwLQz5g9lWoCM,"we're fucked, it's fine",spotify:track:5JDtA0J56rwLQz5g9lWoCM,0.932,0.558,0.268,0.00293,0.108,-14.861,0.0316,139.859,0.19,52,Jeremy Zucker
+love is not dying,3,5bP2w6Jfk5L44Mf2vqxhAl,somebody loves you,spotify:track:5bP2w6Jfk5L44Mf2vqxhAl,0.323,0.745,0.57,4.02E-05,0.119,-7.748,0.188,95.012,0.709,56,Jeremy Zucker
+love is not dying,4,1rdvIwYa88DMsEMFfFSK3d,orchid,spotify:track:1rdvIwYa88DMsEMFfFSK3d,0.731,0.421,0.173,0.00271,0.323,-14.514,0.0495,101.929,0.39,49,Jeremy Zucker
+love is not dying,5,72jQMLt6LzfpNv80YjP2CF,lakehouse,spotify:track:72jQMLt6LzfpNv80YjP2CF,0.438,0.634,0.293,9.36E-06,0.101,-9.446,0.11,120.171,0.654,47,Jeremy Zucker
+love is not dying,6,7vqILM9oj8ZQI0QU7OAkbm,good for her,spotify:track:7vqILM9oj8ZQI0QU7OAkbm,0.899,0.428,0.08,0.0854,0.113,-24.09,0.0363,35.234,0.169,44,Jeremy Zucker
+love is not dying,7,2b2LUjMx9LKwIARJf93Rbd,not ur friend,spotify:track:2b2LUjMx9LKwIARJf93Rbd,0.301,0.778,0.313,0,0.667,-9.288,0.421,68.936,0.707,66,Jeremy Zucker
+love is not dying,8,0bWcT3zU9v9RBAC5gUN7DP,full stop,spotify:track:0bWcT3zU9v9RBAC5gUN7DP,0.852,0.387,0.295,0.00013,0.0928,-9.444,0.0354,133.647,0.138,50,Jeremy Zucker
+love is not dying,9,4wJaoAVSc8X5rBhmoGdtvp,julia,spotify:track:4wJaoAVSc8X5rBhmoGdtvp,0.74,0.541,0.308,6.43E-06,0.0949,-10.059,0.0577,130.016,0.172,57,Jeremy Zucker
+love is not dying,10,5kHvUNjWJR6DtSVaaYlJ2Z,hell or flying,spotify:track:5kHvUNjWJR6DtSVaaYlJ2Z,0.932,0.549,0.132,0.00065,0.0816,-17.102,0.0345,139.781,0.296,53,Jeremy Zucker
+love is not dying,11,0rbKrBvZUYY9GN9l057BuY,"always, i'll care",spotify:track:0rbKrBvZUYY9GN9l057BuY,0.897,0.732,0.221,2.62E-05,0.11,-12.623,0.056,105.165,0.677,77,Jeremy Zucker
+love is not dying,12,1O8vpEdbI6QuACT3M0VaTx,brooks,spotify:track:1O8vpEdbI6QuACT3M0VaTx,0.87,0.463,0.283,0.162,0.114,-13.648,0.0401,73.988,0.101,41,Jeremy Zucker
+love is not dying,13,3dT28suh6dzuW7qF79Nf4F,"oh, mexico",spotify:track:3dT28suh6dzuW7qF79Nf4F,0.874,0.558,0.35,0.246,0.378,-13.244,0.0839,78.045,0.376,60,Jeremy Zucker
+Motions,1,5zEGGvSNvq69CttD8hECQu,Heavy,spotify:track:5zEGGvSNvq69CttD8hECQu,0.229,0.911,0.415,8.09E-05,0.112,-8.784,0.0615,102.011,0.803,42,Jeremy Zucker
+Motions,2,2XbcltKrNtMSdVjaoFYVfO,Keep My Head Afloat,spotify:track:2XbcltKrNtMSdVjaoFYVfO,0.0228,0.805,0.544,2.37E-05,0.049,-8.034,0.121,108.124,0.83,46,Jeremy Zucker
+Motions,3,2mSrVZsSKn2Ye5f0YuAbMh,Idk Love,spotify:track:2mSrVZsSKn2Ye5f0YuAbMh,0.778,0.75,0.431,0,0.132,-10.093,0.312,124.088,0.554,58,Jeremy Zucker
+Motions,4,5rMj5GEHELIWCoKIVoqhoB,Sinking,spotify:track:5rMj5GEHELIWCoKIVoqhoB,0.201,0.745,0.349,0,0.338,-8.636,0.0389,109.076,0.765,43,Jeremy Zucker
+Motions,5,6lY38FkInSA0QVHRb1PiEy,Shut Your Mouth,spotify:track:6lY38FkInSA0QVHRb1PiEy,0.334,0.748,0.405,2.64E-05,0.121,-8.926,0.194,171.967,0.684,42,Jeremy Zucker
+Motions,6,60cWtMENrHp27WCevWGyya,Stay Quiet,spotify:track:60cWtMENrHp27WCevWGyya,0.616,0.623,0.444,0,0.108,-9.297,0.0694,132.074,0.148,40,Jeremy Zucker
+Motions,7,1Y3gHno5oVeBYk2YOccgX2,Man Down,spotify:track:1Y3gHno5oVeBYk2YOccgX2,0.822,0.584,0.311,0,0.261,-9.483,0.0535,128.027,0.55,44,Jeremy Zucker
+Motions,8,3vzT5SNVL3vaDeAgnG9QhF,Upside Down,spotify:track:3vzT5SNVL3vaDeAgnG9QhF,0.688,0.666,0.404,0,0.198,-10.246,0.386,73.6,0.765,46,Jeremy Zucker

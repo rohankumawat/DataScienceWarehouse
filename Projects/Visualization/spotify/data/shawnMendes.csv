@@ -1,0 +1,104 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Wonder (Deluxe),15,0fwxmtpxpMmEMphmJbCAEx,The Christmas Song (Shawn Mendes & Camila Cabello),spotify:track:0fwxmtpxpMmEMphmJbCAEx,0.888,0.341,0.181,0,0.137,-12.073,0.0366,83.608,0.212,53,Shawn Mendes
+Wonder (Deluxe),17,5Qm1n9Xa2kPlHuDJ3I4MHP,Wonder - Acoustic,spotify:track:5Qm1n9Xa2kPlHuDJ3I4MHP,0.528,0.479,0.4,1.53E-06,0.0759,-6.857,0.032,139.358,0.243,55,Shawn Mendes
+Wonder (Deluxe),18,6V7E9bDZaKUfFcfiScXaCc,Wonder - Surf Mesa Remix,spotify:track:6V7E9bDZaKUfFcfiScXaCc,0.00857,0.574,0.721,0,0.106,-4.363,0.158,127.959,0.189,51,Shawn Mendes
+Wonder (Deluxe),19,4V9QfQ60zTI0K9b47q5xhD,Intro - Live From The Wonder Residencies,spotify:track:4V9QfQ60zTI0K9b47q5xhD,0.56,0.496,0.287,6.98E-06,0.326,-10.734,0.0344,76.317,0.534,41,Shawn Mendes
+Wonder (Deluxe),20,15O0R9fSfee5265f4HJtc8,Wonder - Live From The Wonder Residencies,spotify:track:15O0R9fSfee5265f4HJtc8,0.0283,0.386,0.582,8.65E-06,0.0658,-6.376,0.0545,139.794,0.189,42,Shawn Mendes
+Wonder (Deluxe),21,0Op5C10jE2bgzg1HlH3EWD,Dream - Live From The Wonder Residencies,spotify:track:0Op5C10jE2bgzg1HlH3EWD,0.175,0.454,0.557,0.0187,0.0754,-7.344,0.0286,139.856,0.218,42,Shawn Mendes
+Wonder (Deluxe),22,56J9mRiY3Dyb22XaJ4qSTR,Song For No One - Live From The Wonder Residencies,spotify:track:56J9mRiY3Dyb22XaJ4qSTR,0.209,0.324,0.381,1.79E-05,0.115,-8.421,0.0323,102.58,0.172,42,Shawn Mendes
+Wonder (Deluxe),23,0UCPNZvlmEin3nKUm0rUEX,Always Been You - Live From The Wonder Residencies,spotify:track:0UCPNZvlmEin3nKUm0rUEX,0.134,0.285,0.403,3.01E-06,0.092,-8.182,0.0377,93.919,0.157,42,Shawn Mendes
+Wonder (Deluxe),24,02DjXXbHJpQZhBq7zNPLBW,Look Up At The Stars - Live From The Wonder Residencies,spotify:track:02DjXXbHJpQZhBq7zNPLBW,0.0453,0.349,0.549,7.24E-06,0.0994,-7.361,0.0353,167.843,0.22,43,Shawn Mendes
+Wonder (Holiday Deluxe),16,1MpmApLaUCZiWPH7gLOepR,Can’t Take My Eyes Off You - BBC Live Version,spotify:track:1MpmApLaUCZiWPH7gLOepR,0.248,0.377,0.298,0,0.181,-8.687,0.0492,71.1,0.197,52,Shawn Mendes
+Wonder,1,138oQeapLds5IeJrdRfeUd,Intro,spotify:track:138oQeapLds5IeJrdRfeUd,0.933,0.498,0.199,0.000573,0.493,-11.011,0.0353,76.046,0.47,59,Shawn Mendes
+Wonder,2,6ZuahEctZD6w75peme58hm,Wonder,spotify:track:6ZuahEctZD6w75peme58hm,0.136,0.442,0.631,2.29E-05,0.133,-5.096,0.05,139.774,0.129,77,Shawn Mendes
+Wonder,3,7nuQ1LgM6l5FLaJmlODoqj,Higher,spotify:track:7nuQ1LgM6l5FLaJmlODoqj,0.0167,0.748,0.783,1.58E-05,0.314,-4.419,0.0558,120.049,0.935,62,Shawn Mendes
+Wonder,4,385VOmGbguaPG57TgoW8Lh,24 Hours,spotify:track:385VOmGbguaPG57TgoW8Lh,0.488,0.351,0.368,0.00603,0.124,-8.132,0.0557,84.224,0.362,61,Shawn Mendes
+Wonder,5,5LZtB6nxvjIhUoElp3Zqk0,Teach Me How To Love,spotify:track:5LZtB6nxvjIhUoElp3Zqk0,0.0505,0.592,0.885,2.38E-06,0.0843,-4.944,0.0807,98.991,0.731,71,Shawn Mendes
+Wonder,6,6KVxMOxlSYpC5nrvyWhYhx,Call My Friends,spotify:track:6KVxMOxlSYpC5nrvyWhYhx,0.0512,0.53,0.79,1.07E-06,0.122,-5.031,0.0344,146.09,0.438,59,Shawn Mendes
+Wonder,7,0bZFa5DZcx9HWx25m2Nd19,Dream,spotify:track:0bZFa5DZcx9HWx25m2Nd19,0.539,0.492,0.672,0.000212,0.116,-6.779,0.0366,140.027,0.229,60,Shawn Mendes
+Wonder,8,2LUOkrWpTz1q5QeZY5jAHi,Song For No One,spotify:track:2LUOkrWpTz1q5QeZY5jAHi,0.0867,0.328,0.393,9.54E-05,0.104,-5.164,0.0285,96.241,0.237,57,Shawn Mendes
+Wonder,9,1HbA4N1MiOsPthALesGFR1,Monster (Shawn Mendes & Justin Bieber),spotify:track:1HbA4N1MiOsPthALesGFR1,0.0593,0.64,0.392,0,0.0839,-7.246,0.0574,145.838,0.502,75,Shawn Mendes
+Wonder,10,5ld8E3DVBXCCWQ54yrkWVp,305,spotify:track:5ld8E3DVBXCCWQ54yrkWVp,0.205,0.562,0.869,0.0293,0.122,-5.38,0.058,164.936,0.928,65,Shawn Mendes
+Wonder,11,56KDoLjFIm7Yc7fX1XgpNw,Always Been You,spotify:track:56KDoLjFIm7Yc7fX1XgpNw,0.229,0.37,0.39,0,0.0823,-6.958,0.0419,124.802,0.309,61,Shawn Mendes
+Wonder,12,5jpNBhgAk5OmfB0W5i5NaO,Piece Of You,spotify:track:5jpNBhgAk5OmfB0W5i5NaO,0.0147,0.757,0.628,0,0.05,-3.944,0.077,100.004,0.609,60,Shawn Mendes
+Wonder,13,0UauNGiFTVXTsgvVz6LBMf,Look Up At The Stars,spotify:track:0UauNGiFTVXTsgvVz6LBMf,0.0576,0.359,0.585,0,0.194,-4.722,0.0374,168.026,0.447,62,Shawn Mendes
+Wonder,14,2GwberkV36NoC5snp51cLC,Can’t Imagine,spotify:track:2GwberkV36NoC5snp51cLC,0.849,0.412,0.162,2.16E-06,0.354,-14.356,0.146,179.63,0.375,56,Shawn Mendes
+Shawn Mendes (Deluxe),1,6v3KW9xbzN5yKLt9YKDYA2,Señorita,spotify:track:6v3KW9xbzN5yKLt9YKDYA2,0.0392,0.759,0.548,0,0.0828,-6.049,0.029,116.967,0.749,83,Shawn Mendes
+Shawn Mendes (Deluxe),3,2bT1PH7Cw3J9p3t7nlXCdh,If I Can't Have You,spotify:track:2bT1PH7Cw3J9p3t7nlXCdh,0.487,0.691,0.823,0,0.134,-4.197,0.0623,123.935,0.87,76,Shawn Mendes
+Shawn Mendes,1,2QZ7WLBE8h2y1Y5Fb8RYbH,In My Blood,spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH,0.0573,0.622,0.712,0,0.13,-7.321,0.066,140.025,0.487,79,Shawn Mendes
+Shawn Mendes,2,5EYBryPOgIEPB7r5QIy6eG,Fallin' All In You,spotify:track:5EYBryPOgIEPB7r5QIy6eG,0.405,0.853,0.476,0,0.111,-6.696,0.0361,92.038,0.796,77,Shawn Mendes
+Shawn Mendes,3,376Gg7Oxo5C5jUWDWpVXeI,Where Were You In The Morning?,spotify:track:376Gg7Oxo5C5jUWDWpVXeI,0.554,0.716,0.519,0,0.0993,-7.472,0.0554,87.963,0.466,66,Shawn Mendes
+Shawn Mendes,4,5wxurz8J6YlyQRNnGN8zXS,Nervous,spotify:track:5wxurz8J6YlyQRNnGN8zXS,0.0404,0.841,0.623,0,0.126,-6.76,0.0776,121.983,0.744,65,Shawn Mendes
+Shawn Mendes,5,2IssBpPtHcViZL5vYQNHhA,Like To Be You (feat. Julia Michaels),spotify:track:2IssBpPtHcViZL5vYQNHhA,0.812,0.737,0.451,0,0.108,-9.405,0.229,153.766,0.664,65,Shawn Mendes
+Shawn Mendes,6,79esEXlqqmq0GPz0xQSZTV,Lost In Japan,spotify:track:79esEXlqqmq0GPz0xQSZTV,0.255,0.713,0.738,0,0.106,-6.784,0.374,105.027,0.425,76,Shawn Mendes
+Shawn Mendes,7,4BH9zDv1Ys6kw0j3lU1hTx,Particular Taste,spotify:track:4BH9zDv1Ys6kw0j3lU1hTx,0.0365,0.968,0.352,0.000103,0.0677,-7.122,0.121,111.968,0.599,60,Shawn Mendes
+Shawn Mendes,8,1RRZSm4akqNyMOsPUhw4cb,Because I Had You,spotify:track:1RRZSm4akqNyMOsPUhw4cb,0.331,0.559,0.337,0,0.311,-9.751,0.404,203.231,0.705,64,Shawn Mendes
+Shawn Mendes,9,3XeqINnregzwBJNg7RyyH4,Why,spotify:track:3XeqINnregzwBJNg7RyyH4,0.648,0.689,0.416,1.64E-06,0.0637,-9.247,0.0494,127.031,0.248,63,Shawn Mendes
+Shawn Mendes,10,1h0yImRPIVAjhhHeNVlTuC,Youth (feat. Khalid),spotify:track:1h0yImRPIVAjhhHeNVlTuC,0.56,0.534,0.596,0,0.133,-6.653,0.117,100.121,0.324,70,Shawn Mendes
+Shawn Mendes,11,6D8FZWtCQRtQUVT3mpjrZs,Queen,spotify:track:6D8FZWtCQRtQUVT3mpjrZs,0.197,0.878,0.688,0,0.0872,-7.254,0.11,131.02,0.917,59,Shawn Mendes
+Shawn Mendes,12,6nat4Z7iRKWVk1qngQqI0Q,Perfectly Wrong,spotify:track:6nat4Z7iRKWVk1qngQqI0Q,0.872,0.361,0.311,0,0.0987,-11.748,0.0369,89.362,0.323,71,Shawn Mendes
+Shawn Mendes,13,5gW3kI83886nVV9apaFLWu,Mutual,spotify:track:5gW3kI83886nVV9apaFLWu,0.254,0.919,0.478,0,0.134,-6.697,0.156,115.03,0.799,62,Shawn Mendes
+Shawn Mendes,14,6bNcbh4SxQDU0BHa4Dj3wx,When You're Ready,spotify:track:6bNcbh4SxQDU0BHa4Dj3wx,0.792,0.485,0.476,0,0.113,-8.887,0.128,171.479,0.601,62,Shawn Mendes
+MTV Unplugged,1,14Zkkd1eYP3pcNPwLAZikf,There's Nothing Holdin' Me Back - MTV Unplugged,spotify:track:14Zkkd1eYP3pcNPwLAZikf,0.172,0.698,0.699,0,0.952,-6.926,0.0458,122.009,0.701,48,Shawn Mendes
+MTV Unplugged,2,61TivQuQq2YGmEI5BANLdg,Ruin - MTV Unplugged,spotify:track:61TivQuQq2YGmEI5BANLdg,0.416,0.472,0.471,4.22E-05,0.105,-8.525,0.0346,119.884,0.371,41,Shawn Mendes
+MTV Unplugged,3,3t40W5kFgs4jQKtdRMxUwK,Stitches - MTV Unplugged,spotify:track:3t40W5kFgs4jQKtdRMxUwK,0.895,0.502,0.329,1.39E-06,0.603,-9.782,0.0402,140.967,0.374,53,Shawn Mendes
+MTV Unplugged,4,2XQAQOk3XY532aLFbsszAv,Three Empty Words - MTV Unplugged,spotify:track:2XQAQOk3XY532aLFbsszAv,0.842,0.477,0.298,0,0.676,-14.081,0.0547,95.137,0.53,41,Shawn Mendes
+MTV Unplugged,5,6el8c1BKy4DmlJ1ysLzj1x,Patience - MTV Unplugged,spotify:track:6el8c1BKy4DmlJ1ysLzj1x,0.684,0.475,0.393,0,0.652,-10.265,0.0379,92.105,0.496,43,Shawn Mendes
+MTV Unplugged,6,6BmfYAMhPcgnJQhvzJf5AQ,Bad Reputation - MTV Unplugged,spotify:track:6BmfYAMhPcgnJQhvzJf5AQ,0.247,0.268,0.6,2.75E-05,0.96,-7.169,0.0353,147.489,0.202,48,Shawn Mendes
+MTV Unplugged,7,2xnrvYaSepdVbgRTemCnLJ,Don't Be A Fool - MTV Unplugged,spotify:track:2xnrvYaSepdVbgRTemCnLJ,0.72,0.307,0.349,0,0.34,-10.059,0.0431,174.877,0.167,47,Shawn Mendes
+MTV Unplugged,8,4gyEiCJUp7MQJrErW5RWkt,Roses - MTV Unplugged,spotify:track:4gyEiCJUp7MQJrErW5RWkt,0.79,0.372,0.322,0,0.357,-11.229,0.0353,146.676,0.468,45,Shawn Mendes
+MTV Unplugged,9,0aYiHY23R26QRo0WMlHCEr,Mercy - MTV Unplugged,spotify:track:0aYiHY23R26QRo0WMlHCEr,0.629,0.327,0.515,0,0.712,-7.602,0.0438,144.143,0.281,44,Shawn Mendes
+MTV Unplugged,10,06ggTkDnt99KsehdFyibx3,Never Be Alone - MTV Unplugged,spotify:track:06ggTkDnt99KsehdFyibx3,0.839,0.275,0.198,5.64E-05,0.575,-13.168,0.033,93.153,0.116,47,Shawn Mendes
+MTV Unplugged,11,09KZB1UOYnQDGVZR2zFYYd,Use Somebody/Treat You Better - MTV Unplugged,spotify:track:09KZB1UOYnQDGVZR2zFYYd,0.436,0.328,0.54,8.15E-05,0.368,-8.061,0.0391,107.32,0.0978,55,Shawn Mendes
+Illuminate (Deluxe),1,7JJmb5XwzOO8jgpou264Ml,There's Nothing Holdin' Me Back,spotify:track:7JJmb5XwzOO8jgpou264Ml,0.38,0.866,0.813,0,0.0779,-4.063,0.0554,121.998,0.969,89,Shawn Mendes
+Illuminate (Deluxe),3,0AS63m1wHv9n4VVRizK6Hc,Mercy,spotify:track:0AS63m1wHv9n4VVRizK6Hc,0.125,0.555,0.662,0,0.111,-4.952,0.0827,148.128,0.356,83,Shawn Mendes
+Illuminate (Deluxe),5,1Tt5Leqvv6OawH2jth05Rw,Three Empty Words,spotify:track:1Tt5Leqvv6OawH2jth05Rw,0.798,0.615,0.414,0,0.135,-9.826,0.0304,95.776,0.536,60,Shawn Mendes
+Illuminate (Deluxe),6,7msCKNrI0vZw9H4MIgLnAh,Don't Be A Fool,spotify:track:7msCKNrI0vZw9H4MIgLnAh,0.596,0.473,0.339,0,0.103,-6.039,0.0364,175.264,0.265,62,Shawn Mendes
+Illuminate (Deluxe),7,3Qwd9wK176KgmorU7fCW6S,Like This,spotify:track:3Qwd9wK176KgmorU7fCW6S,0.809,0.546,0.433,0,0.122,-7.894,0.0935,77.397,0.249,59,Shawn Mendes
+Illuminate (Deluxe),8,3gnDoaJUgD9Bblzld77Kcp,No Promises,spotify:track:3gnDoaJUgD9Bblzld77Kcp,0.322,0.619,0.621,0,0.188,-6.763,0.082,101.992,0.466,61,Shawn Mendes
+Illuminate (Deluxe),9,348cSuo1eooBe21AzdjAqy,Lights On,spotify:track:348cSuo1eooBe21AzdjAqy,0.425,0.705,0.575,0,0.122,-6.353,0.0648,90.869,0.555,60,Shawn Mendes
+Illuminate (Deluxe),10,64GT5ReOko7xx6Nc7D8JsS,Honest,spotify:track:64GT5ReOko7xx6Nc7D8JsS,0.249,0.821,0.601,0,0.0637,-6.249,0.0626,116.965,0.712,60,Shawn Mendes
+Illuminate (Deluxe),11,0JZ9lcwFcAscMpy1YxUtpW,Patience,spotify:track:0JZ9lcwFcAscMpy1YxUtpW,0.107,0.553,0.571,0,0.111,-6.345,0.2,179.848,0.443,60,Shawn Mendes
+Illuminate (Deluxe),13,4IiHCtnfw8tZasAeocWqVe,Understand,spotify:track:4IiHCtnfw8tZasAeocWqVe,0.355,0.613,0.616,0,0.099,-6.33,0.39,78.996,0.102,54,Shawn Mendes
+Illuminate (Deluxe),14,66P8MvPsqu5sN0UgzLYZrf,Hold On,spotify:track:66P8MvPsqu5sN0UgzLYZrf,0.745,0.56,0.275,0,0.164,-8.599,0.0354,132.511,0.388,59,Shawn Mendes
+Illuminate (Deluxe),15,4uzUuDjoufcBXYZ27CsLIF,Roses,spotify:track:4uzUuDjoufcBXYZ27CsLIF,0.4,0.611,0.489,0,0.117,-6.771,0.0343,78.145,0.267,65,Shawn Mendes
+Illuminate (Deluxe),16,0uZnF1sn2IcNCvnyAIKNMQ,Mercy - Acoustic,spotify:track:0uZnF1sn2IcNCvnyAIKNMQ,0.712,0.458,0.347,0,0.11,-6.651,0.0381,78.928,0.431,68,Shawn Mendes
+Illuminate,2,6rKr29yPKnQNhOxXMYvE9Y,Ruin,spotify:track:6rKr29yPKnQNhOxXMYvE9Y,0.382,0.686,0.382,0,0.109,-6.68,0.0314,125.024,0.527,60,Shawn Mendes
+Illuminate,4,3QGsuHI8jO1Rx4JWLUh9jd,Treat You Better,spotify:track:3QGsuHI8jO1Rx4JWLUh9jd,0.106,0.444,0.819,0,0.107,-4.078,0.341,82.695,0.747,87,Shawn Mendes
+Illuminate,12,07A4mFpXnuUrcRIc1S8ilz,Bad Reputation,spotify:track:07A4mFpXnuUrcRIc1S8ilz,0.229,0.413,0.697,0,0.256,-5.823,0.188,150.047,0.332,63,Shawn Mendes
+Live At Madison Square Garden,1,1WURPDtFHxslqr2KPBBjfX,The Weight - Live,spotify:track:1WURPDtFHxslqr2KPBBjfX,0.422,0.345,0.82,0,0.988,-6.411,0.101,78.031,0.431,35,Shawn Mendes
+Live At Madison Square Garden,2,4LEtCNmFV5NyWcANGZC9si,Treat You Better - Live,spotify:track:4LEtCNmFV5NyWcANGZC9si,0.00518,0.276,0.841,0,0.869,-5.905,0.115,80.316,0.267,38,Shawn Mendes
+Live At Madison Square Garden,3,7gO3mCwy4yqlIHOeXALseg,Lights On - Live,spotify:track:7gO3mCwy4yqlIHOeXALseg,0.161,0.344,0.818,0,0.963,-6.693,0.0728,181.134,0.356,35,Shawn Mendes
+Live At Madison Square Garden,4,1wlwypOuLPz087A4fulyn9,I Don't Even Know Your Name / Aftertaste / Kid In Love / I Want You Back - Live Medley,spotify:track:1wlwypOuLPz087A4fulyn9,0.0692,0.385,0.79,0,0.565,-6.097,0.0522,169.856,0.468,38,Shawn Mendes
+Live At Madison Square Garden,5,2QpC5HzAaEGN5U6I4zaa77,Bad Reputation - Live,spotify:track:2QpC5HzAaEGN5U6I4zaa77,0.0969,0.25,0.769,0,0.928,-6.603,0.0532,149.812,0.194,37,Shawn Mendes
+Live At Madison Square Garden,6,4yclL1msrUAfydnmu3Fzdv,Ruin - Live,spotify:track:4yclL1msrUAfydnmu3Fzdv,0.0889,0.364,0.695,0,0.503,-6.461,0.0384,120.076,0.329,34,Shawn Mendes
+Live At Madison Square Garden,7,2H4aO4p4ko2PNk7TR92Lsk,Life Of The Party - Live,spotify:track:2H4aO4p4ko2PNk7TR92Lsk,0.68,0.391,0.542,0,0.945,-7.383,0.0332,115.636,0.458,37,Shawn Mendes
+Live At Madison Square Garden,8,30h4xTTxAhjSXxZ0UCITrB,Three Empty Words - Live,spotify:track:30h4xTTxAhjSXxZ0UCITrB,0.689,0.417,0.523,0,0.949,-8.683,0.0349,97.497,0.478,33,Shawn Mendes
+Live At Madison Square Garden,9,60AbHniERXVKAPsPoy5gGF,Don't Be A Fool - Live,spotify:track:60AbHniERXVKAPsPoy5gGF,0.256,0.489,0.658,0,0.964,-6.54,0.0353,88.125,0.207,33,Shawn Mendes
+Live At Madison Square Garden,10,4Q52hekxZoN7n4NO94IAJW,Mercy - Live,spotify:track:4Q52hekxZoN7n4NO94IAJW,0.141,0.473,0.784,0,0.828,-6.217,0.0569,148.252,0.373,37,Shawn Mendes
+Live At Madison Square Garden,11,1Q3bb5UXqAWr7Tjuno2xcq,Never Be Alone / Hey There Delilah - Live Medley,spotify:track:1Q3bb5UXqAWr7Tjuno2xcq,0.545,0.327,0.393,0,0.722,-7.995,0.0297,101.711,0.126,48,Shawn Mendes
+Live At Madison Square Garden,12,3ENMtKf4uiXt0XnUzr4FIj,Stitches - Live,spotify:track:3ENMtKf4uiXt0XnUzr4FIj,0.06,0.244,0.837,0,0.949,-5.836,0.0571,149.988,0.269,37,Shawn Mendes
+Handwritten (Revisited),4,7wL9tfGakhVgU127hcvYlc,Kid In Love - Live,spotify:track:7wL9tfGakhVgU127hcvYlc,0.247,0.264,0.842,0,0.897,-4.738,0.0527,84.356,0.507,37,Shawn Mendes
+Handwritten (Revisited),5,04AyV8JL9VTibgsba9N2b6,I Don't Even Know Your Name - Live,spotify:track:04AyV8JL9VTibgsba9N2b6,0.274,0.45,0.792,0,0.918,-4.508,0.0503,85.001,0.619,35,Shawn Mendes
+Handwritten (Revisited),7,3Ov1JEPIjyHHuLrfHKxB1R,Strings - Live,spotify:track:3Ov1JEPIjyHHuLrfHKxB1R,0.196,0.257,0.741,0,0.934,-5.042,0.0593,80.256,0.479,35,Shawn Mendes
+Handwritten (Revisited),8,0bC00iYwmrqL2FMfp8dRCd,Aftertaste - Live,spotify:track:0bC00iYwmrqL2FMfp8dRCd,0.132,0.385,0.602,0,0.616,-6.277,0.0469,114.496,0.502,36,Shawn Mendes
+Handwritten (Revisited),11,49ddt3ZdZojdwwP6f5OvsY,A Little Too Much - Live,spotify:track:49ddt3ZdZojdwwP6f5OvsY,0.277,0.439,0.524,0,0.944,-7.512,0.0322,80.339,0.564,36,Shawn Mendes
+Handwritten (Revisited),14,4hTpxQ2ddv12Owtz2GnOAz,Act Like You Love Me,spotify:track:4hTpxQ2ddv12Owtz2GnOAz,0.691,0.434,0.398,0,0.0991,-7.789,0.0508,167.657,0.299,56,Shawn Mendes
+Handwritten (Revisited),15,2ePgwid1o7NKDpUmNGC69b,Running Low,spotify:track:2ePgwid1o7NKDpUmNGC69b,0.709,0.599,0.297,3.13E-06,0.108,-9.188,0.0301,122.314,0.141,64,Shawn Mendes
+Handwritten (Revisited),16,7ekZl2me2Fjn6ywN16cvFK,Memories,spotify:track:7ekZl2me2Fjn6ywN16cvFK,0.801,0.496,0.158,0,0.268,-8.981,0.0289,107.932,0.305,64,Shawn Mendes
+Handwritten,1,14hJ5tc1VCFMWhVn9axRTC,Life Of The Party,spotify:track:14hJ5tc1VCFMWhVn9axRTC,0.0663,0.666,0.615,0,0.111,-4.995,0.0314,113.978,0.161,69,Shawn Mendes
+Handwritten,4,4Iz171BOalhbOxdlodJSJD,Kid In Love,spotify:track:4Iz171BOalhbOxdlodJSJD,0.0268,0.529,0.598,0,0.15,-7.085,0.0403,169.959,0.373,54,Shawn Mendes
+Handwritten,5,1oiwANJpaXZxYkwvLWor4f,I Don't Even Know Your Name,spotify:track:1oiwANJpaXZxYkwvLWor4f,0.0127,0.626,0.524,0,0.099,-5.944,0.0422,84.866,0.56,51,Shawn Mendes
+Handwritten,7,6eAnWf8yT7GLnUvaT0oyKN,Strings,spotify:track:6eAnWf8yT7GLnUvaT0oyKN,0.00221,0.659,0.728,0,0.251,-5.007,0.0541,78.027,0.683,51,Shawn Mendes
+Handwritten,8,3ilt7lMNflb49pEDpcZPAa,Aftertaste,spotify:track:3ilt7lMNflb49pEDpcZPAa,0.000323,0.638,0.509,0,0.0938,-5.926,0.0346,111.805,0.306,56,Shawn Mendes
+Handwritten,10,3Y9WaG78KtzydfPotu6suF,Crazy,spotify:track:3Y9WaG78KtzydfPotu6suF,0.613,0.433,0.266,0,0.109,-8.824,0.0364,157.349,0.284,48,Shawn Mendes
+Handwritten,11,1T7AiFL9ruKKwlONN35Vh0,A Little Too Much,spotify:track:1T7AiFL9ruKKwlONN35Vh0,0.473,0.451,0.507,0,0.108,-6.24,0.0316,165.76,0.564,67,Shawn Mendes
+Handwritten,12,0vW819CC45qQzi1lM9PaAg,This Is What It Takes,spotify:track:0vW819CC45qQzi1lM9PaAg,0.384,0.483,0.324,0,0.119,-6.703,0.0317,81.879,0.324,54,Shawn Mendes
+Handwritten,13,2GyA33q5rti5IxkMQemRDH,I Know What You Did Last Summer,spotify:track:2GyA33q5rti5IxkMQemRDH,0.102,0.687,0.761,0,0.147,-4.582,0.0876,113.939,0.743,77,Shawn Mendes
+Handwritten,2,3zkWCteF82vJwv0hRLba76,Stitches,spotify:track:3zkWCteF82vJwv0hRLba76,0.0152,0.746,0.754,0,0.0486,-6.684,0.0676,149.882,0.746,83,Shawn Mendes
+Handwritten,3,3BYyBzKGPOCHeginhe0F77,Never Be Alone,spotify:track:3BYyBzKGPOCHeginhe0F77,0.514,0.376,0.466,5.80E-05,0.0781,-6.927,0.0353,199.835,0.276,72,Shawn Mendes
+Handwritten,9,4d3ZlYR3rBh27OyL0MI0Jf,Air,spotify:track:4d3ZlYR3rBh27OyL0MI0Jf,0.252,0.758,0.501,0,0.191,-7.051,0.0589,78.042,0.397,50,Shawn Mendes
+Handwritten (Deluxe),13,5Ly1ifwG61OwJwR06BWRoF,Bring It Back,spotify:track:5Ly1ifwG61OwJwR06BWRoF,0.158,0.466,0.448,0,0.127,-7.173,0.0327,79.306,0.27,48,Shawn Mendes
+Handwritten (Deluxe),14,21TcDbGosp7w9YhTjOszgA,Imagination,spotify:track:21TcDbGosp7w9YhTjOszgA,0.0743,0.64,0.455,0,0.0694,-5.942,0.0247,89.948,0.333,79,Shawn Mendes
+Handwritten (Deluxe),15,3Mi8mCnvcBPdiPgmHYWEow,The Weight,spotify:track:3Mi8mCnvcBPdiPgmHYWEow,0.416,0.476,0.496,0,0.0945,-6.948,0.0368,111.355,0.333,57,Shawn Mendes
+Handwritten (Deluxe),6,2Zukohv1kW91bY2OUIXSct,Something Big,spotify:track:2Zukohv1kW91bY2OUIXSct,0.00614,0.694,0.854,0,0.158,-3.891,0.043,112.007,0.803,59,Shawn Mendes

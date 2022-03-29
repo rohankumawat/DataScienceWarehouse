@@ -1,0 +1,67 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+ANTI (Deluxe),1,6t90Z9XkdsHD8xMxro6KRP,Consideration,spotify:track:6t90Z9XkdsHD8xMxro6KRP,0.0392,0.883,0.584,4.39E-06,0.0869,-2.102,0.0465,144.975,0.784,73,Rihanna
+ANTI (Deluxe),2,6K4Co1NQyOnoFEJMkZHkln,James Joint,spotify:track:6K4Co1NQyOnoFEJMkZHkln,0.66,0.399,0.203,0.000163,0.27,-11.649,0.0298,134.202,0.405,65,Rihanna
+ANTI (Deluxe),3,0UHB9METy4VCXNgkcGqHqS,Kiss It Better,spotify:track:0UHB9METy4VCXNgkcGqHqS,0.272,0.619,0.806,0,0.0671,-4.8,0.0483,95,0.877,75,Rihanna
+ANTI (Deluxe),4,72TFWvU3wUYdUuxejTTIzt,Work,spotify:track:72TFWvU3wUYdUuxejTTIzt,0.0752,0.725,0.534,0,0.0919,-6.238,0.0946,91.974,0.558,81,Rihanna
+ANTI (Deluxe),5,4mCf3vQf7z0Yseo0RxAi3V,Desperado,spotify:track:4mCf3vQf7z0Yseo0RxAi3V,0.323,0.685,0.61,0,0.102,-5.221,0.0439,94.384,0.323,78,Rihanna
+ANTI (Deluxe),6,3HQcsqRjRdruUjkbDSgmVF,Woo,spotify:track:3HQcsqRjRdruUjkbDSgmVF,0.0546,0.42,0.466,0.00389,0.298,-5.298,0.0326,115.004,0.185,63,Rihanna
+ANTI (Deluxe),7,4pAl7FkDMNBsjykPXo91B3,Needed Me,spotify:track:4pAl7FkDMNBsjykPXo91B3,0.11,0.671,0.314,0,0.0825,-8.091,0.244,110.898,0.296,84,Rihanna
+ANTI (Deluxe),8,7eDYNlBwRMeFOZHOZ95dZ1,"Yeah, I Said It",spotify:track:7eDYNlBwRMeFOZHOZ95dZ1,0.547,0.509,0.38,1.21E-06,0.36,-7.479,0.158,127.88,0.249,71,Rihanna
+ANTI (Deluxe),9,6RtzmszGXs32TRhv5zTKNM,Same Ol’ Mistakes,spotify:track:6RtzmszGXs32TRhv5zTKNM,0.199,0.44,0.803,0.00282,0.0591,-5.415,0.0443,151.777,0.501,68,Rihanna
+ANTI (Deluxe),10,7Jd5LgnSRQElW6FsTWVPzE,Never Ending,spotify:track:7Jd5LgnSRQElW6FsTWVPzE,0.751,0.53,0.391,6.97E-05,0.187,-9.096,0.0286,82.215,0.521,61,Rihanna
+ANTI (Deluxe),11,5oO3drDxtziYU2H1X23ZIp,Love On The Brain,spotify:track:5oO3drDxtziYU2H1X23ZIp,0.0717,0.509,0.637,1.08E-05,0.0789,-4.83,0.0471,172.006,0.378,85,Rihanna
+ANTI (Deluxe),12,1KnJwhZU3DIBe54Q4HPpIl,Higher,spotify:track:1KnJwhZU3DIBe54Q4HPpIl,0.112,0.292,0.567,1.01E-06,0.119,-4.191,0.0416,153.199,0.392,67,Rihanna
+ANTI (Deluxe),13,6D2tzc8kRnZb7P1lNwMBLH,Close To You,spotify:track:6D2tzc8kRnZb7P1lNwMBLH,0.895,0.494,0.17,0,0.139,-11.368,0.0337,80.098,0.145,68,Rihanna
+ANTI (Deluxe),14,5LJz7kmFhLqB53tmVWxig5,Goodnight Gotham,spotify:track:5LJz7kmFhLqB53tmVWxig5,0.00686,0.418,0.672,2.14E-06,0.277,-5.989,0.0429,82.134,0.353,58,Rihanna
+ANTI (Deluxe),15,4UTizOdGljPIIbXtoXycAd,Pose,spotify:track:4UTizOdGljPIIbXtoXycAd,0.181,0.685,0.852,0.00135,0.147,-3.153,0.0846,145.918,0.77,57,Rihanna
+ANTI (Deluxe),16,7BiELrM90hRxpozaIXbsLw,Sex With Me,spotify:track:7BiELrM90hRxpozaIXbsLw,0.294,0.58,0.532,0,0.0948,-5.668,0.0424,112.049,0.39,77,Rihanna
+Unapologetic (Deluxe),1,2qJeiWIZhb3FqREoDPPFPu,Phresh Out The Runway,spotify:track:2qJeiWIZhb3FqREoDPPFPu,0.000202,0.691,0.866,0,0.294,-5.831,0.0729,154.117,0.96,54,Rihanna
+Unapologetic (Deluxe),2,6O20JhBJPePEkBdrB5sqRx,Diamonds,spotify:track:6O20JhBJPePEkBdrB5sqRx,0.00125,0.564,0.71,0,0.109,-4.92,0.0461,91.972,0.393,80,Rihanna
+Unapologetic (Deluxe),3,3Naj4ZtvX9VpVqJH5EKmJE,Numb,spotify:track:3Naj4ZtvX9VpVqJH5EKmJE,0.014,0.717,0.697,0.00125,0.131,-5.771,0.137,129.042,0.379,53,Rihanna
+Unapologetic (Deluxe),4,5r67bGhYXZNqk2m2Wupfmu,Pour It Up,spotify:track:5r67bGhYXZNqk2m2Wupfmu,0.0254,0.785,0.478,0,0.0901,-8.735,0.0419,134.002,0.39,71,Rihanna
+Unapologetic (Deluxe),5,5Mk1tgVrSuoWWwPVFNS0jB,Loveeeeeee Song,spotify:track:5Mk1tgVrSuoWWwPVFNS0jB,0.508,0.71,0.598,0,0.0971,-7.598,0.0319,119.981,0.501,77,Rihanna
+Unapologetic (Deluxe),6,4IBihEaN04iwfX5I9sGFj9,Jump,spotify:track:4IBihEaN04iwfX5I9sGFj9,0.229,0.629,0.819,0.00706,0.169,-6.181,0.25,162.048,0.468,54,Rihanna
+Unapologetic (Deluxe),7,42Ow7PS3YtCWplolUUigDo,Right Now,spotify:track:42Ow7PS3YtCWplolUUigDo,0.049,0.668,0.64,0,0.0675,-5.208,0.0888,130.004,0.259,67,Rihanna
+Unapologetic (Deluxe),8,2RWs4c3ZJ74WwXlVC3QCQN,What Now,spotify:track:2RWs4c3ZJ74WwXlVC3QCQN,0.0476,0.402,0.696,0,0.628,-4.799,0.0448,180.158,0.227,66,Rihanna
+Unapologetic (Deluxe),9,0GNI8K3VATWBABQFAzBAYe,Stay,spotify:track:0GNI8K3VATWBABQFAzBAYe,0.945,0.621,0.31,6.12E-05,0.117,-10.164,0.0283,111.893,0.125,81,Rihanna
+Unapologetic (Deluxe),10,6EAxaAk1eZx0aqqH4ff4rP,Nobody's Business,spotify:track:6EAxaAk1eZx0aqqH4ff4rP,0.0362,0.741,0.6,0,0.0562,-5.792,0.0412,109.233,0.515,56,Rihanna
+Unapologetic (Deluxe),11,7JpsDefhsnsWn1P6cYfzMr,Love Without Tragedy / Mother Mary,spotify:track:7JpsDefhsnsWn1P6cYfzMr,0.0747,0.542,0.66,0,0.184,-6.467,0.0357,127.891,0.154,50,Rihanna
+Unapologetic (Deluxe),12,0GcIIPBfjcETGw1dJFwdhn,Get It Over With,spotify:track:0GcIIPBfjcETGw1dJFwdhn,0.744,0.419,0.465,0,0.102,-6.756,0.0312,79.75,0.251,45,Rihanna
+Unapologetic (Deluxe),13,2fv47VVvysXZPpT7xsdg7b,No Love Allowed,spotify:track:2fv47VVvysXZPpT7xsdg7b,0.362,0.583,0.482,4.14E-05,0.0938,-9.164,0.0987,90.483,0.645,52,Rihanna
+Unapologetic (Deluxe),14,0coJqb1j6Ym9OMz2i2MuyC,Lost In Paradise,spotify:track:0coJqb1j6Ym9OMz2i2MuyC,0.0639,0.479,0.779,0,0.204,-3.698,0.0449,75.961,0.307,48,Rihanna
+Unapologetic (Deluxe),15,1L3wDPfRVoNSwt7gXoeIkl,Half Of Me,spotify:track:1L3wDPfRVoNSwt7gXoeIkl,0.214,0.391,0.574,0,0.36,-5.912,0.0397,147.435,0.308,50,Rihanna
+Unapologetic (Deluxe),16,4DjW2vouRxIHW2I0ZM7sYs,Diamonds - Dave Aude 100 Extended,spotify:track:4DjW2vouRxIHW2I0ZM7sYs,0.000283,0.722,0.629,0.0735,0.0468,-6.261,0.0393,99.996,0.372,41,Rihanna
+Unapologetic (Deluxe),17,3S5ECEL7AEn0qhbZoefB8d,Diamonds - Gregor Salto Downtempo Remix,spotify:track:3S5ECEL7AEn0qhbZoefB8d,0.0234,0.706,0.614,1.24E-06,0.121,-7.89,0.079,104.984,0.538,40,Rihanna
+Unapologetic (Deluxe),1,1LNsiNXYJFb9nizFWy8Lor,Phresh Out The Runway - Album Version (Edited),spotify:track:1LNsiNXYJFb9nizFWy8Lor,0.000195,0.689,0.868,0,0.294,-5.875,0.0815,154.123,0.96,24,Rihanna
+Unapologetic (Deluxe),4,2ZNcAjINatNtr3ZwQaTLWd,Pour It Up - Album Version (Edited),spotify:track:2ZNcAjINatNtr3ZwQaTLWd,0.0254,0.785,0.478,0,0.0901,-8.735,0.0419,134.002,0.39,34,Rihanna
+Unapologetic (Deluxe),5,3Myn5X4gqs0TqFWFMxyHak,Loveeeeeee Song - Album Version (Edited),spotify:track:3Myn5X4gqs0TqFWFMxyHak,0.537,0.703,0.651,0,0.0955,-6.405,0.0327,119.976,0.498,38,Rihanna
+Unapologetic (Deluxe),6,4O3HRDIBChh0quFPhfDXd1,Jump - Album Version (Edited),spotify:track:4O3HRDIBChh0quFPhfDXd1,0.221,0.656,0.824,0.00757,0.171,-6.169,0.229,81.071,0.423,28,Rihanna
+Unapologetic (Deluxe),7,2yIuxJvRVnKrFOafuugHje,Right Now - Album Version (Edited),spotify:track:2yIuxJvRVnKrFOafuugHje,0.049,0.668,0.64,0,0.0671,-5.208,0.0888,130.004,0.259,25,Rihanna
+Unapologetic (Deluxe),8,7yofGzP2N4cC8OzHDs1RVU,What Now - Album Version (Edited),spotify:track:7yofGzP2N4cC8OzHDs1RVU,0.0476,0.402,0.696,0,0.628,-4.799,0.0448,180.158,0.227,21,Rihanna
+Unapologetic (Deluxe),10,4rKGL79Uy3WgNd1SF2grGV,Nobody's Business - Album Version (Edited),spotify:track:4rKGL79Uy3WgNd1SF2grGV,0.0362,0.741,0.6,0,0.0562,-5.792,0.0412,109.233,0.515,24,Rihanna
+Unapologetic (Deluxe),11,2tJQteXiSUfSdEW7LfIeHY,Love Without Tragedy / Mother Mary - Album Version (Edited),spotify:track:2tJQteXiSUfSdEW7LfIeHY,0.0747,0.542,0.66,0,0.184,-6.467,0.0357,127.892,0.154,17,Rihanna
+Unapologetic (Deluxe),13,6PPXmrFJnVxbguHF8oW4Dc,No Love Allowed - Album Version (Edited),spotify:track:6PPXmrFJnVxbguHF8oW4Dc,0.389,0.571,0.481,6.02E-05,0.097,-9.097,0.0937,90.997,0.682,19,Rihanna
+Unapologetic (Deluxe),15,59qTiT5r4APNFPU1042gHe,Half Of Me - Album Version (Edited),spotify:track:59qTiT5r4APNFPU1042gHe,0.207,0.421,0.575,0,0.365,-5.957,0.0403,147.449,0.287,17,Rihanna
+Talk That Talk (Deluxe),12,7rRsnDjtKcdrlEesPlw9CF,Red Lipstick,spotify:track:7rRsnDjtKcdrlEesPlw9CF,0.0649,0.517,0.695,0,0.649,-7.659,0.118,139.95,0.309,45,Rihanna
+Talk That Talk (Deluxe),13,66IdTkn3exF8fdYqEeVeLc,Do Ya Thang,spotify:track:66IdTkn3exF8fdYqEeVeLc,0.000924,0.519,0.853,1.43E-05,0.101,-4.679,0.0369,174.085,0.697,47,Rihanna
+Talk That Talk (Deluxe),14,44fouNXjaqIoI6PVgiGQqw,Fool In Love,spotify:track:44fouNXjaqIoI6PVgiGQqw,0.045,0.44,0.685,4.07E-06,0.31,-5.582,0.0473,111.835,0.0433,45,Rihanna
+Talk That Talk (Deluxe),12,4NyhLhrCkSMsBnA63a6hZD,Red Lipstick - Album Version (Edited),spotify:track:4NyhLhrCkSMsBnA63a6hZD,0.0606,0.515,0.699,0,0.632,-7.692,0.119,139.96,0.306,12,Rihanna
+Talk That Talk (Deluxe),13,5JTspwohWmhoDm7OpxnDg3,Do Ya Thang - Album Version (Edited),spotify:track:5JTspwohWmhoDm7OpxnDg3,0.000917,0.523,0.854,3.00E-05,0.104,-4.683,0.0368,174.061,0.708,15,Rihanna
+Unapologetic (Edited Version),3,10SoEvWvAQ9pFj8oIglm9x,Numb - Album Version (Edited),spotify:track:10SoEvWvAQ9pFj8oIglm9x,0.014,0.717,0.697,0.00125,0.131,-5.771,0.137,129.042,0.379,21,Rihanna
+Unapologetic (Edited Version),9,789CxjEOtO76BVD1A9yJQH,Stay - Album Version (Edited),spotify:track:789CxjEOtO76BVD1A9yJQH,0.945,0.621,0.31,6.12E-05,0.117,-10.164,0.0283,111.893,0.125,72,Rihanna
+Unapologetic (Edited Version),12,2U7aH6NvhyP7CmOdO3bk45,Get It Over With - Album Version (Edited),spotify:track:2U7aH6NvhyP7CmOdO3bk45,0.74,0.303,0.479,0,0.103,-6.75,0.0338,76.668,0.244,13,Rihanna
+Unapologetic (Edited Version),14,4OUWEHP6EroAafAZ2oPNHi,Lost In Paradise - Album Version (Edited),spotify:track:4OUWEHP6EroAafAZ2oPNHi,0.0669,0.478,0.787,0,0.168,-3.698,0.0458,75.954,0.296,12,Rihanna
+Talk That Talk,1,3Yt9lRtS5V4nbJnwcgFgvC,You Da One,spotify:track:3Yt9lRtS5V4nbJnwcgFgvC,0.503,0.702,0.715,2.44E-05,0.126,-5.377,0.0425,127.05,0.863,72,Rihanna
+Talk That Talk,2,3tyPOhuVnt5zd5kGfxbCyL,Where Have You Been,spotify:track:3tyPOhuVnt5zd5kGfxbCyL,0.00201,0.719,0.847,0.0204,0.223,-6.34,0.0916,127.963,0.444,76,Rihanna
+Talk That Talk,4,57mKcbEq7nMqtJ4gqJvWcp,Talk That Talk,spotify:track:57mKcbEq7nMqtJ4gqJvWcp,0.0371,0.694,0.671,3.14E-05,0.236,-4.088,0.0444,83.999,0.466,68,Rihanna
+Talk That Talk,5,3jYW03V9XeM2w7LJ0EXQDC,Cockiness (Love It),spotify:track:3jYW03V9XeM2w7LJ0EXQDC,0.00118,0.673,0.773,0.000569,0.148,-7.099,0.0576,124.999,0.265,51,Rihanna
+Talk That Talk,6,4EfN6bixdOOgoLYR5C4cWo,Birthday Cake,spotify:track:4EfN6bixdOOgoLYR5C4cWo,0.32,0.702,0.826,0.000227,0.355,-6.498,0.0529,80.014,0.329,62,Rihanna
+Talk That Talk,7,3gMC76iTaypaOnuIZZvoiR,We All Want Love,spotify:track:3gMC76iTaypaOnuIZZvoiR,0.00244,0.53,0.575,0.000572,0.277,-6.71,0.0317,147.961,0.308,43,Rihanna
+Talk That Talk,8,5A0Swrynpx7ALauNv08nBe,Drunk On Love,spotify:track:5A0Swrynpx7ALauNv08nBe,0.0748,0.655,0.873,0.000454,0.401,-3.609,0.0579,100.391,0.153,49,Rihanna
+Talk That Talk,9,5CegsKtrwkX9HKb2YU5FOm,Roc Me Out,spotify:track:5CegsKtrwkX9HKb2YU5FOm,0.00503,0.565,0.826,0.00011,0.0757,-4.808,0.0773,174.058,0.377,45,Rihanna
+Talk That Talk,10,1ROCX1nquOZ5i05YfGysu0,Watch n' Learn,spotify:track:1ROCX1nquOZ5i05YfGysu0,0.00304,0.741,0.798,0.000134,0.282,-5.431,0.122,168.01,0.823,46,Rihanna
+Talk That Talk,11,2f5PEKVrNEHL1X0dtMNgYu,Farewell,spotify:track:2f5PEKVrNEHL1X0dtMNgYu,0.0805,0.516,0.857,0,0.149,-4.559,0.111,80.004,0.506,45,Rihanna
+Talk That Talk,1,51PJ2iCdBMEfxtVk3iy4p1,You Da One - Album Version (Edited),spotify:track:51PJ2iCdBMEfxtVk3iy4p1,0.497,0.706,0.693,3.13E-05,0.145,-5.416,0.04,127.085,0.859,41,Rihanna
+Talk That Talk,3,6qn9YLKt13AGvpq9jfO8py,We Found Love,spotify:track:6qn9YLKt13AGvpq9jfO8py,0.025,0.734,0.766,0.00138,0.108,-4.485,0.0383,127.986,0.6,81,Rihanna
+Talk That Talk,4,7fHXacE8GZEvBTCWxwQUyL,Talk That Talk - Album Version (Edited),spotify:track:7fHXacE8GZEvBTCWxwQUyL,0.0332,0.641,0.687,1.34E-05,0.211,-4.093,0.0544,168.055,0.375,40,Rihanna
+Talk That Talk,6,2holReRruSgsAE4xaYg55K,Birthday Cake - Album Version (Edited),spotify:track:2holReRruSgsAE4xaYg55K,0.344,0.662,0.831,0.000204,0.342,-6.558,0.0679,160.03,0.398,32,Rihanna

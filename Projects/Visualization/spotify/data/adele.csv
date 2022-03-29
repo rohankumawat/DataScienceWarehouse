@@ -1,0 +1,61 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+30,1,13CVSGLSFl4UxpDVR6u3dq,Strangers By Nature,spotify:track:13CVSGLSFl4UxpDVR6u3dq,0.798,0.387,0.253,0.000159,0.0848,-8.901,0.0336,68.004,0.134,75,Adele
+30,2,46IZ0fSY2mpAiktS3KOqds,Easy On Me,spotify:track:46IZ0fSY2mpAiktS3KOqds,0.578,0.604,0.366,0,0.133,-7.519,0.0282,141.981,0.13,91,Adele
+30,3,2DuPBbS5mIldXnh7Wum8Cy,My Little Love,spotify:track:2DuPBbS5mIldXnh7Wum8Cy,0.829,0.339,0.492,0.00377,0.147,-10.661,0.0559,151.865,0.102,79,Adele
+30,4,09u787BYeYIGd2mFIJ505t,Cry Your Heart Out,spotify:track:09u787BYeYIGd2mFIJ505t,0.523,0.756,0.713,3.35E-06,0.248,-6.917,0.102,125.064,0.59,75,Adele
+30,5,3Kkjo3cT83cw09VJyrLNwX,Oh My God,spotify:track:3Kkjo3cT83cw09VJyrLNwX,0.091,0.534,0.725,0,0.0264,-3.906,0.046,88.098,0.55,92,Adele
+30,6,6w8ZPYdnGajyfPddTWdthN,Can I Get It,spotify:track:6w8ZPYdnGajyfPddTWdthN,0.0171,0.703,0.68,0,0.178,-6.118,0.0431,97.985,0.536,83,Adele
+30,7,6v0UJD4a2FtleHeSYVX02A,I Drink Wine,spotify:track:6v0UJD4a2FtleHeSYVX02A,0.697,0.437,0.565,0,0.119,-5.596,0.0466,115.389,0.306,83,Adele
+30,8,496vIKS2INz840xZaKncvR,All Night Parking (with Erroll Garner) Interlude,spotify:track:496vIKS2INz840xZaKncvR,0.67,0.734,0.497,2.35E-05,0.194,-9.666,0.166,127.989,0.307,76,Adele
+30,9,2c6xRsQBv7pynuhYhWoHxo,Woman Like Me,spotify:track:2c6xRsQBv7pynuhYhWoHxo,0.749,0.594,0.37,3.20E-05,0.132,-10.561,0.173,145.601,0.329,74,Adele
+30,10,6bGMSP3H9YqkmaLnaJTIoF,Hold On,spotify:track:6bGMSP3H9YqkmaLnaJTIoF,0.858,0.366,0.364,1.15E-05,0.165,-7.814,0.0433,165.902,0.459,76,Adele
+30,11,10ImcQk9tihY1EKMDIbvXJ,To Be Loved,spotify:track:10ImcQk9tihY1EKMDIbvXJ,0.843,0.356,0.176,0,0.231,-8.291,0.0391,170.425,0.289,78,Adele
+30,12,2j3GxEsbNYNeEzz86wDY4J,Love Is A Game,spotify:track:2j3GxEsbNYNeEzz86wDY4J,0.453,0.269,0.591,0.000695,0.0702,-5.79,0.0416,183.793,0.228,75,Adele
+25,1,1Yk0cQdMLx5RzzFTYwmuld,Hello,spotify:track:1Yk0cQdMLx5RzzFTYwmuld,0.33,0.578,0.43,0,0.0854,-6.134,0.0305,78.991,0.288,79,Adele
+25,3,6NdG17SJBXKJeYS67f7E74,I Miss You,spotify:track:6NdG17SJBXKJeYS67f7E74,0.00982,0.382,0.578,1.44E-05,0.433,-4.246,0.047,113.072,0.156,65,Adele
+25,4,6O5TrlFWTYvznd9fMC0VvU,When We Were Young,spotify:track:6O5TrlFWTYvznd9fMC0VvU,0.303,0.376,0.595,0,0.095,-5.936,0.0496,144.361,0.265,82,Adele
+25,5,1zZh6zTXcDgvN0C6S1G4gU,Remedy,spotify:track:1zZh6zTXcDgvN0C6S1G4gU,0.894,0.405,0.3,0,0.154,-6.475,0.0378,162.355,0.24,69,Adele
+25,6,2DRMuw0U0QbkVQxWxdJV3M,Water Under the Bridge,spotify:track:2DRMuw0U0QbkVQxWxdJV3M,0.0142,0.59,0.833,5.40E-06,0.105,-6.503,0.0615,94.963,0.538,76,Adele
+25,7,0bqC0AqaBZKBZsjhI3y2OW,River Lea,spotify:track:0bqC0AqaBZKBZsjhI3y2OW,0.0591,0.384,0.585,1.77E-06,0.116,-5.588,0.0311,82.378,0.252,64,Adele
+25,8,0DuWDLjriRPjDRoPgaCslY,Love In The Dark,spotify:track:0DuWDLjriRPjDRoPgaCslY,0.528,0.331,0.341,0,0.109,-6.057,0.0309,109.821,0.152,81,Adele
+25,9,2qBmtZnPSQouvADmqaHKxk,Million Years Ago,spotify:track:2qBmtZnPSQouvADmqaHKxk,0.742,0.72,0.274,0,0.11,-7.623,0.0276,105.929,0.179,69,Adele
+25,10,6DEMMeWXfmFAXgDUMMzeg6,All I Ask,spotify:track:6DEMMeWXfmFAXgDUMMzeg6,0.889,0.591,0.28,0,0.124,-5.494,0.0283,141.916,0.348,78,Adele
+25,2,0t7fVeEJxO2Xi4H2K5Svc9,Send My Love (To Your New Lover),spotify:track:0t7fVeEJxO2Xi4H2K5Svc9,0.0355,0.688,0.533,3.48E-06,0.172,-8.363,0.0865,164.069,0.567,77,Adele
+25,11,10tHyoc3wSA5scOVZuMcFm,Sweetest Devotion,spotify:track:10tHyoc3wSA5scOVZuMcFm,0.251,0.416,0.752,0,0.125,-5.471,0.0396,155.89,0.266,60,Adele
+21,2,2A73XBDBQgmdXO8VsXPWIs,Rumour Has It,spotify:track:2A73XBDBQgmdXO8VsXPWIs,0.615,0.612,0.749,0,0.167,-5.014,0.0446,120.052,0.574,72,Adele
+21,4,4RyjMERDcCJHTkFpXzgUw4,Don't You Remember,spotify:track:4RyjMERDcCJHTkFpXzgUw4,0.214,0.644,0.4,0,0.0866,-5.713,0.0304,115.025,0.227,69,Adele
+21,7,08YJEcxGtYXwCGqXMZDiyQ,Take It All,spotify:track:08YJEcxGtYXwCGqXMZDiyQ,0.957,0.415,0.266,1.18E-06,0.183,-8.44,0.0308,138.096,0.282,60,Adele
+21,9,43dcCpx19I0R4zLr4KH1UC,One And Only,spotify:track:43dcCpx19I0R4zLr4KH1UC,0.295,0.528,0.468,0,0.165,-5.306,0.0287,154.974,0.185,70,Adele
+21,1,4OSBTYWVwsQhGLF9NHvIbR,Rolling in the Deep,spotify:track:4OSBTYWVwsQhGLF9NHvIbR,0.138,0.73,0.769,0,0.0473,-5.114,0.0298,104.948,0.507,85,Adele
+21,3,2eF2x1BkgilhaZ2AipRY8j,Turning Tables,spotify:track:2eF2x1BkgilhaZ2AipRY8j,0.95,0.353,0.446,1.35E-05,0.132,-6.044,0.0285,155.476,0.211,72,Adele
+21,5,3di5hcvxxciiqwMH1jarhY,Set Fire to the Rain,spotify:track:3di5hcvxxciiqwMH1jarhY,0.00408,0.603,0.67,1.68E-06,0.112,-3.882,0.0249,107.993,0.446,81,Adele
+21,6,2hw47GMKL6LXwp5BJgPxXf,He Won't Go,spotify:track:2hw47GMKL6LXwp5BJgPxXf,0.0225,0.706,0.57,0,0.0754,-7.045,0.086,159.908,0.728,60,Adele
+21,8,42Uw9frN5ZVX40mRU3hHFL,I'll Be Waiting,spotify:track:42Uw9frN5ZVX40mRU3hHFL,0.049,0.547,0.848,0,0.114,-2.684,0.0367,160.063,0.749,58,Adele
+21,10,2PPN1HFpVotjq7oJIqQbnx,Lovesong,spotify:track:2PPN1HFpVotjq7oJIqQbnx,0.693,0.689,0.369,0.00236,0.111,-9.407,0.0278,116.885,0.361,63,Adele
+21,11,3bNv3VuUOKgrf5hu3YcuRo,Someone Like You,spotify:track:3bNv3VuUOKgrf5hu3YcuRo,0.893,0.556,0.319,0,0.0996,-8.251,0.0281,135.187,0.294,84,Adele
+21,12,3AmaTTRsE4i43h5SVdbXrL,I Found A Boy,spotify:track:3AmaTTRsE4i43h5SVdbXrL,0.978,0.579,0.191,5.55E-05,0.11,-8.629,0.0385,85.465,0.231,17,Adele
+21,13,3SpAAvyQHeRrE37dLk5aUx,Turning Tables - Live Acoustic,spotify:track:3SpAAvyQHeRrE37dLk5aUx,0.966,0.352,0.204,0,0.771,-10.928,0.0359,88.255,0.284,15,Adele
+21,14,5LX5zsJe4oXJ0FjmmJICRA,Don't You Remember - Live Acoustic,spotify:track:5LX5zsJe4oXJ0FjmmJICRA,0.915,0.391,0.31,0,0.705,-8.57,0.0381,108.104,0.195,15,Adele
+21,15,38jMszXH1X1L0mGBSvXSTI,Someone Like You - Live Acoustic,spotify:track:38jMszXH1X1L0mGBSvXSTI,0.948,0.345,0.217,0,0.701,-9.769,0.0358,81.917,0.189,16,Adele
+19,1,33rmlXHHEN5K8m5PINMEbb,Chasing Pavements - Live at Hotel Cafe,spotify:track:33rmlXHHEN5K8m5PINMEbb,0.907,0.546,0.266,0,0.669,-9.492,0.0389,78.443,0.208,56,Adele
+19,2,6uzHbGJs6nrQnHfAkADWoT,Melt My Heart To Stone - Live at Hotel Cafe,spotify:track:6uzHbGJs6nrQnHfAkADWoT,0.894,0.454,0.164,0,0.515,-8.997,0.0373,97.394,0.193,44,Adele
+19,3,2sYK3yPdKL0YLHl6TdrYFn,"That's It, I Quit, I'm Movin' On - Live at Hotel Cafe",spotify:track:2sYK3yPdKL0YLHl6TdrYFn,0.845,0.604,0.336,0,0.681,-8.695,0.0654,145.17,0.673,47,Adele
+19,4,0zbKhsL2me1OhTqPOhnkaA,Crazy For You - Live at Hotel Cafe,spotify:track:0zbKhsL2me1OhTqPOhnkaA,0.959,0.488,0.0855,0,0.692,-12.385,0.0396,80.544,0.461,45,Adele
+19,5,1qMsnFyutQSZQheQcp3uAl,Right As Rain - Live at Hotel Cafe,spotify:track:1qMsnFyutQSZQheQcp3uAl,0.819,0.718,0.333,0,0.687,-8.855,0.0705,132.742,0.772,44,Adele
+19,6,6VIrWBZfcY7iJDYk7CeZNP,My Same - Live at Hotel Cafe,spotify:track:6VIrWBZfcY7iJDYk7CeZNP,0.83,0.69,0.384,0,0.978,-8.145,0.219,136.434,0.735,44,Adele
+19,7,3I7sFjGE02t7zNiMz6ILRe,Make You Feel My Love - Live at Hotel Cafe,spotify:track:3I7sFjGE02t7zNiMz6ILRe,0.974,0.449,0.166,3.81E-06,0.665,-12.193,0.0374,143.878,0.107,51,Adele
+19,8,4fLzX4LHtNfboqXVKdgUSf,Daydreamer - Live at Hotel Cafe,spotify:track:4fLzX4LHtNfboqXVKdgUSf,0.955,0.573,0.147,0,0.715,-12.295,0.0391,108.773,0.323,46,Adele
+19,9,3V79Erdk3uUkrKvohOzbNP,Hometown Glory - Live at Hotel Cafe,spotify:track:3V79Erdk3uUkrKvohOzbNP,0.922,0.436,0.353,0.00519,0.191,-9.365,0.0312,119.143,0.181,47,Adele
+19,10,6hRSA7yZ3TZCCd8W77UmBB,Many Shades Of Black - Performed by The Raconteurs and Adele,spotify:track:6hRSA7yZ3TZCCd8W77UmBB,0.00323,0.409,0.71,0,0.116,-4.918,0.0325,95.248,0.438,58,Adele
+19,1,1JZkTZEXkLvkR2oQ9PSKuO,Daydreamer,spotify:track:1JZkTZEXkLvkR2oQ9PSKuO,0.964,0.807,0.105,0,0.103,-13.188,0.0412,109.014,0.372,62,Adele
+19,2,6R3jZOdowU5PKFlLTcQogn,Best For Last,spotify:track:6R3jZOdowU5PKFlLTcQogn,0.683,0.561,0.316,0,0.108,-10.922,0.326,87.273,0.617,52,Adele
+19,4,7qxPZTCgQaAe76yhl06vik,Cold Shoulder,spotify:track:7qxPZTCgQaAe76yhl06vik,0.00217,0.65,0.82,0,0.133,-5.344,0.047,109.955,0.35,59,Adele
+19,5,4ctqnEqD3gtjIGouiZaxOH,Crazy For You,spotify:track:4ctqnEqD3gtjIGouiZaxOH,0.91,0.707,0.139,0,0.105,-12.3,0.0507,85.868,0.323,61,Adele
+19,6,1Ujuabe6tYXRDgmTk9j3K9,Melt My Heart To Stone,spotify:track:1Ujuabe6tYXRDgmTk9j3K9,0.346,0.353,0.388,0,0.215,-7.091,0.0366,80.67,0.19,61,Adele
+19,7,4I3FyrIM4E9I2MYm533VmJ,First Love,spotify:track:4I3FyrIM4E9I2MYm533VmJ,0.985,0.683,0.112,0.00552,0.09,-13.461,0.0338,81.355,0.337,53,Adele
+19,8,6oW04c2E7lebl09WHsBAWO,Right As Rain,spotify:track:6oW04c2E7lebl09WHsBAWO,0.773,0.842,0.679,0,0.0891,-5.876,0.0846,137.2,0.918,56,Adele
+19,10,5IXOdt9lH8dv9tEHV1VGoK,My Same,spotify:track:5IXOdt9lH8dv9tEHV1VGoK,0.482,0.776,0.592,0,0.15,-7.459,0.153,126.563,0.724,51,Adele
+19,11,6ONMnNDySnCsJPBcXWNU05,Tired,spotify:track:6ONMnNDySnCsJPBcXWNU05,0.181,0.801,0.663,0.000535,0.0945,-6.29,0.0485,96.991,0.552,51,Adele
+19,3,0Z5ok0QLLttAKsujOZYOXf,Chasing Pavements,spotify:track:0Z5ok0QLLttAKsujOZYOXf,0.291,0.616,0.47,0,0.111,-6.092,0.0253,80.03,0.325,76,Adele
+19,9,273QnyCvJB65rScHJ1nPZb,Make You Feel My Love,spotify:track:273QnyCvJB65rScHJ1nPZb,0.907,0.317,0.172,0.000383,0.105,-10.636,0.0326,65.18,0.0963,80,Adele
+19,12,4zFHwVj4A8s0G5f7aOlpKo,Hometown Glory,spotify:track:4zFHwVj4A8s0G5f7aOlpKo,0.962,0.436,0.336,3.40E-05,0.102,-8.517,0.037,122.456,0.21,66,Adele

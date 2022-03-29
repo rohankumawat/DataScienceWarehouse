@@ -1,0 +1,89 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Funk Wav Bounces Vol.1,1,7tr2za8SQg2CI8EDgrdtNl,Slide (feat. Frank Ocean & Migos),spotify:track:7tr2za8SQg2CI8EDgrdtNl,0.498,0.736,0.795,1.21E-06,0.254,-3.299,0.0545,104.066,0.511,73,Calvin Harris
+Funk Wav Bounces Vol.1,2,0Ws8D3EWUDgY962Xftb0h5,"Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",spotify:track:0Ws8D3EWUDgY962Xftb0h5,0.152,0.722,0.79,0,0.0349,-4.867,0.241,94.965,0.434,59,Calvin Harris
+Funk Wav Bounces Vol.1,3,60APt5N2NRaKWf5xzJdzyC,"Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",spotify:track:60APt5N2NRaKWf5xzJdzyC,0.34,0.784,0.728,0,0.222,-4.549,0.0539,110.165,0.713,61,Calvin Harris
+Funk Wav Bounces Vol.1,4,0lMbuWUpfTWhEmOKxppEau,Rollin (feat. Future & Khalid),spotify:track:0lMbuWUpfTWhEmOKxppEau,0.446,0.753,0.76,3.13E-05,0.182,-4.518,0.0859,91.953,0.657,67,Calvin Harris
+Funk Wav Bounces Vol.1,5,4KaIJ1FWXUoAAnOts1YWjD,Prayers Up (feat. Travis Scott & A-Trak),spotify:track:4KaIJ1FWXUoAAnOts1YWjD,0.433,0.821,0.637,0,0.209,-4.276,0.161,86.01,0.778,60,Calvin Harris
+Funk Wav Bounces Vol.1,6,08Wc3X7XNSyF8WYBPt2L8E,"Holiday (feat. Snoop Dogg, John Legend & Takeoff)",spotify:track:08Wc3X7XNSyF8WYBPt2L8E,0.472,0.836,0.769,0.00157,0.0804,-2.334,0.0773,103.991,0.585,55,Calvin Harris
+Funk Wav Bounces Vol.1,7,7iDxZ5Cd0Yg08d4fI5WVtG,Skrt On Me (feat. Nicki Minaj),spotify:track:7iDxZ5Cd0Yg08d4fI5WVtG,0.169,0.713,0.889,5.80E-05,0.169,-3.87,0.0376,101.977,0.96,53,Calvin Harris
+Funk Wav Bounces Vol.1,8,5bcTCxgc7xVfSaMV3RuVke,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",spotify:track:5bcTCxgc7xVfSaMV3RuVke,0.0642,0.893,0.745,0,0.0943,-3.105,0.0571,101.018,0.872,81,Calvin Harris
+Funk Wav Bounces Vol.1,9,0pJPdSVti6cTM1Q6xYGmcf,Faking It (feat. Kehlani & Lil Yachty),spotify:track:0pJPdSVti6cTM1Q6xYGmcf,0.319,0.776,0.589,0,0.0715,-4.543,0.115,120.034,0.668,65,Calvin Harris
+Funk Wav Bounces Vol.1,10,6KdmNK9MogmGcnO3wNZHhp,Hard to Love (feat. Jessie Reyez),spotify:track:6KdmNK9MogmGcnO3wNZHhp,0.112,0.753,0.785,0.000191,0.0633,-6.53,0.174,148.015,0.85,56,Calvin Harris
+Motion,16,4t0eN4mrL0Bz6riZV72UXb,Under Control (feat. Hurts) - Sunnery James and Ryan Marciano Mix,spotify:track:4t0eN4mrL0Bz6riZV72UXb,0.0145,0.518,0.747,0.751,0.117,-6.66,0.092,127.868,0.175,5,Calvin Harris
+Motion,17,6wWm1tsyULvQCPwPu5Sw8n,Summer - R3hab & Ummet Ozcan Remix,spotify:track:6wWm1tsyULvQCPwPu5Sw8n,0.0238,0.687,0.917,0.242,0.388,-6.446,0.0657,128.021,0.161,8,Calvin Harris
+Motion,1,0ZmkjefPVLvloVSgtmRu5M,Faith,spotify:track:0ZmkjefPVLvloVSgtmRu5M,0.235,0.623,0.957,3.25E-05,0.398,-2.675,0.0427,127.968,0.535,57,Calvin Harris
+Motion,2,4J7CKHCF3mdL4diUsmW8lq,Under Control (feat. Hurts),spotify:track:4J7CKHCF3mdL4diUsmW8lq,0.129,0.544,0.915,0.000914,0.115,-3.405,0.0841,126.094,0.51,76,Calvin Harris
+Motion,3,07nH4ifBxUB4lZcsf44Brn,Blame (feat. John Newman),spotify:track:07nH4ifBxUB4lZcsf44Brn,0.0287,0.414,0.857,0.00574,0.343,-4.078,0.0808,128.024,0.348,80,Calvin Harris
+Motion,4,5vQctmBxi79lyQoc2DDAsP,Love Now (feat. All About She),spotify:track:5vQctmBxi79lyQoc2DDAsP,0.0207,0.733,0.674,0.173,0.0701,-4.441,0.0316,128.03,0.464,49,Calvin Harris
+Motion,5,6GvXJZ8EQuUWzthpPFLr6f,Slow Acid,spotify:track:6GvXJZ8EQuUWzthpPFLr6f,0.545,0.664,0.935,0.855,0.176,-4.322,0.039,104.004,0.131,49,Calvin Harris
+Motion,6,7MmG8p0F9N3C4AXdK6o6Eb,Outside (feat. Ellie Goulding),spotify:track:7MmG8p0F9N3C4AXdK6o6Eb,0.213,0.646,0.823,0,0.322,-4.123,0.0394,128.035,0.418,83,Calvin Harris
+Motion,7,57EMMRviFnUVwYgsHgAlA2,It Was You,spotify:track:57EMMRviFnUVwYgsHgAlA2,0.283,0.701,0.985,0.281,0.617,-4.325,0.0675,127.974,0.0388,46,Calvin Harris
+Motion,8,6YUTL4dYpB9xZO5qExPf05,Summer,spotify:track:6YUTL4dYpB9xZO5qExPf05,0.0211,0.596,0.856,0.0178,0.141,-3.556,0.0346,127.949,0.743,86,Calvin Harris
+Motion,9,07BCFbk1oCwf80lemfyzK6,Overdrive,spotify:track:07BCFbk1oCwf80lemfyzK6,0.0287,0.631,0.945,0.913,0.967,-3.674,0.04,127.983,0.4,47,Calvin Harris
+Motion,10,4NH6M9tsx1dXL58zZTmTYE,Ecstasy (feat. Hurts),spotify:track:4NH6M9tsx1dXL58zZTmTYE,0.916,0.598,0.277,3.80E-06,0.0568,-6.723,0.0274,66.01,0.135,43,Calvin Harris
+Motion,11,75kMrDKPJJpgEQaXVh7QMB,Pray to God (feat. HAIM),spotify:track:75kMrDKPJJpgEQaXVh7QMB,0.015,0.606,0.949,2.76E-05,0.109,-2.749,0.0414,120.031,0.436,66,Calvin Harris
+Motion,12,64j3Bd62HTe0pclk8Aq9BE,Open Wide (feat. Big Sean),spotify:track:64j3Bd62HTe0pclk8Aq9BE,0.0698,0.76,0.943,0,0.525,-2.703,0.0363,127.976,0.686,62,Calvin Harris
+Motion,13,0otmDG441slQ7QYZUPgBcM,Together (feat. Gwen Stefani),spotify:track:0otmDG441slQ7QYZUPgBcM,0.145,0.731,0.869,0.000185,0.116,-2.634,0.0409,127.971,0.789,49,Calvin Harris
+Motion,14,5lByoyTJti3jYo22bLQKOH,Burnin,spotify:track:5lByoyTJti3jYo22bLQKOH,0.00205,0.643,0.997,0.672,0.659,-1.656,0.0483,128.004,0.555,54,Calvin Harris
+Motion,15,7sUrtg1AYRyrDECLqq6no9,Dollar Signs (feat. Tinashe),spotify:track:7sUrtg1AYRyrDECLqq6no9,0.367,0.755,0.897,0.00215,0.358,-2.269,0.0329,128,0.729,47,Calvin Harris
+18 Months,13,5oSd4NhEErsqe7d7r7g99F,Let's Go (feat. Ne-Yo) - Radio Edit,spotify:track:5oSd4NhEErsqe7d7r7g99F,0.00656,0.673,0.906,0.000404,0.231,-2.591,0.0616,128.031,0.726,27,Calvin Harris
+18 Months,4,2DqpkxF6w92a1mDwWNCNNd,We Found Love (feat. Rihanna),spotify:track:2DqpkxF6w92a1mDwWNCNNd,0.0227,0.735,0.773,0.00222,0.0778,-4.815,0.0395,127.987,0.592,0,Calvin Harris
+18 Months,16,1SabVx3n704ITHMBksNwOp,Bounce (feat. Kelis) - R3hab Remix,spotify:track:1SabVx3n704ITHMBksNwOp,0.000677,0.898,0.78,0.839,0.241,-5.166,0.26,127.996,0.449,5,Calvin Harris
+18 Months,17,5GkYhoZMVBVu6Pz0s7SQOu,Feel So Close - Benny Benassi Remix,spotify:track:5GkYhoZMVBVu6Pz0s7SQOu,0.0345,0.66,0.6,3.69E-05,0.0908,-3.439,0.055,127.959,0.168,4,Calvin Harris
+18 Months,18,1mK8Fga7suyTXyj5lJtFjQ,We'll Be Coming Back (feat. Example) - Michael Woods Remix,spotify:track:1mK8Fga7suyTXyj5lJtFjQ,0.012,0.699,0.956,0.0494,0.668,-5.585,0.169,128.026,0.188,6,Calvin Harris
+18 Months,19,4uLi6GJzkYxPuJqZu4Vvxm,Sweet Nothing (feat. Florence Welch) - Tiësto Remix,spotify:track:4uLi6GJzkYxPuJqZu4Vvxm,0.0101,0.663,0.614,0.179,0.0764,-7.422,0.302,127.986,0.397,10,Calvin Harris
+18 Months,1,6BsumGMsXC0KCLE5rf4FEd,18 Months - Continuous Mix,spotify:track:6BsumGMsXC0KCLE5rf4FEd,0.00397,0.644,0.877,0.0069,0.0988,-3.629,0.0501,127.938,0.403,0,Calvin Harris
+18 Months,1,6G0RXhQJGDnjgUdbQfBZRk,Green Valley,spotify:track:6G0RXhQJGDnjgUdbQfBZRk,0.439,0.483,0.494,0.535,0.0756,-8.922,0.0509,160.054,0.226,41,Calvin Harris
+18 Months,2,36cmM3MBMWWCFIiQ90U4J8,Bounce (feat. Kelis) - Radio Edit,spotify:track:36cmM3MBMWWCFIiQ90U4J8,0.0334,0.779,0.963,0.493,0.664,-2.125,0.0399,127.941,0.759,67,Calvin Harris
+18 Months,3,1gihuPhrLraKYrJMAEONyc,Feel So Close - Radio Edit,spotify:track:1gihuPhrLraKYrJMAEONyc,0.000972,0.707,0.924,0.00703,0.204,-2.842,0.031,127.937,0.919,84,Calvin Harris
+18 Months,5,7B1Dl3tXqySkB8OPEwVvSu,We'll Be Coming Back (feat. Example),spotify:track:7B1Dl3tXqySkB8OPEwVvSu,0.00131,0.596,0.952,0,0.598,-4.364,0.0873,127.945,0.571,67,Calvin Harris
+18 Months,6,4GlFGnToMsIrjHx73i0dTz,Mansion,spotify:track:4GlFGnToMsIrjHx73i0dTz,0.000594,0.807,0.793,0.845,0.918,-5.398,0.101,112.017,0.105,42,Calvin Harris
+18 Months,7,0uqMUcdMvQtNQLO4jVockW,Iron,spotify:track:0uqMUcdMvQtNQLO4jVockW,0.00139,0.546,0.887,0.0424,0.606,-4.694,0.0799,125.983,0.436,47,Calvin Harris
+18 Months,8,05SBRd4fXgn8FX7bf8BCAE,I Need Your Love (feat. Ellie Goulding),spotify:track:05SBRd4fXgn8FX7bf8BCAE,0.41,0.695,0.869,0,0.237,-5.066,0.0483,124.989,0.58,75,Calvin Harris
+18 Months,9,1oHxIPqJyvAYHy0PVrDU98,Drinking from the Bottle (feat. Tinie Tempah),spotify:track:1oHxIPqJyvAYHy0PVrDU98,0.0469,0.665,0.886,6.24E-05,0.0525,-4.175,0.0514,128.062,0.53,66,Calvin Harris
+18 Months,10,24LS4lQShWyixJ0ZrJXfJ5,Sweet Nothing (feat. Florence Welch),spotify:track:24LS4lQShWyixJ0ZrJXfJ5,0.197,0.573,0.929,0.000112,0.0567,-3.942,0.109,127.934,0.582,76,Calvin Harris
+18 Months,11,5oN8GXHYUkuzLuptAs5Gwp,School,spotify:track:5oN8GXHYUkuzLuptAs5Gwp,0.149,0.856,0.733,0.649,0.0777,-2.473,0.0456,111.453,0.738,44,Calvin Harris
+18 Months,12,0LA52DYNmflyXhzlADekfG,Here 2 China (feat. Dizzee Rascal),spotify:track:0LA52DYNmflyXhzlADekfG,0.46,0.777,0.905,0,0.13,-2.229,0.23,89.962,0.673,43,Calvin Harris
+18 Months,13,4wkQmYpAaMe41Rc3sYZ7Vz,Let's Go (feat. Ne-Yo),spotify:track:4wkQmYpAaMe41Rc3sYZ7Vz,0.00777,0.71,0.882,0.00771,0.294,-2.932,0.0595,128.016,0.875,71,Calvin Harris
+18 Months,14,29d6Ve1skFZv710ZDibJNN,Awooga,spotify:track:29d6Ve1skFZv710ZDibJNN,0.000999,0.514,0.987,0.935,0.343,-3.402,0.0592,125.956,0.17,43,Calvin Harris
+18 Months,15,1KtD0xaLAikgIt5tPbteZQ,Thinking About You (feat. Ayah Marar),spotify:track:1KtD0xaLAikgIt5tPbteZQ,0.00262,0.725,0.874,0.000412,0.0958,-3.715,0.0396,127.985,0.748,70,Calvin Harris
+Ready For The Weekend,2,0eSnoK1snhb1MN8yo7Re3m,Ready For The Weekend,spotify:track:0eSnoK1snhb1MN8yo7Re3m,0.131,0.817,0.717,2.81E-05,0.0392,-4.799,0.0373,137.962,0.947,40,Calvin Harris
+Ready For The Weekend,4,6ZpEmh8WAxGsr1KYpiFEZb,You Used To Hold Me,spotify:track:6ZpEmh8WAxGsr1KYpiFEZb,0.0231,0.618,0.969,1.27E-06,0.316,-6.039,0.0413,128.964,0.19,47,Calvin Harris
+Ready For The Weekend,8,2fYZr4OCEclavfMzgQOTMp,Worst Day (feat. Izza Kizza),spotify:track:2fYZr4OCEclavfMzgQOTMp,0.0139,0.624,0.893,0.000142,0.854,-4.659,0.0589,85.529,0.651,23,Calvin Harris
+Ready For The Weekend,13,11zPV2MKhlKMci002KCrs4,Dance Wiv Me (feat. Calvin Harris & Chrome),spotify:track:11zPV2MKhlKMci002KCrs4,0.0396,0.884,0.587,0,0.168,-7.655,0.044,111.994,0.697,0,Calvin Harris
+Ready For The Weekend,1,5Tv3j1JIHek3KDhlEYYRTS,The Rain,spotify:track:5Tv3j1JIHek3KDhlEYYRTS,0.0139,0.646,0.768,0.00539,0.0718,-4.302,0.0502,129.035,0.72,37,Calvin Harris
+Ready For The Weekend,2,7sSqDlt9r1chzQEv6FPWKt,Ready for the Weekend,spotify:track:7sSqDlt9r1chzQEv6FPWKt,0.126,0.818,0.713,3.20E-05,0.0382,-4.813,0.0375,137.969,0.937,55,Calvin Harris
+Ready For The Weekend,3,0wSEKJtoPVkNPrXAQXqB7U,Stars Come Out,spotify:track:0wSEKJtoPVkNPrXAQXqB7U,0.0256,0.683,0.867,0.00208,0.158,-5.162,0.0423,130.032,0.665,37,Calvin Harris
+Ready For The Weekend,4,6DpVLCKsNQXDmYdNdcNGnR,You Used to Hold Me,spotify:track:6DpVLCKsNQXDmYdNdcNGnR,0.0205,0.626,0.968,0,0.321,-6.014,0.0462,128.969,0.176,54,Calvin Harris
+Ready For The Weekend,5,5PioHCJf5B3Nv8KtBbrLoA,Blue,spotify:track:5PioHCJf5B3Nv8KtBbrLoA,0.0216,0.656,0.865,1.82E-05,0.203,-5.479,0.0479,130.007,0.416,32,Calvin Harris
+Ready For The Weekend,6,07POri5O6Xu0aVZzlvOcpy,I'm Not Alone - Radio Edit,spotify:track:07POri5O6Xu0aVZzlvOcpy,0.00481,0.597,0.684,0.105,0.317,-6.614,0.0321,130.99,0.435,60,Calvin Harris
+Ready For The Weekend,7,6A8llSO9QFF4djCCmuCrNu,Flashback,spotify:track:6A8llSO9QFF4djCCmuCrNu,0.00212,0.266,0.95,0.000991,0.0922,-5.646,0.05,127.986,0.158,60,Calvin Harris
+Ready For The Weekend,8,4In89hvIOoIWMKCR55Pvo0,Worst Day,spotify:track:4In89hvIOoIWMKCR55Pvo0,0.0141,0.625,0.892,0.000201,0.856,-4.667,0.0699,85.501,0.611,32,Calvin Harris
+Ready For The Weekend,9,3DRUH4dR9qrEtD7D2ZpjMY,Relax,spotify:track:3DRUH4dR9qrEtD7D2ZpjMY,0.0137,0.736,0.672,0.00211,0.143,-5.578,0.0352,127.956,0.794,30,Calvin Harris
+Ready For The Weekend,10,7x8SJJ2dw9Bi7ww5a0hdCW,Limits,spotify:track:7x8SJJ2dw9Bi7ww5a0hdCW,0.236,0.511,0.854,0.00314,0.196,-6.14,0.0288,152.024,0.451,30,Calvin Harris
+Ready For The Weekend,11,3yyStq4y45WH6Y3RW4tKZ1,Burns Night,spotify:track:3yyStq4y45WH6Y3RW4tKZ1,0.169,0.303,0.487,0.798,0.106,-8.072,0.0342,82.605,0.0612,26,Calvin Harris
+Ready For The Weekend,12,4Vo3XVsT3UWqhl68Xi0Ghj,Yeah Yeah Yeah La La La,spotify:track:4Vo3XVsT3UWqhl68Xi0Ghj,0.0689,0.878,0.482,2.84E-05,0.24,-4.942,0.0571,128.999,0.826,30,Calvin Harris
+Ready For The Weekend,14,7zpO8g5FuuqgbiPjUDhTtP,5iliconeator,spotify:track:7zpO8g5FuuqgbiPjUDhTtP,0.699,0.523,0.405,0.891,0.107,-10.874,0.0296,147.067,0.0994,27,Calvin Harris
+Ready For The Weekend,15,1oQkYbiPFdrJzv8mvjH8nm,Greatest Fear,spotify:track:1oQkYbiPFdrJzv8mvjH8nm,0.00939,0.804,0.782,0.201,0.129,-4.726,0.26,131.978,0.668,25,Calvin Harris
+Ready For The Weekend,13,6HRcgMY2oQ45Rj6CaNLWBn,Dance Wiv Me (feat. Calvin Harris & Chrome) - Extended Mix,spotify:track:6HRcgMY2oQ45Rj6CaNLWBn,0.0313,0.884,0.577,0,0.17,-7.656,0.0441,112.003,0.685,0,Calvin Harris
+I Created Disco,5,6VlqhyTcjvkjpVzP1hjGCo,Acceptable in the 80S,spotify:track:6VlqhyTcjvkjpVzP1hjGCo,0.0156,0.783,0.807,0.261,0.0448,-5.428,0.0499,128.004,0.91,0,Calvin Harris
+I Created Disco,15,50oCJjIl1frJTXE1e3yNbv,Rock n Roll Attitude,spotify:track:50oCJjIl1frJTXE1e3yNbv,0.311,0.92,0.428,0.257,0.695,-6.833,0.0555,119.97,0.736,1,Calvin Harris
+I Created Disco,16,4MWVz8GepV2TbWZUA3mpAe,Love For You,spotify:track:4MWVz8GepV2TbWZUA3mpAe,0.00112,0.853,0.392,0.0829,0.0689,-5.019,0.0465,122.005,0.97,2,Calvin Harris
+I Created Disco,17,1gU87g7kuRu5L5vbVN8Var,The Girls - Groove Armada Remix,spotify:track:1gU87g7kuRu5L5vbVN8Var,0.00214,0.809,0.686,0.0328,0.0485,-5.566,0.0722,120.981,0.868,1,Calvin Harris
+I Created Disco,18,70AscQTuEr7OxWlaAyfmOh,Acceptable in the 80's - Tom Neville Remix,spotify:track:70AscQTuEr7OxWlaAyfmOh,0.00103,0.764,0.839,0.348,0.0288,-5.508,0.0758,125.981,0.78,1,Calvin Harris
+I Created Disco,1,38orAaD0ZcoVXKYokVeLND,Merrymaking at My Place,spotify:track:38orAaD0ZcoVXKYokVeLND,0.216,0.961,0.635,0.134,0.0951,-5.067,0.0441,113.97,0.97,35,Calvin Harris
+I Created Disco,2,46u9JfIfmyGVxPDPaGPytF,Colours,spotify:track:46u9JfIfmyGVxPDPaGPytF,0.000497,0.784,0.572,0.0715,0.0657,-6.884,0.044,114.941,0.966,33,Calvin Harris
+I Created Disco,3,3CCBYA6phK88KNGyU3B5aj,This Is the Industry,spotify:track:3CCBYA6phK88KNGyU3B5aj,0.00535,0.838,0.761,0.4,0.335,-5.734,0.0478,117.959,0.904,28,Calvin Harris
+I Created Disco,4,1bHhtkFwH6eBNTka0DnGzU,The Girls,spotify:track:1bHhtkFwH6eBNTka0DnGzU,0.00595,0.617,0.887,0.000332,0.353,-4.894,0.0317,127.923,0.86,53,Calvin Harris
+I Created Disco,5,00cxhG668jV6gU6VK2FUVI,Acceptable in the 80's,spotify:track:00cxhG668jV6gU6VK2FUVI,0.0143,0.787,0.808,0.257,0.0466,-5.454,0.0511,127.99,0.942,62,Calvin Harris
+I Created Disco,6,0SStFkydTKUFZPqfWP4GO4,Neon Rocks,spotify:track:0SStFkydTKUFZPqfWP4GO4,0.0045,0.798,0.593,0.225,0.311,-6.658,0.0468,103.509,0.977,29,Calvin Harris
+I Created Disco,7,1xKnBAPjNwNCxtgkM8BlaT,Traffic Cops,spotify:track:1xKnBAPjNwNCxtgkM8BlaT,0.711,0.161,0.00685,0.973,0.295,-16.909,0.0417,83.766,0,25,Calvin Harris
+I Created Disco,8,7uNg5ObaQ0PIRVjVRqJ7bG,Vegas,spotify:track:7uNg5ObaQ0PIRVjVRqJ7bG,0.000508,0.695,0.948,0.667,0.185,-5.957,0.0446,127.956,0.973,28,Calvin Harris
+I Created Disco,9,75K1wMWqe19TPQ4gDAjD9Q,I Created Disco,spotify:track:75K1wMWqe19TPQ4gDAjD9Q,8.70E-05,0.779,0.499,0.801,0.114,-5.141,0.0441,133.953,0.436,27,Calvin Harris
+I Created Disco,10,0iN0npS2K9sXyUFKbEdZW7,Disco Heat,spotify:track:0iN0npS2K9sXyUFKbEdZW7,0.00312,0.717,0.801,0.0145,0.3,-6.326,0.0367,128.015,0.961,29,Calvin Harris
+I Created Disco,12,3ym84ry30B627Nykl8gVwv,Certified,spotify:track:3ym84ry30B627Nykl8gVwv,0.000835,0.757,0.615,0.775,0.0659,-6.055,0.0913,100.972,0.961,25,Calvin Harris
+I Created Disco,13,5JXIOv3iVvug0OmoOiRK5p,Love Souvenir,spotify:track:5JXIOv3iVvug0OmoOiRK5p,0.287,0.93,0.152,0.833,0.244,-9.374,0.0937,121.896,0.497,25,Calvin Harris
+I Created Disco,14,1GwwX5LZ8N8bJZSHfOyytX,Electro Man,spotify:track:1GwwX5LZ8N8bJZSHfOyytX,0.0136,0.666,0.823,0.784,0.119,-5.992,0.0427,132.927,0.915,25,Calvin Harris
+I Created Disco,15,7vCktBFmqeiv0is9cEMV2r,The Girls - Acoustic Version,spotify:track:7vCktBFmqeiv0is9cEMV2r,0.85,0.771,0.295,0,0.0933,-10.186,0.063,110.772,0.562,25,Calvin Harris
+I Created Disco,11,5mZiGEvXkXyZyP1FcY6zU4,Vault Character,spotify:track:5mZiGEvXkXyZyP1FcY6zU4,0.995,0,0.0742,0.997,0.35,-15.511,0,0,0,0,Calvin Harris
+I Created Disco,15,7uIk9IZLSk5qHYvR6Sfjvo,We're All The Same,spotify:track:7uIk9IZLSk5qHYvR6Sfjvo,0.00102,0.929,0.434,0.304,0.0775,-7.978,0.0545,114.977,0.882,16,Calvin Harris
