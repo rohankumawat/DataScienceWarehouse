@@ -1,0 +1,88 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Sunsets & Full Moons,1,6CS7hNTlgl3uKLiBm7LGb1,Something Unreal,spotify:track:6CS7hNTlgl3uKLiBm7LGb1,0.00259,0.572,0.775,1.01E-05,0.139,-4.828,0.0587,133.914,0.501,48,The Script
+Sunsets & Full Moons,2,600oiqLkQIJ85HvQGIQWvO,The Last Time,spotify:track:600oiqLkQIJ85HvQGIQWvO,0.0486,0.521,0.746,0,0.236,-3.421,0.0349,132.014,0.15,64,The Script
+Sunsets & Full Moons,3,7ybTXgmWoVFV33te4kVlUR,Run Through Walls,spotify:track:7ybTXgmWoVFV33te4kVlUR,0.226,0.337,0.66,0,0.744,-3.644,0.0324,158.864,0.49,63,The Script
+Sunsets & Full Moons,4,0lvHNgiu7Wr817eZOdcboQ,If You Don't Love Yourself,spotify:track:0lvHNgiu7Wr817eZOdcboQ,0.0261,0.555,0.779,6.64E-06,0.119,-6.021,0.0287,99.966,0.616,50,The Script
+Sunsets & Full Moons,5,4tgP8QJD8zEqhPAL8YMXcO,Hurt People Hurt People,spotify:track:4tgP8QJD8zEqhPAL8YMXcO,0.0038,0.395,0.741,0,0.212,-4.543,0.0436,97.3,0.389,41,The Script
+Sunsets & Full Moons,6,6QZN4gD7ezuPKX2TNOw28u,Same Time,spotify:track:6QZN4gD7ezuPKX2TNOw28u,0.405,0.625,0.565,0,0.0871,-7.528,0.0524,104.817,0.389,48,The Script
+Sunsets & Full Moons,7,2oxwlcZPlaZ3piXiCegbRl,Underdog,spotify:track:2oxwlcZPlaZ3piXiCegbRl,0.0677,0.692,0.729,0,0.124,-6.696,0.124,89.958,0.395,53,The Script
+Sunsets & Full Moons,8,0dfIhlK55degCrUnr9zUli,The Hurt Game,spotify:track:0dfIhlK55degCrUnr9zUli,0.00886,0.497,0.654,0,0.129,-5.982,0.0321,150.099,0.181,42,The Script
+Sunsets & Full Moons,9,0SgMHT66IGNpH2CDejXI8h,Hot Summer Nights,spotify:track:0SgMHT66IGNpH2CDejXI8h,0.112,0.673,0.657,0,0.102,-6.279,0.0589,95.034,0.297,49,The Script
+Freedom Child,1,7mIFzHyC5luAXh0jIMj6XY,No Man is an Island,spotify:track:7mIFzHyC5luAXh0jIMj6XY,0.00446,0.651,0.693,1.32E-05,0.124,-6.828,0.0543,144.953,0.548,51,The Script
+Freedom Child,2,2QWP8NYYplOqEFBYGCcq0S,Rain,spotify:track:2QWP8NYYplOqEFBYGCcq0S,0.241,0.689,0.586,0,0.356,-7.61,0.107,93.02,0.611,66,The Script
+Freedom Child,3,3WTUNLFtzWaDwfFfZJZ9d8,Arms Open,spotify:track:3WTUNLFtzWaDwfFfZJZ9d8,0.488,0.513,0.554,0.000259,0.111,-5.638,0.0372,175.958,0.722,57,The Script
+Freedom Child,4,3njZlgsB9MI6DVTg8wDPsg,Rock the World,spotify:track:3njZlgsB9MI6DVTg8wDPsg,0.0038,0.641,0.604,0,0.106,-6.771,0.0276,130.94,0.285,50,The Script
+Freedom Child,5,3WFeGpklHvro9Um4uYWyBZ,Mad Love,spotify:track:3WFeGpklHvro9Um4uYWyBZ,0.006,0.831,0.681,0.164,0.13,-7.535,0.0713,87.995,0.493,42,The Script
+Freedom Child,6,6ZMN5CMFQSV1QuSi8iYOiV,Deliverance,spotify:track:6ZMN5CMFQSV1QuSi8iYOiV,0.00523,0.713,0.676,0,0.109,-7.09,0.046,147.007,0.514,40,The Script
+Freedom Child,7,1LwM2qIXi3Y7YTcJ6BQgal,Divided States of America,spotify:track:1LwM2qIXi3Y7YTcJ6BQgal,0.0866,0.551,0.854,0,0.242,-6.163,0.176,176.053,0.386,42,The Script
+Freedom Child,8,5jJXjQcZUdL7sj3hCW4LrJ,Wonders,spotify:track:5jJXjQcZUdL7sj3hCW4LrJ,0.0111,0.599,0.67,0,0.181,-5.889,0.0321,129.879,0.366,56,The Script
+Freedom Child,9,3ZVrELQ8ncJNY0K6oWgHSB,Love Not Lovers,spotify:track:3ZVrELQ8ncJNY0K6oWgHSB,0.715,0.658,0.531,2.38E-06,0.208,-7.759,0.0242,97.658,0.662,48,The Script
+Freedom Child,10,5tfYoMU6AtoyQVFbNAb1XQ,Eden,spotify:track:5tfYoMU6AtoyQVFbNAb1XQ,0.000515,0.677,0.801,0.000856,0.0991,-6.742,0.0383,141.898,0.526,40,The Script
+Freedom Child,11,3uJf94Ifcu7ducKMbmGjuw,Make Up,spotify:track:3uJf94Ifcu7ducKMbmGjuw,0.616,0.346,0.398,0,0.138,-10.383,0.0491,79.246,0.323,42,The Script
+Freedom Child,12,4jyVtsexyS1kY6X3X3gmAw,Written in the Scars,spotify:track:4jyVtsexyS1kY6X3X3gmAw,0.0198,0.597,0.624,0,0.0893,-9.018,0.128,166.201,0.631,52,The Script
+Freedom Child,13,3SxqLiM3pVLPJ6OvrcdH3N,Awakening,spotify:track:3SxqLiM3pVLPJ6OvrcdH3N,0.918,0.263,0.141,0.961,0.699,-22.844,0.0361,131.625,0.198,38,The Script
+Freedom Child,14,10Q0ftQ4n8lyBj8t423BSY,Freedom Child,spotify:track:10Q0ftQ4n8lyBj8t423BSY,0.00185,0.685,0.693,0.0135,0.213,-7.854,0.0311,131.959,0.674,43,The Script
+No Sound Without Silence,12,2BBzxzDpfHS08xLWU938ef,Breakeven - Live in Tokyo,spotify:track:2BBzxzDpfHS08xLWU938ef,0.0655,0.517,0.876,0,0.714,-5.915,0.0761,93.917,0.484,2,The Script
+No Sound Without Silence,13,4vVtfZOX2ew3FXbE2xT3Ec,Superheroes - Live in Tokyo,spotify:track:4vVtfZOX2ew3FXbE2xT3Ec,0.0706,0.387,0.961,0,0.641,-5.276,0.129,170.761,0.449,2,The Script
+No Sound Without Silence,14,7uN5A4qJcsQVdtL8kBJNBs,The Man Who Can't Be Moved - Live in Tokyo,spotify:track:7uN5A4qJcsQVdtL8kBJNBs,0.377,0.554,0.837,0,0.974,-5.831,0.0474,99.93,0.476,2,The Script
+No Sound Without Silence,15,51N5hR4Z48hA3FOyT2ZzKR,The Energy Never Dies - Live in Tokyo,spotify:track:51N5hR4Z48hA3FOyT2ZzKR,0.0872,0.428,0.914,0,0.677,-5.476,0.122,138.452,0.225,1,The Script
+No Sound Without Silence,16,0zVz7Pfppo5I0otc5MHSL7,For the First Time - Live in Tokyo,spotify:track:0zVz7Pfppo5I0otc5MHSL7,0.119,0.464,0.819,0,0.927,-5.672,0.0297,87.735,0.581,1,The Script
+No Sound Without Silence,17,7EuL7IxlkpUyGYlonBYNZb,Hall of Fame - Live in Tokyo,spotify:track:7EuL7IxlkpUyGYlonBYNZb,0.0146,0.348,0.967,0,0.922,-4.849,0.204,85.242,0.521,3,The Script
+No Sound Without Silence,1,0Dv4DdNy1xnhNcCd9YVoiH,No Good in Goodbye,spotify:track:0Dv4DdNy1xnhNcCd9YVoiH,0.0104,0.366,0.873,0,0.0839,-4.654,0.0436,156.03,0.216,58,The Script
+No Sound Without Silence,2,37sINbJZcFdHFAsVNsPq1i,Superheroes,spotify:track:37sINbJZcFdHFAsVNsPq1i,0.00218,0.49,0.885,0,0.0741,-4.121,0.0396,166.996,0.64,79,The Script
+No Sound Without Silence,3,4b30rxe4kxjNl8YpE17Sew,Man on a Wire,spotify:track:4b30rxe4kxjNl8YpE17Sew,0.00188,0.393,0.836,0,0.0698,-3.533,0.0363,180.092,0.367,57,The Script
+No Sound Without Silence,4,6vbDjDCBIarDJGsV70pnOv,It's Not Right for You,spotify:track:6vbDjDCBIarDJGsV70pnOv,0.12,0.389,0.735,0,0.121,-5.49,0.0509,172.242,0.452,47,The Script
+No Sound Without Silence,5,5W2FRXOq70ADDROFMvWky8,The Energy Never Dies,spotify:track:5W2FRXOq70ADDROFMvWky8,0.0807,0.546,0.792,0,0.237,-5.222,0.0306,137.515,0.478,50,The Script
+No Sound Without Silence,6,3mTEYjm3kIm4YzJ5zxJZjs,Flares,spotify:track:3mTEYjm3kIm4YzJ5zxJZjs,0.408,0.348,0.351,0,0.055,-9.883,0.0344,164.054,0.0661,63,The Script
+No Sound Without Silence,7,7kBZa4WCbZGkJzi2gCr401,Army of Angels,spotify:track:7kBZa4WCbZGkJzi2gCr401,0.0343,0.492,0.578,0,0.0988,-6.604,0.0268,93.976,0.127,49,The Script
+No Sound Without Silence,8,71qNRlNDnPahvATE7Zl4Nw,"Never Seen Anything ""Quite Like You""",spotify:track:71qNRlNDnPahvATE7Zl4Nw,0.429,0.317,0.464,1.27E-06,0.103,-7.37,0.0274,159.906,0.414,63,The Script
+No Sound Without Silence,9,5sUSZx5d2bThAZa4iS7cfu,Paint the Town Green,spotify:track:5sUSZx5d2bThAZa4iS7cfu,0.00508,0.647,0.822,6.84E-05,0.184,-4.923,0.0378,119.987,0.739,59,The Script
+No Sound Without Silence,10,45B31c6tSg5Zw7PuF1WbEt,Without Those Songs,spotify:track:45B31c6tSg5Zw7PuF1WbEt,0.0315,0.481,0.524,1.08E-06,0.235,-7.035,0.0302,76.082,0.162,44,The Script
+No Sound Without Silence,11,5tvUEs7zWbe9rPXQUGE6Cg,Hail Rain or Sunshine,spotify:track:5tvUEs7zWbe9rPXQUGE6Cg,0.00512,0.522,0.737,0,0.0655,-6.732,0.0329,129.994,0.338,51,The Script
+#3 Deluxe Version,1,629MXzH7txguTIePdNXOWY,Good Ol' Days,spotify:track:629MXzH7txguTIePdNXOWY,0.031,0.549,0.945,0,0.114,-4.351,0.0329,93.998,0.565,46,The Script
+#3 Deluxe Version,2,0Sayb1EWTywPttwJo7zjBt,Six Degrees of Separation,spotify:track:0Sayb1EWTywPttwJo7zjBt,0.156,0.517,0.828,0,0.901,-4.223,0.0493,147.956,0.516,61,The Script
+#3 Deluxe Version,3,7wMq5n8mYSKlQIGECKUgTX,Hall of Fame (feat. will.i.am),spotify:track:7wMq5n8mYSKlQIGECKUgTX,0.0654,0.421,0.873,0,0.123,-4.343,0.0564,84.786,0.629,83,The Script
+#3 Deluxe Version,4,6EzSy7WxNCazx3csu7lxdV,If You Could See Me Now,spotify:track:6EzSy7WxNCazx3csu7lxdV,0.00569,0.602,0.758,0,0.145,-6.864,0.0399,100.017,0.368,65,The Script
+#3 Deluxe Version,5,7JqCjgNaHhNcvL9DDLynJP,Glowing,spotify:track:7JqCjgNaHhNcvL9DDLynJP,0.0172,0.445,0.823,0,0.341,-4.226,0.0339,157.966,0.304,49,The Script
+#3 Deluxe Version,6,0SrrslErFxqDBR30B7LVSb,Give the Love Around,spotify:track:0SrrslErFxqDBR30B7LVSb,0.221,0.606,0.838,0,0.0922,-5.5,0.0529,91.02,0.659,46,The Script
+#3 Deluxe Version,7,5KxoDNLmlkvEEZNSdw7Evj,Broken Arrow,spotify:track:5KxoDNLmlkvEEZNSdw7Evj,0.00873,0.438,0.875,0,0.251,-5.058,0.0841,90.057,0.58,44,The Script
+#3 Deluxe Version,8,6ljKFva9CLIoc0Y26B2NSb,Kaleidoscope,spotify:track:6ljKFva9CLIoc0Y26B2NSb,0.00341,0.504,0.797,4.89E-05,0.052,-6.023,0.0513,120.033,0.366,41,The Script
+#3 Deluxe Version,9,2nZRTRS4Asz7qV6CLW85qA,No Words,spotify:track:2nZRTRS4Asz7qV6CLW85qA,0.361,0.567,0.777,1.48E-06,0.0901,-6.181,0.0376,89.043,0.563,45,The Script
+#3 Deluxe Version,10,6QiBNpMK7xlZFnnoEdIPCr,Millionaires,spotify:track:6QiBNpMK7xlZFnnoEdIPCr,0.169,0.402,0.791,0,0.167,-3.804,0.0434,186.06,0.493,52,The Script
+#3 Deluxe Version,1,1MkiqU0AvKhjOZdL6I7NQS,Moon Boots,spotify:track:1MkiqU0AvKhjOZdL6I7NQS,0.000518,0.482,0.872,0,0.0935,-4.813,0.0469,152.888,0.532,37,The Script
+#3 Deluxe Version,2,46N5bUS88qYcDXYvCRCPPm,Hurricanes,spotify:track:46N5bUS88qYcDXYvCRCPPm,0.000893,0.439,0.833,8.38E-05,0.259,-5.192,0.0358,123.988,0.341,38,The Script
+#3 Deluxe Version,3,0FB5ILDICqwK6xj7W1RP9u,Hall of Fame,spotify:track:0FB5ILDICqwK6xj7W1RP9u,0.0807,0.511,0.872,0,0.0975,-4.414,0.0491,84.953,0.511,64,The Script
+#3 Deluxe Version,4,2hFw7EzB1g8QGunPJjBjrh,"Breakeven - Live At The Aviva Stadium, Dublin",spotify:track:2hFw7EzB1g8QGunPJjBjrh,0.000817,0.357,0.923,0.00297,0.926,-3.407,0.0392,94.123,0.314,39,The Script
+#3 Deluxe Version,5,2xMVakxkbsjd8KI6QmG79Q,"The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",spotify:track:2xMVakxkbsjd8KI6QmG79Q,0.278,0.371,0.892,0.000556,0.615,-3.903,0.0444,99.895,0.307,41,The Script
+#3 Deluxe Version,6,4eeHsWT8u0zwXejVYaSoLM,"Talk You Down - Live At The Aviva Stadium, Dublin",spotify:track:4eeHsWT8u0zwXejVYaSoLM,0.000215,0.333,0.953,5.46E-05,0.335,-3.554,0.0635,135.802,0.325,35,The Script
+#3 Deluxe Version,7,4llNwotltjRfm312AvF7vn,"For the First Time - Live At The Aviva Stadium, Dublin",spotify:track:4llNwotltjRfm312AvF7vn,0.00355,0.192,0.832,0.0353,0.927,-3.62,0.0401,175.104,0.296,39,The Script
+Science & Faith,9,007YzRKaY8AP8kZhzjDoUM,Walk Away (feat. B.o.B),spotify:track:007YzRKaY8AP8kZhzjDoUM,0.00924,0.513,0.849,0,0.169,-5.612,0.0579,87.12,0.517,0,The Script
+Science & Faith,11,2Ch1OlQEjmX9Jc1ewgPKsc,Bullet From A Gun,spotify:track:2Ch1OlQEjmX9Jc1ewgPKsc,0.00996,0.568,0.868,0,0.211,-4.136,0.0346,120.045,0.646,30,The Script
+Science & Faith,1,0vmbHBKWMkISiyKLqGPAba,You Won't Feel a Thing,spotify:track:0vmbHBKWMkISiyKLqGPAba,0.00868,0.487,0.871,0,0.294,-3.263,0.0315,141.048,0.333,46,The Script
+Science & Faith,2,49kjlZP49LMD1MrrcvXDET,For the First Time,spotify:track:49kjlZP49LMD1MrrcvXDET,0.0339,0.388,0.633,0,0.104,-4.769,0.0275,173.947,0.381,72,The Script
+Science & Faith,3,3cdhgO3vgHyOIADMXokd2t,Nothing,spotify:track:3cdhgO3vgHyOIADMXokd2t,0.00387,0.47,0.837,0,0.117,-4.963,0.0396,157.044,0.522,63,The Script
+Science & Faith,4,0cnouzAiEjdjXB5xVVQ8Vo,Science & Faith,spotify:track:0cnouzAiEjdjXB5xVVQ8Vo,0.00294,0.577,0.837,2.40E-06,0.334,-4.05,0.025,104.96,0.453,55,The Script
+Science & Faith,5,6Vg3QC5UcpdAcGXgUqkjIX,If You Ever Come Back,spotify:track:6Vg3QC5UcpdAcGXgUqkjIX,0.0389,0.549,0.809,0,0.116,-4.714,0.0277,95.989,0.572,59,The Script
+Science & Faith,6,7mQxnPIvw0V7LWFoHBF8uZ,Long Gone and Moved On,spotify:track:7mQxnPIvw0V7LWFoHBF8uZ,0.0161,0.579,0.814,0,0.384,-4.802,0.0278,137.947,0.652,49,The Script
+Science & Faith,7,228a7WCF5wqvDA51MnG21E,Dead Man Walking,spotify:track:228a7WCF5wqvDA51MnG21E,0.083,0.406,0.722,0,0.263,-4.494,0.0331,176.02,0.483,48,The Script
+Science & Faith,8,0axZ1pkds89AVTvko3zg7z,This = Love,spotify:track:0axZ1pkds89AVTvko3zg7z,0.057,0.319,0.753,0,0.0621,-4.745,0.0457,93.806,0.579,44,The Script
+Science & Faith,9,32GU2wHE0XjhbTl182GRH7,Walk Away,spotify:track:32GU2wHE0XjhbTl182GRH7,0.0171,0.532,0.868,0,0.148,-5.896,0.047,87.044,0.407,42,The Script
+Science & Faith,10,21GsEoN7kaSUrzXZnAeol9,Exit Wounds,spotify:track:21GsEoN7kaSUrzXZnAeol9,0.0219,0.54,0.749,0,0.253,-4.558,0.0291,114.95,0.3,48,The Script
+The Script,11,0DmEYazgfO5sB5NwBHxVnW,Interview for Napster Germany,spotify:track:0DmEYazgfO5sB5NwBHxVnW,0.783,0.715,0.365,0,0.391,-14.553,0.962,124.335,0.692,1,The Script
+The Script,1,3gvNewHViZhW1VMtWQYUY9,We Cry (Explicit),spotify:track:3gvNewHViZhW1VMtWQYUY9,0.0518,0.555,0.882,0,0.353,-4.604,0.0578,91.93,0.679,5,The Script
+The Script,2,4RfGeVDrON1JJWtWOyn8wQ,Before The Worst,spotify:track:4RfGeVDrON1JJWtWOyn8wQ,0.135,0.592,0.921,0,0.649,-4.226,0.0463,115.082,0.396,4,The Script
+The Script,12,6ov7V6xLf2Ur2pVgUBABFD,Live Like We're Dying,spotify:track:6ov7V6xLf2Ur2pVgUBABFD,0.1,0.618,0.85,0,0.34,-3.582,0.0495,92.061,0.965,0,The Script
+The Script,13,2mBECffUg33Rxpt8SNF4H1,We Cry - Live Mix,spotify:track:2mBECffUg33Rxpt8SNF4H1,0.0633,0.436,0.912,0,0.937,-5.62,0.156,92.132,0.611,1,The Script
+The Script,11,3YpSA3YCEGjmOj2y8oz0P7,Breakeven - Live At Shepherd's Bush Empire,spotify:track:3YpSA3YCEGjmOj2y8oz0P7,0.00875,0.532,0.779,1.22E-06,0.953,-6.643,0.0327,94.022,0.363,0,The Script
+The Script,8,3EqPv1WXyCU51IQnRXFWDv,Fall for Anything,spotify:track:3EqPv1WXyCU51IQnRXFWDv,0.118,0.557,0.842,0,0.0672,-4.382,0.0339,123.055,0.49,35,The Script
+The Script,11,5S7HZStitxVws677cC1eQ7,Talk You Down - Live at Shepherds Bush Empire,spotify:track:5S7HZStitxVws677cC1eQ7,0.00569,0.479,0.873,0,0.403,-6.59,0.0574,135.93,0.496,11,The Script
+The Script,1,5cxllEuDs5ekHTeO7TBoeC,We Cry,spotify:track:5cxllEuDs5ekHTeO7TBoeC,0.0479,0.556,0.88,0,0.351,-4.604,0.0645,91.893,0.663,46,The Script
+The Script,3,126cogEQR3NyrgbI3E2pXA,Talk You Down,spotify:track:126cogEQR3NyrgbI3E2pXA,0.0526,0.538,0.907,0,0.155,-3.921,0.0425,136.035,0.398,45,The Script
+The Script,6,3NHLS2OKlsatqCG3gKwBdX,Rusty Halo,spotify:track:3NHLS2OKlsatqCG3gKwBdX,0.00822,0.523,0.933,0,0.327,-3.352,0.0377,152.044,0.804,36,The Script
+The Script,9,3NjpuikUZYI2uvAhfpK35L,If You See Kay,spotify:track:3NjpuikUZYI2uvAhfpK35L,0.0769,0.564,0.747,0,0.157,-4.397,0.0398,87.819,0.613,40,The Script
+The Script,11,7ALSYi8lohVkPxwC8RHBjw,Anybody There,spotify:track:7ALSYi8lohVkPxwC8RHBjw,0.0258,0.391,0.713,0,0.109,-5.163,0.0353,155.78,0.228,33,The Script
+The Script,2,7D3woUaa3J2wCsVy3pSbXH,Before the Worst,spotify:track:7D3woUaa3J2wCsVy3pSbXH,0.122,0.602,0.919,0,0.692,-4.204,0.0427,115.077,0.393,50,The Script
+The Script,4,3nqqDo8CcCLke3ZoTgiOKf,The Man Who Can't Be Moved,spotify:track:3nqqDo8CcCLke3ZoTgiOKf,0.437,0.605,0.629,0,0.097,-5.051,0.0279,99.894,0.308,76,The Script
+The Script,5,285hMzLhJwHVLe9QT9qilk,Breakeven,spotify:track:285hMzLhJwHVLe9QT9qilk,0.144,0.63,0.696,0,0.0835,-4.501,0.0242,94.034,0.491,78,The Script
+The Script,7,6JupJy2IBXjzXHodNMErRa,The End Where I Begin,spotify:track:6JupJy2IBXjzXHodNMErRa,0.097,0.296,0.619,0,0.114,-5.727,0.0288,109.992,0.0638,43,The Script
+The Script,10,1gqjU3fPR8rSk3QTt13LxC,I'm Yours,spotify:track:1gqjU3fPR8rSk3QTt13LxC,0.819,0.653,0.35,9.68E-06,0.129,-10.282,0.0272,104.944,0.0655,47,The Script

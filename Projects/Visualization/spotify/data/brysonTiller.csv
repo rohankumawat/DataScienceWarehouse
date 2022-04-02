@@ -1,0 +1,60 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+A Different Christmas,1,2TYcxKCale4adLTwDRKkmV,be mine this christmas,spotify:track:2TYcxKCale4adLTwDRKkmV,0.209,0.617,0.624,0,0.323,-6.896,0.481,86.087,0.727,51,Bryson Tiller
+A Different Christmas,2,1Gj06DJZBCKKvwurPprOZc,cold december interlude,spotify:track:1Gj06DJZBCKKvwurPprOZc,0.123,0.6,0.588,8.26E-06,0.139,-7.581,0.493,164.141,0.437,44,Bryson Tiller
+A Different Christmas,3,4QyO5yNf3W534HK5gI1lMA,presents (feat. Kiana Ledé),spotify:track:4QyO5yNf3W534HK5gI1lMA,0.0795,0.718,0.652,0,0.102,-7.373,0.132,84.014,0.482,53,Bryson Tiller
+A Different Christmas,4,4RbbPu7WWsF49Gis4aRfqS,i'll be home for christmas,spotify:track:4RbbPu7WWsF49Gis4aRfqS,0.786,0.435,0.114,0,0.352,-10.369,0.042,115.251,0.368,40,Bryson Tiller
+A Different Christmas,5,5FZNkiHoC7fbc30acoRpfb,lonely christmas (feat. Justin Bieber & Poo Bear),spotify:track:5FZNkiHoC7fbc30acoRpfb,0.0678,0.74,0.759,9.19E-06,0.088,-4.972,0.0356,100.015,0.631,51,Bryson Tiller
+A Different Christmas,6,1WSOncoBvbmkvujGKVBQKu,ain't a lonely christmas song (feat. Tayla Parx),spotify:track:1WSOncoBvbmkvujGKVBQKu,0.0513,0.63,0.682,3.93E-06,0.226,-4.998,0.0639,134.88,0.121,41,Bryson Tiller
+A Different Christmas,7,4k2VqYy2brbDYjBaeQtsjE,winter wonderland (feat. Halo),spotify:track:4k2VqYy2brbDYjBaeQtsjE,0.113,0.67,0.673,0,0.266,-5.65,0.0812,122.192,0.307,51,Bryson Tiller
+A N N I V E R S A R Y (Deluxe),11,0vaurfXBWA3owUdvkfhEGy,Still Yours (feat. Big Sean),spotify:track:0vaurfXBWA3owUdvkfhEGy,0.0114,0.595,0.637,0,0.336,-6.21,0.17,84.601,0.103,60,Bryson Tiller
+A N N I V E R S A R Y (Deluxe),12,62D6Bjz4IgTKDJRLPD3gJY,Timeless Interlude Pt. II,spotify:track:62D6Bjz4IgTKDJRLPD3gJY,0.665,0.481,0.613,0,0.177,-7.965,0.41,152.218,0.668,50,Bryson Tiller
+A N N I V E R S A R Y (Deluxe),13,1k1GjmGx9mkaW8I3rOCriP,Losing Focus,spotify:track:1k1GjmGx9mkaW8I3rOCriP,0.0212,0.774,0.485,0,0.688,-6.315,0.145,129.136,0.313,56,Bryson Tiller
+A N N I V E R S A R Y (Deluxe),14,7LJZyNjN5U0LdYSBQ9hlLz,07:00,spotify:track:7LJZyNjN5U0LdYSBQ9hlLz,0.11,0.685,0.572,0,0.183,-5.685,0.147,117.336,0.275,64,Bryson Tiller
+A N N I V E R S A R Y (Deluxe),15,3lHjq5Q6WvVVMJfc1FmUYr,Like Clockwork,spotify:track:3lHjq5Q6WvVVMJfc1FmUYr,0.19,0.864,0.691,0,0.112,-4.884,0.332,115.906,0.144,54,Bryson Tiller
+A N N I V E R S A R Y,1,4SVTus5gJc5cfkFZ8ELK1p,Years Go By,spotify:track:4SVTus5gJc5cfkFZ8ELK1p,0.0279,0.374,0.577,5.60E-06,0.562,-7.085,0.302,184.201,0.0658,59,Bryson Tiller
+A N N I V E R S A R Y,2,1LV5cAo02H8h5YlZNcjULM,Always Forever,spotify:track:1LV5cAo02H8h5YlZNcjULM,0.168,0.605,0.489,2.36E-06,0.187,-7.234,0.174,147.341,0.326,63,Bryson Tiller
+A N N I V E R S A R Y,3,1zmv0tPVWdbCuvBw90MYwO,I'm Ready For You,spotify:track:1zmv0tPVWdbCuvBw90MYwO,0.228,0.741,0.64,8.55E-05,0.138,-6.452,0.405,179.095,0.893,57,Bryson Tiller
+A N N I V E R S A R Y,4,0LLsvPLHxlUk1x8r77H2b6,Things Change,spotify:track:0LLsvPLHxlUk1x8r77H2b6,0.245,0.758,0.613,4.36E-05,0.111,-4.851,0.37,145.756,0.491,59,Bryson Tiller
+A N N I V E R S A R Y,5,6Iw6fQVKZi0fWtEQBrTFcP,Timeless Interlude,spotify:track:6Iw6fQVKZi0fWtEQBrTFcP,0.815,0.467,0.429,5.22E-05,0.177,-8.689,0.0964,148.53,0.24,56,Bryson Tiller
+A N N I V E R S A R Y,6,5TXQCMKN6TgemTL3c4wRTn,Sorrows,spotify:track:5TXQCMKN6TgemTL3c4wRTn,0.148,0.633,0.793,0,0.867,-6.847,0.182,109.093,0.761,75,Bryson Tiller
+A N N I V E R S A R Y,7,0ycIrEpkyb4lrqE7M1emju,Inhale,spotify:track:0ycIrEpkyb4lrqE7M1emju,0.321,0.498,0.705,0.000441,0.414,-8.088,0.392,156.519,0.571,66,Bryson Tiller
+A N N I V E R S A R Y,8,4SCnCPOUOUXUmCX2uHb3r7,Outta Time (feat. Drake),spotify:track:4SCnCPOUOUXUmCX2uHb3r7,0.0129,0.714,0.582,0,0.0774,-7.272,0.0808,92.819,0.338,72,Bryson Tiller
+A N N I V E R S A R Y,9,1MpQyTgfVMpUOnwKMTSMzu,Keep Doing What You're Doing,spotify:track:1MpQyTgfVMpUOnwKMTSMzu,0.84,0.363,0.359,9.11E-05,0.353,-12.19,0.101,74.526,0.142,68,Bryson Tiller
+A N N I V E R S A R Y,10,2SSyJ6hTS0JeHTg63wVDZ7,Next To You,spotify:track:2SSyJ6hTS0JeHTg63wVDZ7,0.0375,0.639,0.439,3.56E-06,0.0699,-8.425,0.0601,141.408,0.559,67,Bryson Tiller
+T R A P S O U L (Deluxe),15,4Vwg5CDYqAOf50Rt1WC6Kh,Just Another Interlude,spotify:track:4Vwg5CDYqAOf50Rt1WC6Kh,0.163,0.578,0.545,0,0.202,-9.403,0.314,93.045,0.515,66,Bryson Tiller
+T R A P S O U L (Deluxe),16,4w9dTbEcJx8uBTxGvUYC0h,Self Righteous,spotify:track:4w9dTbEcJx8uBTxGvUYC0h,0.204,0.521,0.576,0,0.223,-7.019,0.272,100.02,0.234,63,Bryson Tiller
+T R A P S O U L (Deluxe),17,62itulOgU4flQFuI7f7JF8,Rambo (Last Blood) (feat. The Weeknd),spotify:track:62itulOgU4flQFuI7f7JF8,0.228,0.508,0.686,0,0.102,-6.994,0.136,181.333,0.4,59,Bryson Tiller
+T R A P S O U L (Deluxe),18,30f1CJ2yzc1VLF7IdTle4v,Outro (Thank You),spotify:track:30f1CJ2yzc1VLF7IdTle4v,0.602,0.596,0.407,0.351,0.111,-9.172,0.175,100.002,0.66,38,Bryson Tiller
+True to Self,1,52LjL3x9tNh6C4eI6SMceX,Rain On Me (Intro),spotify:track:52LjL3x9tNh6C4eI6SMceX,0.0236,0.471,0.564,3.89E-06,0.103,-9.241,0.21,122.119,0.406,46,Bryson Tiller
+True to Self,2,4IdAIZRVkwuQQnHpi529cn,No Longer Friends,spotify:track:4IdAIZRVkwuQQnHpi529cn,0.205,0.651,0.663,0,0.105,-7.78,0.327,114.137,0.377,58,Bryson Tiller
+True to Self,3,0OVhQZkNe7lh0fQeH96EFW,Don't Get Too High,spotify:track:0OVhQZkNe7lh0fQeH96EFW,0.0148,0.88,0.495,1.47E-06,0.121,-3.476,0.0695,124.024,0.469,56,Bryson Tiller
+True to Self,4,4B2OmQGLBVB51aYNgUvXeM,Blowing Smoke,spotify:track:4B2OmQGLBVB51aYNgUvXeM,0.0144,0.918,0.445,2.15E-06,0.123,-4.008,0.166,127.961,0.292,47,Bryson Tiller
+True to Self,5,3tuyK9qfen7lPMji9Saw3d,We Both Know,spotify:track:3tuyK9qfen7lPMji9Saw3d,0.16,0.917,0.392,0.000158,0.104,-5.108,0.316,131.514,0.544,52,Bryson Tiller
+True to Self,6,5xGH4fqJwvMynXn3dcmbpr,You Got It,spotify:track:5xGH4fqJwvMynXn3dcmbpr,0.421,0.788,0.485,0,0.346,-8.096,0.271,124.933,0.686,51,Bryson Tiller
+True to Self,7,4nBhjVklA3Mtnyzshg4KmD,In Check,spotify:track:4nBhjVklA3Mtnyzshg4KmD,0.939,0.454,0.212,1.51E-06,0.11,-12.769,0.101,115.999,0.416,50,Bryson Tiller
+True to Self,8,2rUwQj4SWaP2anuGDtNpYR,Self-Made,spotify:track:2rUwQj4SWaP2anuGDtNpYR,0.00304,0.932,0.702,1.86E-05,0.267,-3.459,0.0904,143.001,0.533,60,Bryson Tiller
+True to Self,9,5GG3knKdxKWrNboRijxeKF,Run Me Dry,spotify:track:5GG3knKdxKWrNboRijxeKF,0.393,0.646,0.756,3.00E-05,0.202,-9.017,0.488,193.88,0.602,68,Bryson Tiller
+True to Self,10,6ZCsp2zQsSTCilvGVefGVN,High Stakes,spotify:track:6ZCsp2zQsSTCilvGVefGVN,0.043,0.431,0.672,0,0.618,-6.534,0.463,76.734,0.235,47,Bryson Tiller
+True to Self,11,13jkajO7W5ZixoVmtU2eLl,Rain Interlude,spotify:track:13jkajO7W5ZixoVmtU2eLl,0.809,0.581,0.587,0,0.227,-7.608,0.395,119.556,0.66,41,Bryson Tiller
+True to Self,12,4KVVCo25PROevpOdHyvYRk,Teach Me a Lesson,spotify:track:4KVVCo25PROevpOdHyvYRk,0.648,0.623,0.416,1.31E-05,0.213,-8.006,0.234,121.497,0.48,50,Bryson Tiller
+True to Self,13,6dxU7Xf9j2yNI7aCcT8W1g,Stay Blessed,spotify:track:6dxU7Xf9j2yNI7aCcT8W1g,0.187,0.585,0.485,0,0.171,-10.355,0.431,77.733,0.289,48,Bryson Tiller
+True to Self,14,3S4wKj113KHgqtZt52Dcd1,Money Problems / Benz Truck,spotify:track:3S4wKj113KHgqtZt52Dcd1,0.0439,0.647,0.631,3.06E-06,0.0909,-5.993,0.378,160.014,0.331,46,Bryson Tiller
+True to Self,15,1oQQ5pf4hft7C3s75B8fXb,Set It Off,spotify:track:1oQQ5pf4hft7C3s75B8fXb,0.549,0.538,0.507,1.11E-06,0.231,-10.181,0.177,145.967,0.27,56,Bryson Tiller
+True to Self,16,0kZOgFGhGfYW5WmdiTb5VV,Nevermind This Interlude,spotify:track:0kZOgFGhGfYW5WmdiTb5VV,0.309,0.906,0.601,0,0.0917,-2.948,0.0836,114.024,0.545,50,Bryson Tiller
+True to Self,17,55o72A8eQo8UVYHbKf9aXX,Before You Judge,spotify:track:55o72A8eQo8UVYHbKf9aXX,0.0824,0.677,0.628,0,0.0771,-7.361,0.619,110.152,0.533,45,Bryson Tiller
+True to Self,18,3Jrs7cC2OJNlNSy9VnDOMZ,Somethin Tells Me,spotify:track:3Jrs7cC2OJNlNSy9VnDOMZ,0.0356,0.735,0.588,0,0.107,-7.197,0.226,90.002,0.435,58,Bryson Tiller
+True to Self,19,5TY8TK26gzqUcVLSymvNx9,Always (Outro),spotify:track:5TY8TK26gzqUcVLSymvNx9,0.122,0.414,0.432,7.83E-05,0.0726,-9.546,0.0646,131.347,0.174,43,Bryson Tiller
+T R A P S O U L,1,39a23fzBmNlAzz7fHok1Jo,Intro (Difference),spotify:track:39a23fzBmNlAzz7fHok1Jo,0.67,0.423,0.707,6.05E-06,0.756,-10.175,0.394,108.432,0.615,54,Bryson Tiller
+T R A P S O U L,2,5QDGKcQLqOJvoiu8eScEaM,Let Em' Know,spotify:track:5QDGKcQLqOJvoiu8eScEaM,0.0336,0.489,0.406,0,0.344,-11.44,0.232,110.551,0.178,69,Bryson Tiller
+T R A P S O U L,3,43PuMrRfbyyuz4QpZ3oAwN,Exchange,spotify:track:43PuMrRfbyyuz4QpZ3oAwN,0.107,0.525,0.433,0,0.135,-10.598,0.185,160.108,0.276,81,Bryson Tiller
+T R A P S O U L,4,5g30WoqK1Dv5Bnwpusp2vk,For However Long,spotify:track:5g30WoqK1Dv5Bnwpusp2vk,0.417,0.584,0.644,0,0.19,-6.788,0.0782,100.033,0.415,59,Bryson Tiller
+T R A P S O U L,5,3pXF1nA74528Edde4of9CC,Don't,spotify:track:3pXF1nA74528Edde4of9CC,0.223,0.765,0.356,0,0.0963,-5.556,0.195,96.991,0.189,83,Bryson Tiller
+T R A P S O U L,6,2uYnktBpKbr8YuiLit7WiZ,Open Interlude,spotify:track:2uYnktBpKbr8YuiLit7WiZ,0.708,0.471,0.447,0,0.0982,-12.319,0.217,119.027,0.397,57,Bryson Tiller
+T R A P S O U L,7,725fdnXEqS0Xs1sTvdNuHq,Ten Nine Fourteen,spotify:track:725fdnXEqS0Xs1sTvdNuHq,0.453,0.671,0.655,0,0.233,-9.443,0.22,105.099,0.814,53,Bryson Tiller
+T R A P S O U L,8,5vjV8rtLO9H1XVMFTXSbnZ,The Sequence,spotify:track:5vjV8rtLO9H1XVMFTXSbnZ,0.171,0.529,0.498,0,0.346,-8.504,0.346,131.194,0.54,56,Bryson Tiller
+T R A P S O U L,9,5RqsqQU0erB0OgLbwem6pU,Rambo,spotify:track:5RqsqQU0erB0OgLbwem6pU,0.309,0.634,0.562,2.08E-06,0.11,-8.923,0.163,181.014,0.307,60,Bryson Tiller
+T R A P S O U L,10,5Y87Aek2DGI5s4WNAh8zKR,502 Come Up,spotify:track:5Y87Aek2DGI5s4WNAh8zKR,0.192,0.59,0.66,0,0.108,-5.559,0.11,119.059,0.418,57,Bryson Tiller
+T R A P S O U L,11,16bHRxM89ue0TiCKARYbRp,Sorry Not Sorry,spotify:track:16bHRxM89ue0TiCKARYbRp,0.0477,0.681,0.608,0,0.225,-6.093,0.207,97.934,0.262,68,Bryson Tiller
+T R A P S O U L,12,0zg5XJPiga7E5FxiehriG2,Been That Way,spotify:track:0zg5XJPiga7E5FxiehriG2,0.0307,0.527,0.759,0,0.103,-6.475,0.282,183.279,0.802,65,Bryson Tiller
+T R A P S O U L,13,2gq9iG0maBxkuZI7yfGJuv,Overtime,spotify:track:2gq9iG0maBxkuZI7yfGJuv,0.254,0.657,0.497,0,0.367,-7.689,0.112,106.049,0.593,63,Bryson Tiller
+T R A P S O U L,14,5rgrBsAFYMun6yhtnLKRPz,Right My Wrongs,spotify:track:5rgrBsAFYMun6yhtnLKRPz,0.345,0.543,0.449,0,0.157,-8.065,0.0463,132.609,0.29,78,Bryson Tiller

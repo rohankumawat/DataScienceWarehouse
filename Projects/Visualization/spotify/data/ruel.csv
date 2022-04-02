@@ -1,0 +1,8 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Free Time,1,0A472qovEW32nP2G0mkJoe,Don't Cry,spotify:track:0A472qovEW32nP2G0mkJoe,0.908,0.477,0.275,4.79E-06,0.0909,-10.091,0.0675,72.717,0.263,53,Ruel
+Free Time,2,24KD18eYQQQWaSW9Von1vA,Real Thing,spotify:track:24KD18eYQQQWaSW9Von1vA,0.154,0.671,0.583,0,0.24,-6.551,0.0737,125.916,0.43,58,Ruel
+Free Time,3,1YlulsUKDduOmC7WxvXYPW,Painkiller,spotify:track:1YlulsUKDduOmC7WxvXYPW,0.0875,0.683,0.42,0,0.225,-6.51,0.0542,128.621,0.469,76,Ruel
+Free Time,4,0D2xguFRqCF0OUqXCkqrpU,Hard Sometimes,spotify:track:0D2xguFRqCF0OUqXCkqrpU,0.845,0.407,0.317,2.66E-06,0.139,-7.895,0.0429,81.899,0.216,71,Ruel
+Free Time,5,2QdVcmVPIxW826rRJDf58l,Face To Face,spotify:track:2QdVcmVPIxW826rRJDf58l,0.139,0.711,0.634,0,0.103,-4.351,0.0668,90.04,0.356,67,Ruel
+Free Time,6,5VEHaQwMTluOyIFRx6VrkZ,Unsaid,spotify:track:5VEHaQwMTluOyIFRx6VrkZ,0.385,0.532,0.433,0,0.355,-6.964,0.0933,77.04,0.267,57,Ruel
+Free Time,7,0fNLObXT9pvc3VED0oAevd,Free Time,spotify:track:0fNLObXT9pvc3VED0oAevd,0.101,0.637,0.478,0,0.103,-5.783,0.03,99.989,0.201,63,Ruel

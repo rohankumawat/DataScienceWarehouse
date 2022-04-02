@@ -1,0 +1,45 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Only Honest On The Weekend (Deluxe),1,02em5H1JIgXssJzQKN6h4M,Run,spotify:track:02em5H1JIgXssJzQKN6h4M,0.0417,0.606,0.883,0,0.0761,-2.71,0.0379,124.026,0.569,59,Becky Hill
+Only Honest On The Weekend (Deluxe),1,3WUSeDStXyrybmiHEH0aO3,Personally,spotify:track:3WUSeDStXyrybmiHEH0aO3,0.209,0.453,0.477,0,0.279,-7.664,0.154,105.056,0.439,64,Becky Hill
+Only Honest On The Weekend (Deluxe),2,1L48gbJGkwp5hGRsZ8dQCE,Here For You,spotify:track:1L48gbJGkwp5hGRsZ8dQCE,0.163,0.33,0.782,0.00154,0.287,-3.383,0.0449,173.928,0.0387,41,Becky Hill
+Only Honest On The Weekend (Deluxe),3,5tUnegdDwcCbM514Yqyabw,Hold On,spotify:track:5tUnegdDwcCbM514Yqyabw,0.01,0.546,0.668,6.67E-05,0.102,-6.017,0.0345,86.021,0.147,40,Becky Hill
+Only Honest On The Weekend (Deluxe),4,77n0mBXfcvN7W2csCdRqdo,Remember - Acoustic,spotify:track:77n0mBXfcvN7W2csCdRqdo,0.796,0.626,0.382,0,0.188,-8.628,0.0383,118.743,0.508,47,Becky Hill
+Only Honest On The Weekend (Deluxe),5,2rbwySrVbJZjzv348w476h,Space,spotify:track:2rbwySrVbJZjzv348w476h,0.0102,0.547,0.809,0,0.133,-5.652,0.0492,121.968,0.331,41,Becky Hill
+Only Honest On The Weekend,1,1EG3ata2XhUsu1XaokvLZV,I Got You,spotify:track:1EG3ata2XhUsu1XaokvLZV,0.0746,0.568,0.728,4.20E-06,0.349,-4.418,0.182,195.984,0.62,51,Becky Hill
+Only Honest On The Weekend,2,54EL4HvZbEhG6pvrAGXGNQ,Last Time,spotify:track:54EL4HvZbEhG6pvrAGXGNQ,0.291,0.731,0.793,0,0.14,-2.36,0.0744,123.901,0.752,60,Becky Hill
+Only Honest On The Weekend,3,0cJ19SMVX83SJnNfIjmX8c,Make It Hard To Love You,spotify:track:0cJ19SMVX83SJnNfIjmX8c,0.0291,0.716,0.815,0,0.136,-3.909,0.0445,121.992,0.531,50,Becky Hill
+Only Honest On The Weekend,4,3kHVz4Vq7ab4RN7WrcJLdp,Better Off Without You (feat. Shift K3Y),spotify:track:3kHVz4Vq7ab4RN7WrcJLdp,0.0679,0.692,0.858,0,0.0944,-3.268,0.0418,124.014,0.278,59,Becky Hill
+Only Honest On The Weekend,5,6feiJqgHqeSvkGUzf11AYs,Remember (and David Guetta),spotify:track:6feiJqgHqeSvkGUzf11AYs,0.0682,0.626,0.864,0,0.087,-3.12,0.0378,123.833,0.555,75,Becky Hill
+Only Honest On The Weekend,6,7BOBabQ3KQR2t7E5mBvZuW,Perfect People,spotify:track:7BOBabQ3KQR2t7E5mBvZuW,0.896,0.331,0.349,0,0.216,-6.255,0.0322,165.191,0.265,48,Becky Hill
+Only Honest On The Weekend,7,2dWNKXTs5z7Iu1g0kYh4Xe,My Heart Goes (La Di Da) (feat. Topic),spotify:track:2dWNKXTs5z7Iu1g0kYh4Xe,0.0185,0.695,0.781,3.12E-05,0.295,-5.578,0.0452,124.04,0.456,76,Becky Hill
+Only Honest On The Weekend,8,7ikgs7pToRtmUz8JaHIGDj,Could Be My Somebody (feat. S1mba),spotify:track:7ikgs7pToRtmUz8JaHIGDj,0.0385,0.828,0.758,2.61E-06,0.088,-5.208,0.0422,129.998,0.845,50,Becky Hill
+Only Honest On The Weekend,9,419yPCUe8gDok6z8Vwizxh,Business (with Ella Eyre),spotify:track:419yPCUe8gDok6z8Vwizxh,0.101,0.641,0.869,0,0.115,-2.518,0.157,148.114,0.804,50,Becky Hill
+Only Honest On The Weekend,10,1rYNLv3s3klgjK7ACDQyxK,Waiting Not Looking,spotify:track:1rYNLv3s3klgjK7ACDQyxK,0.0521,0.628,0.832,0.0219,0.0878,-5.76,0.038,156.955,0.235,41,Becky Hill
+Only Honest On The Weekend,11,5fMmDyIOjD7aRcC0rwolsy,Distance,spotify:track:5fMmDyIOjD7aRcC0rwolsy,0.776,0.514,0.453,0,0.102,-6.253,0.0393,129.596,0.204,42,Becky Hill
+Only Honest On The Weekend,12,1N85gpxRSKAeUX9ZsPjxBg,Lessons (feat. Banx & Ranx),spotify:track:1N85gpxRSKAeUX9ZsPjxBg,0.145,0.71,0.707,0,0.168,-5.178,0.19,112.819,0.69,46,Becky Hill
+Only Honest On The Weekend,13,4ksheDQWyWfjG5ETO0aokW,Heaven On My Mind (with Sigala),spotify:track:4ksheDQWyWfjG5ETO0aokW,0.0309,0.708,0.883,0,0.191,-3.068,0.0773,125.04,0.667,62,Becky Hill
+Only Honest On The Weekend,14,6uktW9We6a1nidJJwNndKd,Is Anybody There,spotify:track:6uktW9We6a1nidJJwNndKd,0.0405,0.683,0.644,0,0.123,-4.853,0.0569,120.031,0.384,42,Becky Hill
+Only Honest On The Weekend,15,6WJaPzHfbfomchPuCNSjli,Through The Night (feat. 220 KID),spotify:track:6WJaPzHfbfomchPuCNSjli,0.291,0.62,0.754,0,0.0552,-2.724,0.0336,123.977,0.59,55,Becky Hill
+Get To Know,2,7dx2BcBcf0OzegEX7AvkGg,Lose Control (with Meduza & Goodboys),spotify:track:7dx2BcBcf0OzegEX7AvkGg,0.129,0.598,0.526,0,0.14,-8.659,0.0415,123.935,0.529,44,Becky Hill
+Get To Know,4,3kb8KSoYVBkZ1YXeynYMow,Wish You Well (with Sigala),spotify:track:3kb8KSoYVBkZ1YXeynYMow,0.122,0.67,0.89,0,0.333,-3.785,0.0576,124.967,0.568,33,Becky Hill
+Get To Know,6,6cALhGR7RRrSaAjPp9i1CG,Back & Forth (with MK & Jonas Blue),spotify:track:6cALhGR7RRrSaAjPp9i1CG,0.0166,0.682,0.808,0,0.0542,-5.351,0.0322,121.985,0.72,0,Becky Hill
+Get To Know,8,62xmHGK6xUejAf4PFIxpaY,Gecko (Overdrive) (with Oliver Heldens) - Radio Edit,spotify:track:62xmHGK6xUejAf4PFIxpaY,0.00537,0.621,0.878,5.34E-06,0.233,-5.506,0.0634,124.965,0.722,53,Becky Hill
+Get To Know,13,2NDAZF7jceM3gneRcbbudQ,False Alarm (with Matoma),spotify:track:2NDAZF7jceM3gneRcbbudQ,0.00775,0.65,0.725,3.36E-05,0.0636,-6.786,0.0283,102.97,0.157,29,Becky Hill
+Get To Know,1,56SkLjnwBXnAkHSf6jBPk3,Changing,spotify:track:56SkLjnwBXnAkHSf6jBPk3,0.012,0.753,0.474,0,0.176,-8.657,0.0716,126.004,0.41,51,Becky Hill
+Get To Know,2,6MSuMFyOdoJMAEgvnhqbRu,I Could Get Used To This (with WEISS),spotify:track:6MSuMFyOdoJMAEgvnhqbRu,0.0108,0.59,0.646,0,0.473,-4.666,0.0603,117.066,0.325,62,Becky Hill
+Get To Know,4,04dqOCvtYqZiCyroSmC8AG,Find A Place (ft. MNEK),spotify:track:04dqOCvtYqZiCyroSmC8AG,0.0517,0.727,0.459,0.000136,0.157,-6.928,0.0332,129.912,0.39,40,Becky Hill
+Get To Know,6,1yzCUW27UAglKxyyTctG2K,Breakdown,spotify:track:1yzCUW27UAglKxyyTctG2K,0.197,0.684,0.615,0,0.0784,-4.807,0.0475,88.021,0.292,37,Becky Hill
+Get To Know,8,0Ex27ezfAlGV02ePHwXEA0,Afterglow (with Wilkinson),spotify:track:0Ex27ezfAlGV02ePHwXEA0,0.0222,0.328,0.909,0.00118,0.145,-2.623,0.0543,87.082,0.0477,41,Becky Hill
+Get To Know,9,4MUsd6bLYntVKqF1Msk5Vd,Stranger,spotify:track:4MUsd6bLYntVKqF1Msk5Vd,0.393,0.555,0.563,0.000429,0.141,-7.965,0.0568,149.634,0.46,37,Becky Hill
+Get To Know,10,3zMgmxcYk8QUpcwwzUpt4v,Piece Of Me (with MK),spotify:track:3zMgmxcYk8QUpcwwzUpt4v,0.00916,0.729,0.899,0,0.243,-2.877,0.0714,122.005,0.759,0,Becky Hill
+Get To Know,11,06Ywi4tWjgxdXkbQRqKrKU,Sunrise In The East,spotify:track:06Ywi4tWjgxdXkbQRqKrKU,0.0292,0.776,0.731,0,0.541,-3.748,0.0382,106.996,0.43,49,Becky Hill
+Get To Know,13,6fEIUXQsj3azrpmeSTdmIR,I Could Get Used To This - Orchestral Acoustic,spotify:track:6fEIUXQsj3azrpmeSTdmIR,0.845,0.292,0.383,0,0.114,-6.298,0.0387,67.388,0.482,55,Becky Hill
+Piece of Me (Remixes),1,0LVlFLaxmFx17NsmaKeM0e,Piece of Me - CamelPhat Remix,spotify:track:0LVlFLaxmFx17NsmaKeM0e,0.000112,0.663,0.946,0.939,0.1,-7.114,0.099,123.007,0.278,15,Becky Hill
+Piece of Me (Remixes),2,6evJ5GQAUNmrK30abTp8Xm,Piece of Me - JKAY Remix,spotify:track:6evJ5GQAUNmrK30abTp8Xm,0.00131,0.752,0.658,0.00351,0.0737,-5.688,0.0493,124.035,0.774,15,Becky Hill
+Piece of Me (Remixes),3,2qkTvODsAC7qyAdiMabxUM,Piece of Me - Groove Armada Remix,spotify:track:2qkTvODsAC7qyAdiMabxUM,1.52E-05,0.714,0.758,0.0663,0.433,-6.884,0.0424,123.995,0.394,8,Becky Hill
+Piece of Me (Remixes),4,7nCWSBI9P85J8nTn2k06cc,"Piece of Me - Riva Starr ""Adventures in TR-909” Remix",spotify:track:7nCWSBI9P85J8nTn2k06cc,6.68E-05,0.808,0.618,0.83,0.041,-8.648,0.05,121.993,0.1,8,Becky Hill
+Piece of Me (Remixes),5,0xD2iKcjgtOAsHSxbDrb7O,Piece of Me - The Saunderson Brothers Remix,spotify:track:0xD2iKcjgtOAsHSxbDrb7O,1.20E-05,0.628,0.8,0.255,0.0507,-6.915,0.0351,123.037,0.371,9,Becky Hill
+Piece of Me (Remixes),6,3sPR0RRNh8NZXOFplux0cY,Piece of Me - Nathan Dalton Broken Remix,spotify:track:3sPR0RRNh8NZXOFplux0cY,0.00697,0.777,0.821,0.0439,0.0464,-6.269,0.0493,122.003,0.401,6,Becky Hill
+Piece of Me (Remixes),7,7GZwc6VTij1NVzSkxEh3Bz,Piece of Me - M.A.X & Paolo Francesco Remix,spotify:track:7GZwc6VTij1NVzSkxEh3Bz,0.00174,0.777,0.541,0.856,0.155,-10.091,0.0517,124.008,0.636,7,Becky Hill
+Piece of Me (Remixes),8,3WMnFPHcQqsHq6yQr03dx2,Piece Of Me - Keep That Dub,spotify:track:3WMnFPHcQqsHq6yQr03dx2,0.00882,0.892,0.857,0.00259,0.0777,-5.862,0.0438,122.026,0.636,16,Becky Hill
+Piece of Me (Remixes),9,0BSfGprlDgnDhq9BBrdtoK,Piece Of Me - Extended Mix,spotify:track:0BSfGprlDgnDhq9BBrdtoK,0.012,0.861,0.794,0.00257,0.0922,-5.834,0.0774,121.987,0.535,26,Becky Hill

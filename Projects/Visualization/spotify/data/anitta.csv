@@ -1,0 +1,75 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Kisses,1,1U62BQhqoJK5j9SI03aBys,Atención,spotify:track:1U62BQhqoJK5j9SI03aBys,0.00158,0.815,0.784,2.30E-05,0.216,-5.502,0.146,156.042,0.8,54,Anitta
+Kisses,2,2eSnW4d3A4SyEVhVPmBffa,Banana,spotify:track:2eSnW4d3A4SyEVhVPmBffa,0.0195,0.752,0.681,0,0.0353,-6.684,0.299,73.233,0.648,60,Anitta
+Kisses,3,2H8ETIUEoN9YMf56X66bxd,Onda diferente (feat. Papatinho),spotify:track:2H8ETIUEoN9YMf56X66bxd,0.333,0.705,0.721,0,0.101,-5.545,0.514,75.132,0.574,61,Anitta
+Kisses,4,6p6sG45DypURkhhXsVr6MN,Sin miedo,spotify:track:6p6sG45DypURkhhXsVr6MN,0.324,0.82,0.772,0,0.0878,-1.781,0.0663,99.961,0.764,54,Anitta
+Kisses,5,5qm2otRZaeZaqdLVVohUjq,Poquito,spotify:track:5qm2otRZaeZaqdLVVohUjq,0.509,0.701,0.852,0,0.309,-4.03,0.126,144.837,0.607,55,Anitta
+Kisses,6,2YHR2QhK6nWta7rbY1on6i,Tu y yo,spotify:track:2YHR2QhK6nWta7rbY1on6i,0.376,0.427,0.65,0,0.218,-6.007,0.0514,84.159,0.716,54,Anitta
+Kisses,7,32lyOiqQrmCUICCcBfkBeG,Get To Know Me,spotify:track:32lyOiqQrmCUICCcBfkBeG,0.251,0.634,0.84,0,0.623,-3.554,0.042,170.007,0.799,51,Anitta
+Kisses,8,7KicgcwT4Pz6wENOTJCNTp,Rosa,spotify:track:7KicgcwT4Pz6wENOTJCNTp,0.449,0.687,0.673,0,0.0746,-4.078,0.0771,87.932,0.551,57,Anitta
+Kisses,9,3m9zvjbilaBUMKNFcROBfF,Juego,spotify:track:3m9zvjbilaBUMKNFcROBfF,0.0827,0.815,0.828,2.20E-06,0.134,-3.278,0.163,176.086,0.882,53,Anitta
+Kisses,10,2GsvXMAz16fKroAmaCxLfL,Você mentiu,spotify:track:2GsvXMAz16fKroAmaCxLfL,0.648,0.809,0.328,1.51E-05,0.107,-11.966,0.0351,82.01,0.304,55,Anitta
+Bang,1,1Cml3fnCNLZUC1EEtkcgVb,Bang,spotify:track:1Cml3fnCNLZUC1EEtkcgVb,0.18,0.896,0.847,0.019,0.0679,-4.005,0.0414,104.996,0.805,62,Anitta
+Bang,2,5UE8e9VTMmv5fjGXLETjCf,Deixa ele sofrer,spotify:track:5UE8e9VTMmv5fjGXLETjCf,0.0508,0.682,0.724,1.37E-06,0.0795,-4.449,0.101,194.026,0.422,54,Anitta
+Bang,3,3hjBYlefZoLMMvziRtYZuM,Cravo e canela (Participação especial de Vitin),spotify:track:3hjBYlefZoLMMvziRtYZuM,0.273,0.658,0.777,0,0.0906,-6.596,0.0526,155.909,0.654,53,Anitta
+Bang,4,3yVhHc4iM8zbahpTI782Ei,Parei,spotify:track:3yVhHc4iM8zbahpTI782Ei,0.26,0.843,0.943,1.43E-05,0.0806,-2.174,0.0553,133.053,0.83,45,Anitta
+Bang,5,5Bn6W4bwH7Bw5nMvn8V4xF,Essa mina é louca (Participação especial de Jhama),spotify:track:5Bn6W4bwH7Bw5nMvn8V4xF,0.386,0.645,0.806,0,0.118,-4.543,0.0844,189.887,0.904,59,Anitta
+Bang,6,77UBpuAOvgi3iTljWuswz2,Atenção,spotify:track:77UBpuAOvgi3iTljWuswz2,0.282,0.811,0.902,0,0.0779,-4.133,0.13,132.948,0.67,45,Anitta
+Bang,7,7CeIxIEh5rGM7iOqfxWcrN,Gosto assim - Participação especial de Dubeat,spotify:track:7CeIxIEh5rGM7iOqfxWcrN,0.352,0.777,0.712,0,0.0719,-5.682,0.229,143.977,0.687,45,Anitta
+Bang,8,4MFJn2mRnWKm0fCge4dy83,Show completo,spotify:track:4MFJn2mRnWKm0fCge4dy83,0.0334,0.818,0.924,8.51E-06,0.076,-3.666,0.0388,133.049,0.792,45,Anitta
+Bang,9,2SzpTcsY2jdMDbNkYDtv6Y,Volta amor,spotify:track:2SzpTcsY2jdMDbNkYDtv6Y,0.66,0.807,0.682,0.00605,0.0622,-4.231,0.0394,176.061,0.811,44,Anitta
+Bang,10,4uGcFswfOPfPfRvHi9KXJR,Sim - Participação especial de Cone Crew Diretoria,spotify:track:4uGcFswfOPfPfRvHi9KXJR,0.743,0.553,0.532,0,0.129,-6.231,0.0982,118.516,0.52,41,Anitta
+Bang,11,2cFTL0ycAKGxxcz6WGtPHG,Pode chegar - Participação especial de Nego do Borel,spotify:track:2cFTL0ycAKGxxcz6WGtPHG,0.362,0.882,0.913,0,0.0629,-3.314,0.0598,132.971,0.889,45,Anitta
+Bang,12,3X4nQ4LwU6ZVzNEnGpNMTm,Eu sou do tipo,spotify:track:3X4nQ4LwU6ZVzNEnGpNMTm,0.369,0.851,0.722,0,0.128,-6.153,0.0664,131.985,0.921,45,Anitta
+Bang,13,6QZDugvGSlF7qKtro1GwkY,Deixa a onda te levar,spotify:track:6QZDugvGSlF7qKtro1GwkY,0.424,0.642,0.88,0.000141,0.13,-4.723,0.0317,95.989,0.739,44,Anitta
+Bang,14,5YKcu1XDsEijBhCjt9zcKL,Me leva a sério,spotify:track:5YKcu1XDsEijBhCjt9zcKL,0.62,0.687,0.547,0,0.15,-6.222,0.0316,88.035,0.457,44,Anitta
+Bang,15,2KSHzo3IkJePz0uguSx2ug,Deixa ele sofrer - Acústico,spotify:track:2KSHzo3IkJePz0uguSx2ug,0.812,0.811,0.545,0,0.0795,-6.716,0.0336,97.033,0.955,45,Anitta
+Meu Lugar,1,4Upra3sdmiH3I3YKaLDotM,Porta do centro da terra - Ao vivo,spotify:track:4Upra3sdmiH3I3YKaLDotM,0.369,0.182,0.565,0.0674,0.409,-15.333,0.11,135.103,0.0822,32,Anitta
+Meu Lugar,2,2vgZZ0I1Fed5ECh6UkVs8T,Não para - Ao vivo,spotify:track:2vgZZ0I1Fed5ECh6UkVs8T,0.00836,0.679,0.939,0.0285,0.825,-5.007,0.0408,134.985,0.598,40,Anitta
+Meu Lugar,3,1NU7BDqsDV4VanASPN7HHt,Menina má - Ao vivo,spotify:track:1NU7BDqsDV4VanASPN7HHt,0.22,0.689,0.925,1.79E-05,0.821,-4.26,0.0652,134.085,0.552,41,Anitta
+Meu Lugar,4,1wv5vc6wWgjCv61lgrxULx,Proposta - Ao vivo,spotify:track:1wv5vc6wWgjCv61lgrxULx,0.107,0.757,0.962,0.00425,0.478,-4.117,0.0727,134.057,0.818,36,Anitta
+Meu Lugar,5,1c6tFqPnZ4fblJFP8eepUB,Cachorro eu tenho em casa - Ao vivo,spotify:track:1c6tFqPnZ4fblJFP8eepUB,0.148,0.76,0.947,9.52E-06,0.886,-3.967,0.0724,132.016,0.56,33,Anitta
+Meu Lugar,6,5PC5b7Nz8cNYg5H6iErKJo,Eu sou assim - Ao vivo,spotify:track:5PC5b7Nz8cNYg5H6iErKJo,0.29,0.384,0.948,0.00491,0.936,-6.101,0.0678,91.014,0.724,32,Anitta
+Meu Lugar,7,4ml0FnLsmuuBhLEJgJhAU4,Fica só olhando - Ao vivo,spotify:track:4ml0FnLsmuuBhLEJgJhAU4,0.227,0.615,0.892,2.35E-05,0.733,-5.362,0.056,133.046,0.654,33,Anitta
+Meu Lugar,8,4EGy87IWtdUyDarWVadga7,Ritmo perfeito - Ao vivo,spotify:track:4EGy87IWtdUyDarWVadga7,0.541,0.74,0.92,0,0.581,-4.919,0.193,100.026,0.546,36,Anitta
+Meu Lugar,9,1f8fefSKc2291T8ZKNG0A9,Achei / Príncipe de vento - Ao vivo,spotify:track:1f8fefSKc2291T8ZKNG0A9,0.243,0.798,0.958,2.98E-06,0.921,-3.558,0.0921,133.024,0.674,31,Anitta
+Meu Lugar,10,3DHPD0hBeyaHXGxmNVGqx6,Zen - Ao vivo,spotify:track:3DHPD0hBeyaHXGxmNVGqx6,0.735,0.658,0.838,2.82E-05,0.956,-6.421,0.0449,171.981,0.73,33,Anitta
+Meu Lugar,11,0970jjl5Z0tpjGt77s7ZwZ,Quem sabe - Ao vivo,spotify:track:0970jjl5Z0tpjGt77s7ZwZ,0.713,0.581,0.575,0,0.978,-7.807,0.0351,147.921,0.829,31,Anitta
+Meu Lugar,12,1tCpb2si0PJdNdBIflPOF7,Musica de amor - Ao vivo,spotify:track:1tCpb2si0PJdNdBIflPOF7,0.659,0.699,0.636,0,0.434,-5.575,0.0249,100.031,0.653,31,Anitta
+Meu Lugar,13,0kqtyu6GLI2RGdanxn7Ne8,Cobertor (Participação especial de Projota) - Ao vivo,spotify:track:0kqtyu6GLI2RGdanxn7Ne8,0.411,0.675,0.655,0,0.893,-8.317,0.108,159.909,0.797,38,Anitta
+Meu Lugar,14,3Bvt2l2PGkqQ4waaX5RyW2,Mulher (Participação especial de Projota) - Ao vivo,spotify:track:3Bvt2l2PGkqQ4waaX5RyW2,0.709,0.542,0.675,0,0.931,-10.444,0.0502,169.989,0.667,34,Anitta
+Meu Lugar,15,6SClTQ3mFyX4lOCTIgPhgD,Eu vou ficar - Remix; Ao vivo,spotify:track:6SClTQ3mFyX4lOCTIgPhgD,0.0859,0.685,0.915,0.000144,0.739,-8.839,0.113,139.944,0.368,30,Anitta
+Meu Lugar,16,6sxNJnbyuAZN4ySyLrJOvH,Tá na mira - Ao vivo,spotify:track:6sxNJnbyuAZN4ySyLrJOvH,0.305,0.708,0.804,0,0.778,-4.81,0.0603,134.077,0.687,31,Anitta
+Meu Lugar,17,1Mja4CZ4Ic3NlXLOyey6Uq,Meiga e abusada - Ao vivo,spotify:track:1Mja4CZ4Ic3NlXLOyey6Uq,0.161,0.75,0.93,8.99E-05,0.961,-5.353,0.0614,132.992,0.597,34,Anitta
+Meu Lugar,18,1D8h1U6pkJxrzn0JSsY4aC,Na batida - Ao vivo,spotify:track:1D8h1U6pkJxrzn0JSsY4aC,0.396,0.79,0.972,4.00E-05,0.935,-4.515,0.0708,133.015,0.89,37,Anitta
+Meu Lugar,19,2loApP0kPaim0BTDVP9F26,Movimento da sanfoninha - Ao vivo,spotify:track:2loApP0kPaim0BTDVP9F26,0.177,0.76,0.999,0.281,0.866,-4.007,0.15,133.002,0.0807,63,Anitta
+Meu Lugar,20,7fMCygGG9f0JrNXqGvePNF,No meu talento - Ao vivo,spotify:track:7fMCygGG9f0JrNXqGvePNF,0.33,0.728,0.891,0,0.535,-4.266,0.139,131,0.659,33,Anitta
+Meu Lugar,21,7waJ0wcUDjR7d6ilnOZN4l,Blá blá blá - Ao vivo,spotify:track:7waJ0wcUDjR7d6ilnOZN4l,0.248,0.789,0.94,1.76E-05,0.944,-4.481,0.046,131.987,0.769,33,Anitta
+Meu Lugar,22,2dhd2YLYfGCwFwUPBQYx7S,Show das Poderosas - Ao vivo,spotify:track:2dhd2YLYfGCwFwUPBQYx7S,0.127,0.577,0.921,8.98E-05,0.311,-5.578,0.116,134.988,0.256,32,Anitta
+Meu Lugar,28,1KpNie4Mbh2TBkEjgQTICT,Blá blá blá,spotify:track:1KpNie4Mbh2TBkEjgQTICT,0.196,0.894,0.798,1.52E-05,0.137,-5.186,0.0844,131.993,0.827,49,Anitta
+Ritmo Perfeito,1,59LD1epqw721Bt4aPuYaRk,Na batida,spotify:track:59LD1epqw721Bt4aPuYaRk,0.359,0.891,0.95,3.99E-05,0.141,-3.956,0.069,133.028,0.965,55,Anitta
+Ritmo Perfeito,2,32sOGrAJfrL9x8xipYic7X,Ritmo perfeito,spotify:track:32sOGrAJfrL9x8xipYic7X,0.391,0.806,0.889,0,0.147,-3.62,0.134,100.017,0.591,52,Anitta
+Ritmo Perfeito,3,70a6mGZbNFPyvGBjtOALSS,Musica de amor,spotify:track:70a6mGZbNFPyvGBjtOALSS,0.57,0.804,0.579,0,0.11,-4.99,0.0249,100.011,0.79,36,Anitta
+Ritmo Perfeito,4,1EU5suqjDDFtYZ7Y72wyMS,Cobertor (Participação especial de Projota),spotify:track:1EU5suqjDDFtYZ7Y72wyMS,0.332,0.765,0.622,0,0.169,-5.915,0.104,159.987,0.877,58,Anitta
+Ritmo Perfeito,5,2TbI4gmIBQfS3WsQCgO9nM,Mulher (Participação especial de Projota),spotify:track:2TbI4gmIBQfS3WsQCgO9nM,0.73,0.686,0.419,0,0.0711,-10.781,0.059,169.822,0.955,37,Anitta
+Ritmo Perfeito,6,7jRUdZeS3OmEwVcNpA9eBZ,No meu talento,spotify:track:7jRUdZeS3OmEwVcNpA9eBZ,0.234,0.843,0.804,0,0.0765,-3.383,0.0866,131.053,0.833,41,Anitta
+Ritmo Perfeito,8,2a70mgPFzlOgnF3i7cxO7l,Quem sabe,spotify:track:2a70mgPFzlOgnF3i7cxO7l,0.692,0.653,0.535,0,0.129,-7.576,0.0427,148.083,0.848,32,Anitta
+Ritmo Perfeito,9,0EbCr1zJ6ucBieuNBd9Z9T,Vai e volta,spotify:track:0EbCr1zJ6ucBieuNBd9Z9T,0.677,0.711,0.532,0,0.157,-8.083,0.0323,98.015,0.593,31,Anitta
+Ritmo Perfeito,10,4Gqnv8bnvVfYrGbu3MuuYi,Blá blá blá - Extended Remix,spotify:track:4Gqnv8bnvVfYrGbu3MuuYi,0.0352,0.967,0.772,1.25E-05,0.0792,-3.291,0.085,131.995,0.857,29,Anitta
+Ritmo Perfeito,11,2D1SDJrpfNQBk5zx1ADCiO,Zen (feat. Rasel),spotify:track:2D1SDJrpfNQBk5zx1ADCiO,0.762,0.776,0.569,0,0.0954,-7.824,0.0641,170.085,0.932,45,Anitta
+Ritmo Perfeito,12,0SJp4OIdSFE4xenhlGoKLU,No meu talento - Participação especial de MC Guimê,spotify:track:0SJp4OIdSFE4xenhlGoKLU,0.256,0.816,0.812,0,0.0747,-4.071,0.195,131.016,0.818,48,Anitta
+Anitta,14,5wtH5o8YAh8WuqIvSJeWKT,Eu vou ficar,spotify:track:5wtH5o8YAh8WuqIvSJeWKT,0.311,0.817,0.95,0,0.174,-4.409,0.103,130.082,0.86,16,Anitta
+Anitta,15,03fU04ujjlhD5olhUHB93p,Show das Poderosas - Batutinha DJ - Radio Edit,spotify:track:03fU04ujjlhD5olhUHB93p,0.647,0.801,0.691,0,0.0649,-4.624,0.15,132.882,0.95,7,Anitta
+Anitta,1,28aUFtkMnJaqNQkLHR0weV,Show das Poderosas,spotify:track:28aUFtkMnJaqNQkLHR0weV,0.205,0.806,0.694,0,0.0447,-7.857,0.104,132.97,0.661,58,Anitta
+Anitta,2,6jFCFrcstrdTP2XPkBfV1F,Meiga e abusada,spotify:track:6jFCFrcstrdTP2XPkBfV1F,0.269,0.773,0.837,0,0.0452,-5.264,0.155,130.02,0.88,59,Anitta
+Anitta,3,27F7WwbBtChELVo97qrvLg,Tá na mira,spotify:track:27F7WwbBtChELVo97qrvLg,0.0344,0.856,0.672,0,0.0646,-4.893,0.126,132.053,0.953,53,Anitta
+Anitta,4,1aUUrBmdIYN7FvIzHdpisn,Zen,spotify:track:1aUUrBmdIYN7FvIzHdpisn,0.746,0.79,0.59,1.79E-06,0.0939,-5.969,0.0484,169.984,0.908,52,Anitta
+Anitta,5,3zX00Xzg6XUhWkORpeWViA,Achei,spotify:track:3zX00Xzg6XUhWkORpeWViA,0.139,0.92,0.785,0.00338,0.177,-5.29,0.0491,133.016,0.845,34,Anitta
+Anitta,6,1fmLpwCRHqiuJw22mwrBZG,Menina má,spotify:track:1fmLpwCRHqiuJw22mwrBZG,0.382,0.748,0.902,0,0.154,-4.973,0.119,130.103,0.961,53,Anitta
+Anitta,7,0lNvwuvutKjdXIo8XOiow4,Principe de vento,spotify:track:0lNvwuvutKjdXIo8XOiow4,0.0522,0.917,0.722,1.82E-06,0.0764,-4.804,0.106,130.559,0.906,43,Anitta
+Anitta,8,4FWS2ZhM5Y0XUZiSuYrwoA,Não para,spotify:track:4FWS2ZhM5Y0XUZiSuYrwoA,0.0745,0.813,0.761,9.83E-06,0.0952,-4.694,0.0446,133.082,0.707,49,Anitta
+Anitta,9,7m0KBWVdTwYzcD5bsCPpHS,Eu sou assim,spotify:track:7m0KBWVdTwYzcD5bsCPpHS,0.35,0.749,0.825,4.87E-06,0.0846,-4.755,0.0408,91.051,0.908,35,Anitta
+Anitta,10,4jIhTSgq472p9JmFMt5AFj,Fica só olhando,spotify:track:4jIhTSgq472p9JmFMt5AFj,0.237,0.72,0.88,0,0.0408,-4.745,0.0876,97.411,0.862,45,Anitta
+Anitta,11,2qnKP16MaAETWKkR244CWG,Proposta,spotify:track:2qnKP16MaAETWKkR244CWG,0.219,0.863,0.867,1.82E-05,0.118,-5.67,0.129,130.004,0.843,37,Anitta
+Anitta,12,2FElnuWZBfi3iqrFHQqzg3,Cachorro eu tenho em casa,spotify:track:2FElnuWZBfi3iqrFHQqzg3,0.166,0.861,0.87,0,0.306,-4.198,0.139,130.054,0.812,39,Anitta
+Anitta,13,4aV7Q5eYHcxWq8kYIY1lRj,Som do coração,spotify:track:4aV7Q5eYHcxWq8kYIY1lRj,0.347,0.808,0.572,0,0.12,-7.95,0.0354,129.993,0.684,33,Anitta

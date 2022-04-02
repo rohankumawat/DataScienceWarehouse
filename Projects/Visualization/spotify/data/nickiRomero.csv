@@ -1,0 +1,136 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Nicky Romero JAPAN COLLECTION 2021,1,1muUz481pBOMzJ9De3NS6e,Okay,spotify:track:1muUz481pBOMzJ9De3NS6e,0.0463,0.513,0.836,0,0.128,-3.781,0.0579,124.964,0.304,37,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,2,7atzowi7mF0hVRYd1hiqIn,Back To You,spotify:track:7atzowi7mF0hVRYd1hiqIn,0.00604,0.652,0.708,0,0.11,-7.174,0.0347,125.027,0.313,23,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,3,6JpIJhMJwCIcUOU55byfFL,Into The Light,spotify:track:6JpIJhMJwCIcUOU55byfFL,0.0217,0.309,0.841,0,0.0808,-3.195,0.0427,128.009,0.168,14,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,4,1TtgPwrijmj04FBIUQxedv,Destiny,spotify:track:1TtgPwrijmj04FBIUQxedv,0.097,0.532,0.807,0,0.0608,-3.597,0.0457,125.028,0.369,10,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,5,4Y1zfCQknodhwx0R30tKFI,You Used To,spotify:track:4Y1zfCQknodhwx0R30tKFI,0.123,0.543,0.916,0.807,0.213,-4.733,0.0315,124.983,0.424,18,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,6,3Z6uVRzoJroNalXvEIAOjH,World Through Your Eyes,spotify:track:3Z6uVRzoJroNalXvEIAOjH,0.000577,0.522,0.939,0.00491,0.0628,-5.109,0.0359,126.023,0.069,16,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,7,5Z8yVx6B3ze9Ora9gpq9Vi,Burning,spotify:track:5Z8yVx6B3ze9Ora9gpq9Vi,0.0206,0.576,0.948,1.26E-05,0.712,-4.007,0.0496,128.026,0.387,16,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,8,0QcLUCe7C5PUIvbSzzp9EQ,Replica,spotify:track:0QcLUCe7C5PUIvbSzzp9EQ,0.000929,0.563,0.995,0.634,0.134,-4.472,0.149,125.075,0.0398,4,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,10,0hziD9YJ58yyBEMMdEbCoj,Ups & Downs,spotify:track:0hziD9YJ58yyBEMMdEbCoj,0.166,0.567,0.907,0.000619,0.102,-3.154,0.0498,130.043,0.242,30,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,11,3US8WthBRLJwU9Z9agGz2H,Only For You,spotify:track:3US8WthBRLJwU9Z9agGz2H,0.258,0.513,0.825,0,0.218,-3.022,0.0384,127.95,0.366,18,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,12,2jENqrrDjyELfyXmuxZYfE,Falling,spotify:track:2jENqrrDjyELfyXmuxZYfE,0.0178,0.519,0.886,5.37E-06,0.253,-4.184,0.0562,137.924,0.264,4,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,13,5577pNig6FLMEa43AB5sqK,I Need You To Know,spotify:track:5577pNig6FLMEa43AB5sqK,0.0221,0.44,0.739,0,0.561,-5.341,0.0494,127.62,0.156,4,Nicki Romero
+Nicky Romero JAPAN COLLECTION 2021,15,31xqlEutnJGeu9vwkE3P6v,Nights With You,spotify:track:31xqlEutnJGeu9vwkE3P6v,0.383,0.58,0.745,0,0.25,-4.915,0.048,150.103,0.612,33,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,1,6eikrpBB2AQfnYQrDZcvMo,Love You Forever,spotify:track:6eikrpBB2AQfnYQrDZcvMo,0.00232,0.383,0.698,4.39E-05,0.111,-3.409,0.0374,127.821,0.15,19,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,2,1oKjsIoaPUy3tQZSGSfgdp,Warriors,spotify:track:1oKjsIoaPUy3tQZSGSfgdp,0.0241,0.642,0.845,0.000975,0.0608,-3.635,0.0414,127.016,0.319,6,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,3,1KMcSu6oHKOUMpYTi8lxqb,Like Home,spotify:track:1KMcSu6oHKOUMpYTi8lxqb,0.0496,0.748,0.855,0.0106,0.417,-4.088,0.0626,127.996,0.141,6,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,4,6puVf4DDbW9MV2YeXeTAZg,Dynamite,spotify:track:6puVf4DDbW9MV2YeXeTAZg,0.0164,0.344,0.865,5.48E-05,0.105,-5.84,0.223,128.05,0.208,12,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,5,4c7KMrB9H5QHB3jkgLlM4D,My Way - Marcus Santoro Remix,spotify:track:4c7KMrB9H5QHB3jkgLlM4D,0.00509,0.685,0.814,0.000183,0.0598,-5.184,0.0571,125.009,0.601,4,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,6,5F7leA5rLGZXSRLzGowuOH,I See,spotify:track:5F7leA5rLGZXSRLzGowuOH,0.00221,0.606,0.952,0.0688,0.294,-3.391,0.0662,127.985,0.286,4,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,7,26JMw4hXS6PyVG01vmsfEQ,Lighthouse,spotify:track:26JMw4hXS6PyVG01vmsfEQ,0.00468,0.657,0.726,0,0.0755,-4.191,0.0678,128,0.365,6,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,8,2WmzXDbrAtn1bA1VWC8k1c,Stay,spotify:track:2WmzXDbrAtn1bA1VWC8k1c,0.132,0.667,0.692,0,0.0937,-7.667,0.075,116.074,0.373,20,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,9,6eWkSYGnO8MNCTdTZSlUFk,Paradise - Deniz Koyu Festival Mix,spotify:track:6eWkSYGnO8MNCTdTZSlUFk,0.0621,0.568,0.806,0,0.209,-4.108,0.0315,125.992,0.362,9,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,11,7tFDyIngZt5tqSOCbwaoj9,Ring The Alarm - Stadiumx Remix,spotify:track:7tFDyIngZt5tqSOCbwaoj9,0.000325,0.627,0.994,0.043,0.766,-1.689,0.0505,125.034,0.348,6,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,12,2VbnnAyXSg23tJKeHAopgz,Ups & Downs - Extended Mix,spotify:track:2VbnnAyXSg23tJKeHAopgz,0.0562,0.636,0.93,0.0092,0.0428,-3.405,0.0495,130.005,0.396,2,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,13,724nna46Qo6yMaKoFJIbTt,Everybody Clap,spotify:track:724nna46Qo6yMaKoFJIbTt,0.00481,0.716,0.971,0.696,0.278,-4.962,0.0685,128.003,0.125,2,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,15,6VhcY8SdqWQUYCbtrvLeQW,Never Forget - Nicky Romero Edit Extended Edit,spotify:track:6VhcY8SdqWQUYCbtrvLeQW,0.0295,0.677,0.445,0,0.0918,-4.504,0.0559,124.969,0.358,2,Nicki Romero
+Nicky Romero - JAPAN COLLECTION,16,13WBE9oKdoe9ZtLs4LRIEW,Midnight Sun - Extended Mix,spotify:track:13WBE9oKdoe9ZtLs4LRIEW,0.0383,0.642,0.961,0.00123,0.0554,-4.608,0.0946,127.017,0.351,4,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),1,6SaSApuu5cm2tA8Zsx74Ku,Miss Out - Nicky Romero Intro Edit,spotify:track:6SaSApuu5cm2tA8Zsx74Ku,0.00138,0.651,0.739,0.0675,0.11,-5.4,0.0419,127.978,0.181,5,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),2,5raqzaBOIoSiWE574xnS7q,Love - Nicky Romero Edit,spotify:track:5raqzaBOIoSiWE574xnS7q,0.00101,0.531,0.964,0.379,0.0409,-5.352,0.0478,127.98,0.529,4,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),3,2fs2s0FeuaLYxqTzh3beoq,Champion Sound - Extended Mix,spotify:track:2fs2s0FeuaLYxqTzh3beoq,0.000199,0.564,0.956,0.885,0.0979,-4.815,0.0564,128.005,0.125,5,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),4,3eKrGxu1yS5Y3Ema6LAetG,Howl At The Moon - Nicky Romero Remix,spotify:track:3eKrGxu1yS5Y3Ema6LAetG,0.00163,0.57,0.923,0.716,0.128,-4.321,0.0535,128.017,0.249,4,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),5,5aHRB8gGM4NFZRJriWzYO6,Iconic,spotify:track:5aHRB8gGM4NFZRJriWzYO6,0.00109,0.609,0.934,0.837,0.0669,-3.296,0.0411,125.998,0.244,15,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),6,43922Tj89QZWTWejLgab5t,Crossroads,spotify:track:43922Tj89QZWTWejLgab5t,0.0262,0.575,0.897,0,0.0934,-3.088,0.0952,127.968,0.469,11,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),7,7FeFBCMK6GryzpYuOOpcSh,Next Level - Nicky Romero Edit,spotify:track:7FeFBCMK6GryzpYuOOpcSh,0.00748,0.736,0.983,0.885,0.358,-2.159,0.232,127.962,0.45,3,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),9,0lZ0wJZcvR9x0ie6PMUwJx,The Moment - Novell,spotify:track:0lZ0wJZcvR9x0ie6PMUwJx,0.0594,0.5,0.584,0,0.322,-5.714,0.0328,125.956,0.234,4,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),11,75lJ2xwvAPKV2eK0vDr3r8,Warriors - Sensation 15' Edit,spotify:track:75lJ2xwvAPKV2eK0vDr3r8,0.0323,0.637,0.865,0.000237,0.0629,-3.621,0.0469,127.015,0.27,12,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),14,1NPAnoTReFcTLssj2x4Tyc,Symphonica - Tony Romera Remix,spotify:track:1NPAnoTReFcTLssj2x4Tyc,0.0579,0.624,0.825,9.84E-05,0.0348,-2.638,0.264,150.033,0.455,4,Nicki Romero
+Protocol Presents: The Nicky Romero Selection (Japan Edition),15,7sX2CdMn5mV2eIQd6E1Hry,Like Home - Stadiumx Remix,spotify:track:7sX2CdMn5mV2eIQd6E1Hry,0.0262,0.703,0.921,0.522,0.0599,-4.889,0.0815,123.978,0.245,11,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,1,42jCabWEpL4ixfS7ICjuye,The Moment (Novell) - Orchestra Intro,spotify:track:42jCabWEpL4ixfS7ICjuye,0.0959,0.381,0.781,0.119,0.0823,-7.846,0.0749,115.841,0.274,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,2,3GlOhruNKj2uZz1XgHsr58,The Moment (Novell) - Extended Mix,spotify:track:3GlOhruNKj2uZz1XgHsr58,0.03,0.724,0.899,0.0934,0.134,-4.368,0.0696,126.013,0.117,5,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,3,4VxrwlNxQPKqTtxSdlNDK9,Hypnotize - Extended Mix,spotify:track:4VxrwlNxQPKqTtxSdlNDK9,0.00178,0.72,0.922,0.00444,0.173,-6.08,0.186,127.966,0.567,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,4,1YxMR2kw3SnxHsgUKVEguX,Dancin' - Extended Mix,spotify:track:1YxMR2kw3SnxHsgUKVEguX,0.0104,0.704,0.896,0.743,0.799,-6.028,0.0401,126.992,0.8,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,5,20iQe7jeBgcQ21QuUBWfqE,Hero - Extended Mix,spotify:track:20iQe7jeBgcQ21QuUBWfqE,0.392,0.692,0.907,8.00E-05,0.376,-3.13,0.0909,125.065,0.63,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,6,1oiPmuZdAOHdnTZI7JRvlW,Bring Back The Funk - Extended Mix,spotify:track:1oiPmuZdAOHdnTZI7JRvlW,7.03E-05,0.627,0.927,0.58,0.0564,-4.745,0.0706,128.037,0.0865,1,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,7,5N7GHkJSVMTE4cW93upTzh,Midnight - Extended Mix,spotify:track:5N7GHkJSVMTE4cW93upTzh,0.00309,0.643,0.677,0.362,0.076,-4.23,0.0346,130.005,0.373,1,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,8,3CKFZUTzZ27QAnGgz3U7El,Taxi Driver - Extended Mix,spotify:track:3CKFZUTzZ27QAnGgz3U7El,0.0105,0.683,0.908,0.52,0.0578,-5.506,0.0594,127.973,0.752,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,9,3Qqzgjz6dvmExC1ui3UiuS,Throne - Extended Mix,spotify:track:3Qqzgjz6dvmExC1ui3UiuS,0.00334,0.622,0.895,0.0277,0.116,-5.904,0.0458,129.996,0.393,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,10,79pQat9ODwNNJIAGbMzbJJ,Play With Me - Extended Mix,spotify:track:79pQat9ODwNNJIAGbMzbJJ,0.0734,0.781,0.942,0.00062,0.07,-2.158,0.162,126.99,0.313,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,11,1yf4cfHr3RB8ODvWswUaJA,Solar - Extended Mix,spotify:track:1yf4cfHr3RB8ODvWswUaJA,0.00531,0.625,0.989,0.0316,0.114,-3.963,0.15,127.989,0.471,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,12,659h0OlgVc5kH5bFQWLYqm,On My Way - Extended Mix,spotify:track:659h0OlgVc5kH5bFQWLYqm,0.000498,0.624,0.716,0.0797,0.216,-5.94,0.0448,129.035,0.309,1,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,13,0JAoVmUnPp9wSb4teXDg68,Final Call - Raiden Remix,spotify:track:0JAoVmUnPp9wSb4teXDg68,0.000235,0.647,0.989,0.103,0.0876,-3.845,0.0626,127.988,0.0737,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,14,1eA68xxN0AjEQ9Q4DYelu9,Spectre - Extended Mix,spotify:track:1eA68xxN0AjEQ9Q4DYelu9,0.00276,0.69,0.953,0.828,0.115,-4.38,0.113,128.007,0.341,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,15,77noVyQmBJuO9kjwis95dg,Ready 2 Rumble - Extended Mix,spotify:track:77noVyQmBJuO9kjwis95dg,0.000699,0.719,0.978,0.71,0.283,-3.728,0.0802,125.987,0.171,1,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,16,2lwqyKFlPRiisKx0YExalt,Radical - Extended Mix,spotify:track:2lwqyKFlPRiisKx0YExalt,0.00377,0.702,0.943,0.29,0.311,-5.518,0.0773,127.999,0.388,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,17,5O8SssLtW3TtRyAYvTHUms,Funky's Trouble - Extended Mix,spotify:track:5O8SssLtW3TtRyAYvTHUms,0.138,0.735,0.751,0.8,0.375,-7.818,0.0449,128.007,0.483,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,19,65KJ9Tv6GvEBB1hCBhFq0E,Mamo - Extended Mix,spotify:track:65KJ9Tv6GvEBB1hCBhFq0E,0.000624,0.697,0.921,0.508,0.0671,-2.561,0.138,128.063,0.312,0,Nicki Romero
+Nicky Romero presents Protocol ADE 2016,21,1DRCsFjxtHn7AgdE0Nq3dD,Nicky Romero presents Protocol ADE 2016 - Entire Mix,spotify:track:1DRCsFjxtHn7AgdE0Nq3dD,0.00685,0.578,0.932,0.0244,0.288,-5.064,0.0891,126.46,0.194,0,Nicki Romero
+Nicky Romero Best 2016,1,4dvCV7XquTqRXvC9BFXIE6,The Moment (Novell),spotify:track:4dvCV7XquTqRXvC9BFXIE6,0.0608,0.529,0.577,0,0.308,-5.734,0.0327,125.993,0.175,17,Nicki Romero
+Nicky Romero Best 2016,2,0DTgJaJU1J1YgQQvliqsQj,Ready 2 Rumble,spotify:track:0DTgJaJU1J1YgQQvliqsQj,0.00199,0.685,0.995,0.523,0.324,-3.125,0.0831,126.005,0.123,10,Nicki Romero
+Nicky Romero Best 2016,3,6qZvbTdJfbqS54WbDInYYn,Take Me,spotify:track:6qZvbTdJfbqS54WbDInYYn,0.152,0.548,0.847,1.02E-06,0.135,-2.087,0.0401,126.985,0.257,11,Nicki Romero
+Nicky Romero Best 2016,4,5WKVOpGFtTGOK91rHFyCYq,Harmony,spotify:track:5WKVOpGFtTGOK91rHFyCYq,0.00255,0.647,0.905,0.0784,0.0917,-3.495,0.0786,128.021,0.344,20,Nicki Romero
+Nicky Romero Best 2016,5,2TS0bQR2BamgfxnOBzz33r,Let Me Feel - Radio Edit,spotify:track:2TS0bQR2BamgfxnOBzz33r,0.245,0.498,0.715,0,0.0752,-3.07,0.034,127.941,0.106,20,Nicki Romero
+Nicky Romero Best 2016,6,1OjHRYErYJv3gUZBMzC0ti,Warriors - Radio Edit,spotify:track:1OjHRYErYJv3gUZBMzC0ti,0.14,0.507,0.81,0,0.653,-3.934,0.0446,127.002,0.292,6,Nicki Romero
+Nicky Romero Best 2016,7,4myn0beVNv62DJQ7bKgNB1,Lighthouse - Radio Edit,spotify:track:4myn0beVNv62DJQ7bKgNB1,0.0209,0.604,0.701,0,0.341,-5.806,0.0634,128.054,0.351,20,Nicki Romero
+Nicky Romero Best 2016,8,2CyFSOQsBTPnSvsMpuJBsV,Future Funk - Radio Edit,spotify:track:2CyFSOQsBTPnSvsMpuJBsV,0.00689,0.721,0.882,5.21E-05,0.104,-3.656,0.0344,120.02,0.544,6,Nicki Romero
+Nicky Romero Best 2016,9,1vQDxdhlenhE7L4CPqb9Cv,Future Funk,spotify:track:1vQDxdhlenhE7L4CPqb9Cv,0.0392,0.792,0.731,0.0285,0.217,-5.869,0.133,127.973,0.629,3,Nicki Romero
+Nicky Romero Presents Miami 2015,1,1AI27uQ2lLUOx7ryY2sYQa,At Night - Dub Mix,spotify:track:1AI27uQ2lLUOx7ryY2sYQa,0.1,0.633,0.864,0.0571,0.305,-5.251,0.0639,127.992,0.112,1,Nicki Romero
+Nicky Romero Presents Miami 2015,2,31wgqoVVUzRZ4WK2oRALbO,Pump! - Original Mix,spotify:track:31wgqoVVUzRZ4WK2oRALbO,0.00587,0.672,0.998,0.212,0.0625,-1.257,0.164,127.995,0.142,7,Nicki Romero
+Nicky Romero Presents Miami 2015,3,3WScFn4hRU9ndaqLpx7OVF,Ghost - Original Mix,spotify:track:3WScFn4hRU9ndaqLpx7OVF,0.00323,0.609,0.947,0.0171,0.0389,-3.863,0.0756,128.031,0.151,2,Nicki Romero
+Nicky Romero Presents Miami 2015,4,4Dkolyn7K0iDzPfjAJZSoJ,Warriors - Mix Edit,spotify:track:4Dkolyn7K0iDzPfjAJZSoJ,0.0751,0.584,0.936,0.000228,0.705,-4.973,0.0981,128.047,0.486,1,Nicki Romero
+Nicky Romero Presents Miami 2015,5,2y0jINQ1fFpX4wGzxoxejg,Katana - Original Mix,spotify:track:2y0jINQ1fFpX4wGzxoxejg,0.000171,0.593,0.98,0.55,0.21,-4.928,0.0447,127.97,0.294,2,Nicki Romero
+Nicky Romero Presents Miami 2015,6,1AiFJ9HCWgTIdGkxeU7Hpm,Luminate - Original Mix,spotify:track:1AiFJ9HCWgTIdGkxeU7Hpm,0.0891,0.583,0.992,0.873,0.056,-5.112,0.0675,126.026,0.762,1,Nicki Romero
+Nicky Romero Presents Miami 2015,7,6mLKZpOyDlnqTPBByiFnpB,Chains - Original Mix,spotify:track:6mLKZpOyDlnqTPBByiFnpB,0.000262,0.666,0.966,0.857,0.0622,-4.93,0.0535,128.016,0.115,1,Nicki Romero
+Nicky Romero Presents Miami 2015,8,7EFRChTbaCmoc23EL7PUwA,Lift - Original Mix,spotify:track:7EFRChTbaCmoc23EL7PUwA,0.194,0.659,0.869,0.00356,0.0865,-6.036,0.0418,127.985,0.177,3,Nicki Romero
+Nicky Romero Presents Miami 2015,9,04w6YzN1rYRAmvFIrDvd6I,Demons - Original Mix,spotify:track:04w6YzN1rYRAmvFIrDvd6I,0.000373,0.558,0.809,0.00097,0.163,-4.015,0.0863,128.091,0.214,1,Nicki Romero
+Nicky Romero Presents Miami 2015,10,7uRZsevbOm2BpXbxUhx9AI,Sirene - Original Mix,spotify:track:7uRZsevbOm2BpXbxUhx9AI,0.199,0.681,0.955,0.897,0.057,-3.729,0.099,126.002,0.634,0,Nicki Romero
+Nicky Romero Presents Miami 2015,11,36kSAjdALlZ1EOOrawHR5A,Howl At The Moon - Reunify Miami Mashup Mix,spotify:track:36kSAjdALlZ1EOOrawHR5A,0.0332,0.608,0.976,0.602,0.081,-2.435,0.0767,128.014,0.195,1,Nicki Romero
+Nicky Romero Presents Miami 2015,12,7vBxLmfZIsBEuu3nfUhJv9,Young - Original Mix,spotify:track:7vBxLmfZIsBEuu3nfUhJv9,0.0137,0.613,0.965,0.792,0.661,-4.165,0.0435,126.019,0.916,0,Nicki Romero
+Nicky Romero Presents Miami 2015,13,42QZboVJQa9qGtJQuyLgoG,Like Home - ASK:ME & B.Vivant Remix,spotify:track:42QZboVJQa9qGtJQuyLgoG,0.0299,0.826,0.552,0.27,0.0732,-7.823,0.0671,124,0.581,0,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),1,6OARRSxItO2koHzHsRIfGh,Se7en - Compilation Edit,spotify:track:6OARRSxItO2koHzHsRIfGh,0.074,0.668,0.848,0.841,0.285,-5.712,0.0468,128.027,0.797,22,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),2,3yjwQXNeMjNxWuEmTuVgQO,Reckless With Your Love - MYNC Stadium Mix,spotify:track:3yjwQXNeMjNxWuEmTuVgQO,0.000291,0.621,0.595,0.431,0.0709,-9.052,0.0367,127.027,0.188,15,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),3,36HFie42bRSYRPIR6jLhJw,What Happens In Vegas - Miami VIP,spotify:track:36HFie42bRSYRPIR6jLhJw,0.000341,0.79,0.953,0.904,0.135,-2.885,0.0512,130.008,0.699,14,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),4,5jUyxZEL69Z7zhJPDLFRoa,No More Serious Faces,spotify:track:5jUyxZEL69Z7zhJPDLFRoa,9.43E-05,0.676,0.846,0.902,0.0745,-7.78,0.052,127.984,0.283,12,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),5,3bt21cvj5pci2ZNCN4QkUM,Love Will Find You - Original Mix,spotify:track:3bt21cvj5pci2ZNCN4QkUM,0.0022,0.728,0.857,0.807,0.0868,-4.84,0.0598,127.981,0.394,11,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),6,0RIpypJ1km9CPEFIlf5L7K,Up - Club Mix,spotify:track:0RIpypJ1km9CPEFIlf5L7K,0.00111,0.804,0.913,0.851,0.0591,-7.332,0.0484,128.001,0.514,10,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),7,4No8vhu8yBNRrsUbqfjkoV,Everyday - Original Mix,spotify:track:4No8vhu8yBNRrsUbqfjkoV,0.00312,0.751,0.652,0.364,0.0812,-8.073,0.053,124.993,0.0655,9,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),8,2AJiFOyrGHAyRgAzf4YpnK,Facepaint - Original Mix,spotify:track:2AJiFOyrGHAyRgAzf4YpnK,0.0458,0.677,0.532,0.0237,0.0747,-7.542,0.0418,127.003,0.348,10,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),9,2vNTl1R59KoLKHmH3FHEdH,Camorra - Original Mix,spotify:track:2vNTl1R59KoLKHmH3FHEdH,0.015,0.777,0.849,0.913,0.255,-5.128,0.0609,127.996,0.222,11,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),10,1lJiYWwxLAROsm3XatGUYD,Restless - Original Mix,spotify:track:1lJiYWwxLAROsm3XatGUYD,0.0233,0.665,0.907,0.926,0.905,-2.512,0.0608,127.992,0.559,10,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),11,2L1BVrhDYOad9qAq4ENYWk,With You - Original Mix,spotify:track:2L1BVrhDYOad9qAq4ENYWk,0.000295,0.648,0.617,0.843,0.121,-6.042,0.0353,128.004,0.527,7,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),12,0uzQjpgx5GeOVKvLmU8dde,Who Wants Spaghetti? - Original Mix,spotify:track:0uzQjpgx5GeOVKvLmU8dde,6.36E-05,0.796,0.56,0.001,0.0988,-7.698,0.471,128.04,0.587,6,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),13,1Hx7pnmAX1uSBwiBLtrE2a,What - Original Mix,spotify:track:1Hx7pnmAX1uSBwiBLtrE2a,0.00118,0.918,0.83,0.815,0.0651,-5.095,0.0469,128.045,0.284,7,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),14,0GF1L0qAxhlpacxjUUWf3R,Bottled - Original Mix,spotify:track:0GF1L0qAxhlpacxjUUWf3R,0.000342,0.668,0.908,0.84,0.784,-4.983,0.0998,128.021,0.155,6,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),15,38sVUnHgtLPbH3Tod3tmaD,Some Kind Of Monster - Original Mix,spotify:track:38sVUnHgtLPbH3Tod3tmaD,0.00032,0.881,0.727,0.89,0.0208,-5.365,0.113,127.993,0.418,5,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),16,2zZsbpAyMxEiItxj0YbUSy,Bound For Glory - Original Mix,spotify:track:2zZsbpAyMxEiItxj0YbUSy,0.00414,0.559,0.771,0.921,0.164,-7.967,0.0383,128.043,0.371,6,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),17,4obdqDTYQdyTZQLFe0Mw04,Next Turn,spotify:track:4obdqDTYQdyTZQLFe0Mw04,0.000281,0.795,0.869,0.797,0.704,-5.64,0.0545,127,0.0629,6,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),18,2Teu9ODbZWZJphHiPYuIyq,It's All Sorted - Original Mix,spotify:track:2Teu9ODbZWZJphHiPYuIyq,6.73E-05,0.617,0.919,0.892,0.142,-8.197,0.0386,125.986,0.105,4,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),19,6H6Ep9QbCBFgkUjDalx72j,I Got The Love - Original Mix,spotify:track:6H6Ep9QbCBFgkUjDalx72j,0.0282,0.718,0.835,0.717,0.331,-3.569,0.114,127.984,0.384,4,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),20,6JroZ9Sw3qcWbItS83WBeE,Epic - Original Mix,spotify:track:6JroZ9Sw3qcWbItS83WBeE,0.202,0.792,0.945,0.86,0.0705,-2.343,0.0776,128.008,0.156,15,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),21,7E91hjNCp7ekqSUteRFKRe,To You - Original Mix,spotify:track:7E91hjNCp7ekqSUteRFKRe,0.0142,0.802,0.79,0.75,0.0435,-7.523,0.0604,123.993,0.644,5,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),22,4aMNyCC9YllQdNKwfoK4sd,Black Swan - Original Mix,spotify:track:4aMNyCC9YllQdNKwfoK4sd,0.00172,0.686,0.605,0.751,0.0944,-7.729,0.0403,127.992,0.193,6,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),23,0iQaGe7lHS4iOCZTAgGUMC,Cha Cha - Original Mix,spotify:track:0iQaGe7lHS4iOCZTAgGUMC,5.73E-05,0.873,0.708,0.276,0.0337,-6.699,0.055,127.014,0.471,4,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),24,2k696W868V488BAtnPTKMU,Miami - Original Mix,spotify:track:2k696W868V488BAtnPTKMU,0.00657,0.56,0.758,0.816,0.0861,-5.989,0.161,126.007,0.259,5,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),25,21VV819pslbFingRqobC9j,Alamedus - Original Mix,spotify:track:21VV819pslbFingRqobC9j,0.000325,0.82,0.951,0.93,0.135,-4.231,0.0717,124.992,0.493,5,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),26,7khxNZrA41VTDNbTB4udFK,Day By Day - Original Mix,spotify:track:7khxNZrA41VTDNbTB4udFK,0.000835,0.66,0.789,0.461,0.125,-6.937,0.0431,125.999,0.826,4,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),27,1m5gBydI0cs2lqetlJxrbc,Beta,spotify:track:1m5gBydI0cs2lqetlJxrbc,0.00809,0.796,0.832,0.00835,0.664,-5.544,0.228,125.999,0.232,4,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),28,5epyQHaS2hnfwaFA6zWJHc,Dynamite - Nicky Romero Remix,spotify:track:5epyQHaS2hnfwaFA6zWJHc,0.001,0.875,0.932,0.00662,0.658,-5.078,0.0745,128.017,0.83,20,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),29,6aizDKpzkiLubEoqIblUhv,Wild World - Instrumental Mix,spotify:track:6aizDKpzkiLubEoqIblUhv,0.0158,0.679,0.72,0.578,0.106,-5.293,0.0455,127.009,0.181,7,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),30,5X70Ocq8759s6k6rBTuA15,Spaceman - Compilation Edit,spotify:track:5X70Ocq8759s6k6rBTuA15,0.00131,0.372,0.868,0.677,0.146,-3.323,0.0547,128,0.0654,26,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),31,2aJwlohnHuKWIUK8UntETK,Toulouse,spotify:track:2aJwlohnHuKWIUK8UntETK,0.0328,0.602,0.911,0.679,0.219,-3.842,0.113,127.994,0.253,54,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),32,6exM0qXBv6lzAhgJ6clGuc,Sending My Love - Afrojack Edit,spotify:track:6exM0qXBv6lzAhgJ6clGuc,0.00227,0.547,0.949,0.535,0.696,-3.2,0.144,127.966,0.0956,10,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),33,6smWXx3IOxUb7ndhTH2Eal,Miami 2012 - Mixed by MYNC,spotify:track:6smWXx3IOxUb7ndhTH2Eal,0.00338,0.706,0.778,0.259,0.299,-6.738,0.0494,128.022,0.193,7,Nicki Romero
+Miami 2012 (Mixed by MYNC & Nicky Romero),34,5CjUEq1dmdYVHen9CckvPC,Miami 2012 - Mixed by Nicky Romero,spotify:track:5CjUEq1dmdYVHen9CckvPC,0.00547,0.693,0.793,0.557,0.351,-8.926,0.0631,127.995,0.125,5,Nicki Romero
+Miami 2012,3,742NvZ8gVEJ1hQlgv3Qh1P,What Happens in Vegas - Miami VIP,spotify:track:742NvZ8gVEJ1hQlgv3Qh1P,0.00034,0.789,0.954,0.901,0.135,-2.885,0.0514,130.007,0.701,2,Nicki Romero
+Miami 2012,5,2axHsra7aipktNAK7sFgRz,Love Will Find You,spotify:track:2axHsra7aipktNAK7sFgRz,0.0022,0.728,0.857,0.804,0.0868,-4.84,0.0599,127.978,0.395,1,Nicki Romero
+Miami 2012,7,0JiXlGd2OqiVNuF4HYMgbV,Believe in Love - Instrumental,spotify:track:0JiXlGd2OqiVNuF4HYMgbV,0.00246,0.595,0.933,3.77E-05,0.0732,-5.666,0.238,128.005,0.0879,1,Nicki Romero
+Miami 2012,8,30JyKoaJxBDy31UZYcA3nC,Everyday,spotify:track:30JyKoaJxBDy31UZYcA3nC,0.00316,0.751,0.65,0.356,0.0812,-8.072,0.0527,125.013,0.064,0,Nicki Romero
+Miami 2012,9,6pFEYn50GlcPLTThiD4DhK,Facepaint,spotify:track:6pFEYn50GlcPLTThiD4DhK,0.0453,0.678,0.532,0.0202,0.0747,-7.544,0.0418,127.002,0.342,2,Nicki Romero
+Miami 2012,10,7BOh3j01clLCujN7yDHlkz,Camorra,spotify:track:7BOh3j01clLCujN7yDHlkz,0.0149,0.777,0.848,0.914,0.504,-5.133,0.0611,127.996,0.209,5,Nicki Romero
+Miami 2012,11,2GFZ8xJoJWweSjoDJkKAj7,Restless,spotify:track:2GFZ8xJoJWweSjoDJkKAj7,0.0234,0.665,0.907,0.928,0.905,-2.512,0.0607,127.991,0.559,1,Nicki Romero
+Miami 2012,12,6cZjg2Go8GC9hQovTtW0eh,With You,spotify:track:6cZjg2Go8GC9hQovTtW0eh,0.000296,0.649,0.617,0.843,0.121,-6.042,0.0353,128.017,0.526,1,Nicki Romero
+Miami 2012,13,3TVY31Udgw6InAh7J3A8K3,What,spotify:track:3TVY31Udgw6InAh7J3A8K3,0.00119,0.918,0.83,0.797,0.0651,-5.102,0.0468,128.047,0.28,0,Nicki Romero
+Miami 2012,14,3foGKYnodY5LILc8LOL0Me,Bottled,spotify:track:3foGKYnodY5LILc8LOL0Me,0.000342,0.668,0.908,0.84,0.784,-4.982,0.0998,128.023,0.155,0,Nicki Romero
+Miami 2012,15,4rZExAS7FkyoXkpoMlt0mL,Some Kind of Monster,spotify:track:4rZExAS7FkyoXkpoMlt0mL,0.00032,0.881,0.728,0.887,0.0236,-5.372,0.114,127.994,0.411,0,Nicki Romero
+Miami 2012,16,3xlGOhx55w9Z1lqFVDRAAo,Bound for Glory,spotify:track:3xlGOhx55w9Z1lqFVDRAAo,0.00413,0.558,0.771,0.918,0.164,-7.967,0.0386,128.022,0.369,1,Nicki Romero
+Miami 2012,18,5AnGT5kgfnr9F1NX4A5rFR,Its All Sorted,spotify:track:5AnGT5kgfnr9F1NX4A5rFR,6.73E-05,0.617,0.919,0.892,0.141,-8.197,0.0386,125.987,0.105,0,Nicki Romero
+Miami 2012,19,1ZG4D2Hh9SU2sAmJZIeFDj,I Got the Love,spotify:track:1ZG4D2Hh9SU2sAmJZIeFDj,0.0282,0.718,0.835,0.724,0.331,-3.569,0.114,127.981,0.384,0,Nicki Romero
+Miami 2012,20,1H8dfgLehuvngfj0nF3bJ5,Epic,spotify:track:1H8dfgLehuvngfj0nF3bJ5,0.2,0.789,0.945,0.862,0.0705,-2.343,0.0754,128.025,0.154,14,Nicki Romero
+Miami 2012,21,1Dw5T4TJ6zIOVKlwUOqixW,To You,spotify:track:1Dw5T4TJ6zIOVKlwUOqixW,0.0141,0.801,0.79,0.749,0.0435,-7.523,0.0609,123.985,0.646,0,Nicki Romero
+Miami 2012,22,1Z89q1p695LBlOLLXCrXpC,Black Swan,spotify:track:1Z89q1p695LBlOLLXCrXpC,0.0017,0.685,0.606,0.758,0.0944,-7.729,0.0402,127.993,0.197,0,Nicki Romero
+Miami 2012,23,0cS7VIJHjiq0Wm48qJTDc0,Cha Cha,spotify:track:0cS7VIJHjiq0Wm48qJTDc0,5.73E-05,0.873,0.708,0.275,0.0352,-6.699,0.0549,127.014,0.474,0,Nicki Romero
+Miami 2012,24,1veKeETwalQ3T04F4hd63K,Miami,spotify:track:1veKeETwalQ3T04F4hd63K,0.00657,0.56,0.758,0.816,0.0861,-5.989,0.162,126.014,0.259,0,Nicki Romero
+Miami 2012,25,2kBl0SzacHBDWY3wzPw45R,Alamedus,spotify:track:2kBl0SzacHBDWY3wzPw45R,0.000326,0.82,0.951,0.93,0.135,-4.231,0.0717,124.992,0.493,1,Nicki Romero
+Miami 2012,26,5Kitx1aMZsrkDCKswxipJz,Day By Day,spotify:track:5Kitx1aMZsrkDCKswxipJz,0.00084,0.66,0.789,0.458,0.125,-6.936,0.0431,126,0.826,0,Nicki Romero
+Miami 2012,30,4xRCzQ3ELrlAlqiJajnytS,Miami 2012 - Continuous DJ Mix,spotify:track:4xRCzQ3ELrlAlqiJajnytS,0.00338,0.706,0.778,0.262,0.299,-6.738,0.0494,128.022,0.196,0,Nicki Romero

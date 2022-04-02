@@ -1,0 +1,40 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+The Wave,1,1dmmZ4gkN8U6fYT8cOqAPE,Eyes Closed,spotify:track:1dmmZ4gkN8U6fYT8cOqAPE,0.0319,0.416,0.7,0.896,0.0771,-8.528,0.0375,141.934,0.1,33,R3HAB
+The Wave,2,5bIRQuUgZqBSODQrJiMKEw,The Wave,spotify:track:5bIRQuUgZqBSODQrJiMKEw,0.214,0.747,0.407,0,0.042,-7.466,0.0347,79.988,0.398,38,R3HAB
+The Wave,3,1Lqh2RUDCEtf689GKUCjfV,Radio Silence,spotify:track:1Lqh2RUDCEtf689GKUCjfV,0.025,0.603,0.723,0,0.0824,-5.89,0.0454,114.975,0.382,34,R3HAB
+The Wave,4,6WRTNDVblJW6Dstku4aHix,Cherry Blossom,spotify:track:6WRTNDVblJW6Dstku4aHix,0.109,0.67,0.458,0.328,0.197,-9.853,0.0366,87.994,0.314,34,R3HAB
+The Wave,5,6nwTFMOX67WyTNCDCy9e5O,Hold On Tight,spotify:track:6nwTFMOX67WyTNCDCy9e5O,0.454,0.415,0.647,0,0.179,-7.131,0.0389,86.707,0.538,35,R3HAB
+The Wave,6,04hn1YmoiaSCAdq595SsIu,How You've Been,spotify:track:04hn1YmoiaSCAdq595SsIu,0.0899,0.638,0.742,0,0.0727,-6.665,0.0446,114.149,0.121,32,R3HAB
+The Wave,7,2eVtXtc1RLR3XXWMDmgezo,Ain't That Why,spotify:track:2eVtXtc1RLR3XXWMDmgezo,0.391,0.596,0.61,0,0.168,-5.106,0.0492,139.761,0.336,33,R3HAB
+The Wave,8,1CPUilWsYY4I5nzXuTN8Gj,Rumors,spotify:track:1CPUilWsYY4I5nzXuTN8Gj,0.44,0.666,0.496,0,0.186,-6.061,0.176,141.182,0.633,48,R3HAB
+The Wave,9,1Tbs2u4jU6gdVGRsk31dce,Tell Me It's Ok,spotify:track:1Tbs2u4jU6gdVGRsk31dce,0.365,0.735,0.564,4.94E-05,0.167,-5.775,0.0717,127.948,0.21,30,R3HAB
+The Wave,10,67ERfxHkUp2TPlVU9dAjox,Whiplash,spotify:track:67ERfxHkUp2TPlVU9dAjox,0.303,0.685,0.316,0.000119,0.129,-8.74,0.0438,138.082,0.214,29,R3HAB
+The Wave,12,1YaYoB7J5uQYadrY2tAh9J,We Do (feat. Miranda Glory),spotify:track:1YaYoB7J5uQYadrY2tAh9J,0.241,0.416,0.557,0,0.105,-5.629,0.0879,70.634,0.31,30,R3HAB
+The Wave,13,4p7fb6fjHMcyEebumewT2p,Back to You,spotify:track:4p7fb6fjHMcyEebumewT2p,0.109,0.629,0.573,0,0.212,-5.139,0.0277,93.009,0.169,28,R3HAB
+The Wave,14,3o3uJyzkWSICWdEA4Og2Tz,Good Intentions (feat. Lourdiz),spotify:track:3o3uJyzkWSICWdEA4Og2Tz,0.318,0.492,0.652,0,0.0789,-6.401,0.0487,96.112,0.198,30,R3HAB
+The Wave,15,4BLEnHP1FInl1u3xAbgI4n,Lullaby,spotify:track:4BLEnHP1FInl1u3xAbgI4n,0.0267,0.626,0.8,0.000133,0.0623,-3.988,0.035,127.965,0.26,61,R3HAB
+The Wave,16,2nzpyRpQbh3TVdxU9A0ScV,Belle,spotify:track:2nzpyRpQbh3TVdxU9A0ScV,0.0481,0.591,0.703,0.32,0.107,-8.916,0.0618,114.96,0.0338,26,R3HAB
+The Wave,8,4hIhoGN4UTZdNpHn5PbvoC,Rumors (with Sofia Carson),spotify:track:4hIhoGN4UTZdNpHn5PbvoC,0.44,0.712,0.496,0,0.186,-6.061,0.124,141.212,0.638,23,R3HAB
+The Wave,9,4akhMha97o3MdofdJgj0xc,Tell Me It's OK,spotify:track:4akhMha97o3MdofdJgj0xc,0.363,0.735,0.564,4.69E-05,0.167,-5.775,0.0712,127.947,0.217,21,R3HAB
+The Wave,11,7athZqYpRW1KOj7CKvIU6F,Wrong Move (feat. Olivia Holt),spotify:track:7athZqYpRW1KOj7CKvIU6F,0.161,0.722,0.705,1.63E-06,0.113,-5.821,0.0505,124.016,0.533,11,R3HAB
+The Wave,5,6Xx561yBK0t0zdsYuk6oPX,Hold on Tight,spotify:track:6Xx561yBK0t0zdsYuk6oPX,0.454,0.415,0.647,0,0.179,-7.131,0.0389,86.707,0.538,30,R3HAB
+The Wave,11,5Qnnqxzdf0FH6tGhm6bpIX,Wrong Move,spotify:track:5Qnnqxzdf0FH6tGhm6bpIX,0.161,0.722,0.706,1.72E-06,0.113,-5.824,0.0506,124.013,0.517,12,R3HAB
+The Wave,12,5G2PlOSygY1EKG5zXjRLay,We Do,spotify:track:5G2PlOSygY1EKG5zXjRLay,0.241,0.416,0.557,0,0.105,-5.629,0.0879,70.634,0.31,26,R3HAB
+The Wave,14,2xwKZ20Gep37pM8oXkRqzU,Good Intentions,spotify:track:2xwKZ20Gep37pM8oXkRqzU,0.318,0.493,0.652,0,0.0789,-6.401,0.0487,96.117,0.198,20,R3HAB
+Trouble,1,3g4if5OWydcXaYoVtSXXwQ,Intro,spotify:track:3g4if5OWydcXaYoVtSXXwQ,0.125,0.37,0.631,0.878,0.303,-14.372,0.481,90.393,0.0412,20,R3HAB
+Trouble,2,4exKBPywrjt5lTMhBhpD1G,Trouble,spotify:track:4exKBPywrjt5lTMhBhpD1G,0.181,0.744,0.595,5.89E-05,0.148,-6.076,0.0782,94.92,0.56,40,R3HAB
+Trouble,3,3gfmFoJgmn9LiIj5mV8oSS,I Just Can't,spotify:track:3gfmFoJgmn9LiIj5mV8oSS,0.162,0.652,0.595,0,0.148,-6.944,0.0419,77.538,0.303,51,R3HAB
+Trouble,4,4OADAMgbdaks8IINmnyH6m,Don't Stop (Interlude),spotify:track:4OADAMgbdaks8IINmnyH6m,0.582,0.261,0.206,0.23,0.213,-13.186,0.0378,79.407,0.04,23,R3HAB
+Trouble,5,7rrYse9eSla1ehw76NnWdq,Talking to You,spotify:track:7rrYse9eSla1ehw76NnWdq,0.44,0.922,0.7,0.000175,0.225,-6.822,0.112,117.97,0.476,37,R3HAB
+Trouble,6,1hPfhLeUCo1ltQLXjYkhp4,You Could Be,spotify:track:1hPfhLeUCo1ltQLXjYkhp4,0.255,0.718,0.681,1.88E-05,0.208,-4.593,0.0361,139.99,0.356,38,R3HAB
+Trouble,7,60jAqEHbHqkwWTkCIdmgFe,Catch Me (Interlude),spotify:track:60jAqEHbHqkwWTkCIdmgFe,0.577,0.487,0.339,0.101,0.247,-9.223,0.0338,144.914,0.285,23,R3HAB
+Trouble,8,1zNKrNBtDPje8fIodmzDOR,Shanghai,spotify:track:1zNKrNBtDPje8fIodmzDOR,0.0818,0.641,0.687,0.00209,0.197,-5.773,0.0542,149.873,0.418,35,R3HAB
+Trouble,9,4OGN0Aq7FIuwsxhmSfd803,Truth or Dare,spotify:track:4OGN0Aq7FIuwsxhmSfd803,0.318,0.715,0.581,0,0.125,-4.811,0.0384,97.019,0.378,36,R3HAB
+Trouble,10,0Ryiv4W3td0jYBmuAKxHTu,Icarus,spotify:track:0Ryiv4W3td0jYBmuAKxHTu,0.021,0.836,0.859,7.29E-05,0.389,-4.492,0.1,121.985,0.511,35,R3HAB
+Trouble,11,5euMoQnPqmmftjvqsMP3pY,Burned (Interlude),spotify:track:5euMoQnPqmmftjvqsMP3pY,0.91,0.387,0.31,0.897,0.122,-15.877,0.0566,133.988,0.0362,20,R3HAB
+Trouble,12,3NWk8jDkXYc0G5U8eKnuBu,Hold Me,spotify:track:3NWk8jDkXYc0G5U8eKnuBu,0.0945,0.604,0.688,0,0.14,-7.411,0.0562,145.072,0.349,32,R3HAB
+Trouble,13,2809JajDHqH4QeQ3H8DP7s,Killing Time,spotify:track:2809JajDHqH4QeQ3H8DP7s,0.454,0.477,0.581,1.59E-06,0.196,-7.555,0.117,110.049,0.171,32,R3HAB
+Trouble,14,1B6J0gMf0XZLC1ILFzIHj9,Hallucinations,spotify:track:1B6J0gMf0XZLC1ILFzIHj9,0.0107,0.807,0.59,0.00033,0.0697,-7.918,0.0483,122.015,0.506,31,R3HAB
+Trouble,15,4RZwdl43FRKZ59w58UmGmq,Sahara (Interlude),spotify:track:4RZwdl43FRKZ59w58UmGmq,0.159,0.444,0.369,0.409,0.118,-14.496,0.0309,110.051,0.0382,19,R3HAB
+Trouble,16,4Jp79uh7FDCzkSEr88zdjm,Marrakech,spotify:track:4Jp79uh7FDCzkSEr88zdjm,0.0112,0.63,0.912,0.226,0.344,-5.805,0.17,129.905,0.142,35,R3HAB
+Trouble,17,5l4UNxHKSNEZMMdvPmHrg2,Outro,spotify:track:5l4UNxHKSNEZMMdvPmHrg2,0.969,0.33,0.264,0.892,0.145,-18.254,0.0623,101.906,0.459,20,R3HAB

@@ -1,0 +1,217 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Ludaversal (Deluxe),1,77zeaNi0MfXEga1W3Sozbt,Ludaversal Intro,spotify:track:77zeaNi0MfXEga1W3Sozbt,0.0596,0.768,0.823,0,0.339,-6.333,0.0978,135.967,0.406,37,Ludacris
+Ludaversal (Deluxe),2,2cyrYMg4rxY8WNct3lVBm8,Grass Is Always Greener,spotify:track:2cyrYMg4rxY8WNct3lVBm8,0.0847,0.662,0.805,0,0.387,-7.043,0.326,94.929,0.614,40,Ludacris
+Ludaversal (Deluxe),3,1SzUjM4OtrcNMeDnL0aYDw,Call Ya Bluff,spotify:track:1SzUjM4OtrcNMeDnL0aYDw,0.0225,0.847,0.616,0,0.449,-8.138,0.251,121.992,0.718,45,Ludacris
+Ludaversal (Deluxe),4,6QkRTkarDVgHf2WGGcmU5g,Lyrical Healing,spotify:track:6QkRTkarDVgHf2WGGcmU5g,0.125,0.516,0.654,0,0.196,-9.746,0.364,83.193,0.715,31,Ludacris
+Ludaversal (Deluxe),5,1bMk013HdX3XLG2RNdkswq,Beast Mode,spotify:track:1bMk013HdX3XLG2RNdkswq,0.00104,0.487,0.808,0,0.395,-6.559,0.321,150.555,0.512,39,Ludacris
+Ludaversal (Deluxe),6,4A0yY8WvpCHCqBMA2MEA78,Viagra Skit,spotify:track:4A0yY8WvpCHCqBMA2MEA78,0.991,0.718,0.396,0.000286,0.436,-15.506,0.943,118.222,0.732,26,Ludacris
+Ludaversal (Deluxe),7,4XVTowqnqfY3EkuwF8gFFd,Get Lit,spotify:track:4XVTowqnqfY3EkuwF8gFFd,0.0273,0.621,0.84,0,0.181,-7.11,0.268,144.37,0.778,34,Ludacris
+Ludaversal (Deluxe),8,5D2z4dXeboBD1nVe9egUMx,Come And See Me Interlude,spotify:track:5D2z4dXeboBD1nVe9egUMx,0.0236,0.586,0.71,0,0.183,-8.642,0.322,75.493,0.575,27,Ludacris
+Ludaversal (Deluxe),9,7gbg7kCLB7UmruRaxNAju5,Come And See Me,spotify:track:7gbg7kCLB7UmruRaxNAju5,0.00744,0.876,0.486,0,0.232,-8.864,0.245,132.051,0.174,38,Ludacris
+Ludaversal (Deluxe),10,3aeSTu6ejN2BU8YywEcHWO,Good Lovin,spotify:track:3aeSTu6ejN2BU8YywEcHWO,0.294,0.619,0.754,3.48E-06,0.109,-5.231,0.232,83.464,0.589,59,Ludacris
+Ludaversal (Deluxe),11,1w9BpVr1IUekRxTxB68bsT,Ocean Skies,spotify:track:1w9BpVr1IUekRxTxB68bsT,0.0381,0.427,0.748,0,0.351,-6.866,0.193,149.238,0.386,32,Ludacris
+Ludaversal (Deluxe),12,26vpFR1AiqH1Ex3K17xGfQ,Not Long,spotify:track:26vpFR1AiqH1Ex3K17xGfQ,0.0119,0.538,0.798,0,0.0781,-6.909,0.121,169.516,0.631,31,Ludacris
+Ludaversal (Deluxe),13,4qQePxheRSXNd2lqlvgGYd,Charge It To The Rap Game,spotify:track:4qQePxheRSXNd2lqlvgGYd,0.0853,0.612,0.695,0,0.618,-9.28,0.388,78.115,0.515,29,Ludacris
+Ludaversal (Deluxe),14,2vGSSmNDkMLbyQn7SCbynf,This Has Been My World,spotify:track:2vGSSmNDkMLbyQn7SCbynf,0.00632,0.464,0.809,0,0.199,-6.201,0.0794,91.146,0.0655,28,Ludacris
+Ludaversal (Deluxe),15,1ndhF2ZkkFKw68ix0eFllO,Money,spotify:track:1ndhF2ZkkFKw68ix0eFllO,0.0467,0.55,0.886,0,0.196,-5.829,0.281,76.863,0.582,30,Ludacris
+Ludaversal (Deluxe),16,2HcwlrhmvhlNNwoGvZz2Nw,Problems,spotify:track:2HcwlrhmvhlNNwoGvZz2Nw,0.0263,0.708,0.748,0,0.338,-4.929,0.0523,127.985,0.0404,33,Ludacris
+Ludaversal (Deluxe),17,7CDZhFtOXWYtLFD7pHQKcL,In My Life,spotify:track:7CDZhFtOXWYtLFD7pHQKcL,0.0082,0.358,0.92,0,0.168,-4.583,0.241,149.796,0.614,27,Ludacris
+Ludaversal (Deluxe),18,3d81kNr1Ge6gTTeOXnKxV0,Burning Bridges,spotify:track:3d81kNr1Ge6gTTeOXnKxV0,0.135,0.512,0.939,0,0.177,-5.303,0.351,159.914,0.466,36,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,2,72nemulMS9rPeqZEmGtOye,Wasted,spotify:track:72nemulMS9rPeqZEmGtOye,0.0536,0.624,0.598,0,0.218,-7.944,0.357,154.836,0.574,18,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,3,6AmL1mgZFQSCVR2zP4N73P,O Lets Do It,spotify:track:6AmL1mgZFQSCVR2zP4N73P,0.0573,0.867,0.465,0,0.354,-8.972,0.419,129.94,0.378,19,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,4,6BVU5yXfSe7ypq9YXg1aag,Patna Dem,spotify:track:6BVU5yXfSe7ypq9YXg1aag,0.0964,0.725,0.882,0,0.0855,-6.787,0.241,141.982,0.775,22,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,5,7IuR9PUcOadVcoxcV93w68,Conjure Commercial,spotify:track:7IuR9PUcOadVcoxcV93w68,0.581,0.723,0.273,0,0.258,-11.971,0.938,104.233,0.972,14,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,6,6U54nHml0lkGVrFoIQRxTC,All The Way Turned Up,spotify:track:6U54nHml0lkGVrFoIQRxTC,0.00462,0.648,0.916,0,0.251,-4.156,0.0839,132.059,0.781,21,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,7,1IOJtyQGV7LVy9N6xfmlS3,Born An Og,spotify:track:1IOJtyQGV7LVy9N6xfmlS3,0.274,0.562,0.799,0,0.149,-4.739,0.122,138.915,0.291,17,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,8,1r08jwkaxAHmxckV6UCDxJ,"Atlanta,GA",spotify:track:1r08jwkaxAHmxckV6UCDxJ,0.108,0.574,0.872,0,0.303,-3.376,0.226,147.936,0.636,16,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,9,0Pgu1Wlp6wPmpf3qaiziI2,Conjure Commercial 2,spotify:track:0Pgu1Wlp6wPmpf3qaiziI2,0.544,0.773,0.315,0,0.306,-12.106,0.897,96.025,0.761,12,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,10,61kiUUQIw1Y1EI2cqUO3qM,Everybody Wit Me,spotify:track:61kiUUQIw1Y1EI2cqUO3qM,0.0864,0.886,0.65,0,0.208,-7.515,0.0895,122.781,0.182,18,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,11,32XLv39jqNnDzLIEKY0xbn,Bulletproof,spotify:track:32XLv39jqNnDzLIEKY0xbn,0.298,0.69,0.568,0,0.345,-10.212,0.124,70.98,0.654,16,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,12,42jdId677ftvDCutjKdLMj,Conjure Commercial 3,spotify:track:42jdId677ftvDCutjKdLMj,0.685,0.727,0.296,0,0.102,-10.479,0.82,83.147,0.822,12,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,13,7vKFSVxUJhbb9L5NWmAqN6,Don't Trust Her,spotify:track:7vKFSVxUJhbb9L5NWmAqN6,0.0934,0.779,0.7,0,0.452,-9.037,0.142,130.536,0.426,14,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,14,1TyBg8P3KpnRzRduf8PS2Z,Addicted 2 Money,spotify:track:1TyBg8P3KpnRzRduf8PS2Z,0.133,0.716,0.792,0,0.425,-6.601,0.257,81.894,0.275,20,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,15,7nDJ2055hw0h2LByZ9zEMS,We Gettin Rich,spotify:track:7nDJ2055hw0h2LByZ9zEMS,0.0512,0.462,0.907,0,0.343,-5.293,0.392,153.21,0.457,15,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,16,2EBTttTbHnj8CCdQQDAoKT,Conjure Commercial 4,spotify:track:2EBTttTbHnj8CCdQQDAoKT,0.639,0.643,0.271,0,0.284,-12.56,0.928,167.313,0.965,11,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,17,4HJ96BjWKNUaqWORrzZFIm,Regret,spotify:track:4HJ96BjWKNUaqWORrzZFIm,0.0198,0.695,0.693,0,0.0728,-5.887,0.341,179.96,0.496,14,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,18,0RMp51pNU9FnZRZPgpGxzf,Sex Therapy,spotify:track:0RMp51pNU9FnZRZPgpGxzf,0.66,0.751,0.589,0,0.289,-5.575,0.0498,111.995,0.474,21,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,19,4D7zXysxREOdk9SjGZelm7,Outro,spotify:track:4D7zXysxREOdk9SjGZelm7,0.673,0.746,0.336,0,0.215,-11.058,0.842,115.552,0.799,11,Ludacris
+The Conjure Mixtape: A Hustler's Spirit,20,6aebBzqglGOcsdDYbxldlc,Pennies,spotify:track:6aebBzqglGOcsdDYbxldlc,0.14,0.656,0.908,0,0.11,-6.404,0.673,79.329,0.295,12,Ludacris
+Battle Of The Sexes (Deluxe),2,1WtTLtofvcjQM3sXSMkDdX,How Low,spotify:track:1WtTLtofvcjQM3sXSMkDdX,0.00248,0.785,0.498,1.23E-06,0.224,-6.977,0.0533,143.96,0.418,68,Ludacris
+Battle Of The Sexes (Deluxe),3,3bMNprrp2JDKZsGbiXpsJl,My Chick Bad,spotify:track:3bMNprrp2JDKZsGbiXpsJl,0.172,0.624,0.723,0,0.483,-6.782,0.378,84.789,0.757,73,Ludacris
+Battle Of The Sexes (Deluxe),4,4q3nmeNA5FsBj7vzhl6sgu,Everybody Drunk,spotify:track:4q3nmeNA5FsBj7vzhl6sgu,0.0406,0.888,0.646,0,0.325,-7.313,0.0911,122.798,0.192,44,Ludacris
+Battle Of The Sexes (Deluxe),5,1UYp90FsUZ4NTQTeidLCmX,I Do It All Night,spotify:track:1UYp90FsUZ4NTQTeidLCmX,0.0118,0.839,0.589,0,0.097,-6.594,0.114,129.995,0.533,31,Ludacris
+Battle Of The Sexes (Deluxe),6,5fc3CYrNkLym4ifJgnJtmv,Sex Room,spotify:track:5fc3CYrNkLym4ifJgnJtmv,0.321,0.665,0.69,0,0.107,-5.856,0.0622,116.018,0.677,48,Ludacris
+Battle Of The Sexes (Deluxe),7,1lI4FCVQfNuR0VVEfDyQgR,I Know You Got A Man,spotify:track:1lI4FCVQfNuR0VVEfDyQgR,0.014,0.685,0.781,0,0.0599,-6.24,0.115,149.807,0.539,32,Ludacris
+Battle Of The Sexes (Deluxe),8,2GyPoGEiLc8nj8Z5AK27nI,Hey Ho,spotify:track:2GyPoGEiLc8nj8Z5AK27nI,0.0198,0.673,0.834,0,0.125,-5.275,0.0861,140.299,0.838,31,Ludacris
+Battle Of The Sexes (Deluxe),9,3dEWvrqdlga039h9HiNXSa,Party No Mo',spotify:track:3dEWvrqdlga039h9HiNXSa,0.00276,0.579,0.669,0,0.13,-7.519,0.286,145.089,0.418,29,Ludacris
+Battle Of The Sexes (Deluxe),10,4RwXsGcJAH1T6X3453MSWT,B.O.T.S. Radio,spotify:track:4RwXsGcJAH1T6X3453MSWT,0.164,0.479,0.659,0,0.197,-6.034,0.295,88.51,0.478,26,Ludacris
+Battle Of The Sexes (Deluxe),11,7nmSP5sKlvIvRa05sksafJ,Can't Live With You,spotify:track:7nmSP5sKlvIvRa05sksafJ,0.0049,0.688,0.788,0,0.264,-5.63,0.248,159.043,0.583,29,Ludacris
+Battle Of The Sexes (Deluxe),12,7eZT4U188WHdgkOfB4VYzL,Feelin' So Sexy,spotify:track:7eZT4U188WHdgkOfB4VYzL,0.0449,0.458,0.683,0,0.104,-10.029,0.415,77.958,0.389,30,Ludacris
+Battle Of The Sexes (Deluxe),13,2lWSXS6nFAQArJkYfWwiXB,Tell Me A Secret,spotify:track:2lWSXS6nFAQArJkYfWwiXB,0.049,0.742,0.585,0,0.0722,-6.726,0.104,140.073,0.363,29,Ludacris
+Battle Of The Sexes (Deluxe),14,6XmepXnPT8og0CojKCeOkT,My Chick Bad Remix,spotify:track:6XmepXnPT8og0CojKCeOkT,0.109,0.625,0.611,0,0.368,-7.927,0.38,84.3,0.621,45,Ludacris
+Battle Of The Sexes (Deluxe),15,2b1ZEnHNCfa3l3Xhqnum8i,Sexting - Bonus Track (Explicit),spotify:track:2b1ZEnHNCfa3l3Xhqnum8i,0.157,0.913,0.808,0,0.0521,-5.404,0.261,120.018,0.695,35,Ludacris
+Battle Of The Sexes (Deluxe),16,0nlYanVZ2CmfYqLOy3oiNf,How Low Remix - Bonus Track (Explicit),spotify:track:0nlYanVZ2CmfYqLOy3oiNf,0.0054,0.785,0.555,8.06E-06,0.191,-6.597,0.0526,144.076,0.297,43,Ludacris
+Battle Of The Sexes (Deluxe),17,6WQi91716ppIvo9QqaPTxK,Rollercoaster - Bonus Track (Explicit),spotify:track:6WQi91716ppIvo9QqaPTxK,0.0416,0.387,0.678,0,0.257,-7.219,0.313,79.084,0.422,30,Ludacris
+Battle Of The Sexes (Deluxe),1,6wnROsIZ5aVJvonHtHyU4n,Intro - Album Version (Edited),spotify:track:6wnROsIZ5aVJvonHtHyU4n,0.0118,0.524,0.868,0,0.354,-5.606,0.201,142.794,0.693,2,Ludacris
+Battle Of The Sexes (Deluxe),2,1OTAh8d1KFAFmEeS32b3Aj,How Low - Album Version (Edited),spotify:track:1OTAh8d1KFAFmEeS32b3Aj,0.00257,0.789,0.495,2.65E-06,0.203,-6.96,0.0577,144.047,0.39,39,Ludacris
+Battle Of The Sexes (Deluxe),4,4Hz6V8UtunUDtllZimWD1r,Everybody Drunk - Album Version (Edited),spotify:track:4Hz6V8UtunUDtllZimWD1r,0.0309,0.909,0.624,0,0.241,-7.488,0.0937,122.802,0.245,13,Ludacris
+Battle Of The Sexes (Deluxe),5,7lYjKIBhxBVU5IgXWRvAtj,I Do It All Night - Album Version (Edited),spotify:track:7lYjKIBhxBVU5IgXWRvAtj,0.00834,0.84,0.6,0,0.0874,-6.723,0.121,129.986,0.577,7,Ludacris
+Battle Of The Sexes (Deluxe),6,2SzYfTzerBYw85gcfk8rMt,Sex Room - Album Version (Edited),spotify:track:2SzYfTzerBYw85gcfk8rMt,0.294,0.684,0.687,0,0.104,-5.922,0.0458,116.045,0.69,17,Ludacris
+Battle Of The Sexes (Deluxe),7,2az901gaVvbSAmqsx5aE8v,I Know You Got A Man - Album Version (Edited),spotify:track:2az901gaVvbSAmqsx5aE8v,0.017,0.674,0.775,0,0.0605,-6.236,0.119,149.836,0.51,8,Ludacris
+Battle Of The Sexes (Deluxe),8,50fCit5oRr8s7oKDbXWjFW,Hey Ho - Album Version (Edited),spotify:track:50fCit5oRr8s7oKDbXWjFW,0.00778,0.694,0.838,0,0.141,-5.353,0.081,140.13,0.836,5,Ludacris
+Battle Of The Sexes (Deluxe),9,3ykK0yCHMsyiRKjnyPeXdr,Party No Mo' - Album Version (Edited),spotify:track:3ykK0yCHMsyiRKjnyPeXdr,0.00187,0.572,0.672,0,0.164,-7.513,0.293,145.086,0.415,8,Ludacris
+Battle Of The Sexes (Deluxe),10,2RWpZ5af7gtFs7Is213z6m,B.O.T.S. Radio - Album Version (Edited),spotify:track:2RWpZ5af7gtFs7Is213z6m,0.119,0.504,0.654,0,0.189,-6.097,0.283,91.494,0.475,3,Ludacris
+Battle Of The Sexes (Deluxe),11,3agz6FYJkJycPMjUbEZF9z,Can't Live With You - Album Version (Edited),spotify:track:3agz6FYJkJycPMjUbEZF9z,0.00679,0.694,0.759,0,0.261,-5.638,0.24,158.991,0.603,3,Ludacris
+Battle Of The Sexes (Deluxe),12,66juPs6mh0mhojKyMu5RmB,Feelin' So Sexy - Album Version (Edited),spotify:track:66juPs6mh0mhojKyMu5RmB,0.0385,0.612,0.658,0,0.104,-9.926,0.357,76.073,0.41,3,Ludacris
+Battle Of The Sexes (Deluxe),13,0V9HmmF3gGddJNcugjf6x6,Tell Me A Secret - Album Version (Edited),spotify:track:0V9HmmF3gGddJNcugjf6x6,0.144,0.747,0.685,0,0.0719,-5.103,0.129,139.992,0.395,4,Ludacris
+Battle Of The Sexes (Deluxe),15,6BoSHYADeJf7hF2ZcWAMto,Sexting - Bonus Track (Edited),spotify:track:6BoSHYADeJf7hF2ZcWAMto,0.165,0.909,0.818,0,0.0604,-5.382,0.244,120.003,0.688,6,Ludacris
+Battle Of The Sexes (Deluxe),16,7FQA9HG53JT97dSSMcnumJ,How Low Remix - Bonus Track (Edited),spotify:track:7FQA9HG53JT97dSSMcnumJ,0.00526,0.783,0.55,6.46E-06,0.118,-6.61,0.0469,144.023,0.317,23,Ludacris
+Battle Of The Sexes (Deluxe),17,5T4J06tKOAySeg7WhSYVPl,Rollercoaster - Bonus Track (Edited),spotify:track:5T4J06tKOAySeg7WhSYVPl,0.0382,0.399,0.669,0,0.281,-7.23,0.227,83.197,0.443,3,Ludacris
+Theater Of The Mind (Expanded Edition),2,4vLwDW7CFsJe750DxnUv59,Undisputed,spotify:track:4vLwDW7CFsJe750DxnUv59,0.0435,0.521,0.96,0,0.351,-3.967,0.348,163.126,0.76,36,Ludacris
+Theater Of The Mind (Expanded Edition),3,6MhCDZSJwSVTTjlPGbtYbB,Wish You Would,spotify:track:6MhCDZSJwSVTTjlPGbtYbB,0.118,0.442,0.821,0,0.0799,-5.441,0.236,99.935,0.247,33,Ludacris
+Theater Of The Mind (Expanded Edition),4,3FKxzkeotnNsCjhpICJhz7,One More Drink,spotify:track:3FKxzkeotnNsCjhpICJhz7,0.051,0.511,0.752,0,0.29,-4.609,0.281,96.791,0.602,50,Ludacris
+Theater Of The Mind (Expanded Edition),5,7FtRaIysvClkMo2lPgZGPu,Call Up The Homies,spotify:track:7FtRaIysvClkMo2lPgZGPu,0.000977,0.531,0.834,0,0.216,-6.195,0.269,90.955,0.637,31,Ludacris
+Theater Of The Mind (Expanded Edition),6,3y7iLrE5htKfGNm5Smlvih,Southern Gangsta,spotify:track:3y7iLrE5htKfGNm5Smlvih,0.000647,0.651,0.704,1.33E-05,0.105,-5.564,0.273,155.808,0.6,29,Ludacris
+Theater Of The Mind (Expanded Edition),7,4fBP8MaJYbiQHwvr1rlAMp,Everybody Hates Chris,spotify:track:4fBP8MaJYbiQHwvr1rlAMp,0.0149,0.314,0.94,0,0.974,-5.394,0.572,166.319,0.657,26,Ludacris
+Theater Of The Mind (Expanded Edition),8,22zQIT8YePdO4f3coOHZuH,What Them Girls Like,spotify:track:22zQIT8YePdO4f3coOHZuH,0.149,0.535,0.691,0,0.159,-5.544,0.355,170.013,0.813,46,Ludacris
+Theater Of The Mind (Expanded Edition),9,6jo9xsnoWbjU0T9g4cNUac,Nasty Girl,spotify:track:6jo9xsnoWbjU0T9g4cNUac,0.0468,0.592,0.68,0,0.107,-4.541,0.297,171.449,0.856,29,Ludacris
+Theater Of The Mind (Expanded Edition),10,4GvRy02Pc9SnCCaxtDqr77,Contagious,spotify:track:4GvRy02Pc9SnCCaxtDqr77,0.227,0.75,0.666,0,0.0922,-7.959,0.194,78.258,0.507,25,Ludacris
+Theater Of The Mind (Expanded Edition),11,3s17hg6GsjCTo1qFSYRmFd,Last Of A Dying Breed,spotify:track:3s17hg6GsjCTo1qFSYRmFd,0.00756,0.558,0.926,0,0.365,-4.472,0.236,107.262,0.348,49,Ludacris
+Theater Of The Mind (Expanded Edition),12,2dbcNf2NUsVvW4z26PdnuC,MVP,spotify:track:2dbcNf2NUsVvW4z26PdnuC,0.0145,0.52,0.919,4.23E-06,0.0539,-4.434,0.315,84.794,0.769,35,Ludacris
+Theater Of The Mind (Expanded Edition),13,18lnke8wNQ18t5vjQbkHzu,I Do It For Hip Hop,spotify:track:18lnke8wNQ18t5vjQbkHzu,0.0147,0.508,0.722,2.12E-06,0.246,-5.574,0.301,86.01,0.237,36,Ludacris
+Theater Of The Mind (Expanded Edition),14,1N4c8AB6iMZRoVylsn21KJ,Do The Right Thang,spotify:track:1N4c8AB6iMZRoVylsn21KJ,0.0301,0.371,0.722,0,0.275,-7.836,0.284,148.057,0.784,28,Ludacris
+Theater Of The Mind (Expanded Edition),15,6kpeHdDGnxP34mmH2k3biH,Let's Stay Together,spotify:track:6kpeHdDGnxP34mmH2k3biH,0.00105,0.563,0.649,4.81E-05,0.0576,-5.25,0.126,149.345,0.215,21,Ludacris
+Theater Of The Mind (Expanded Edition),16,1YCGoXU7dCNz1F7iFoZSUl,Press The Start Button,spotify:track:1YCGoXU7dCNz1F7iFoZSUl,0.000159,0.315,0.633,5.16E-06,0.331,-3.861,0.0973,78.066,0.152,44,Ludacris
+Release Therapy,15,0M3DmRWbHpWd5ulVKkjTfc,We Ain't Worried 'Bout U,spotify:track:0M3DmRWbHpWd5ulVKkjTfc,0.207,0.594,0.915,0,0.132,-3.748,0.291,159.839,0.649,7,Ludacris
+Release Therapy,1,2nWj1Tg0en6iJLXB7vNhT0,Warning (Intro),spotify:track:2nWj1Tg0en6iJLXB7vNhT0,0.0262,0.407,0.905,0,0.379,-4.276,0.289,159.032,0.606,28,Ludacris
+Release Therapy,2,6WwFEKri9xXWyAEulFMsu6,Grew Up A Screw Up,spotify:track:6WwFEKri9xXWyAEulFMsu6,0.0255,0.421,0.836,0,0.34,-4.773,0.297,155.48,0.524,46,Ludacris
+Release Therapy,3,2JpUkUR0OsOlUUfm6iS8ic,Money Maker,spotify:track:2JpUkUR0OsOlUUfm6iS8ic,0.15,0.551,0.598,0,0.299,-6.79,0.27,78.756,0.612,67,Ludacris
+Release Therapy,4,54SitNflDuLY4ZgrjFEubX,Girls Gone Wild,spotify:track:54SitNflDuLY4ZgrjFEubX,0.0216,0.837,0.792,0,0.0735,-5.534,0.197,118.018,0.822,31,Ludacris
+Release Therapy,5,4Px6UxIP7vETOv26hqBsgT,Ultimate Satisfaction,spotify:track:4Px6UxIP7vETOv26hqBsgT,0.0232,0.653,0.891,0,0.134,-6.022,0.36,129.866,0.828,33,Ludacris
+Release Therapy,6,1tMwlDef0rp7AisNKt1ID0,Mouths To Feed,spotify:track:1tMwlDef0rp7AisNKt1ID0,0.123,0.399,0.966,0,0.335,-3.803,0.479,149.626,0.513,28,Ludacris
+Release Therapy,7,6JslHMcNlgwe2FXqtPdBB0,End Of The Night,spotify:track:6JslHMcNlgwe2FXqtPdBB0,0.185,0.658,0.744,0,0.0784,-4.796,0.239,139.924,0.7,28,Ludacris
+Release Therapy,8,5Duhok2B2HnUlIswsTsQry,Woozy,spotify:track:5Duhok2B2HnUlIswsTsQry,0.181,0.887,0.562,0,0.0589,-6.569,0.158,125.963,0.826,30,Ludacris
+Release Therapy,9,2Q2QQzSEYYlz13LfFqlEPk,Tell It Like It Is,spotify:track:2Q2QQzSEYYlz13LfFqlEPk,0.205,0.524,0.914,0,0.264,-4.474,0.374,77.834,0.809,28,Ludacris
+Release Therapy,10,67knAI0fZboxWdJi4VOpJs,War With God,spotify:track:67knAI0fZboxWdJi4VOpJs,0.114,0.659,0.697,0,0.161,-6.454,0.194,142.213,0.347,34,Ludacris
+Release Therapy,11,5hzrBGIoRlsein6TvuahVd,Do Your Time,spotify:track:5hzrBGIoRlsein6TvuahVd,0.189,0.605,0.869,0,0.476,-5.238,0.397,166.455,0.738,30,Ludacris
+Release Therapy,12,0gnsN3jBYMzfO1DNYbNshP,Slap,spotify:track:0gnsN3jBYMzfO1DNYbNshP,0.00906,0.623,0.704,0,0.163,-4.802,0.0276,114.007,0.473,39,Ludacris
+Release Therapy,13,3QnEp4rluCxUwgpXT43jmC,Runaway Love,spotify:track:3QnEp4rluCxUwgpXT43jmC,0.329,0.405,0.721,0,0.252,-6.97,0.283,92.854,0.815,56,Ludacris
+Release Therapy,14,1svEpQ08HtZyMg6JO3vK0Q,Freedom Of Preach,spotify:track:1svEpQ08HtZyMg6JO3vK0Q,0.319,0.529,0.666,0,0.358,-5.585,0.353,109.583,0.604,24,Ludacris
+Release Therapy,1,3a0V2L8zG2AioVfRYw45iJ,Warning (Intro) - Album Version (Edited),spotify:track:3a0V2L8zG2AioVfRYw45iJ,0.0269,0.416,0.916,0,0.433,-4.31,0.318,159.335,0.595,6,Ludacris
+Release Therapy,2,5kWvXYv3st6D29UUHRtK0A,Grew Up A Screw Up - Album Version (Edited),spotify:track:5kWvXYv3st6D29UUHRtK0A,0.0304,0.414,0.859,0,0.62,-4.6,0.302,155.428,0.564,20,Ludacris
+Release Therapy,3,7kJrwAuH67z0a0XwPyeTYq,Money Maker - Album Version (Edited),spotify:track:7kJrwAuH67z0a0XwPyeTYq,0.136,0.464,0.613,0,0.341,-7.2,0.291,83.471,0.664,30,Ludacris
+Release Therapy,4,7oChXpZ9OxRV9FFX7BXwLo,Girls Gone Wild - Album Version (Edited),spotify:track:7oChXpZ9OxRV9FFX7BXwLo,0.0274,0.85,0.797,0,0.0759,-5.647,0.219,118.028,0.829,7,Ludacris
+Release Therapy,5,4vm4OPHtpRQanZzQWAWyDD,Ultimate Satisfaction - Album Version (Edited),spotify:track:4vm4OPHtpRQanZzQWAWyDD,0.0222,0.672,0.895,0,0.134,-5.946,0.344,129.893,0.787,8,Ludacris
+Release Therapy,6,4MOBHoHpmUtdPKkoeRR0ep,Mouths To Feed - Album Version (Edited),spotify:track:4MOBHoHpmUtdPKkoeRR0ep,0.127,0.407,0.967,0,0.32,-3.762,0.481,149.513,0.506,8,Ludacris
+Release Therapy,7,7ziX2zUWAdB4HiCSDBvFbP,End Of The Night - Album Version (Edited),spotify:track:7ziX2zUWAdB4HiCSDBvFbP,0.179,0.672,0.735,0,0.0687,-4.937,0.226,139.874,0.729,4,Ludacris
+Release Therapy,8,2gy1nrb5of0i2tsKMfLF9e,Woozy - Album Version (Edited),spotify:track:2gy1nrb5of0i2tsKMfLF9e,0.189,0.889,0.577,0,0.058,-6.541,0.178,125.982,0.824,6,Ludacris
+Release Therapy,9,1qtIGMfWuNWvPRRylR27rp,Tell It Like It Is - Album Version (Edited),spotify:track:1qtIGMfWuNWvPRRylR27rp,0.188,0.432,0.914,0,0.298,-4.474,0.393,82.713,0.797,4,Ludacris
+Release Therapy,10,03kgvUn45ILfepATNMMW2F,War With God - Album Version (Edited),spotify:track:03kgvUn45ILfepATNMMW2F,0.146,0.65,0.694,0,0.134,-6.502,0.225,142.116,0.381,8,Ludacris
+Release Therapy,11,14DEwiVKUBRViL4tcEz6Nr,Do Your Time - Album Version (Edited),spotify:track:14DEwiVKUBRViL4tcEz6Nr,0.184,0.519,0.857,0,0.494,-5.267,0.407,166.292,0.693,6,Ludacris
+Release Therapy,12,2X0Dfmcst5HgfDUXOMioL3,Slap - Album Version (Edited),spotify:track:2X0Dfmcst5HgfDUXOMioL3,0.0162,0.627,0.673,0,0.28,-5.128,0.037,114.043,0.501,12,Ludacris
+Release Therapy,13,3qZNFx7RDLwNOYjdSQYmZv,Runaway Love - Album Version (Edited),spotify:track:3qZNFx7RDLwNOYjdSQYmZv,0.343,0.459,0.73,0,0.328,-7.033,0.29,91.684,0.79,19,Ludacris
+Release Therapy,14,3qhpOLTBzI8KgHmljQxXVb,Freedom Of Preach - Album Version (Edited),spotify:track:3qhpOLTBzI8KgHmljQxXVb,0.338,0.523,0.665,0,0.367,-5.525,0.362,107.603,0.592,3,Ludacris
+Ludacris Presents...Disturbing Tha Peace,2,4Oany7rm9uIi7TLlaBjouD,Georgia,spotify:track:4Oany7rm9uIi7TLlaBjouD,0.0867,0.611,0.881,0,0.214,-7.522,0.389,88.976,0.525,51,Ludacris
+Ludacris Presents...Disturbing Tha Peace,3,108odouvm8tqZVQKjUZINS,Put Ya Hands Up,spotify:track:108odouvm8tqZVQKjUZINS,0.00951,0.369,0.916,0,0.298,-5.338,0.502,81.495,0.543,21,Ludacris
+Ludacris Presents...Disturbing Tha Peace,4,5gYFQIXqZ3KbxNtnzVXBxg,Word On The Street Skit,spotify:track:5gYFQIXqZ3KbxNtnzVXBxg,0.807,0.74,0.301,0,0.21,-8.642,0.822,109.837,0.552,15,Ludacris
+Ludacris Presents...Disturbing Tha Peace,5,0OV2bt36Ol5aRVcybGGbjF,Gettin' Some,spotify:track:0OV2bt36Ol5aRVcybGGbjF,0.0929,0.827,0.556,0,0.0632,-7.077,0.342,78.087,0.642,33,Ludacris
+Ludacris Presents...Disturbing Tha Peace,6,6yUWyFjpjQoayvQvaXGl5N,Come See Me,spotify:track:6yUWyFjpjQoayvQvaXGl5N,0.0933,0.51,0.838,0,0.163,-5.445,0.306,149.811,0.654,22,Ludacris
+Ludacris Presents...Disturbing Tha Peace,7,60FUCHW3nR5IIftByVjBmB,Break A N**a Off,spotify:track:60FUCHW3nR5IIftByVjBmB,0.0346,0.837,0.887,1.05E-06,0.0918,-2.875,0.257,98.001,0.766,21,Ludacris
+Ludacris Presents...Disturbing Tha Peace,8,2LN1Lcclr15JVnpwbG8Ghw,Skit (Ludacris and Disturbing Tha Peace/Ludacris Presents...Disturbing Tha Peace),spotify:track:2LN1Lcclr15JVnpwbG8Ghw,0.156,0,0.232,1.32E-06,0.1,-14.017,0,0,0,0,Ludacris
+Ludacris Presents...Disturbing Tha Peace,9,6ssMil5CfDEEPeofMHcGjo,I'll Be Around,spotify:track:6ssMil5CfDEEPeofMHcGjo,0.0206,0.376,0.926,0,0.242,-4.221,0.463,182.025,0.539,19,Ludacris
+Ludacris Presents...Disturbing Tha Peace,10,0SmiblRIMFmW3vXb1x5qBI,Sweet Revenge,spotify:track:0SmiblRIMFmW3vXb1x5qBI,0.0441,0.555,0.608,0,0.18,-7.731,0.447,85.404,0.644,26,Ludacris
+Ludacris Presents...Disturbing Tha Peace,11,5ugGb9WePVP8D1T4Q6GlFS,DTP For Life,spotify:track:5ugGb9WePVP8D1T4Q6GlFS,0.175,0.629,0.815,0,0.302,-5.156,0.18,145.124,0.276,21,Ludacris
+Ludacris Presents...Disturbing Tha Peace,12,5PVhU3WCGsPGTXhKzb6RBW,Two Miles An Hour (Remix),spotify:track:5PVhU3WCGsPGTXhKzb6RBW,0.0755,0.769,0.778,0,0.248,-6.033,0.292,146.837,0.773,21,Ludacris
+Ludacris Presents...Disturbing Tha Peace,13,0Y9JYpIlCgnGJRhGmCgQYh,Table Dance,spotify:track:0Y9JYpIlCgnGJRhGmCgQYh,0.0703,0.652,0.725,0,0.107,-7.646,0.225,82.491,0.703,26,Ludacris
+Ludacris Presents...Disturbing Tha Peace,14,7GBxhDTuMOEzltCaPsGk3X,That's My Sh*t,spotify:track:7GBxhDTuMOEzltCaPsGk3X,0.0562,0.762,0.848,0,0.0807,-8.197,0.432,157.909,0.72,22,Ludacris
+Ludacris Presents...Disturbing Tha Peace,15,3OBWLAosfzHCqTaDopCXMI,You Ain't Got Enough,spotify:track:3OBWLAosfzHCqTaDopCXMI,0.0442,0.382,0.832,1.50E-06,0.602,-5.55,0.405,165.761,0.503,19,Ludacris
+Ludacris Presents...Disturbing Tha Peace,16,5WDva4VGtvh5aG78H936GR,Family Affair,spotify:track:5WDva4VGtvh5aG78H936GR,0.0956,0.477,0.876,0,0.0761,-5.615,0.409,148.723,0.498,23,Ludacris
+Ludacris Presents...Disturbing Tha Peace,17,76KZo2AalZMCRe6c8yDepy,Blood In The Air,spotify:track:76KZo2AalZMCRe6c8yDepy,0.00222,0.678,0.915,5.00E-06,0.102,-4.455,0.105,116.113,0.621,18,Ludacris
+Ludacris Presents...Disturbing Tha Peace,2,0B04rToasqCT83cHhIBiEp,Georgia - Album Version (Edited),spotify:track:0B04rToasqCT83cHhIBiEp,0.0877,0.45,0.878,0,0.189,-7.536,0.61,66.974,0.53,23,Ludacris
+Ludacris Presents...Disturbing Tha Peace,3,5jvp9KHgRkPm4iZU7xQwME,Put Ya Hands Up - Album Version (Edited),spotify:track:5jvp9KHgRkPm4iZU7xQwME,0.00989,0.38,0.914,0,0.285,-5.343,0.46,85.05,0.524,2,Ludacris
+Ludacris Presents...Disturbing Tha Peace,4,4SWImjYO7xD9AvlquXM3Ct,Word On The Street Skit - Album Version (Edited),spotify:track:4SWImjYO7xD9AvlquXM3Ct,0.783,0.763,0.277,0,0.168,-8.722,0.773,67.539,0.592,1,Ludacris
+Ludacris Presents...Disturbing Tha Peace,5,6Sv2wwj9e4kvm7Mjv2dGYV,Gettin' Some - Album Version (Edited),spotify:track:6Sv2wwj9e4kvm7Mjv2dGYV,0.062,0.802,0.56,0,0.0701,-7.201,0.378,156.219,0.579,13,Ludacris
+Ludacris Presents...Disturbing Tha Peace,6,0GeCGuLKNf8iJ4TTsJShf9,Come See Me - Album Version (Edited),spotify:track:0GeCGuLKNf8iJ4TTsJShf9,0.0921,0.605,0.785,0,0.0993,-6.765,0.323,149.897,0.706,1,Ludacris
+Ludacris Presents...Disturbing Tha Peace,7,2QfvCc26qKCnUQsmDbhgAx,Break A N**a Off - Album Version (Edited),spotify:track:2QfvCc26qKCnUQsmDbhgAx,0.0444,0.813,0.857,0,0.0901,-3.293,0.319,98.069,0.724,1,Ludacris
+Ludacris Presents...Disturbing Tha Peace,8,4acRxkFmN9n7jZXJTjtjp2,Skit (Ludacris and Disturbing Tha Peace/Ludacris Presents...Disturbing Tha Peace) - Album Version (Edited),spotify:track:4acRxkFmN9n7jZXJTjtjp2,0.152,0,0.293,0,0.0962,-14.301,0,0,0,0,Ludacris
+Ludacris Presents...Disturbing Tha Peace,9,570LQfIwbHGNXqqaXxSql8,I'll Be Around - Album Version (Edited),spotify:track:570LQfIwbHGNXqqaXxSql8,0.0201,0.606,0.928,1.86E-06,0.232,-4.226,0.296,91.113,0.541,1,Ludacris
+Ludacris Presents...Disturbing Tha Peace,10,5SRh9pdv1mReka9cuNhG62,Sweet Revenge - Album Version (Edited),spotify:track:5SRh9pdv1mReka9cuNhG62,0.0366,0.761,0.608,0,0.156,-7.761,0.398,85.412,0.683,9,Ludacris
+Ludacris Presents...Disturbing Tha Peace,11,0mbbuwVzA94Pt9USMCFecf,DTP For Life - Album Version (Edited),spotify:track:0mbbuwVzA94Pt9USMCFecf,0.226,0.655,0.816,0,0.248,-5.801,0.216,145.131,0.369,1,Ludacris
+Ludacris Presents...Disturbing Tha Peace,12,5gspq69xSI4lGXHff2oojp,Two Miles An Hour (Remix) - Album Version (Edited),spotify:track:5gspq69xSI4lGXHff2oojp,0.0766,0.764,0.776,0,0.271,-6.062,0.285,146.925,0.791,5,Ludacris
+Ludacris Presents...Disturbing Tha Peace,13,04MXELS5mvWRYCbSb33ODI,Table Dance - Album Version (Edited),spotify:track:04MXELS5mvWRYCbSb33ODI,0.0643,0.412,0.725,0,0.135,-7.636,0.295,82.559,0.649,3,Ludacris
+Ludacris Presents...Disturbing Tha Peace,14,49At8ND2vuNAY3WqLWLaLT,That's My Sh*t - Album Version (Edited),spotify:track:49At8ND2vuNAY3WqLWLaLT,0.0965,0.778,0.862,0,0.0739,-7.908,0.397,157.975,0.715,2,Ludacris
+Ludacris Presents...Disturbing Tha Peace,15,67jNFP0OK2N5WyR8JewMNZ,You Ain't Got Enough - Album Version (Edited),spotify:track:67jNFP0OK2N5WyR8JewMNZ,0.0362,0.443,0.805,1.81E-05,0.389,-5.645,0.386,109.07,0.532,0,Ludacris
+Ludacris Presents...Disturbing Tha Peace,16,6x98S0wot0bhEDMW98fC9f,Family Affair - Album Version (Edited),spotify:track:6x98S0wot0bhEDMW98fC9f,0.109,0.466,0.875,0,0.0738,-5.628,0.429,149.134,0.504,2,Ludacris
+Ludacris Presents...Disturbing Tha Peace,17,7rfLuYehe3KB7J6oiNt1iB,Blood In The Air - Album Version (Edited),spotify:track:7rfLuYehe3KB7J6oiNt1iB,0.0027,0.673,0.914,1.14E-05,0.14,-4.401,0.0869,116.009,0.622,1,Ludacris
+The Red Light District,1,4SwYtWRXexo76N6SCnIfc1,Intro / Ludacris / The Red Light District,spotify:track:4SwYtWRXexo76N6SCnIfc1,0.191,0.669,0.631,7.48E-06,0.108,-5.836,0.33,91.995,0.41,16,Ludacris
+The Red Light District,9,6wLrjZt1hUG0VFzdJG8EaO,Skit / Ludacris / The Red Light District,spotify:track:6wLrjZt1hUG0VFzdJG8EaO,0.785,0.741,0.178,0,0.457,-16.191,0.93,81.471,0.399,11,Ludacris
+The Red Light District,17,2OW6Ps2pRKx5rPKkPbWBDd,Get Back - Sum 41 Rock Remix,spotify:track:2OW6Ps2pRKx5rPKkPbWBDd,0.0497,0.592,0.941,0,0.336,-4.074,0.245,90.699,0.615,35,Ludacris
+The Red Light District,1,453bNK3mjdmiCP1PBhH1iJ,Intro,spotify:track:453bNK3mjdmiCP1PBhH1iJ,0.174,0.731,0.63,6.49E-06,0.0979,-5.924,0.357,120.774,0.543,34,Ludacris
+The Red Light District,2,5SV9SnHkuHMh446QsgQtry,Number One Spot,spotify:track:5SV9SnHkuHMh446QsgQtry,0.0346,0.542,0.946,0,0.323,-4.279,0.378,146.7,0.509,54,Ludacris
+The Red Light District,3,3njpLvANriMsdv3dgADEad,Get Back,spotify:track:3njpLvANriMsdv3dgADEad,0.0594,0.555,0.639,0,0.118,-5.16,0.263,171.609,0.184,64,Ludacris
+The Red Light District,4,1B4hll6yjAfMO9I30gGZO7,Put Your Money,spotify:track:1B4hll6yjAfMO9I30gGZO7,0.0084,0.7,0.886,0,0.0904,-4.95,0.324,167.863,0.53,41,Ludacris
+The Red Light District,5,26liGJfeDiHLVn0qTETkt1,Blueberry Yum Yum,spotify:track:26liGJfeDiHLVn0qTETkt1,0.0368,0.962,0.637,0.022,0.156,-5.553,0.106,126.707,0.311,65,Ludacris
+The Red Light District,6,3t3012KUk1jyvyIrOAvHbn,Child Of The Night,spotify:track:3t3012KUk1jyvyIrOAvHbn,0.0311,0.498,0.84,0,0.271,-5.137,0.274,77.873,0.667,40,Ludacris
+The Red Light District,7,4zXMw51RgLPRE3vPDuqBvt,The Potion,spotify:track:4zXMw51RgLPRE3vPDuqBvt,0.897,0.664,0.662,0.000163,0.107,-6.308,0.401,97.733,0.524,54,Ludacris
+The Red Light District,8,1JgWCIOPxGl7IvlIkqO4Oq,Pass Out,spotify:track:1JgWCIOPxGl7IvlIkqO4Oq,0.0795,0.542,0.659,0,0.135,-5.223,0.38,89.592,0.859,35,Ludacris
+The Red Light District,9,7msCJvqMSmkyUEsJANnttZ,Skit,spotify:track:7msCJvqMSmkyUEsJANnttZ,0.77,0.719,0.2,0,0.613,-16.24,0.939,82.351,0.419,28,Ludacris
+The Red Light District,10,2wxs6jVGtQcx8csWTcMugb,Spur Of The Moment,spotify:track:2wxs6jVGtQcx8csWTcMugb,0.646,0.738,0.708,0,0.0331,-5.223,0.222,100.005,0.77,39,Ludacris
+The Red Light District,11,5oatBoHH0N582TwhmWibui,Who Not Me,spotify:track:5oatBoHH0N582TwhmWibui,0.0363,0.464,0.88,0,0.201,-5.919,0.4,99.709,0.412,36,Ludacris
+The Red Light District,12,7cROxYZW45Z4tHgYQ0LVUz,Large Amounts,spotify:track:7cROxYZW45Z4tHgYQ0LVUz,0.105,0.758,0.724,0,0.288,-5.569,0.321,79.027,0.884,35,Ludacris
+The Red Light District,13,6VixoRqnikN4QqegoKUSbH,Pimpin' All Over The World,spotify:track:6VixoRqnikN4QqegoKUSbH,0.287,0.495,0.883,0,0.138,-4.087,0.299,92.136,0.782,60,Ludacris
+The Red Light District,14,0FpF0xdbJDpIZ0wA2OjNku,Two Miles An Hour,spotify:track:0FpF0xdbJDpIZ0wA2OjNku,0.252,0.527,0.846,0,0.168,-5.151,0.318,146.925,0.768,34,Ludacris
+The Red Light District,15,4IXLEpz6D2eKxwiVlECNjB,Hopeless,spotify:track:4IXLEpz6D2eKxwiVlECNjB,0.273,0.705,0.794,0,0.158,-5.318,0.259,79.018,0.846,34,Ludacris
+The Red Light District,16,0zLHRhBm4NC8MK75lnt9mN,Virgo,spotify:track:0zLHRhBm4NC8MK75lnt9mN,0.031,0.638,0.741,0,0.065,-8.04,0.335,92.445,0.723,35,Ludacris
+Chicken - N - Beer,18,0RMr1YqH6Mv6HeklKsl76e,Act A Fool,spotify:track:0RMr1YqH6Mv6HeklKsl76e,0.253,0.575,0.905,0,0.269,-2.372,0.338,110.165,0.753,45,Ludacris
+Chicken - N - Beer,19,7BaDgvnzHOeWyVpCKjxKfe,Southern Hospitality - Explicit Remix,spotify:track:7BaDgvnzHOeWyVpCKjxKfe,0.00638,0.614,0.846,0,0.115,-4.794,0.385,125.384,0.609,16,Ludacris
+Chicken - N - Beer,1,60jhH0IOUgycrEJbK7zP1s,Southern Fried Intro,spotify:track:60jhH0IOUgycrEJbK7zP1s,0.262,0.605,0.885,0,0.193,-4.827,0.17,145.917,0.751,35,Ludacris
+Chicken - N - Beer,2,75l90Py7SZymvoQINih5ag,Blow It Out,spotify:track:75l90Py7SZymvoQINih5ag,0.055,0.575,0.92,0,0.122,-4.215,0.316,77.473,0.872,38,Ludacris
+Chicken - N - Beer,3,2CtCwQhY0ZLvr8L2l8Bo6e,Stand Up,spotify:track:2CtCwQhY0ZLvr8L2l8Bo6e,0.367,0.751,0.84,0,0.0916,-4.855,0.349,99.057,0.801,62,Ludacris
+Chicken - N - Beer,4,5ehQXj4pnUzjJ5T9yNqkLW,Rob Quarters Skit,spotify:track:5ehQXj4pnUzjJ5T9yNqkLW,0.58,0.744,0.643,0,0.437,-10.459,0.546,90.004,0.782,26,Ludacris
+Chicken - N - Beer,5,2T8hXV9LUZMDBKR5RALGEa,Splash Waterfalls,spotify:track:2T8hXV9LUZMDBKR5RALGEa,0.101,0.734,0.846,0,0.233,-6.102,0.409,145.894,0.702,53,Ludacris
+Chicken - N - Beer,6,6ML7LPoNN1MuznvmbngR2s,Hard Times,spotify:track:6ML7LPoNN1MuznvmbngR2s,0.102,0.705,0.736,0,0.0983,-5.918,0.162,75.186,0.719,32,Ludacris
+Chicken - N - Beer,7,1AcKboMkn1HekyJSlKKEc3,Diamond In The Back,spotify:track:1AcKboMkn1HekyJSlKKEc3,0.43,0.764,0.622,0,0.144,-6.355,0.249,161.486,0.671,45,Ludacris
+Chicken - N - Beer,8,69ZZXDvtaftXr1vQULoYqB,Screwed Up,spotify:track:69ZZXDvtaftXr1vQULoYqB,0.36,0.774,0.731,0,0.522,-5.131,0.284,131.978,0.808,37,Ludacris
+Chicken - N - Beer,9,0lI1JWMG5OKqWIXaEGOl8Y,T Baggin ' Skit,spotify:track:0lI1JWMG5OKqWIXaEGOl8Y,0.986,0.797,0.635,0,0.55,-14.228,0.957,60.881,0.377,25,Ludacris
+Chicken - N - Beer,10,6yOghbMYTTUdOGiExT0rIF,P-Poppin',spotify:track:6yOghbMYTTUdOGiExT0rIF,0.219,0.907,0.831,0,0.357,-5.291,0.219,149.99,0.901,45,Ludacris
+Chicken - N - Beer,11,2tP2l7NqSyNC43dQCQblJy,Hip Hop Quotables,spotify:track:2tP2l7NqSyNC43dQCQblJy,0.184,0.806,0.712,0,0.405,-5.285,0.361,82.003,0.857,33,Ludacris
+Chicken - N - Beer,12,2IHKbkIdwz8G8gWmSSMV5A,Black Man's Struggle Skit,spotify:track:2IHKbkIdwz8G8gWmSSMV5A,0.397,0.606,0.468,0.000558,0.549,-16.72,0.738,120.996,0.595,24,Ludacris
+Chicken - N - Beer,13,4Cg01nev4wDxigE8BP7mwG,Hoes In My Room,spotify:track:4Cg01nev4wDxigE8BP7mwG,0.425,0.705,0.682,0,0.132,-4.786,0.292,87.565,0.718,34,Ludacris
+Chicken - N - Beer,14,35IXqPtHsi4z4tmaM8LuAd,Teamwork,spotify:track:35IXqPtHsi4z4tmaM8LuAd,0.0848,0.781,0.596,0,0.0893,-5.174,0.289,140.213,0.616,31,Ludacris
+Chicken - N - Beer,15,207qU8w53VClfQyTaNu9RI,Interactive Skit,spotify:track:207qU8w53VClfQyTaNu9RI,0.694,0.637,0.378,0,0.894,-15.904,0.851,128.402,0.806,24,Ludacris
+Chicken - N - Beer,16,3PFtzUP0y7U4kwIJs9GHZY,We Got,spotify:track:3PFtzUP0y7U4kwIJs9GHZY,0.187,0.813,0.708,0,0.119,-5.311,0.134,148.828,0.353,41,Ludacris
+Chicken - N - Beer,17,5NSHPTQZ7AN6h3AEpG8IzS,Eyebrows Down,spotify:track:5NSHPTQZ7AN6h3AEpG8IzS,0.203,0.738,0.852,0,0.0519,-5.027,0.361,75.009,0.652,29,Ludacris
+Chicken - N - Beer,1,0CObpodNzOy73u5B2g6I5N,Southern Fried Intro - Album Version (Edited),spotify:track:0CObpodNzOy73u5B2g6I5N,0.232,0.606,0.883,0,0.12,-4.857,0.15,145.907,0.741,4,Ludacris
+Chicken - N - Beer,2,70mWLNAJ1mWMGHVpMPeXVc,Blow It Out - Album Version (Edited),spotify:track:70mWLNAJ1mWMGHVpMPeXVc,0.0569,0.59,0.939,0,0.262,-3.209,0.298,77.394,0.898,8,Ludacris
+Chicken - N - Beer,3,7aSu6LKuIJDUOqb7aBQlBj,Stand Up - Album Version (Edited),spotify:track:7aSu6LKuIJDUOqb7aBQlBj,0.413,0.798,0.817,0,0.114,-4.889,0.345,99.261,0.82,33,Ludacris
+Chicken - N - Beer,4,6Yph5xk4G2dyZE6zWqsl00,Splash Waterfalls - Album Version (Edited),spotify:track:6Yph5xk4G2dyZE6zWqsl00,0.12,0.717,0.846,0,0.163,-6.305,0.378,146.038,0.647,2,Ludacris
+Chicken - N - Beer,5,0hrO0CFXdm4pRzQjxc1Ui8,Hard Times - Album Version (Edited),spotify:track:0hrO0CFXdm4pRzQjxc1Ui8,0.123,0.696,0.747,0,0.139,-5.289,0.147,75.204,0.746,0,Ludacris
+Chicken - N - Beer,6,4yTYwSm7mtWQntQV17YOL4,Diamond In The Back - Album Version (Edited),spotify:track:4yTYwSm7mtWQntQV17YOL4,0.404,0.76,0.62,0,0.152,-6.296,0.221,161.431,0.645,9,Ludacris
+Chicken - N - Beer,7,4V7SOW6Sqgh30MNgfoPa4V,Screwed Up - Album Version (Edited),spotify:track:4V7SOW6Sqgh30MNgfoPa4V,0.256,0.766,0.722,0,0.509,-4.996,0.293,131.951,0.803,6,Ludacris
+Chicken - N - Beer,8,6ku93nOkuNjb1BVQ8xZyTO,P-Poppin' - Album Version (Edited),spotify:track:6ku93nOkuNjb1BVQ8xZyTO,0.206,0.87,0.774,0,0.347,-6.145,0.258,75.002,0.961,0,Ludacris
+Chicken - N - Beer,9,6z96kKnMI5OKkz0X3oLmoC,Hip Hop Quotables - Album Version (Edited),spotify:track:6z96kKnMI5OKkz0X3oLmoC,0.173,0.712,0.776,0,0.388,-4.727,0.391,81.56,0.842,2,Ludacris
+Chicken - N - Beer,10,40KN9DpiUUw9tDbc2fSWW6,Hoes In My Room - Album Version (Edited),spotify:track:40KN9DpiUUw9tDbc2fSWW6,0.439,0.738,0.667,1.46E-06,0.099,-4.719,0.272,87.9,0.714,3,Ludacris
+Chicken - N - Beer,11,1yzKw11zZqwEuEE4cDJB3S,Teamwork - Album Version (Edited),spotify:track:1yzKw11zZqwEuEE4cDJB3S,0.0925,0.796,0.644,0,0.0854,-4.307,0.263,140.085,0.63,1,Ludacris
+Chicken - N - Beer,12,2OzGaRDtFV0Ce0yHrBrO3m,We Got - Album Version (Edited),spotify:track:2OzGaRDtFV0Ce0yHrBrO3m,0.156,0.804,0.737,0,0.255,-4.493,0.0773,148.843,0.374,4,Ludacris
+Chicken - N - Beer,13,4OU4p4QFCUo9s7Of6AxB97,Eyebrows Down - Album Version (Edited),spotify:track:4OU4p4QFCUo9s7Of6AxB97,0.18,0.664,0.857,0,0.0419,-4.788,0.377,75.443,0.654,1,Ludacris
+Word Of Mouf,8,1zpGdUbIFEDJIQuGrsSrA0,Move B***h,spotify:track:1zpGdUbIFEDJIQuGrsSrA0,0.183,0.787,0.732,0,0.1,-5.466,0.129,177.653,0.15,43,Ludacris
+Word Of Mouf,12,3sO6o3BYUq7hGQ3EOxvG34,Get The F*** Back,spotify:track:3sO6o3BYUq7hGQ3EOxvG34,0.0155,0.665,0.771,0,0.254,-5.848,0.384,114.745,0.547,18,Ludacris
+Word Of Mouf,16,3TWz2SzzSr79JbHMRcDPt4,Welcome To Atlanta,spotify:track:3TWz2SzzSr79JbHMRcDPt4,0.0259,0.724,0.759,0,0.148,-8.67,0.34,95.921,0.702,0,Ludacris
+Word Of Mouf,1,0xzgKue9yMCG1K7fj30xIx,Coming 2 America,spotify:track:0xzgKue9yMCG1K7fj30xIx,0.138,0.63,0.884,0,0.163,-5.61,0.351,159.961,0.714,41,Ludacris
+Word Of Mouf,2,4SyadrABZJIjeND1HPJS31,Rollout (My Business),spotify:track:4SyadrABZJIjeND1HPJS31,0.0949,0.921,0.668,0,0.592,-8.73,0.235,131.059,0.892,65,Ludacris
+Word Of Mouf,3,1TLLDzB9uA1fpX9JWvGquQ,Go 2 Sleep,spotify:track:1TLLDzB9uA1fpX9JWvGquQ,0.0132,0.85,0.587,0,0.439,-6.362,0.352,141.025,0.537,42,Ludacris
+Word Of Mouf,4,3BDAxkldbueKwrHXQy834z,Cry Babies (Oh No),spotify:track:3BDAxkldbueKwrHXQy834z,0.0513,0.423,0.72,0,0.295,-6.74,0.491,165.976,0.763,39,Ludacris
+Word Of Mouf,5,5gwU5Z10pA1IKUGSsCBDR5,She Said,spotify:track:5gwU5Z10pA1IKUGSsCBDR5,0.0462,0.828,0.65,7.66E-06,0.0671,-6.791,0.296,147.947,0.94,37,Ludacris
+Word Of Mouf,6,3IEn1vFxacWrIvjurUFW61,Howhere - Skit,spotify:track:3IEn1vFxacWrIvjurUFW61,0.0632,0.634,0.479,0,0.37,-16.253,0.704,62.805,0.146,32,Ludacris
+Word Of Mouf,7,3lcC9CnN7Rpo1ugATzmYjY,Area Codes,spotify:track:3lcC9CnN7Rpo1ugATzmYjY,0.399,0.86,0.688,0,0.67,-7.203,0.434,100.934,0.622,66,Ludacris
+Word Of Mouf,8,1XvT8u1KR1hd38SVQiuTAV,Growing Pains,spotify:track:1XvT8u1KR1hd38SVQiuTAV,0.0507,0.731,0.713,0,0.867,-6.442,0.262,84.488,0.732,59,Ludacris
+Word Of Mouf,9,07mkD9gxJlEVhouPqUsLbs,Greatest Hits - Skit,spotify:track:07mkD9gxJlEVhouPqUsLbs,0.307,0.743,0.723,0,0.446,-9.875,0.584,93.185,0.617,33,Ludacris
+Word Of Mouf,10,1Q9b6CeMcDuO0uq5OJCrqu,Move Bitch,spotify:track:1Q9b6CeMcDuO0uq5OJCrqu,0.243,0.777,0.764,0,0.103,-5.681,0.141,177.868,0.174,62,Ludacris
+Word Of Mouf,11,5citJGPpziqzCvgfLopskb,Stop Lying - Skit,spotify:track:5citJGPpziqzCvgfLopskb,0.622,0.621,0.22,0,0.692,-15.192,0.895,73.506,0.47,33,Ludacris
+Word Of Mouf,12,4QKdiLnJ2fnvfLPUldoryF,Saturday (Oooh! Ooooh!),spotify:track:4QKdiLnJ2fnvfLPUldoryF,0.0235,0.588,0.809,0,0.324,-6.327,0.412,103,0.696,52,Ludacris
+Word Of Mouf,13,0lqpjo8PTeyBxcf2k492JD,Keep It On The Hush,spotify:track:0lqpjo8PTeyBxcf2k492JD,0.287,0.6,0.743,0,0.342,-5.996,0.489,77.407,0.806,38,Ludacris
+Word Of Mouf,14,2xYJWomNQljhF0CLEo9Q9m,Word Of Mouf (Freestyle),spotify:track:2xYJWomNQljhF0CLEo9Q9m,0.202,0.597,0.648,0,0.382,-5.691,0.415,79.147,0.732,37,Ludacris
+Word Of Mouf,15,6a049FDGdsuWXhoc8XsDri,Get The Fuck Back,spotify:track:6a049FDGdsuWXhoc8XsDri,0.0149,0.651,0.773,0,0.143,-5.808,0.389,114.071,0.545,40,Ludacris
+Word Of Mouf,16,4W2PTc23MgeUyi4PXSx1Cm,Freaky Thangs,spotify:track:4W2PTc23MgeUyi4PXSx1Cm,0.121,0.853,0.704,0,0.811,-5.795,0.154,113.817,0.657,48,Ludacris
+Word Of Mouf,17,0X7Vv43ptdObiNqZvTqGMb,Cold Outside,spotify:track:0X7Vv43ptdObiNqZvTqGMb,0.0196,0.589,0.903,0,0.887,-6.412,0.193,146.333,0.356,37,Ludacris
+Word Of Mouf,18,6eyNKVK63qYQxJrC6BQZFb,Block Lockdown,spotify:track:6eyNKVK63qYQxJrC6BQZFb,0.0234,0.546,0.788,0,0.147,-5.748,0.459,96.064,0.419,36,Ludacris

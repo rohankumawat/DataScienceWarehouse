@@ -1,0 +1,46 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Candydrip,1,1dUAu8jf6WNiHzVAvXzbEE,Intro,spotify:track:1dUAu8jf6WNiHzVAvXzbEE,0.553,0.596,0.614,5.71E-05,0.0641,-9.02,0.372,103.493,0.575,57,Lucky Daye
+Candydrip,2,7je8gjzRj8MnRHE2La5uJq,God Body (feat. Smino),spotify:track:7je8gjzRj8MnRHE2La5uJq,0.122,0.722,0.66,0.000167,0.241,-5.74,0.0818,104.108,0.346,62,Lucky Daye
+Candydrip,3,2Hyaggl5zUVCwGSbJmkOs3,Feels Like,spotify:track:2Hyaggl5zUVCwGSbJmkOs3,0.0418,0.838,0.629,0.0104,0.1,-4.48,0.0776,109.031,0.83,70,Lucky Daye
+Candydrip,4,7nGnc4hif6ErrFrvjVuht2,NWA (feat. Lil Durk),spotify:track:7nGnc4hif6ErrFrvjVuht2,0.296,0.866,0.628,0.00127,0.157,-6.085,0.0418,113.979,0.57,62,Lucky Daye
+Candydrip,5,51t119U9qFdDHorI8GpNPb,Guess,spotify:track:51t119U9qFdDHorI8GpNPb,0.447,0.384,0.632,0.00047,0.094,-6.736,0.403,80.046,0.373,62,Lucky Daye
+Candydrip,6,4EUU9wSG7Nf5r7xw5gNf8B,Candy Drip (Interlude),spotify:track:4EUU9wSG7Nf5r7xw5gNf8B,0.592,0.629,0.313,0.596,0.0731,-14.543,0.179,153.857,0.387,58,Lucky Daye
+Candydrip,7,6qcnJmzaELWMtEGfULCI8n,Candy Drip,spotify:track:6qcnJmzaELWMtEGfULCI8n,0.114,0.671,0.457,0.00866,0.121,-9.089,0.246,153.924,0.352,61,Lucky Daye
+Candydrip,8,7sywyd1iggADAbcRGg2qeo,Deserve,spotify:track:7sywyd1iggADAbcRGg2qeo,0.408,0.409,0.494,4.42E-06,0.433,-8.313,0.511,79.373,0.279,60,Lucky Daye
+Candydrip,9,77ThCdD7mPst10tD8ij0KR,Intermission,spotify:track:77ThCdD7mPst10tD8ij0KR,0.642,0.692,0.43,0.0237,0.263,-9.588,0.344,140.538,0.351,58,Lucky Daye
+Candydrip,10,23CKxEwKWsLs6LD5poGOLM,Over,spotify:track:23CKxEwKWsLs6LD5poGOLM,0.502,0.65,0.555,0,0.104,-5.971,0.0719,103.081,0.352,71,Lucky Daye
+Candydrip,11,3cH7YI52JMcJrZIrJEJemU,Fuckin' Sound,spotify:track:3cH7YI52JMcJrZIrJEJemU,0.461,0.668,0.426,0,0.148,-7.468,0.0668,120.142,0.616,61,Lucky Daye
+Candydrip,12,41h9PjfBH6mVDPMkLc6zsg,Compassion (feat. Chiiild),spotify:track:41h9PjfBH6mVDPMkLc6zsg,0.401,0.683,0.549,0.00882,0.199,-9.101,0.0287,108.023,0.449,64,Lucky Daye
+Candydrip,13,3VK4C34RcZTcB9IAgW3hRR,Touch Somebody (Interlude),spotify:track:3VK4C34RcZTcB9IAgW3hRR,0.545,0.47,0.322,0.0146,0.108,-11.458,0.113,77.401,0.498,56,Lucky Daye
+Candydrip,14,0T9mWwi0HmEUJ9QovxXlid,Used To Be,spotify:track:0T9mWwi0HmEUJ9QovxXlid,0.63,0.509,0.544,0.148,0.1,-6.798,0.0307,71.502,0.206,60,Lucky Daye
+Candydrip,15,63UOF7PfgllWoBquRnNI9k,Fever,spotify:track:63UOF7PfgllWoBquRnNI9k,0.0722,0.657,0.643,0.000344,0.497,-6.249,0.0645,139.968,0.323,58,Lucky Daye
+Candydrip,16,7fXbnwomPX7IoSQODCZDd5,Cherry Forest,spotify:track:7fXbnwomPX7IoSQODCZDd5,0.224,0.624,0.629,3.72E-06,0.164,-5.389,0.0426,86.997,0.491,58,Lucky Daye
+Candydrip,17,7uB6KGAyiz2fNmsYY2NdsX,Ego,spotify:track:7uB6KGAyiz2fNmsYY2NdsX,0.267,0.293,0.608,0.0272,0.103,-7.677,0.0418,84.866,0.238,57,Lucky Daye
+Candydrip,11,3HUlSrfzpyg7Vlb3hhw8fk,F**kin' Sound,spotify:track:3HUlSrfzpyg7Vlb3hhw8fk,0.45,0.672,0.451,0,0.127,-7.418,0.0484,119.803,0.672,31,Lucky Daye
+Table For Two,1,6CTsdeyrZ4eoms8VmtprKY,Ego Trip - Intro,spotify:track:6CTsdeyrZ4eoms8VmtprKY,0.0859,0.422,0.521,0.265,0.156,-10.18,0.571,79.118,0.711,39,Lucky Daye
+Table For Two,2,5SFssNXGjeOxdAnECfgttm,How Much Can A Heart Take (feat. Yebba),spotify:track:5SFssNXGjeOxdAnECfgttm,0.324,0.661,0.693,0.0336,0.0959,-6.553,0.196,82.058,0.613,65,Lucky Daye
+Table For Two,3,5u7qo1yjD6HJj4PjzxukIg,On Read,spotify:track:5u7qo1yjD6HJj4PjzxukIg,0.0873,0.575,0.503,0,0.137,-7.179,0.345,141.765,0.552,55,Lucky Daye
+Table For Two,4,7Bo0TuNFEItHtWz3v0l8FH,My Window (feat. Mahalia),spotify:track:7Bo0TuNFEItHtWz3v0l8FH,0.467,0.651,0.652,0.0138,0.214,-5.854,0.448,83.701,0.228,51,Lucky Daye
+Table For Two,5,21FebkCW2Ek68QxYR4YyYC,Access Denied (feat. Ari Lennox),spotify:track:21FebkCW2Ek68QxYR4YyYC,0.111,0.614,0.608,0.169,0.462,-9.857,0.134,175.929,0.827,50,Lucky Daye
+Table For Two,6,1QMg3Bw8y5TF0sDbWmkoCe,Dream (feat. Queen Naija),spotify:track:1QMg3Bw8y5TF0sDbWmkoCe,0.512,0.6,0.626,5.55E-05,0.136,-6.911,0.0806,81.979,0.46,0,Lucky Daye
+Table For Two,7,6jK81NER49dx8g2Nfc3XaC,Falling In Love (feat. Joyce Wrice),spotify:track:6jK81NER49dx8g2Nfc3XaC,0.0586,0.758,0.736,0.000146,0.142,-5.016,0.0824,157.868,0.71,52,Lucky Daye
+Painted (Deluxe Edition),5,09423JokPDJAG92SSzshnX,Ready For Love (Extended),spotify:track:09423JokPDJAG92SSzshnX,0.509,0.646,0.671,0.0233,0.108,-8.217,0.0633,155.923,0.406,43,Lucky Daye
+Painted (Deluxe Edition),14,1n8dFOpRttrhTRZR0uw3SA,Roll Some Mo (feat. Chronixx & MediSun),spotify:track:1n8dFOpRttrhTRZR0uw3SA,0.0215,0.548,0.638,0,0.15,-6.428,0.248,84.807,0.363,43,Lucky Daye
+Painted (Deluxe Edition),15,1U4wtYdD1ZA1jpZQILpWhG,Fade Away,spotify:track:1U4wtYdD1ZA1jpZQILpWhG,0.0782,0.542,0.789,0.000883,0.159,-5.915,0.0708,155.971,0.629,0,Lucky Daye
+Painted (Deluxe Edition),16,0j4LxNykyiQL2EFjZSU7p6,Buying Time,spotify:track:0j4LxNykyiQL2EFjZSU7p6,0.732,0.765,0.437,0.00331,0.167,-8.994,0.0372,117.99,0.667,54,Lucky Daye
+Painted (Deluxe Edition),17,5wLS99Zq97F2GMJFcZuRfU,Little More Time,spotify:track:5wLS99Zq97F2GMJFcZuRfU,0.418,0.566,0.739,0.000231,0.0756,-7.327,0.0912,179.719,0.913,50,Lucky Daye
+Painted (Deluxe Edition),18,7tAq0hZtDzyE7KWGcRYkhS,Shoulda (feat. Babyface),spotify:track:7tAq0hZtDzyE7KWGcRYkhS,0.193,0.703,0.516,1.15E-06,0.0951,-7.55,0.0597,92.06,0.544,54,Lucky Daye
+Painted (Deluxe Edition),19,3YoHNYFz9hCGzf7bTUpVfO,Misunderstood (Live in New Orleans),spotify:track:3YoHNYFz9hCGzf7bTUpVfO,0.935,0.471,0.259,0,0.625,-8.486,0.117,68.177,0.451,34,Lucky Daye
+Painted,1,1sQBPGypjSgEgJZvD8u8ty,Roll Some Mo,spotify:track:1sQBPGypjSgEgJZvD8u8ty,0.259,0.389,0.507,0.0441,0.142,-9.026,0.0621,74.718,0.364,63,Lucky Daye
+Painted,2,1Fwppfa2qKDAETKveNFsHR,Late Night,spotify:track:1Fwppfa2qKDAETKveNFsHR,0.441,0.825,0.548,0.000842,0.179,-6.899,0.0809,98.976,0.792,64,Lucky Daye
+Painted,3,4ACRXHoiz3J2JHG8DL4Z6X,Extra,spotify:track:4ACRXHoiz3J2JHG8DL4Z6X,0.35,0.693,0.371,9.97E-05,0.183,-8.79,0.244,91.941,0.554,46,Lucky Daye
+Painted,4,2RxbUs1UfebXymMwrAKZVB,Concentrate,spotify:track:2RxbUs1UfebXymMwrAKZVB,0.654,0.82,0.413,8.38E-05,0.144,-8.164,0.0658,115.544,0.575,50,Lucky Daye
+Painted,5,5bNXZ2fZx0SX42l7GeWY25,Ready For Love (Interlude),spotify:track:5bNXZ2fZx0SX42l7GeWY25,0.241,0.709,0.61,0.000435,0.131,-7.721,0.0628,155.766,0.338,49,Lucky Daye
+Painted,6,0xB7i2AhQZT7nnor7rb15L,Karma,spotify:track:0xB7i2AhQZT7nnor7rb15L,0.125,0.719,0.676,0,0.3,-5.933,0.301,75.993,0.811,52,Lucky Daye
+Painted,7,118vnrWTfc2QzsmIQHCUkd,Paint It,spotify:track:118vnrWTfc2QzsmIQHCUkd,0.29,0.903,0.445,5.61E-05,0.0929,-9.402,0.35,97.953,0.668,44,Lucky Daye
+Painted,8,4c3d0xt7rUFDV7EnnRYi4i,Real Games,spotify:track:4c3d0xt7rUFDV7EnnRYi4i,0.432,0.759,0.374,0.000108,0.0714,-7.851,0.107,141.917,0.562,58,Lucky Daye
+Painted,9,6zsT60ALu2xeljCWRp3rEs,Misunderstood,spotify:track:6zsT60ALu2xeljCWRp3rEs,0.698,0.323,0.357,0,0.109,-9.939,0.0481,173.395,0.146,53,Lucky Daye
+Painted,10,76E28NSlJpO8Ee5qKuN85v,Floods,spotify:track:76E28NSlJpO8Ee5qKuN85v,0.771,0.555,0.448,0.000847,0.13,-10.526,0.289,80.839,0.388,53,Lucky Daye
+Painted,11,4tvw503IOIq9uc0QNYVey2,Call,spotify:track:4tvw503IOIq9uc0QNYVey2,0.687,0.777,0.41,8.27E-05,0.517,-6.533,0.0612,127.963,0.552,47,Lucky Daye
+Painted,12,3Ays4xPGjU0np0wkv4h5om,Try Your Fire,spotify:track:3Ays4xPGjU0np0wkv4h5om,0.226,0.8,0.564,0.000127,0.0954,-7.197,0.296,97.084,0.677,46,Lucky Daye
+Painted,13,4XjnaL1dDauhuvNFz1SLwW,Love You Too Much,spotify:track:4XjnaL1dDauhuvNFz1SLwW,0.824,0.392,0.473,1.56E-05,0.117,-11.377,0.118,111.317,0.284,60,Lucky Daye

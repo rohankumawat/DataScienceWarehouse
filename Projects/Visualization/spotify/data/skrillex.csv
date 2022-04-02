@@ -1,0 +1,33 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Skrillex and Diplo present Jack Ü,1,0iSGRQ1RNaG76qiXH03jyC,Don't Do Drugs Just Take Some Jack Ü,spotify:track:0iSGRQ1RNaG76qiXH03jyC,0.781,0.374,0.815,0,0.117,-6.894,0.0757,113.129,0.125,43,Skrillex
+Skrillex and Diplo present Jack Ü,2,4gwF1NiLbZl2uKJDS3AX9O,Beats Knockin (feat. Fly Boi Keno),spotify:track:4gwF1NiLbZl2uKJDS3AX9O,0.0118,0.814,0.951,0,0.628,-1.981,0.0715,104.003,0.264,55,Skrillex
+Skrillex and Diplo present Jack Ü,3,2RpKh7kXSdO8NLrW9VQ46p,Take Ü There (feat. Kiesza),spotify:track:2RpKh7kXSdO8NLrW9VQ46p,0.0523,0.542,0.879,0,0.171,-1.427,0.0921,159.888,0.118,61,Skrillex
+Skrillex and Diplo present Jack Ü,4,48bSfSZaq9Aizbu4AWn4st,Febreze (feat. 2 Chainz),spotify:track:48bSfSZaq9Aizbu4AWn4st,0.0184,0.68,0.983,0,0.289,-3.51,0.333,149.829,0.263,57,Skrillex
+Skrillex and Diplo present Jack Ü,5,3UgSQu6WwrXfKKDq019IHE,To Ü (feat. AlunaGeorge),spotify:track:3UgSQu6WwrXfKKDq019IHE,0.134,0.485,0.928,2.92E-05,0.217,-3.451,0.445,160.165,0.348,64,Skrillex
+Skrillex and Diplo present Jack Ü,6,7yJzk64ul9PFgVFUYbEzZL,Jungle Bae (feat. Bunji Garlin & MX Prime),spotify:track:7yJzk64ul9PFgVFUYbEzZL,0.0304,0.744,0.997,0.00256,0.0737,-1.325,0.13,127.975,0.558,54,Skrillex
+Skrillex and Diplo present Jack Ü,7,6ZpR2XFuQJSHAQwg9495KZ,Mind (feat. Kai),spotify:track:6ZpR2XFuQJSHAQwg9495KZ,0.117,0.502,0.777,2.91E-06,0.0957,-4.627,0.0934,174.153,0.356,67,Skrillex
+Skrillex and Diplo present Jack Ü,8,3LDKrOek8eqZA52IeauhrW,Holla Out (feat. Snails & Taranchyla),spotify:track:3LDKrOek8eqZA52IeauhrW,0.1,0.639,0.989,0,0.678,-2.842,0.497,149.983,0.382,49,Skrillex
+Skrillex and Diplo present Jack Ü,9,66hayvUbTotekKU3H4ta1f,Where Are Ü Now (with Justin Bieber),spotify:track:66hayvUbTotekKU3H4ta1f,0.041,0.432,0.781,4.21E-06,0.0789,-4.038,0.0567,139.432,0.197,79,Skrillex
+Skrillex and Diplo present Jack Ü,10,4JJTel4WTX7VeyN3fe5CbS,Take Ü There (feat. Kiesza) - Missy Elliott Remix,spotify:track:4JJTel4WTX7VeyN3fe5CbS,0.0853,0.52,0.898,0,0.163,-1.527,0.201,159.855,0.13,50,Skrillex
+Recess,1,3XThyUoEI8BPDjdu954Uof,All Is Fair in Love and Brostep,spotify:track:3XThyUoEI8BPDjdu954Uof,0.00112,0.581,0.925,0,0.406,-3.213,0.151,139.982,0.269,55,Skrillex
+Recess,2,1RJZLVGpBG9nNZiHRQSWTp,Recess,spotify:track:1RJZLVGpBG9nNZiHRQSWTp,0.0236,0.658,0.93,0,0.578,-2.912,0.141,104.018,0.132,61,Skrillex
+Recess,3,1Ft6KgjMR7TSVkryV7gq8n,Stranger,spotify:track:1Ft6KgjMR7TSVkryV7gq8n,0.0119,0.485,0.835,0.00129,0.0504,-4.092,0.111,127.954,0.118,50,Skrillex
+Recess,4,6phWVUn5CCTCRBepIKnf6D,Try It Out,spotify:track:6phWVUn5CCTCRBepIKnf6D,0.0227,0.423,0.943,0,0.0798,-2.808,0.498,139.48,0.165,59,Skrillex
+Recess,5,1c35oVynBuaFs99MNGUOUj,Coast Is Clear,spotify:track:1c35oVynBuaFs99MNGUOUj,0.212,0.618,0.802,0,0.293,-3.609,0.143,79.991,0.134,48,Skrillex
+Recess,6,00k4IcdhoUtt3fBATrDyhh,Dirty Vibe,spotify:track:00k4IcdhoUtt3fBATrDyhh,0.108,0.795,0.982,0.00811,0.526,-0.737,0.191,159.982,0.533,55,Skrillex
+Recess,7,2zBXZY8lvzzmtzm07uImXc,Ragga Bomb,spotify:track:2zBXZY8lvzzmtzm07uImXc,0.0282,0.595,0.961,0,0.271,-3.781,0.31,174.071,0.61,58,Skrillex
+Recess,8,0wHB2ZbzrNWQ8NLuv9zVb1,Doompy Poomp,spotify:track:0wHB2ZbzrNWQ8NLuv9zVb1,0.103,0.774,0.523,9.17E-05,0.188,-7.592,0.254,103.897,0.236,45,Skrillex
+Recess,9,4ztmlSZinz3IbpJU5YX7JG,Fuck That,spotify:track:4ztmlSZinz3IbpJU5YX7JG,0.0757,0.904,0.955,0.00475,0.344,-4.509,0.176,128.003,0.463,49,Skrillex
+Recess,10,3AGawd3ZkLbYQlxe4nZIEK,Ease My Mind,spotify:track:3AGawd3ZkLbYQlxe4nZIEK,0.0649,0.404,0.753,0,0.281,-2.986,0.0656,150.147,0.207,57,Skrillex
+Recess,11,3G6f32IgEKsInHsy2J4r5J,Fire Away,spotify:track:3G6f32IgEKsInHsy2J4r5J,0.146,0.546,0.814,0.000329,0.0804,-7.689,0.0665,139.793,0.0725,47,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),1,6TbYnMMWfdUZXQm6tZ6vib,Rock 'n' Roll (Will Take You to the Mountain),spotify:track:6TbYnMMWfdUZXQm6tZ6vib,0.00228,0.713,0.971,2.05E-05,0.242,-1.264,0.381,128.064,0.676,56,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),2,5q8oybjZelukF4h0CzSUN9,Scary Monsters and Nice Sprites,spotify:track:5q8oybjZelukF4h0CzSUN9,0.0034,0.528,0.945,0.505,0.115,-3.386,0.0928,139.987,0.308,60,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),3,1u1Ps262k227FPAm5BVUjd,Kill EVERYBODY,spotify:track:1u1Ps262k227FPAm5BVUjd,0.00219,0.788,0.874,0.00231,0.0998,-3.336,0.0805,126.988,0.629,55,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),4,0fMAyo16WDEhIGoQHMSFCK,All I Ask of You (feat. Pennybirdrabbit),spotify:track:0fMAyo16WDEhIGoQHMSFCK,0.0173,0.774,0.909,0.121,0.0739,-2.89,0.0365,126.977,0.696,43,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),5,2l01nCr1aULfmyLs9phUE5,Scatta (feat. Foreign Beggars & Bare Noize),spotify:track:2l01nCr1aULfmyLs9phUE5,0.0154,0.618,0.928,3.95E-06,0.201,-5.19,0.211,140.031,0.37,48,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),6,6gowYUVBi2MZibmuosT8mh,"With You, Friends (Long Drive)",spotify:track:6gowYUVBi2MZibmuosT8mh,0.343,0.366,0.572,0.00895,0.186,-4.748,0.0377,119.938,0.356,45,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),7,5bPokvOlgW9dRySVnVmyJ9,Scary Monsters and Nice Sprites - Noisia Remix,spotify:track:5bPokvOlgW9dRySVnVmyJ9,0.00207,0.6,0.871,0.3,0.127,-4.108,0.235,140.144,0.639,38,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),8,1lHtZNCjax5QvCuoluWRuU,Scary Monsters and Nice Sprites - Zedd Remix,spotify:track:1lHtZNCjax5QvCuoluWRuU,0.000911,0.93,0.641,0.0637,0.572,-3.719,0.346,127.994,0.345,36,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),9,1Tf1XyB8qPVARgPcDhOt7q,Kill EVERYBODY - Bare Noize Remix,spotify:track:1Tf1XyB8qPVARgPcDhOt7q,0.00133,0.594,0.947,0.108,0.305,-3.904,0.0519,140.043,0.362,40,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),10,3Doc0i6JsXK3N1DhhYvmmV,Weekends!!! (feat. Sirah),spotify:track:3Doc0i6JsXK3N1DhhYvmmV,0.00167,0.813,0.902,0.0101,0.337,-4.635,0.0502,120.006,0.743,41,Skrillex
+Scary Monsters and Nice Sprites (Deluxe Tour Edition),11,5Lnw5mVSmbSC3OWAF7RexM,Weekends!!! (feat. Sirah) - Zedd Remix,spotify:track:5Lnw5mVSmbSC3OWAF7RexM,0.000571,0.747,0.724,0.0834,0.668,-2.464,0.141,128.039,0.397,34,Skrillex

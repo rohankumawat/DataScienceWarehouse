@@ -1,0 +1,220 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+The London Sessions,1,6mIrY9axk9DkBCk4eHXL6c,God Is A Dancer,spotify:track:6mIrY9axk9DkBCk4eHXL6c,0.0241,0.773,0.747,6.08E-06,0.342,-3.908,0.082,119.962,0.833,42,Tiesto
+The London Sessions,3,6GpoUPegO1TBbZCoE7FxZ7,Ride,spotify:track:6GpoUPegO1TBbZCoE7FxZ7,0.0397,0.734,0.855,0.000278,0.105,-4.438,0.0412,117.009,0.223,39,Tiesto
+The London Sessions,5,4vvnuJlgBeNVwq3TNmLMNX,Jackie Chan,spotify:track:4vvnuJlgBeNVwq3TNmLMNX,0.374,0.747,0.833,0,0.0586,-2.867,0.045,128.008,0.687,70,Tiesto
+The London Sessions,6,2etmWkDzfNe7wEsb1UaBrp,Lifestyle,spotify:track:2etmWkDzfNe7wEsb1UaBrp,0.153,0.762,0.797,3.95E-05,0.0931,-7.323,0.068,127.968,0.303,41,Tiesto
+The London Sessions,7,05kyh6IkfisfWjZoVkHFTL,On My California,spotify:track:05kyh6IkfisfWjZoVkHFTL,0.0264,0.654,0.849,2.28E-05,0.318,-7.023,0.043,122.046,0.649,38,Tiesto
+The London Sessions,9,7ws2bj14L3aKw42CyBVpxm,Round & Round,spotify:track:7ws2bj14L3aKw42CyBVpxm,0.0921,0.717,0.855,1.67E-06,0.0998,-4.808,0.0386,124.938,0.847,43,Tiesto
+The London Sessions,10,7sFk2PA3NsrrSsGa4CM3rs,Lose You,spotify:track:7sFk2PA3NsrrSsGa4CM3rs,0.189,0.704,0.899,2.43E-05,0.228,-5.61,0.178,123.028,0.576,64,Tiesto
+The London Sessions,11,5RAXb67yhAe5rw5Q9nSPUg,Over You,spotify:track:5RAXb67yhAe5rw5Q9nSPUg,0.0255,0.577,0.887,0,0.28,-4.206,0.0558,122.988,0.806,44,Tiesto
+The London Sessions,12,74LTsGNEMUicvEWC4NExCR,What’s It Gonna Be,spotify:track:74LTsGNEMUicvEWC4NExCR,0.178,0.71,0.742,6.41E-05,0.08,-4.699,0.0339,127.969,0.504,38,Tiesto
+The London Sessions,13,6uLyhMFTjb3xhmLXKykjTV,Insomnia,spotify:track:6uLyhMFTjb3xhmLXKykjTV,0.0153,0.692,0.87,0.105,0.0401,-5.835,0.0421,122.98,0.394,47,Tiesto
+The London Sessions,2,68k26eEoH1e3Rhi811qecM,Nothing Really Matters,spotify:track:68k26eEoH1e3Rhi811qecM,0.00491,0.732,0.847,1.77E-06,0.281,-4.255,0.0426,123.023,0.697,48,Tiesto
+The London Sessions,4,0FEk8LwY8h4rAR63ggfhV0,Ritual,spotify:track:0FEk8LwY8h4rAR63ggfhV0,0.157,0.647,0.726,0,0.0844,-4.389,0.0552,114.998,0.769,69,Tiesto
+The London Sessions,8,0gwmifwzIBArZYYwUNCuJb,BLUE,spotify:track:0gwmifwzIBArZYYwUNCuJb,0.0179,0.744,0.725,1.00E-05,0.212,-6.056,0.0303,118.035,0.902,55,Tiesto
+Together,1,1y0UriJkdMdvlkWpjaI6Vs,My Frequency (feat. RebMoe),spotify:track:1y0UriJkdMdvlkWpjaI6Vs,0.0196,0.733,0.894,5.70E-05,0.619,-4.761,0.124,125.982,0.488,50,Tiesto
+Together,2,0XOpvVTsOIdYQ3gyyu9onu,Acordeão,spotify:track:0XOpvVTsOIdYQ3gyyu9onu,0.0457,0.552,0.887,0.0207,0.0903,-3.812,0.147,125.229,0.783,49,Tiesto
+Together,3,6oLwA7urPX5GGRXX59TYZ9,Feels So Good (feat. Kelli-Leigh),spotify:track:6oLwA7urPX5GGRXX59TYZ9,0.00756,0.663,0.95,0.49,0.291,-3.297,0.0556,122.986,0.408,35,Tiesto
+Together,4,0pMyrECfSI1yq2NXxZyLmA,Halfway There (feat. Lena Leon),spotify:track:0pMyrECfSI1yq2NXxZyLmA,0.000753,0.59,0.888,0.00535,0.817,-4.151,0.0797,128.025,0.0715,53,Tiesto
+Together,5,4FpsZqiM5vdrCh8QpCKJQd,Can't Get Enough,spotify:track:4FpsZqiM5vdrCh8QpCKJQd,0.018,0.732,0.817,0.000766,0.478,-4.979,0.147,126.064,0.332,50,Tiesto
+Together,6,3Ak6t93rQhbgjSsaNwxwoq,Party Time,spotify:track:3Ak6t93rQhbgjSsaNwxwoq,0.0103,0.635,0.878,0.538,0.338,-4.753,0.07,125.002,0.414,56,Tiesto
+Together,7,7txV7LsVsYFUZWKupu7XF5,My Whistle,spotify:track:7txV7LsVsYFUZWKupu7XF5,0.119,0.699,0.919,0.0192,0.357,-3.847,0.271,128.049,0.447,48,Tiesto
+Together,8,0MOkTR1nUs2F0Ux05TUqcR,Lose Control,spotify:track:0MOkTR1nUs2F0Ux05TUqcR,0.0357,0.748,0.967,0.528,0.634,-3.592,0.427,129.984,0.282,46,Tiesto
+Together,9,6cQgcgInVx1zRQpSCnnBUU,Trouble (feat. Micky Blue),spotify:track:6cQgcgInVx1zRQpSCnnBUU,0.015,0.611,0.875,0.000428,0.113,-3.917,0.0604,128,0.304,46,Tiesto
+Together,10,7aFj8SWg3eTkxCQGE82NOs,Can You Feel It,spotify:track:7aFj8SWg3eTkxCQGE82NOs,0.00497,0.625,0.961,0.841,0.626,-3.915,0.205,129.949,0.426,45,Tiesto
+Together,11,3q0JDvA9RJMNgZGvKJByyk,Diamonds (feat. Micky Blue),spotify:track:3q0JDvA9RJMNgZGvKJByyk,0.00965,0.561,0.728,0.00162,0.0917,-5.381,0.0408,150.048,0.253,45,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",1,4NzeA3GjfKrwjfY2rSSL2f,Harder (feat. Talay Riley) - Harder Intro Edit,spotify:track:4NzeA3GjfKrwjfY2rSSL2f,0.0393,0.601,0.916,1.11E-05,0.158,-3.713,0.31,127.989,0.318,38,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",2,3z3kH4Sg3MhusVawon7xYm,Faster Than A Bullet,spotify:track:3z3kH4Sg3MhusVawon7xYm,0.000573,0.651,0.945,0.2,0.132,-2.857,0.273,128.063,0.451,45,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",3,2MxMwKtn5vK7urJf4pb4KR,Scream,spotify:track:2MxMwKtn5vK7urJf4pb4KR,0.00175,0.657,0.888,0.0877,0.236,-4.107,0.0871,130.013,0.0622,47,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",4,5EAKqGs4gGk0bwQy7igcHJ,Carry You Home (feat. StarGate & Aloe Blacc) - Tiësto's Big Room Mix,spotify:track:5EAKqGs4gGk0bwQy7igcHJ,0.0194,0.61,0.747,4.99E-06,0.557,-4.614,0.0757,127.973,0.28,46,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",5,4TLmdQseuUNzppwFUsckB4,No Worries (feat. Natalola) - Tiësto's Big Room Mix,spotify:track:4TLmdQseuUNzppwFUsckB4,0.000563,0.638,0.84,0.000979,0.141,-4.654,0.0298,127.968,0.151,42,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",6,4cs99TEADEOcGm5DRRFyOw,BOOM,spotify:track:4cs99TEADEOcGm5DRRFyOw,0.000649,0.563,0.888,0.702,0.272,-3.352,0.0579,122.977,0.131,62,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",7,0XAWVdAOpmkKp1zoTu0JzX,C'mon - John Christian Remix,spotify:track:0XAWVdAOpmkKp1zoTu0JzX,0.0015,0.683,0.881,0.946,0.0739,-4.585,0.0572,129.989,0.173,42,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",8,56bbA3AsxggZV2QQPVHO3l,Back To The Oldskool,spotify:track:56bbA3AsxggZV2QQPVHO3l,0.00409,0.723,0.955,0.0202,0.0909,-3.384,0.114,128.087,0.16,41,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",9,0mu10LbMb5pY8LWvvDbcqA,Fat Beat,spotify:track:0mu10LbMb5pY8LWvvDbcqA,0.000586,0.678,0.958,0.919,0.328,-2.649,0.224,127.958,0.173,42,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",10,0pmpJHU0QBq3dAVRalZJ8b,Funkastarz,spotify:track:0pmpJHU0QBq3dAVRalZJ8b,0.000376,0.606,0.979,0.721,0.512,-2.211,0.044,127.937,0.196,41,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",11,6r74sRwWCW5UOVfmOkhpIE,Crazy - Tiësto's Big Room Mix,spotify:track:6r74sRwWCW5UOVfmOkhpIE,0.000214,0.685,0.891,0.312,0.227,-4.62,0.0661,130.017,0.0382,45,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",12,2WV1UIRvfkm73HldvKPtDs,Revolt,spotify:track:2WV1UIRvfkm73HldvKPtDs,6.61E-05,0.604,0.952,0.678,0.072,-3.276,0.168,128.001,0.284,34,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",13,0GQchpsshAsfm7lM2IToRB,Sumos,spotify:track:0GQchpsshAsfm7lM2IToRB,0.00215,0.649,0.967,0.488,0.0535,-2.783,0.0594,127.998,0.248,42,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",14,3ZNe2vDE13g7pNsRyQWaoJ,Guerilla,spotify:track:3ZNe2vDE13g7pNsRyQWaoJ,0.000416,0.615,0.935,0.854,0.126,-4.763,0.0407,129.991,0.0355,39,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",15,3N67Gin3X8gdOCrB6LbS5u,Don't Stop,spotify:track:3N67Gin3X8gdOCrB6LbS5u,0.00014,0.64,0.978,0.831,0.0986,-3.402,0.226,128.017,0.214,43,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",16,5v7K51KJkwzC9I44UfzUZ4,The Impact,spotify:track:5v7K51KJkwzC9I44UfzUZ4,0.000445,0.69,0.976,0.423,0.176,-2.434,0.0752,128.009,0.0728,33,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",17,6fH21Po4AbBbmQ3wTlHjEa,Brolab,spotify:track:6fH21Po4AbBbmQ3wTlHjEa,0.000117,0.58,0.971,0.801,0.0965,-3.204,0.052,130.021,0.118,41,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",18,3HQxwik9bvFGqyHjnD2dCF,Time - Tiësto's Big Room Mix,spotify:track:3HQxwik9bvFGqyHjnD2dCF,0.00162,0.693,0.925,0.0043,0.0521,-4.152,0.17,130.009,0.131,33,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",1,182rWBorWJbBYBVSXpYoGf,Harder (feat. Talay Riley) - Harder Intro Mixcut,spotify:track:182rWBorWJbBYBVSXpYoGf,0.0126,0.602,0.92,1.33E-05,0.169,-3.791,0.178,128.505,0.261,28,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",2,2rjOUIxJbWygnViquuowQN,Faster Than A Bullet - Mixcut,spotify:track:2rjOUIxJbWygnViquuowQN,0.00114,0.604,0.945,0.0459,0.368,-2.765,0.226,128.595,0.22,29,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",3,664jXWCMej4hP4xcKi3dFU,Scream - Mixcut,spotify:track:664jXWCMej4hP4xcKi3dFU,0.000927,0.646,0.917,0.0703,0.375,-4.212,0.0888,128.486,0.0661,27,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",4,7KPTmOfzv8iIAS8vpeGdAY,Carry You Home - Tiësto's Big Room Mixcut,spotify:track:7KPTmOfzv8iIAS8vpeGdAY,0.0111,0.577,0.773,3.02E-06,0.14,-4.525,0.0658,128.488,0.214,31,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",5,6Rc5v9hOZFDVe1uxN6ULsG,No Worries - Tiësto's Big Room Mixcut,spotify:track:6Rc5v9hOZFDVe1uxN6ULsG,0.00164,0.644,0.865,0.000517,0.284,-5.051,0.0334,128.455,0.163,28,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",6,6PMpiMVjPhmL5jTW7xruP2,BOOM - Mixcut,spotify:track:6PMpiMVjPhmL5jTW7xruP2,0.00104,0.805,0.945,0.723,0.372,-4.04,0.0659,128.54,0.132,31,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",7,0fK5j1nPaGhmYVT4JTzoiV,C'mon - John Christian Remix Mixcut,spotify:track:0fK5j1nPaGhmYVT4JTzoiV,0.00408,0.688,0.916,0.9,0.71,-4.282,0.086,128.468,0.0869,27,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",8,1WRTLOrAPQiQx2cLpRQXkQ,Back To The Oldskool - Mixcut,spotify:track:1WRTLOrAPQiQx2cLpRQXkQ,0.00246,0.68,0.956,0.0408,0.381,-3.419,0.118,128.695,0.208,26,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",9,0qDjx9uYwUTTeQ7G9kaVlA,Fat Beat - Mixcut,spotify:track:0qDjx9uYwUTTeQ7G9kaVlA,0.00183,0.628,0.966,0.939,0.278,-3.133,0.235,128.407,0.121,26,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",10,2Y4D8rP7c7naynMHCGl2Nx,Funkastarz - Mixcut,spotify:track:2Y4D8rP7c7naynMHCGl2Nx,0.000265,0.596,0.985,0.405,0.506,-2.642,0.0685,128.429,0.0893,26,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",11,4hHYMXM0y2WtUfxkqQUGuq,Crazy - Tiësto's Big Room Mixcut,spotify:track:4hHYMXM0y2WtUfxkqQUGuq,0.000113,0.656,0.937,0.265,0.0936,-4.652,0.0565,128.485,0.0399,28,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",12,6AuyzamJvWZpe71fhwwYfE,Revolt - Mixcut,spotify:track:6AuyzamJvWZpe71fhwwYfE,0.000148,0.548,0.942,0.64,0.35,-3.501,0.364,128.517,0.203,25,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",13,3L1Fjj4lrOXmZfbmpWKCet,Sumos - Mixcut,spotify:track:3L1Fjj4lrOXmZfbmpWKCet,0.00225,0.616,0.961,0.443,0.355,-3.934,0.0674,128.519,0.231,25,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",14,3Xc32ABnS1EOJHm5EGlCDD,Guerilla - Mixcut,spotify:track:3Xc32ABnS1EOJHm5EGlCDD,0.000498,0.632,0.937,0.893,0.25,-4.522,0.0554,128.457,0.0368,26,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",15,47TPLMROmKgo3OrZNQErDN,Don't Stop - Mixcut,spotify:track:47TPLMROmKgo3OrZNQErDN,0.000238,0.617,0.986,0.923,0.186,-3.899,0.166,128.512,0.0893,25,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",16,2ittEqScfxNnFg7DDAIKAx,The Impact - Mixcut,spotify:track:2ittEqScfxNnFg7DDAIKAx,0.000677,0.653,0.988,0.426,0.38,-2.46,0.123,128.504,0.0504,24,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",17,4dUJuEoKVtebU152BwIfTx,Brolab - Mixcut,spotify:track:4dUJuEoKVtebU152BwIfTx,0.000584,0.601,0.979,0.858,0.826,-3.829,0.055,128.512,0.153,24,Tiesto
+"CLUBLIFE, VOL. 5: CHINA",18,1tzfV44uvSZOZRRMbrH8q8,Time - Tiësto's Big Room Mixcut,spotify:track:1tzfV44uvSZOZRRMbrH8q8,0.00206,0.69,0.908,0.00084,0.13,-4.471,0.221,128.515,0.137,25,Tiesto
+AFTR:HRS (Mixed By Tiësto),1,5Vi2uIlR1ozKPLWVmDKD6d,Un Autre Monde (feat. Noémie) - AFTR:HRS Mixcut,spotify:track:5Vi2uIlR1ozKPLWVmDKD6d,0.0581,0.737,0.42,0.00896,0.0951,-10.535,0.0657,119.87,0.191,34,Tiesto
+AFTR:HRS (Mixed By Tiësto),2,7vzBuI9M5YOm9IvIpcIsCa,The Blues (feat. Dan Reeder) - AFTR:HRS Mixcut,spotify:track:7vzBuI9M5YOm9IvIpcIsCa,0.0214,0.744,0.763,0.626,0.232,-9.002,0.0582,118.942,0.325,31,Tiesto
+AFTR:HRS (Mixed By Tiësto),3,5bV4yxQkOls3Hd52x6BnmT,Easy - AFTR:HRS Mixcut,spotify:track:5bV4yxQkOls3Hd52x6BnmT,0.0251,0.646,0.728,0.0409,0.132,-8.728,0.0799,122.059,0.197,31,Tiesto
+AFTR:HRS (Mixed By Tiësto),4,3ddlujWUF1Z1V94P7RdSpP,Heartbeat (Alex Schulz Remix) - AFTR:HRS Mixcut,spotify:track:3ddlujWUF1Z1V94P7RdSpP,0.00757,0.767,0.668,0.815,0.083,-9.979,0.0432,122.43,0.241,36,Tiesto
+AFTR:HRS (Mixed By Tiësto),5,14dLtp8QBSRK3DAYpiH5lV,Walls (feat. Quilla) - Deeper Shades Mix,spotify:track:14dLtp8QBSRK3DAYpiH5lV,0.0022,0.649,0.656,0,0.091,-7.594,0.0332,122.687,0.511,32,Tiesto
+AFTR:HRS (Mixed By Tiësto),6,7m4gDLYTQBlLCjCaZ4degY,Las Dos Lunas - AFTR:HRS Mixcut,spotify:track:7m4gDLYTQBlLCjCaZ4degY,0.0127,0.733,0.818,0.766,0.0614,-7.084,0.0336,122.753,0.694,31,Tiesto
+AFTR:HRS (Mixed By Tiësto),7,5wL4DGPxejSOT3Rf29aw3v,Mad Love - AFTR:HRS Mixcut,spotify:track:5wL4DGPxejSOT3Rf29aw3v,0.029,0.646,0.852,0.692,0.155,-7.136,0.0452,122.773,0.586,31,Tiesto
+AFTR:HRS (Mixed By Tiësto),8,32zzoqnyIg1ugqZ4mLHdAQ,Fill Me In - AFTR:HRS Mixcut,spotify:track:32zzoqnyIg1ugqZ4mLHdAQ,0.0168,0.757,0.68,0.0155,0.275,-8.988,0.041,122.779,0.249,44,Tiesto
+AFTR:HRS (Mixed By Tiësto),9,5t4UfjfOGNF95iUhRmcvTB,Momentuum (MOGUAI Remix) - AFTR:HRS Mixcut,spotify:track:5t4UfjfOGNF95iUhRmcvTB,0.0813,0.758,0.728,0.23,0.119,-8.181,0.0525,122.826,0.148,29,Tiesto
+AFTR:HRS (Mixed By Tiësto),10,1BZfmFpa388aKaNHTszSnj,Love Will Never Do - AFTR:HRS Mixcut,spotify:track:1BZfmFpa388aKaNHTszSnj,0.14,0.78,0.651,0.0735,0.185,-8.034,0.0336,122.835,0.398,30,Tiesto
+AFTR:HRS (Mixed By Tiësto),11,7sJS3vpqcwfzIASN3vmP2W,NUNGWI - AFTR:HRS Mixcut,spotify:track:7sJS3vpqcwfzIASN3vmP2W,0.00114,0.668,0.793,0.874,0.145,-9.526,0.0403,122.823,0.146,28,Tiesto
+AFTR:HRS (Mixed By Tiësto),12,2iEYJoRDbZ0MFs5OTyC0ve,Time Painter (feat. Sylvia Tosun) - Dub Mix,spotify:track:2iEYJoRDbZ0MFs5OTyC0ve,0.00155,0.587,0.895,0.949,0.309,-8.731,0.0408,122.864,0.0499,28,Tiesto
+AFTR:HRS (Mixed By Tiësto),13,1a68mfcrdQbYywBLErNebP,Raabta - AFTR:HRS Mixcut,spotify:track:1a68mfcrdQbYywBLErNebP,0.0335,0.652,0.942,0.973,0.0967,-8.63,0.0465,122.908,0.615,36,Tiesto
+AFTR:HRS (Mixed By Tiësto),14,54YeaOcTj5hvQy1PZ9zsD0,Back In The Days - AFTR:HRS Mixcut,spotify:track:54YeaOcTj5hvQy1PZ9zsD0,0.447,0.59,0.937,0.893,0.111,-7.713,0.0285,122.931,0.415,35,Tiesto
+A Town Called Paradise (Japan Special Edition),15,6sBI4pZEU7LPAg5OiyQwOM,Maximal Crazy - Radio Edit,spotify:track:6sBI4pZEU7LPAg5OiyQwOM,0.0011,0.625,0.918,0.878,0.0369,-4.708,0.042,129.991,0.053,6,Tiesto
+A Town Called Paradise (Japan Special Edition),16,0a9wk9ZCwe0ONEyBXXsNpE,Secrets - Radio Edit,spotify:track:0a9wk9ZCwe0ONEyBXXsNpE,0.0012,0.677,0.811,0.00761,0.0896,-4.53,0.043,128.004,0.185,29,Tiesto
+A Town Called Paradise (Japan Special Edition),17,16TCrAFw6KQkVAkUArLGZP,Pair Of Dice - Radio Edit,spotify:track:16TCrAFw6KQkVAkUArLGZP,0.000136,0.493,0.918,0.909,0.887,-4.37,0.0583,128.022,0.209,5,Tiesto
+A Town Called Paradise (Japan Special Edition),18,4YWxyVZf6PVPslFLbqY56j,The Only Way Is Up - Radio Edit,spotify:track:4YWxyVZf6PVPslFLbqY56j,0.0145,0.593,0.81,0.944,0.0906,-5.976,0.0341,128.067,0.173,5,Tiesto
+A Town Called Paradise (Japan Special Edition),19,0fhZQ8rma6jpUljj0KfHGF,The Right Song,spotify:track:0fhZQ8rma6jpUljj0KfHGF,0.459,0.546,0.894,0.000106,0.322,-3.56,0.0898,125.031,0.387,25,Tiesto
+A Town Called Paradise (Japan Special Edition),20,6Mq704d8DJi7r8zEsONOKI,Summer Nights,spotify:track:6Mq704d8DJi7r8zEsONOKI,0.228,0.671,0.796,8.13E-05,0.151,-5.157,0.0329,124.018,0.703,8,Tiesto
+Elements of Life Remixed (Extended Mixes),1,7DbfF1uFjvbfW3SXT6nph3,Ten Seconds Before Sunrise - First State Remix,spotify:track:7DbfF1uFjvbfW3SXT6nph3,0.00145,0.719,0.951,0.882,0.24,-6.859,0.144,132,0.179,0,Tiesto
+Elements of Life Remixed (Extended Mixes),2,3cnnpcY0mrqqh0LKc9PnBa,Everything (feat. Jes) - Cosmic Gate Remix,spotify:track:3cnnpcY0mrqqh0LKc9PnBa,0.00136,0.604,0.843,0.554,0.777,-9.01,0.0984,132.947,0.101,0,Tiesto
+Elements of Life Remixed (Extended Mixes),3,78ORZBnJx8IJ4SMyx43p24,Do You Feel Me (feat. Julie Thompson) - Roger Martinez Remix,spotify:track:78ORZBnJx8IJ4SMyx43p24,0.00744,0.757,0.623,0.776,0.38,-8.645,0.0926,128.997,0.596,0,Tiesto
+Elements of Life Remixed (Extended Mixes),4,6sW83ApnyUKnGL9WJRYtxD,Carpe Noctum - Fire Element Mix,spotify:track:6sW83ApnyUKnGL9WJRYtxD,0.00303,0.75,0.837,0.853,0.206,-7.893,0.137,131.99,0.613,0,Tiesto
+Elements of Life Remixed (Extended Mixes),5,5pMyugsAy7zBbV7gfOW0gh,Driving to Heaven - Mat Zo Remix,spotify:track:5pMyugsAy7zBbV7gfOW0gh,0.00439,0.678,0.899,0.439,0.33,-7.136,0.154,130.014,0.491,0,Tiesto
+Elements of Life Remixed (Extended Mixes),6,1WjrZZWLGCZuCdpenSBqFy,Sweet Things (feat. Charlotte Martin) - Tom Cloud Remix,spotify:track:1WjrZZWLGCZuCdpenSBqFy,0.00231,0.755,0.954,0.786,0.0866,-6.591,0.0593,131.987,0.694,0,Tiesto
+Elements of Life Remixed (Extended Mixes),7,50q2P2UhtdN3sMaD7EfdaG,Bright Morningstar - Andy Duguid Remix,spotify:track:50q2P2UhtdN3sMaD7EfdaG,0.0169,0.715,0.656,0.683,0.114,-7.103,0.0882,132.002,0.446,0,Tiesto
+Elements of Life Remixed (Extended Mixes),8,3ejfG1EtMbEece4DFU9GCS,Break My Fall (feat. Bt) - Richard Durand Remix,spotify:track:3ejfG1EtMbEece4DFU9GCS,0.0249,0.669,0.929,0.518,0.0717,-7.083,0.0586,132.995,0.748,0,Tiesto
+Elements of Life Remixed (Extended Mixes),9,2gNuRToGk4dAPIo3kBBLFb,In the Dark (feat. Christian Burns) - Dirty South Remix,spotify:track:2gNuRToGk4dAPIo3kBBLFb,0.00221,0.772,0.813,0.0913,0.521,-5.967,0.0825,127.993,0.591,0,Tiesto
+Elements of Life Remixed (Extended Mixes),10,2w7j6SasNJ8JHosHBOxotc,Dance4Life (feat. Maxi Jazz) - Fonzerelli Remix,spotify:track:2w7j6SasNJ8JHosHBOxotc,3.55E-05,0.548,0.948,0.568,0.543,-5.851,0.0556,130.009,0.555,0,Tiesto
+Elements of Life Remixed (Extended Mixes),11,7xX88QQvvuL7RxhTe7oJU0,Elements of Life - Alex Kunnari Remix,spotify:track:7xX88QQvvuL7RxhTe7oJU0,0.00153,0.682,0.689,0.932,0.1,-9.003,0.0815,136.001,0.387,0,Tiesto
+Elements of Life Remixed (Extended Mixes),12,4SbpysiajilluZveqwBQqM,No More Heroes (feat. Blue Man Group),spotify:track:4SbpysiajilluZveqwBQqM,0.000288,0.746,0.798,0.855,0.175,-7.165,0.0683,131.987,0.271,0,Tiesto
+Elements of Life Remixed (Extended Mixes),13,2yOAAmsViFaR7T18VkR6ge,Ten Seconds Before Sunrise - First State’s A Global Taste Remix,spotify:track:2yOAAmsViFaR7T18VkR6ge,0.00264,0.767,0.717,0.89,0.265,-8.76,0.221,131.039,0.348,0,Tiesto
+Elements of Life Remixed (Extended Mixes),14,75GYrx53lI6sK6aqvSwcMr,Everything (feat. Jes) - Andrew Bennett Remix,spotify:track:75GYrx53lI6sK6aqvSwcMr,0.000688,0.55,0.623,0.78,0.257,-8.557,0.0384,134.993,0.321,0,Tiesto
+Elements of Life Remixed (Extended Mixes),15,5eF0wTQSTghqCy1wUiw6mT,Carpe Noctum - DJ Preach Remix,spotify:track:5eF0wTQSTghqCy1wUiw6mT,0.00131,0.663,0.928,0.917,0.0916,-7.523,0.0652,131.986,0.186,0,Tiesto
+Elements of Life Remixed (Extended Mixes),16,46F04jTQgkBl00JRAB78xg,Carpe Noctum - Spencer & Hill Dub,spotify:track:46F04jTQgkBl00JRAB78xg,0.00529,0.792,0.759,0.737,0.0539,-6.978,0.0897,127.99,0.275,0,Tiesto
+Elements of Life Remixed (Extended Mixes),17,2RqkgJkfEm4kQoie4Qiwpi,Break My Fall (feat. Bt) - Jerry Ropero Vs. NBG Afterhours Mix,spotify:track:2RqkgJkfEm4kQoie4Qiwpi,0.0164,0.657,0.791,0.64,0.333,-9.486,0.045,127.878,0.133,0,Tiesto
+Elements of Life Remixed (Extended Mixes),18,5chZLMbexifk8wxhC6wp8O,Break My Fall (feat. Bt) - Airbase Remix,spotify:track:5chZLMbexifk8wxhC6wp8O,7.79E-05,0.525,0.907,0.742,0.231,-6.691,0.0409,138.989,0.53,0,Tiesto
+Elements of Life Remixed (Extended Mixes),19,1fRitQzPWH8xUUXrxwrEfL,Break My Fall (feat. Bt) - Adam Kay + Pettigrew + Soha Remix,spotify:track:1fRitQzPWH8xUUXrxwrEfL,0.00028,0.598,0.964,0.63,0.303,-5.829,0.0353,133.01,0.385,0,Tiesto
+Elements of Life Remixed (Extended Mixes),20,6EBpku3bdld06wrCfeWWGk,In the Dark (feat. Christian Burns) - Shiny Toy Guns Club Mix,spotify:track:6EBpku3bdld06wrCfeWWGk,0.00041,0.698,0.669,0.00862,0.0952,-8.543,0.049,134.988,0.799,0,Tiesto
+Elements of Life Remixed (Extended Mixes),21,5QwbxANTPzoOwNnNOrDroI,In the Dark (feat. Christian Burns) - Tiësto's Trance Mix,spotify:track:5QwbxANTPzoOwNnNOrDroI,0.000283,0.566,0.896,0.404,0.0694,-6.463,0.0535,134.989,0.383,0,Tiesto
+Elements of Life Remixed (Extended Mixes),22,66W4zeK768ECpeUy4swLac,In the Dark (feat. Christian Burns) - Carl B. Remix,spotify:track:66W4zeK768ECpeUy4swLac,0.00041,0.56,0.899,0.0607,0.729,-5.697,0.0388,134.988,0.22,0,Tiesto
+Elements of Life Remixed (Extended Mixes),23,0YSaHAqRdByynw7v0U3Fyl,Dance4Life (feat. Maxi Jazz) - Global Experience Remix,spotify:track:0YSaHAqRdByynw7v0U3Fyl,0.0237,0.711,0.859,0.772,0.124,-9.62,0.0491,132.037,0.654,0,Tiesto
+Elements of Life Remixed (Extended Mixes),24,43Zl7YldraYPrkxJd5W9XM,Dance4Life (feat. Maxi Jazz) - Sander Van Doorn Remix,spotify:track:43Zl7YldraYPrkxJd5W9XM,0.00101,0.674,0.912,0.851,0.0654,-9.311,0.0754,136.018,0.122,0,Tiesto
+Elements of Life Remixed (Extended Mixes),25,6NYQl2fPnRqW7bxOjyVSWL,Elements of Life - Airbase Remix,spotify:track:6NYQl2fPnRqW7bxOjyVSWL,1.62E-05,0.53,0.837,0.868,0.036,-8.663,0.0421,138.01,0.268,0,Tiesto
+"Club Life, Vol. 4 - New York City",1,47nkK89Vel3CMp8x5apv5D,Valencia - Intro Edit / John Christian Remix,spotify:track:47nkK89Vel3CMp8x5apv5D,0.00925,0.512,0.691,0.773,0.537,-9.441,0.0546,128.088,0.119,40,Tiesto
+"Club Life, Vol. 4 - New York City",2,0NIC4unbe5KZOp1d9T7OaF,Secrets,spotify:track:0NIC4unbe5KZOp1d9T7OaF,0.000329,0.648,0.812,0.0369,0.0857,-7.585,0.0414,128.178,0.122,69,Tiesto
+"Club Life, Vol. 4 - New York City",3,5JnDk7JhtyGSPVv0QSPyyU,For You,spotify:track:5JnDk7JhtyGSPVv0QSPyyU,0.00835,0.577,0.935,0.0115,0.231,-6.693,0.367,128.116,0.407,41,Tiesto
+"Club Life, Vol. 4 - New York City",4,1V0Zy7533bjXFSVtn3crzY,The Only Way Is Up,spotify:track:1V0Zy7533bjXFSVtn3crzY,0.00296,0.597,0.736,0.921,0.0914,-7.793,0.0309,128.179,0.172,64,Tiesto
+"Club Life, Vol. 4 - New York City",5,2YPNvGSB5CjrJ5g0HzM9th,Someone Somewhere - Tiësto Edit,spotify:track:2YPNvGSB5CjrJ5g0HzM9th,0.000701,0.587,0.893,0.000261,0.124,-7.63,0.0755,128.08,0.239,39,Tiesto
+"Club Life, Vol. 4 - New York City",6,4cf9KRoB2HYCCeuEXq9NXJ,Butterflies,spotify:track:4cf9KRoB2HYCCeuEXq9NXJ,0.00384,0.579,0.815,0.147,0.0484,-6.388,0.0483,126.941,0.466,37,Tiesto
+"Club Life, Vol. 4 - New York City",7,7MB5rmPDUQQmKM50ActNhA,Chant,spotify:track:7MB5rmPDUQQmKM50ActNhA,0.00894,0.545,0.775,0.899,0.111,-8.09,0.0372,128.06,0.336,38,Tiesto
+"Club Life, Vol. 4 - New York City",8,4W5LoAH0fOVxgidGS7uxED,Change Your World,spotify:track:4W5LoAH0fOVxgidGS7uxED,0.00838,0.603,0.732,6.93E-05,0.343,-7.831,0.0541,128.05,0.443,39,Tiesto
+"Club Life, Vol. 4 - New York City",9,4FSUKWhwTnn4fra9x2Wjsz,Lucid,spotify:track:4FSUKWhwTnn4fra9x2Wjsz,0.0168,0.576,0.671,0.433,0.185,-8.932,0.0356,128.132,0.07,35,Tiesto
+"Club Life, Vol. 4 - New York City",10,3B9vTRw3RacMdUCr2NQDMl,Kashmir,spotify:track:3B9vTRw3RacMdUCr2NQDMl,0.000761,0.567,0.813,0.814,0.103,-6.652,0.0464,128.139,0.0684,41,Tiesto
+"Club Life, Vol. 4 - New York City",11,6tai0BWld1xW5dk3O9Itgh,Air,spotify:track:6tai0BWld1xW5dk3O9Itgh,8.91E-05,0.535,0.897,0.0679,0.154,-7.506,0.0534,128.167,0.112,41,Tiesto
+"Club Life, Vol. 4 - New York City",12,7cxi647srgWwCld5Zr4I4K,Home - Tiësto Vs. twoloud Remix,spotify:track:7cxi647srgWwCld5Zr4I4K,0.000932,0.636,0.879,0.00791,0.264,-7.62,0.0514,128.174,0.208,39,Tiesto
+"Club Life, Vol. 4 - New York City",13,4PeyXkplmeu4edHpXvdWhl,Fighting For - Tiësto Edit,spotify:track:4PeyXkplmeu4edHpXvdWhl,0.00011,0.577,0.922,0.00538,0.136,-6.965,0.0389,128.201,0.403,37,Tiesto
+"Club Life, Vol. 4 - New York City",14,6QuiqwFTDRi6lJaYiji8Cx,Guestlist,spotify:track:6QuiqwFTDRi6lJaYiji8Cx,0.00137,0.697,0.935,0.0592,0.236,-7.464,0.0836,128.192,0.213,37,Tiesto
+"Club Life, Vol. 4 - New York City",15,5dpHUPhXfwtEG1yQO1xGXH,Show Me,spotify:track:5dpHUPhXfwtEG1yQO1xGXH,2.59E-05,0.663,0.951,0.91,0.292,-7.527,0.138,128.154,0.0396,44,Tiesto
+"Club Life, Vol. 4 - New York City",16,7aCurqZaPTpyfjZl4NcsrE,Sky High - Tiësto Edit,spotify:track:7aCurqZaPTpyfjZl4NcsrE,0.000583,0.558,0.741,0.435,0.0909,-6.892,0.0483,128.363,0.0755,39,Tiesto
+"Club Life, Vol. 4 - New York City",17,2wKEQFKicVzKc77wskAtkB,The House Of Now - Tiësto Edit,spotify:track:2wKEQFKicVzKc77wskAtkB,7.28E-05,0.552,0.911,0.918,0.338,-8.586,0.0423,128.197,0.19,37,Tiesto
+"Club Life, Vol. 4 - New York City",18,5u9gLTQRKTWdO3FZFvr9jn,Alpha,spotify:track:5u9gLTQRKTWdO3FZFvr9jn,0.00329,0.562,0.843,0.706,0.343,-7.31,0.0832,128.215,0.145,32,Tiesto
+A Town Called Paradise,1,5L2l7mI8J1USMzhsmdjat9,Red Lights,spotify:track:5L2l7mI8J1USMzhsmdjat9,0.000629,0.654,0.83,1.13E-06,0.121,-4.801,0.0366,124.989,0.548,72,Tiesto
+A Town Called Paradise,2,5xZD3yLZ31r1z0GcdKfsyr,Footprints,spotify:track:5xZD3yLZ31r1z0GcdKfsyr,0.0702,0.637,0.774,0,0.0521,-4.683,0.0323,128.034,0.289,44,Tiesto
+A Town Called Paradise,3,3nlk1X4a5Zqy9HXKySv6uK,Light Years Away,spotify:track:3nlk1X4a5Zqy9HXKySv6uK,0.0101,0.532,0.932,2.81E-06,0.209,-3.032,0.08,127.997,0.436,42,Tiesto
+A Town Called Paradise,4,1FUyBeBOjH0BNIwSjgIW3l,A Town Called Paradise,spotify:track:1FUyBeBOjH0BNIwSjgIW3l,0.00359,0.484,0.812,0,0.174,-4.758,0.0468,127.006,0.473,42,Tiesto
+A Town Called Paradise,5,6YYlDwGwQvWIePrUk42Pxi,Written In Reverse,spotify:track:6YYlDwGwQvWIePrUk42Pxi,0.00446,0.473,0.765,1.53E-06,0.072,-3.427,0.048,129.989,0.271,48,Tiesto
+A Town Called Paradise,6,32LBaTLH6d5AC2fVyulSJf,Echoes,spotify:track:32LBaTLH6d5AC2fVyulSJf,0.000823,0.423,0.901,0.00685,0.0891,-5.008,0.0889,128.042,0.29,39,Tiesto
+A Town Called Paradise,7,23WgvD1nf7ZW4ehljudfbi,Last Train,spotify:track:23WgvD1nf7ZW4ehljudfbi,0.0206,0.628,0.915,0.0025,0.0873,-3.671,0.0745,127.984,0.481,42,Tiesto
+A Town Called Paradise,8,77OuOZhDxJSQLYnNIpX2AG,Wasted,spotify:track:77OuOZhDxJSQLYnNIpX2AG,0.00149,0.638,0.816,0.00115,0.195,-5.503,0.0308,112.014,0.386,68,Tiesto
+A Town Called Paradise,9,6RbfzAWNF7s77RuiahL8ft,Let’s Go,spotify:track:6RbfzAWNF7s77RuiahL8ft,0.0159,0.676,0.945,2.10E-05,0.32,-2.594,0.0551,128.975,0.494,43,Tiesto
+A Town Called Paradise,10,3ZLIgsGdXpGL0vvpnAJTfX,The Feeling,spotify:track:3ZLIgsGdXpGL0vvpnAJTfX,0.00381,0.678,0.859,0.000219,0.298,-5.263,0.0765,126.997,0.625,38,Tiesto
+A Town Called Paradise,11,18NaOPBjGAmbGTNu3085bO,Shimmer,spotify:track:18NaOPBjGAmbGTNu3085bO,0.00124,0.541,0.703,0,0.0726,-4.141,0.036,125.821,0.343,39,Tiesto
+A Town Called Paradise,12,3fDXjNN3IcEfGRwW9JKDke,Rocky,spotify:track:3fDXjNN3IcEfGRwW9JKDke,0.0349,0.58,0.84,0.00433,0.0593,-4.461,0.0447,127.977,0.125,40,Tiesto
+A Town Called Paradise,13,4PS6VJAl8ufCV08bB5JGkK,Close To Me,spotify:track:4PS6VJAl8ufCV08bB5JGkK,0.0445,0.585,0.824,3.03E-06,0.263,-4.367,0.0319,127.949,0.252,39,Tiesto
+A Town Called Paradise,14,1wjnBlO0JevbBAUlOBlwxg,Set Yourself Free,spotify:track:1wjnBlO0JevbBAUlOBlwxg,0.000701,0.508,0.886,0.00935,0.645,-3.171,0.0466,127.9,0.238,43,Tiesto
+A Town Called Paradise,15,3On7uhNmFiS20cinF9ALl7,Don't Hide Your Light,spotify:track:3On7uhNmFiS20cinF9ALl7,0.139,0.643,0.57,3.64E-05,0.143,-6.752,0.0731,127.99,0.449,37,Tiesto
+A Town Called Paradise,16,3LeS6PmBv68CUVcMdMq4Mz,Calling On Angels,spotify:track:3LeS6PmBv68CUVcMdMq4Mz,0.052,0.495,0.867,0,0.145,-4.887,0.042,127.018,0.292,37,Tiesto
+A Town Called Paradise,17,0MqcerzhYh9eZ7BlQE942o,Can’t Forget,spotify:track:0MqcerzhYh9eZ7BlQE942o,0.0017,0.66,0.896,0.52,0.101,-5.339,0.0543,127.998,0.705,38,Tiesto
+A Town Called Paradise,18,1Y4oU6y3FTu2mO8EPu7FgA,Take Me - Radio Edit,spotify:track:1Y4oU6y3FTu2mO8EPu7FgA,0.00859,0.58,0.781,5.13E-06,0.15,-4.842,0.03,127.991,0.604,47,Tiesto
+A Town Called Paradise,19,4aPtjeNzigyrXRZWgrFZHt,Say Something,spotify:track:4aPtjeNzigyrXRZWgrFZHt,0.000338,0.774,0.726,0.183,0.0362,-7.945,0.0389,119.995,0.169,43,Tiesto
+"Club Life, Vol. 3 - Stockholm",1,25QlMgHaJEpIGZEiml3u90,Paradise,spotify:track:25QlMgHaJEpIGZEiml3u90,0.000148,0.508,0.573,0.919,0.159,-7.108,0.0399,128.1,0.0566,47,Tiesto
+"Club Life, Vol. 3 - Stockholm",2,0zAOoSARIiXv7AAOhtSRpi,Take Me (feat. Kyler England),spotify:track:0zAOoSARIiXv7AAOhtSRpi,0.00153,0.482,0.836,4.67E-05,0.315,-5.782,0.0429,128.197,0.246,34,Tiesto
+"Club Life, Vol. 3 - Stockholm",3,7t2Pim5dUeFmRCJLPVtG6x,Compromise (feat. Tab),spotify:track:7t2Pim5dUeFmRCJLPVtG6x,0.00435,0.517,0.835,0.000386,0.183,-5.818,0.122,128.255,0.317,31,Tiesto
+"Club Life, Vol. 3 - Stockholm",4,5xgHK4NOWhvvfSUUHJyTdd,Apollo (feat. Amba Shepherd) - Hardwell's Club Life Edit,spotify:track:5xgHK4NOWhvvfSUUHJyTdd,0.00958,0.618,0.83,0.29,0.303,-5.147,0.122,128.128,0.117,32,Tiesto
+"Club Life, Vol. 3 - Stockholm",5,4vRjuGwYH9xynPVGCIoFRI,Love and Run (feat. Teddy Geiger),spotify:track:4vRjuGwYH9xynPVGCIoFRI,0.00936,0.509,0.914,0.154,0.404,-5.045,0.0428,128.164,0.189,38,Tiesto
+"Club Life, Vol. 3 - Stockholm",6,4jIQ0wouzKHbi1fYHORIN0,Clarity (feat. Foxes) - Tiësto Remix,spotify:track:4jIQ0wouzKHbi1fYHORIN0,0.00231,0.591,0.924,0.00435,0.391,-4.724,0.0465,128.175,0.275,49,Tiesto
+"Club Life, Vol. 3 - Stockholm",7,7vFpssS3kATxZOuWGCrJAt,I Love It (feat. Charli XCX) - Tiësto Remix,spotify:track:7vFpssS3kATxZOuWGCrJAt,0.00145,0.442,0.949,0.867,0.346,-4.815,0.127,128.178,0.183,51,Tiesto
+"Club Life, Vol. 3 - Stockholm",8,4BSWjP0LLUv6rTBsUgjHUG,Carried Away - Tiësto Remix,spotify:track:4BSWjP0LLUv6rTBsUgjHUG,0.00132,0.65,0.753,0.00166,0.175,-4.96,0.112,128.141,0.335,36,Tiesto
+"Club Life, Vol. 3 - Stockholm",9,4vuldtCLFjNB85XXcFn1fa,Champs,spotify:track:4vuldtCLFjNB85XXcFn1fa,0.0077,0.559,0.79,4.89E-05,0.731,-5.832,0.0837,128.186,0.186,31,Tiesto
+"Club Life, Vol. 3 - Stockholm",10,6CWuiLKmDxKgrehPcLzGGX,Kings Cup (feat. Golden Sun),spotify:track:6CWuiLKmDxKgrehPcLzGGX,0.00124,0.535,0.923,0.00115,0.4,-3.705,0.0537,128.134,0.179,29,Tiesto
+"Club Life, Vol. 3 - Stockholm",11,18vHdQdIPkNekbBGYbmtbE,Cango,spotify:track:18vHdQdIPkNekbBGYbmtbE,0.0365,0.654,0.965,0.725,0.387,-5.939,0.0814,128.178,0.274,33,Tiesto
+"Club Life, Vol. 3 - Stockholm",12,48uISLe5IvCarYNo1joYos,Turn It Up (feat. Wolfpack),spotify:track:48uISLe5IvCarYNo1joYos,0.00298,0.452,0.936,0.134,0.372,-3.075,0.107,128.161,0.307,47,Tiesto
+"Club Life, Vol. 3 - Stockholm",13,5bsjRsKN16sZ7fYgKK1Y3U,Century (feat. Calvin Harris) - Tiësto & Moska Remix,spotify:track:5bsjRsKN16sZ7fYgKK1Y3U,0.00259,0.281,0.801,0.116,0.525,-6.143,0.0731,128.154,0.17,35,Tiesto
+"Club Life, Vol. 3 - Stockholm",14,60eFFZINpAZDOvnvp9Am6K,Shocker,spotify:track:60eFFZINpAZDOvnvp9Am6K,0.0111,0.634,0.922,0.0136,0.493,-5.388,0.151,128.157,0.249,33,Tiesto
+"Club Life, Vol. 3 - Stockholm",15,3JLvTYkpjYr0jdAAGCujCX,Back To The Acid,spotify:track:3JLvTYkpjYr0jdAAGCujCX,0.114,0.752,0.893,0.862,0.086,-5.707,0.147,128.185,0.13,33,Tiesto
+"Club Life, Vol. 3 - Stockholm",16,1nnQ0I7qQGJ34PxRXIIUny,Ultra - Tiësto & Blasterjaxx Remix,spotify:track:1nnQ0I7qQGJ34PxRXIIUny,0.0109,0.655,0.882,0.936,0.669,-6.515,0.0362,128.171,0.168,37,Tiesto
+Club Life - Volume Two Miami,1,5MMvaoJdDls4N5Hy03Sdb1,Chasing Summers (Miami) - (Original Mix,spotify:track:5MMvaoJdDls4N5Hy03Sdb1,0.0307,0.717,0.714,0.894,0.261,-7.788,0.0425,127.991,0.209,0,Tiesto
+Club Life - Volume Two Miami,2,2MfxDvpB90INiy1Ed5M8eo,We Own the Night (feat. Luciana) - Original Mix,spotify:track:2MfxDvpB90INiy1Ed5M8eo,0.0024,0.634,0.937,0.567,0.357,-3.532,0.0772,128.032,0.221,0,Tiesto
+Club Life - Volume Two Miami,4,0xQLQyzRYQ2NYMYupWb5li,If a Lie Was Love (feat. Josie Cotton) - Baggi Begovic KNAL Mix,spotify:track:0xQLQyzRYQ2NYMYupWb5li,0.00391,0.705,0.749,0.527,0.115,-5.75,0.0356,128.001,0.255,0,Tiesto
+Club Life - Volume Two Miami,5,0ncaEaUuQ0KRV8rCx0caGY,Somebody That I Used to Know (feat. Kimbra) - Tiësto Remix,spotify:track:0ncaEaUuQ0KRV8rCx0caGY,0.000224,0.572,0.847,0.0219,0.226,-6.368,0.0299,127.997,0.205,0,Tiesto
+Club Life - Volume Two Miami,7,4SGrOPi6yMLFeW66ViX5sg,Walls (feat. Quilla) - Original Mix,spotify:track:4SGrOPi6yMLFeW66ViX5sg,0.000423,0.479,0.764,0.00124,0.443,-6.01,0.0386,127.956,0.245,0,Tiesto
+Club Life - Volume Two Miami,8,6aDijVPrpGDtiyWBPKaNrq,Young Blood (Tiësto & Hardwell Remix),spotify:track:6aDijVPrpGDtiyWBPKaNrq,0.00358,0.58,0.864,0.00104,0.317,-4.701,0.0485,127.982,0.405,0,Tiesto
+Club Life - Volume Two Miami,10,6SM2qgYtIqlhC3KZdb9bSz,Long Time (feat. Andreas Moe) - Original Mix,spotify:track:6SM2qgYtIqlhC3KZdb9bSz,0.000537,0.595,0.883,0.42,0.325,-6.32,0.0647,127.99,0.306,0,Tiesto
+Club Life - Volume Two Miami,11,2HwD6kZQyMkVhjsY1Df6JY,In My Mind (feat. Georgi Kay) - Axwell Mix,spotify:track:2HwD6kZQyMkVhjsY1Df6JY,0.0211,0.561,0.845,0.00176,0.352,-6.556,0.0751,128.006,0.309,0,Tiesto
+Club Life - Volume Two Miami,13,1XqZjPU4rvI1YYYKa5PWxh,Can't Stop Me (Tiësto Remix),spotify:track:1XqZjPU4rvI1YYYKa5PWxh,0.000365,0.62,0.875,0.232,0.96,-6.764,0.0526,127.959,0.197,0,Tiesto
+Club Life - Volume Two Miami,14,1Prw69mXEIV4kZLE9yuLP2,Make Some Noise] (feat. Ben McInerney) - Original Mix,spotify:track:1Prw69mXEIV4kZLE9yuLP2,0.00135,0.428,0.867,0.061,0.139,-4.214,0.132,127.993,0.184,0,Tiesto
+Club Life - Volume Two Miami,16,6kDSVLWj5r7QwJD00b8nvI,Las Vegas (Moska Remix) [Bonus Track],spotify:track:6kDSVLWj5r7QwJD00b8nvI,3.92E-05,0.534,0.927,0.932,0.105,-7.1,0.174,129.998,0.0612,0,Tiesto
+Club Life - Volume 2 Miami,1,0GXyu2iFC3ECfK8c4CF9xN,Miami (Original Mix),spotify:track:0GXyu2iFC3ECfK8c4CF9xN,0.771,0.583,0.424,0.871,0.443,-14.631,0.0864,128.025,0.125,25,Tiesto
+Club Life - Volume 2 Miami,2,3vzQxHxomtCtb4PVILnLS0,Chasing Summers (Original Mix),spotify:track:3vzQxHxomtCtb4PVILnLS0,0.000934,0.696,0.847,0.948,0.452,-5.738,0.0376,128,0.415,33,Tiesto
+Club Life - Volume 2 Miami,3,6ns18ZPBRy4B4n06cplufL,We Own the Night (feat. Luciana) [Original Mix],spotify:track:6ns18ZPBRy4B4n06cplufL,0.00235,0.406,0.94,0.572,0.297,-3.51,0.0863,127.924,0.211,35,Tiesto
+Club Life - Volume 2 Miami,4,0fZcUKiKd8wTrLyuWa0rgV,What Can We Do (A Deeper Love) [Third Party Remix],spotify:track:0fZcUKiKd8wTrLyuWa0rgV,0.00153,0.384,0.896,0.866,0.161,-7.985,0.046,128.002,0.333,25,Tiesto
+Club Life - Volume 2 Miami,5,4S7Fb23ZtPRf4LBanSA1gJ,If a Lie Was Love (feat. Josie Cotton) [Baggi Begovic KNAL Mix],spotify:track:4S7Fb23ZtPRf4LBanSA1gJ,0.004,0.689,0.769,0.405,0.0964,-5.724,0.0375,127.988,0.247,22,Tiesto
+Club Life - Volume 2 Miami,6,6ibN3Ce0nxAvlCx9rfHDj6,Somebody That I Used to Know (feat. Kimbra) [Tiësto Remix],spotify:track:6ibN3Ce0nxAvlCx9rfHDj6,0.00018,0.575,0.867,0.0282,0.171,-6.36,0.031,128.014,0.171,0,Tiesto
+Club Life - Volume 2 Miami,7,4lM7ZLoaasvHytXG1KpU5X,Paradise (Tiësto Remix),spotify:track:4lM7ZLoaasvHytXG1KpU5X,0.0024,0.365,0.857,0.0702,0.826,-6.836,0.05,125.432,0.232,0,Tiesto
+Club Life - Volume 2 Miami,8,227i5FjbQe5jjXqcvQbYmY,Walls (feat. Quilla) [Original Mix],spotify:track:227i5FjbQe5jjXqcvQbYmY,0.000454,0.482,0.782,0.000937,0.455,-5.997,0.0396,127.945,0.217,35,Tiesto
+Club Life - Volume 2 Miami,10,2cIkMM8GNvq05YzU44z791,Life (Original Mix),spotify:track:2cIkMM8GNvq05YzU44z791,0.000891,0.582,0.692,0.933,0.468,-6.676,0.0871,128.005,0.222,24,Tiesto
+Club Life - Volume 2 Miami,11,4i0ZmcGcU2xXjqCT33RwC2,Long Time (feat. Andreas Moe) [Original Mix],spotify:track:4i0ZmcGcU2xXjqCT33RwC2,0.000696,0.6,0.888,0.393,0.231,-6.281,0.048,128.009,0.279,26,Tiesto
+Club Life - Volume 2 Miami,12,2bRp91Zu5VdgVy9mSyCjqG,In My Mind (feat. Georgi Kay) [Axwell Mix],spotify:track:2bRp91Zu5VdgVy9mSyCjqG,0.0202,0.559,0.86,0.00137,0.171,-6.519,0.0638,128.021,0.311,0,Tiesto
+Club Life - Volume 2 Miami,13,2Os47Bv7Kjkuv8nO2lpB1K,Arena (Original Mix),spotify:track:2Os47Bv7Kjkuv8nO2lpB1K,0.0101,0.533,0.928,0.356,0.258,-5.111,0.0706,128.007,0.213,21,Tiesto
+Club Life - Volume 2 Miami,15,0U3ka1N57KxtKxcnWMwYCB,Make Some Noise (feat. Ben McInerney of New Navy) [Original Mix],spotify:track:0U3ka1N57KxtKxcnWMwYCB,0.00141,0.421,0.882,0.0642,0.0875,-4.205,0.091,127.983,0.166,26,Tiesto
+Club Life - Volume 2 Miami,16,7aT2HFws6awkUXdrBAtIqR,Maximal Crazy (Original Mix),spotify:track:7aT2HFws6awkUXdrBAtIqR,0.000478,0.629,0.863,0.87,0.0967,-5.629,0.04,127.986,0.0664,36,Tiesto
+Club Life - Volume 2 Miami,17,50n50MRSA7imxmwHfkjjnp,Club Life - Volume Two Miami (Continuous DJ Mix),spotify:track:50n50MRSA7imxmwHfkjjnp,0.00176,0.608,0.843,0.155,0.0765,-5.647,0.0496,127.993,0.166,0,Tiesto
+Club Life Volume Two Miami,1,0sTM2YGmzUrfbtFkJ2Z3Cl,Miami - Original Mix,spotify:track:0sTM2YGmzUrfbtFkJ2Z3Cl,0.74,0.521,0.437,0.939,0.437,-14.607,0.0709,128.014,0.166,15,Tiesto
+Club Life Volume Two Miami,2,1tP474aIkbJo4OzxhUe62N,Chasing Summers - Original Mix,spotify:track:1tP474aIkbJo4OzxhUe62N,0.000928,0.678,0.85,0.929,0.441,-5.719,0.0377,127.999,0.395,21,Tiesto
+Club Life Volume Two Miami,5,0fFMgd8062v2sTfUbQj3e8,If A Lie Was Love - Baggi Begovic KNAL mix,spotify:track:0fFMgd8062v2sTfUbQj3e8,0.00274,0.678,0.766,0.476,0.0985,-5.734,0.0382,128.025,0.253,13,Tiesto
+Club Life Volume Two Miami,8,37yL2oAMJNPl185MNpcDeT,Walls - Original Mix,spotify:track:37yL2oAMJNPl185MNpcDeT,0.000463,0.479,0.785,0.000626,0.389,-5.976,0.0403,127.947,0.224,25,Tiesto
+Club Life Volume Two Miami,9,6YarGwYZmgboUv2aN2jCPs,Young Blood - Tiësto & Hardwell Remix,spotify:track:6YarGwYZmgboUv2aN2jCPs,0.00397,0.587,0.871,0.00117,0.211,-4.688,0.0497,127.989,0.418,25,Tiesto
+Club Life Volume Two Miami,12,2coOdNwSZnfdAdR3YIwz8C,In My Mind - Axwell Remix,spotify:track:2coOdNwSZnfdAdR3YIwz8C,0.0181,0.559,0.86,0.00233,0.172,-6.526,0.0908,128.012,0.26,0,Tiesto
+Club Life Volume Two Miami,17,5S1B898OClUKZx58pLhHAY,Club Life Two Miami - Continuous DJ Mix,spotify:track:5S1B898OClUKZx58pLhHAY,0.00173,0.611,0.84,0.177,0.0731,-5.646,0.0479,127.996,0.161,0,Tiesto
+Club Life: Vol. Two Miami,1,0cENS3zu3IW8gAy7C3YI2o,Chasing Summers (Miami) - Original Mix,spotify:track:0cENS3zu3IW8gAy7C3YI2o,0.0323,0.718,0.714,0.894,0.283,-7.785,0.0436,127.992,0.195,31,Tiesto
+Club Life: Vol. Two Miami,2,3Q1ucWaFmC1rjOWTojkfJ8,We Own the Night - Original Mix,spotify:track:3Q1ucWaFmC1rjOWTojkfJ8,0.000857,0.707,0.881,0.0605,0.0811,-3.21,0.0716,130.022,0.497,33,Tiesto
+Club Life: Vol. Two Miami,3,54WqotFk0z4UuEX058l16e,What Can We Do (A Deeper Love) - Third Party Remix,spotify:track:54WqotFk0z4UuEX058l16e,0.00657,0.665,0.765,0.832,0.319,-8.93,0.0515,128.013,0.318,24,Tiesto
+Club Life: Vol. Two Miami,4,5Ezx06WVaSsKz3MIinhGJs,If a Lie Was Love - Baggi Begovic Knal Mix,spotify:track:5Ezx06WVaSsKz3MIinhGJs,0.00168,0.732,0.637,0.589,0.343,-5.598,0.0862,128.008,0.46,19,Tiesto
+Club Life: Vol. Two Miami,5,013CED9qUgt808UQr9jSPm,Somebody I Used to Know - Tiësto Remix,spotify:track:013CED9qUgt808UQr9jSPm,0.000201,0.628,0.631,0.0127,0.0418,-6.121,0.0404,128.992,0.391,43,Tiesto
+Club Life: Vol. Two Miami,6,1fqAXgfnNX1cqGlFnBPciO,Paradise - Tiësto Remix,spotify:track:1fqAXgfnNX1cqGlFnBPciO,0.0108,0.625,0.753,0.263,0.0866,-6.048,0.0375,130.036,0.666,24,Tiesto
+Club Life: Vol. Two Miami,9,0eygCI5G1Fwa4rwtDAG6yz,Life - Original Mix,spotify:track:0eygCI5G1Fwa4rwtDAG6yz,0.00107,0.719,0.494,0.93,0.0644,-6.75,0.179,128.024,0.237,16,Tiesto
+Club Life: Vol. Two Miami,10,0JyIC4dMmGQrlHPGF9qbOj,Long Time - Original Mix,spotify:track:0JyIC4dMmGQrlHPGF9qbOj,0.00359,0.687,0.817,0.0379,0.856,-6.675,0.0827,127.995,0.442,16,Tiesto
+Club Life: Vol. Two Miami,11,0L9e7wiFudEn0UTXyM4dg8,In My Mind - Axwell Mix,spotify:track:0L9e7wiFudEn0UTXyM4dg8,0.0381,0.669,0.896,0.00203,0.292,-5.203,0.0881,127.991,0.295,29,Tiesto
+Club Life: Vol. Two Miami,12,0ozDQ7TEihzXvqrYTb1RmC,Arena - Original Mix,spotify:track:0ozDQ7TEihzXvqrYTb1RmC,0.00917,0.332,0.903,0.818,0.0305,-4.777,0.0881,128.02,0.342,14,Tiesto
+Club Life: Vol. Two Miami,13,1zuk5y89awiGJuif5LKB8H,Can't Stop Me - Tiësto Remix,spotify:track:1zuk5y89awiGJuif5LKB8H,0.000333,0.666,0.716,0.53,0.055,-6.509,0.0719,127.975,0.29,21,Tiesto
+Club Life: Vol. Two Miami,14,5tleDL68t6oAzMkcYvlWRm,Make Some Noise - Original Mix,spotify:track:5tleDL68t6oAzMkcYvlWRm,0.00156,0.543,0.69,0.163,0.0283,-4.285,0.0909,125.987,0.26,24,Tiesto
+Club Life: Vol. Two Miami,15,3cHyzEpemYlq62PWCEFqGR,Maximal Crazy - Original Mix,spotify:track:3cHyzEpemYlq62PWCEFqGR,0.000299,0.695,0.787,0.881,0.0808,-3.849,0.0592,130.001,0.168,32,Tiesto
+Club Life: Vol. Two Miami,16,5ZH7PL7T1j6Ox7DCzwh6pv,Club Life: Miami - Continuous DJ Mix,spotify:track:5ZH7PL7T1j6Ox7DCzwh6pv,0.00178,0.612,0.839,0.176,0.073,-5.644,0.0479,128.006,0.167,24,Tiesto
+Kiss From The Past,1,0nyxlf1GhDDXa18U3WXnDB,Show Me The Way (feat. JES),spotify:track:0nyxlf1GhDDXa18U3WXnDB,0.000478,0.533,0.911,0.649,0.118,-7.266,0.0454,128.973,0.111,12,Tiesto
+Kiss From The Past,2,1n3218ExKGTMt99TQqlToB,September Sun,spotify:track:1n3218ExKGTMt99TQqlToB,0.00013,0.283,0.934,0.00381,0.135,-4.777,0.0719,128.007,0.0426,2,Tiesto
+Kiss From The Past,3,4S9mm6ryNnQlt43SqeyAUB,Stay Forever (feat. Emma Hewitt),spotify:track:4S9mm6ryNnQlt43SqeyAUB,0.000169,0.603,0.902,0.0113,0.233,-5.949,0.0398,131.924,0.0389,2,Tiesto
+Kiss From The Past,4,7bEWLxDEmLCP8o8AE8VhQG,Coming Light,spotify:track:7bEWLxDEmLCP8o8AE8VhQG,2.92E-05,0.381,0.945,0.917,0.417,-4.696,0.0617,127.986,0.141,2,Tiesto
+Kiss From The Past,5,1mp2hVsEcYO3Il2dG1LovW,On The Wire (feat. Christian Burns),spotify:track:1mp2hVsEcYO3Il2dG1LovW,0.00585,0.585,0.858,0.0381,0.0608,-7.548,0.0568,130.001,0.261,3,Tiesto
+Kiss From The Past,6,6luLAyH7kVt9AhkdOdJcRA,Mariestad (feat. Henrik B),spotify:track:6luLAyH7kVt9AhkdOdJcRA,0.000623,0.258,0.953,0.888,0.139,-5.177,0.0473,127.998,0.109,1,Tiesto
+Kiss From The Past,7,1aJMTcBFwXw0L2yJnKzx9D,Kiss From The Past,spotify:track:1aJMTcBFwXw0L2yJnKzx9D,0.000438,0.276,0.893,0.866,0.112,-7.715,0.0436,129.012,0.0974,1,Tiesto
+Kiss From The Past,8,6nGo9twwQqxB4yeMMA7nE3,My Everything (feat. Kate Miles),spotify:track:6nGo9twwQqxB4yeMMA7nE3,0.000515,0.52,0.933,0.0208,0.193,-4.993,0.0441,128.991,0.0327,2,Tiesto
+Kiss From The Past,9,0BHoKDhXCKCaTz1lzeHMqx,I Am,spotify:track:0BHoKDhXCKCaTz1lzeHMqx,4.16E-05,0.606,0.528,0.939,0.585,-8.06,0.0387,127.999,0.107,3,Tiesto
+Kiss From The Past,10,3qqlaDHZ3ugZxPhmQE5Xmc,I'm Home (feat. Lindsey Ray),spotify:track:3qqlaDHZ3ugZxPhmQE5Xmc,0.00161,0.656,0.834,0.628,0.0728,-7.537,0.0511,127.962,0.0493,2,Tiesto
+Kiss From The Past,11,6sORRGJ0K1hhMYu0huTf1u,Guilty Pleasures,spotify:track:6sORRGJ0K1hhMYu0huTf1u,6.12E-05,0.578,0.887,0.909,0.408,-6.786,0.0454,130,0.104,1,Tiesto
+Kiss From The Past,12,05LBibRtkV0S5znk4ctt9e,No Goodbyes (feat. Emma Hewitt),spotify:track:05LBibRtkV0S5znk4ctt9e,0.00101,0.553,0.936,0.306,0.159,-6.098,0.0545,128.027,0.0383,1,Tiesto
+Kiss From The Past,13,4BDVKxGmyMpQXYerjGKVux,Peace,spotify:track:4BDVKxGmyMpQXYerjGKVux,0.302,0.752,0.534,0.908,0.101,-5.379,0.0557,127.977,0.368,1,Tiesto
+Kiss From The Past,14,7ykdO3anDZNHHdHy11PngL,You Say It'll Be Okay (feat. Jeza),spotify:track:7ykdO3anDZNHHdHy11PngL,0.00017,0.621,0.871,0.275,0.0502,-6.401,0.0375,132.045,0.0366,1,Tiesto

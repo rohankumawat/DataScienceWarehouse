@@ -1,0 +1,39 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Snacks (Supersize),5,5tjgT0WDKUTD2kLIBfbxoW,Ring Ring,spotify:track:5tjgT0WDKUTD2kLIBfbxoW,0.179,0.805,0.634,5.97E-06,0.106,-5.279,0.133,107.006,0.639,22,Jax Jones
+Snacks (Supersize),9,4S3H08qjKKqPKvgsd0MxmM,Breathe,spotify:track:4S3H08qjKKqPKvgsd0MxmM,0.0253,0.721,0.731,0.000112,0.129,-5.559,0.0397,125.976,0.712,22,Jax Jones
+Snacks (Supersize),12,5gJb77YuTcrPMD9XW0dMak,One Touch,spotify:track:5gJb77YuTcrPMD9XW0dMak,0.534,0.69,0.756,0,0.202,-5.159,0.241,124.276,0.585,22,Jax Jones
+Snacks (Supersize),14,7dBvnkMTdoM8piBlPb3P8w,This Is Real,spotify:track:7dBvnkMTdoM8piBlPb3P8w,0.0251,0.685,0.82,0.0724,0.096,-5.072,0.0412,122.008,0.612,32,Jax Jones
+Snacks (Supersize),16,51wG2hOnJSKVufJNBQ7Fbw,喘息空間 - 廣東,spotify:track:51wG2hOnJSKVufJNBQ7Fbw,0.188,0.766,0.702,0,0.109,-5.501,0.0343,125.938,0.744,21,Jax Jones
+Snacks (Supersize),17,400PMBm4Bdy5j7UuEXNvmH,不愛浪費 - 國語,spotify:track:400PMBm4Bdy5j7UuEXNvmH,0.136,0.71,0.782,0,0.0932,-5.069,0.0305,125.945,0.664,19,Jax Jones
+Snacks (Supersize),16,6fU55C7VdMSSkJ0ZGmX2Kg,Tequila - Jax Jones & Martin Solveig Present Europa,spotify:track:6fU55C7VdMSSkJ0ZGmX2Kg,0.00144,0.773,0.695,0.0167,0.111,-7.101,0.0954,123.999,0.837,61,Jax Jones
+Snacks (Supersize),5,4A4ifIPGjxryRV9EPraXBR,Ring Ring (with Mabel ft. Rich The Kid),spotify:track:4A4ifIPGjxryRV9EPraXBR,0.18,0.803,0.633,5.98E-06,0.105,-5.28,0.135,107.015,0.629,27,Jax Jones
+Snacks (Supersize),12,1uOH1exDhjIQfNVSDbVTJf,One Touch (with ‪Jess Glynne),spotify:track:1uOH1exDhjIQfNVSDbVTJf,0.536,0.691,0.756,0,0.202,-5.16,0.247,124.287,0.577,0,Jax Jones
+Snacks (Supersize),14,1pRShUtGOG6ZP5fsnw9G4h,This Is Real (ft. Ella Henderson),spotify:track:1pRShUtGOG6ZP5fsnw9G4h,0.0259,0.684,0.819,0.0775,0.0985,-5.072,0.0413,122.008,0.607,67,Jax Jones
+Snacks (Supersize),1,54v6jk9uWrdagmQnWjihxc,House Work (ft. Mike Dunn & MNEK),spotify:track:54v6jk9uWrdagmQnWjihxc,0.251,0.763,0.948,0.17,0.049,-5.203,0.0671,123.977,0.729,32,Jax Jones
+Snacks (Supersize),2,79JqbyvbJ7Shub94aKID7P,Jacques (with ‪Tove Lo),spotify:track:79JqbyvbJ7Shub94aKID7P,0.0808,0.804,0.545,3.86E-05,0.0789,-8.731,0.0624,120.013,0.48,49,Jax Jones
+Snacks (Supersize),3,6wPBfVsbJ5hyxXWYC4h172,You Don’t Know Me (ft. RAYE),spotify:track:6wPBfVsbJ5hyxXWYC4h172,0.162,0.877,0.65,0,0.314,-6.07,0.148,123.987,0.672,35,Jax Jones
+Snacks (Supersize),4,5vnLe2h6cHuQdAKShkOxlm,Harder (with ‪Bebe Rexha),spotify:track:5vnLe2h6cHuQdAKShkOxlm,0.0867,0.899,0.842,1.08E-06,0.161,-2.982,0.0844,104.014,0.712,26,Jax Jones
+Snacks (Supersize),6,6IbkfAHbmID9n59szHpNT4,Instruction (ft. ‪Demi Lovato & Stefflon Don),spotify:track:6IbkfAHbmID9n59szHpNT4,0.113,0.772,0.93,0,0.112,-3.084,0.183,121.068,0.953,25,Jax Jones
+Snacks (Supersize),8,0OfGWNcBYJ0mVwIEKB5ZTf,100 Times,spotify:track:0OfGWNcBYJ0mVwIEKB5ZTf,0.00129,0.692,0.58,0.00176,0.0889,-8.922,0.0527,121.996,0.275,34,Jax Jones
+Snacks (Supersize),9,6eNPM8wzuDpqBChGlu93Od,Breathe (ft. ‪Ina Wroldsen),spotify:track:6eNPM8wzuDpqBChGlu93Od,0.0251,0.723,0.733,0.000121,0.129,-5.552,0.0399,125.974,0.701,33,Jax Jones
+Snacks (Supersize),10,3ZxtQyBPlRDQmffv7KfKCP,Cruel,spotify:track:3ZxtQyBPlRDQmffv7KfKCP,0.00202,0.697,0.858,0.0314,0.145,-4.564,0.0321,126.008,0.517,42,Jax Jones
+Snacks (Supersize),11,5XWVbkMARnzjtfjBUk0Zcw,All Day And Night - Jax Jones & Martin Solveig Present Europa,spotify:track:5XWVbkMARnzjtfjBUk0Zcw,0.307,0.579,0.778,0,0.14,-4.095,0.113,121.947,0.507,33,Jax Jones
+Snacks (Supersize),13,4iXW8iEv7QzeWn71OU4NU2,All 4 U,spotify:track:4iXW8iEv7QzeWn71OU4NU2,0.0064,0.642,0.746,0.0411,0.103,-7.324,0.0342,120.756,0.522,38,Jax Jones
+Snacks (Supersize),15,4cda2ud5jkR6rBecj61J78,Tequila Time - Outro,spotify:track:4cda2ud5jkR6rBecj61J78,0.389,0.775,0.525,0,0.13,-10.482,0.204,122.055,0.686,29,Jax Jones
+Snacks (Supersize),2,6bUESKTqkaCSZENF3bkHAT,Jacques,spotify:track:6bUESKTqkaCSZENF3bkHAT,0.072,0.789,0.547,9.21E-05,0.0782,-8.738,0.0748,120.024,0.48,29,Jax Jones
+Snacks (Supersize),14,1weudikfdfPAaExgcf0Aiv,This is Real,spotify:track:1weudikfdfPAaExgcf0Aiv,0.0257,0.68,0.816,0.102,0.0925,-5.077,0.0408,122.047,0.591,46,Jax Jones
+Snacks (Supersize),15,0Ighf6V6s0nGQJlQ06tGqG,Tequila Time (Outro),spotify:track:0Ighf6V6s0nGQJlQ06tGqG,0.426,0.784,0.529,0,0.131,-10.591,0.216,122.045,0.646,9,Jax Jones
+Snacks,1,5RgBnDtHKFHgtVdqabjGE3,Harder (with Bebe Rexha),spotify:track:5RgBnDtHKFHgtVdqabjGE3,0.0899,0.906,0.833,0,0.154,-3.027,0.0729,104.017,0.752,65,Jax Jones
+Snacks,2,6CXh0RBouuXSUyIKzwYswZ,Play (with Years & Years),spotify:track:6CXh0RBouuXSUyIKzwYswZ,0.0276,0.767,0.788,2.13E-05,0.391,-7.718,0.0444,125.036,0.591,57,Jax Jones
+Snacks,3,4Vbz3osCh6DwHYv5gVv5H2,Breathe (feat. Ina Wroldsen),spotify:track:4Vbz3osCh6DwHYv5gVv5H2,0.0249,0.724,0.733,0.000318,0.127,-5.539,0.0382,125.993,0.672,64,Jax Jones
+Snacks,4,4DJORZgsbqnEJ4f4B9TBGV,You Don't Know Me (feat. RAYE),spotify:track:4DJORZgsbqnEJ4f4B9TBGV,0.164,0.879,0.665,0,0.319,-6.082,0.145,123.977,0.672,71,Jax Jones
+Snacks,5,4N1NX1NM6hOQDx11jJC8cn,House Work (feat. Mike Dunn & MNEK),spotify:track:4N1NX1NM6hOQDx11jJC8cn,0.264,0.765,0.946,0.319,0.0413,-5.266,0.067,123.976,0.777,52,Jax Jones
+Snacks,6,51FZnO9sWc2dazJneozkHp,Ring Ring (with Mabel feat. Rich The Kid),spotify:track:51FZnO9sWc2dazJneozkHp,0.173,0.809,0.649,3.39E-06,0.062,-4.874,0.158,106.994,0.62,53,Jax Jones
+Snacks,7,06VsoIC668pU516T6qrgkJ,Instruction (feat. Demi Lovato & Stefflon Don),spotify:track:06VsoIC668pU516T6qrgkJ,0.103,0.763,0.923,0,0.105,-3.108,0.191,121.074,0.934,70,Jax Jones
+Snacks,8,5naYe7rLMZcLfO1DKg48MK,All Day And Night,spotify:track:5naYe7rLMZcLfO1DKg48MK,0.317,0.567,0.765,0,0.14,-4.107,0.108,121.924,0.541,71,Jax Jones
+Snacks,1,2b1BwUGGyKq0CoJd8G1B6M,Harder,spotify:track:2b1BwUGGyKq0CoJd8G1B6M,0.0909,0.906,0.832,0,0.152,-3.004,0.0718,104.03,0.751,47,Jax Jones
+Snacks,2,0TiZxf6dqOnt2dbRrv2AgC,Play,spotify:track:0TiZxf6dqOnt2dbRrv2AgC,0.0257,0.772,0.762,1.14E-05,0.457,-7.831,0.0463,125.026,0.616,41,Jax Jones
+Snacks,4,4VWiIgIpGiRBGYCaZCXYOj,You Don't Know Me,spotify:track:4VWiIgIpGiRBGYCaZCXYOj,0.171,0.875,0.667,0,0.172,-6.046,0.15,123.985,0.677,54,Jax Jones
+Snacks,5,0ZSbwrEJXXJMwGDYebaoAZ,House Work,spotify:track:0ZSbwrEJXXJMwGDYebaoAZ,0.248,0.759,0.949,0.244,0.0441,-5.3,0.0644,123.966,0.705,41,Jax Jones
+Snacks,7,3ZleVSjpK8S9WYu8FAg6A1,Instruction,spotify:track:3ZleVSjpK8S9WYu8FAg6A1,0.11,0.543,0.932,0,0.103,-3.088,0.245,120.014,0.914,47,Jax Jones
+Snacks,8,6716hmWY0bV78DydfBgVel,All Day and Night - Jax Jones & Martin Solveig Present Europa,spotify:track:6716hmWY0bV78DydfBgVel,0.286,0.59,0.776,0,0.161,-4.096,0.0821,121.961,0.548,49,Jax Jones

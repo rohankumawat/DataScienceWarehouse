@@ -1,0 +1,100 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+KHALED KHALED,1,5suOUHDyRxvWDYF5GA6dly,THANKFUL (feat. Lil Wayne & Jeremih),spotify:track:5suOUHDyRxvWDYF5GA6dly,0.536,0.352,0.758,0,0.161,-2.491,0.0434,84.281,0.653,53,DJ Khaled
+KHALED KHALED,2,1EJIcDYXwSqipW5dFe4uJz,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),spotify:track:1EJIcDYXwSqipW5dFe4uJz,0.000866,0.477,0.727,0,0.108,-4.053,0.286,150.062,0.227,82,DJ Khaled
+KHALED KHALED,3,2ES75ADP1RR9TQmYqtDtyB,BIG PAPER (feat. Cardi B),spotify:track:2ES75ADP1RR9TQmYqtDtyB,0.00838,0.725,0.638,0,0.104,-4.906,0.204,119.795,0.316,50,DJ Khaled
+KHALED KHALED,4,6BvcWv1vfVJSoWix7L5BAP,WE GOING CRAZY (feat. H.E.R. & Migos),spotify:track:6BvcWv1vfVJSoWix7L5BAP,0.00749,0.512,0.917,0,0.163,-2.969,0.339,139.748,0.64,58,DJ Khaled
+KHALED KHALED,5,20GrahbI4AzAOWxpYfDKkf,"I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",spotify:track:20GrahbI4AzAOWxpYfDKkf,0.00196,0.757,0.721,0,0.647,-2.906,0.0691,124.036,0.364,74,DJ Khaled
+KHALED KHALED,6,1cEhrSF6EylAEqdhUGuNpX,LET IT GO (feat. Justin Bieber & 21 Savage),spotify:track:1cEhrSF6EylAEqdhUGuNpX,0.24,0.877,0.444,0,0.169,-7.547,0.172,129.06,0.658,74,DJ Khaled
+KHALED KHALED,7,1IZGMPe57hATuLJgmMR4eP,"BODY IN MOTION (feat. Bryson Tiller, Lil Baby & Roddy Ricch)",spotify:track:1IZGMPe57hATuLJgmMR4eP,0.009,0.669,0.687,0,0.508,-5.782,0.12,91.969,0.335,69,DJ Khaled
+KHALED KHALED,8,1sbEeUY8KsdvgiQi26JBFz,POPSTAR (feat. Drake),spotify:track:1sbEeUY8KsdvgiQi26JBFz,0.0558,0.803,0.565,0,0.141,-4.711,0.235,163.085,0.474,72,DJ Khaled
+KHALED KHALED,9,3pBt8B92anUJVIllwPrIuR,"THIS IS MY YEAR (feat. A Boogie Wit Da Hoodie, Big Sean, Rick Ross & Puff Daddy)",spotify:track:3pBt8B92anUJVIllwPrIuR,0.0684,0.454,0.824,0,0.448,-4.657,0.356,118.524,0.384,49,DJ Khaled
+KHALED KHALED,10,5OypcrFg58e4k2iYHi69ED,"SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",spotify:track:5OypcrFg58e4k2iYHi69ED,0.133,0.397,0.545,0,0.116,-8.052,0.0985,142.214,0.301,57,DJ Khaled
+KHALED KHALED,11,4eSsGiCHi75eMYx31ntNuI,JUST BE (feat. Justin Timberlake),spotify:track:4eSsGiCHi75eMYx31ntNuI,0.123,0.339,0.706,0,0.0912,-4.383,0.0495,91.064,0.226,47,DJ Khaled
+KHALED KHALED,12,1WTv76ouGCJZ0Rhz15YkIC,"I CAN HAVE IT ALL (feat. Bryson Tiller, H.E.R. & Meek Mill)",spotify:track:1WTv76ouGCJZ0Rhz15YkIC,0.0567,0.428,0.725,0,0.112,-6.035,0.188,74.946,0.376,54,DJ Khaled
+KHALED KHALED,13,3gruCKVuhCsRjs3a3dG8CA,GREECE (feat. Drake),spotify:track:3gruCKVuhCsRjs3a3dG8CA,0.0755,0.687,0.336,0,0.126,-10.748,0.0456,85.828,0.215,72,DJ Khaled
+KHALED KHALED,14,6MtawOWcSDL2YJAhGD6SC3,"WHERE YOU COME FROM (feat. Buju Banton, Capleton & Bounty Killer)",spotify:track:6MtawOWcSDL2YJAhGD6SC3,0.0724,0.624,0.76,0,0.443,-6.05,0.398,158.449,0.528,56,DJ Khaled
+Father Of Asahd,1,74LujaXmzGQi5wRZ2HFh0G,"Holy Mountain (feat. Buju Banton, Sizzla, Mavado & 070 Shake)",spotify:track:74LujaXmzGQi5wRZ2HFh0G,0.166,0.579,0.8,0,0.963,-3.152,0.367,145.53,0.604,53,DJ Khaled
+Father Of Asahd,2,1Hd2XLitkt1PYCWSbfF5qV,Wish Wish (feat. Cardi B & 21 Savage),spotify:track:1Hd2XLitkt1PYCWSbfF5qV,0.00218,0.861,0.666,0,0.272,-5.18,0.343,145.041,0.853,65,DJ Khaled
+Father Of Asahd,3,6Dq8FZrvx9S28iyaKSwn9x,"Jealous (feat. Chris Brown, Lil Wayne & Big Sean)",spotify:track:6Dq8FZrvx9S28iyaKSwn9x,0.0133,0.614,0.685,0,0.313,-3.684,0.147,94.9,0.61,63,DJ Khaled
+Father Of Asahd,4,0BnTBAGmr9FtYwkZrwKhwS,Just Us (feat. SZA),spotify:track:0BnTBAGmr9FtYwkZrwKhwS,0.135,0.639,0.859,0,0.129,-2.758,0.147,93.132,0.566,68,DJ Khaled
+Father Of Asahd,5,4U6ubKsTd8RBDP5tPPhh7I,"You Stay (feat. Meek Mill, J Balvin, Lil Baby & Jeremih)",spotify:track:4U6ubKsTd8RBDP5tPPhh7I,0.0314,0.479,0.63,0,0.073,-5.628,0.133,117.988,0.227,61,DJ Khaled
+Father Of Asahd,6,0b6UoVjUzFyZNpHI0aAhKt,Celebrate (feat. Travis Scott & Post Malone),spotify:track:0b6UoVjUzFyZNpHI0aAhKt,0.269,0.362,0.714,0,0.21,-3.07,0.0835,67.4,0.309,60,DJ Khaled
+Father Of Asahd,7,6O10oTtZIZ4DkkUqyfCbrR,Higher (feat. Nipsey Hussle & John Legend),spotify:track:6O10oTtZIZ4DkkUqyfCbrR,0.0949,0.351,0.956,0,0.226,-1.996,0.245,83.655,0.446,56,DJ Khaled
+Father Of Asahd,8,3ErERvCgbRm3KCEc58w5za,Won't Take My Soul (feat. Nas & CeeLo Green),spotify:track:3ErERvCgbRm3KCEc58w5za,0.476,0.25,0.917,0,0.274,-2.938,0.288,174.397,0.417,39,DJ Khaled
+Father Of Asahd,9,6xVhqLT40s5sVhepe9Mckc,Weather the Storm (feat. Meek Mill & Lil Baby),spotify:track:6xVhqLT40s5sVhepe9Mckc,0.18,0.515,0.802,0,0.241,-2.655,0.283,76.069,0.279,54,DJ Khaled
+Father Of Asahd,10,6L8MHp94PFckbkfZm2foUJ,Big Boy Talk (feat. Jeezy & Rick Ross),spotify:track:6L8MHp94PFckbkfZm2foUJ,0.0656,0.406,0.793,0,0.346,-4.389,0.425,78.264,0.363,49,DJ Khaled
+Father Of Asahd,11,7C0BHTRLmWUONc8OYjOPdW,Freak N You (feat. Lil Wayne & Gunna),spotify:track:7C0BHTRLmWUONc8OYjOPdW,0.00437,0.66,0.771,3.07E-05,0.29,-5.233,0.128,91.023,0.527,53,DJ Khaled
+Father Of Asahd,12,0QzliuYF4qRMXI76GwepXq,"Top Off (feat. JAY Z, Future & Beyoncé)",spotify:track:0QzliuYF4qRMXI76GwepXq,0.0102,0.569,0.593,0,0.457,-6.718,0.336,86.695,0.262,54,DJ Khaled
+Father Of Asahd,13,03nPEoQOYMuDe7KmGljpmd,"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",spotify:track:03nPEoQOYMuDe7KmGljpmd,0.073,0.527,0.761,0,0.0865,-4.708,0.341,135.543,0.653,65,DJ Khaled
+Father Of Asahd,14,6H4vsxNsm2NsV8pBAb5WnU,Thank You (feat. Big Sean),spotify:track:6H4vsxNsm2NsV8pBAb5WnU,0.155,0.535,0.749,0,0.308,-5.082,0.508,89.895,0.427,45,DJ Khaled
+Father Of Asahd,15,1LZPELQqai6rO6JgvZtElr,Holy Ground (feat. Buju Banton),spotify:track:1LZPELQqai6rO6JgvZtElr,0.403,0.614,0.749,0,0.102,-3.378,0.138,170.186,0.432,46,DJ Khaled
+Grateful,3,2of5xn0GU0TdFneR1saRLH,To the Max (feat. Drake),spotify:track:2of5xn0GU0TdFneR1saRLH,0.0184,0.461,0.812,0.000375,0.21,-5.776,0.241,159.869,0.72,51,DJ Khaled
+Grateful,15,5DRgbbdTpvqOe9QwhpFV6S,Good Man (feat. Pusha T & Jadakiss),spotify:track:5DRgbbdTpvqOe9QwhpFV6S,0.0168,0.479,0.785,0.000165,0.622,-7.169,0.421,97.883,0.368,37,DJ Khaled
+Grateful,17,49rmaKoHG4RbmX4bWBy1mS,"Pull a Caper (feat. Kodak Black, Gucci Mane & Rick Ross)",spotify:track:49rmaKoHG4RbmX4bWBy1mS,0.25,0.615,0.546,0,0.0939,-6.153,0.146,60.082,0.137,38,DJ Khaled
+Grateful,18,6riQuAkwS7qaOLkcCnyiJ4,That Range Rover Came With Steps (feat. Future & Yo Gotti),spotify:track:6riQuAkwS7qaOLkcCnyiJ4,0.0882,0.615,0.683,0,0.059,-5.328,0.279,83.267,0.268,38,DJ Khaled
+Grateful,1,2uzkHOkcNvJPBmijZLA3sy,(Intro) I'm so Grateful (feat. Sizzla),spotify:track:2uzkHOkcNvJPBmijZLA3sy,0.456,0.355,0.869,0,0.257,-6.459,0.702,161.985,0.314,33,DJ Khaled
+Grateful,2,3OoZagIW3YK8vjt0ws6NOI,Shining (feat. Beyoncé & Jay-Z),spotify:track:3OoZagIW3YK8vjt0ws6NOI,0.0479,0.773,0.81,4.45E-06,0.271,-5.171,0.116,112.002,0.567,59,DJ Khaled
+Grateful,3,1OAh8uOEOvTDqkKFsKksCi,Wild Thoughts (feat. Rihanna & Bryson Tiller),spotify:track:1OAh8uOEOvTDqkKFsKksCi,0.0329,0.671,0.672,0,0.118,-3.094,0.0688,97.979,0.632,77,DJ Khaled
+Grateful,4,3DXncPQOG4VBw3QHh3S817,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",spotify:track:3DXncPQOG4VBw3QHh3S817,0.0552,0.609,0.668,0,0.167,-4.284,0.0367,80.924,0.811,77,DJ Khaled
+Grateful,5,5n2nd6UMABqqeUCyCf4Nbb,"On Everything (feat. Travis Scott, Rick Ross & Big Sean)",spotify:track:5n2nd6UMABqqeUCyCf4Nbb,0.0232,0.542,0.755,0,0.225,-3.68,0.0614,168.22,0.267,43,DJ Khaled
+Grateful,6,0FBWSrWmslTXl0bQq7IOgh,It's Secured (feat. Nas & Travis Scott),spotify:track:0FBWSrWmslTXl0bQq7IOgh,0.0397,0.511,0.852,0,0.665,-2.886,0.301,162.038,0.601,40,DJ Khaled
+Grateful,7,5rflEM4gwPgGe2SB7l1iQg,Interlude (Hallelujah),spotify:track:5rflEM4gwPgGe2SB7l1iQg,0.769,0.552,0.356,0,0.263,-5.512,0.301,86.764,0.701,30,DJ Khaled
+Grateful,8,3lUAtkEMTRbWb8oK0T3gC3,Nobody (feat. Alicia Keys & Nicki Minaj),spotify:track:3lUAtkEMTRbWb8oK0T3gC3,0.371,0.507,0.893,0,0.914,-3.611,0.3,89.392,0.57,38,DJ Khaled
+Grateful,10,4vv1KjUzPwrtDbozizSfQc,Don't Quit (feat. Travis Scott & Jeremih),spotify:track:4vv1KjUzPwrtDbozizSfQc,0.015,0.652,0.827,0,0.432,-3.98,0.0445,100.011,0.659,51,DJ Khaled
+Grateful,11,5xQUK12259s4pQi17Fw021,I Can't Even Lie (feat. Future & Nicki Minaj),spotify:track:5xQUK12259s4pQi17Fw021,0.0269,0.671,0.62,3.21E-06,0.189,-6.092,0.0536,120.079,0.226,38,DJ Khaled
+Grateful,12,1YsFOm6hFKqSLgu9RTpQB8,"Down for Life (feat. PARTYNEXTDOOR, Future, Travis Scott, Rick Ross & Kodak Black)",spotify:track:1YsFOm6hFKqSLgu9RTpQB8,0.342,0.611,0.786,0,0.0877,-2.417,0.272,139.911,0.66,39,DJ Khaled
+Grateful,13,6LECek0tkw95AXDGHM4qXj,Major Bag Alert (feat. Migos),spotify:track:6LECek0tkw95AXDGHM4qXj,0.0165,0.804,0.667,0,0.215,-4.738,0.0372,138.015,0.135,65,DJ Khaled
+Grateful,15,508iuw5ZuUBc2ExtZ5wwcY,Billy Ocean (feat. Fat Joe & Raekwon),spotify:track:508iuw5ZuUBc2ExtZ5wwcY,0.0406,0.684,0.793,0,0.315,-5.282,0.328,90.996,0.38,31,DJ Khaled
+Grateful,18,0Sya8tcvqVXsn1u96NEu2V,"Iced Out My Arms (feat. Future, Migos, 21 Savage & T.I.)",spotify:track:0Sya8tcvqVXsn1u96NEu2V,0.022,0.854,0.609,0,0.134,-6.363,0.254,140.04,0.323,41,DJ Khaled
+Grateful,19,6JRydzo0lyZeTanq2wTmqf,"Whatever (feat. Future, Young Thug, Rick Ross & 2 Chainz)",spotify:track:6JRydzo0lyZeTanq2wTmqf,0.0281,0.768,0.7,0,0.442,-3.395,0.306,130.101,0.489,33,DJ Khaled
+Grateful,20,7b7FKd5oLmgSqz9IsGwgXI,Interlude,spotify:track:7b7FKd5oLmgSqz9IsGwgXI,0.0962,0.672,0.871,0,0.283,-5.116,0.312,79.092,0.353,30,DJ Khaled
+Grateful,21,2jTjmNTZdJvw0suG2Qu4tI,Unchanging Love,spotify:track:2jTjmNTZdJvw0suG2Qu4tI,0.331,0.582,0.637,0,0.155,-5.004,0.0521,77.534,0.371,31,DJ Khaled
+Grateful,22,65KRgyyiEJOXELYGtmEY95,Asahd Talk (Thank You Asahd),spotify:track:65KRgyyiEJOXELYGtmEY95,0.729,0.667,0.23,0,0.798,-12.937,0.951,64.146,0,0,DJ Khaled
+Grateful,10,3dgWxFqPQl90Y5nmIkyy6f,I Love You so Much (feat. Chance the Rapper),spotify:track:3dgWxFqPQl90Y5nmIkyy6f,0.0211,0.584,0.893,0,0.216,-4.192,0.224,102.946,0.504,36,DJ Khaled
+Major Key,7,6ezg5Mm5UEEi3Oqsbb7Cjn,"Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",spotify:track:6ezg5Mm5UEEi3Oqsbb7Cjn,0.0173,0.412,0.548,0,0.181,-6.981,0.243,81.293,0.176,63,DJ Khaled
+Major Key,14,5Ajx80LhfbzZnECRCYc5Wy,Progress,spotify:track:5Ajx80LhfbzZnECRCYc5Wy,0.289,0.355,0.861,0,0.302,-4.85,0.206,170.597,0.346,32,DJ Khaled
+Major Key,1,2eqUZAVXjK61mZqLl4LKJJ,I Got the Keys (feat. Jay-Z & Future),spotify:track:2eqUZAVXjK61mZqLl4LKJJ,0.00287,0.686,0.623,0.00145,0.219,-3.425,0.13,140.171,0.176,48,DJ Khaled
+Major Key,2,5TqBAOIBe0bQA0spNdcG3k,For Free (feat. Drake),spotify:track:5TqBAOIBe0bQA0spNdcG3k,0.0173,0.916,0.571,1.11E-06,0.153,-8.241,0.2,103.521,0.498,59,DJ Khaled
+Major Key,3,5QcTwY2zSTX2hrVj2oHIbu,Nas Album Done (feat. Nas),spotify:track:5QcTwY2zSTX2hrVj2oHIbu,0.0306,0.61,0.76,0,0.246,-5.788,0.378,89.856,0.352,46,DJ Khaled
+Major Key,4,4o1zYFH5QWKu3E4MiC6lgE,"Holy Key (feat. Big Sean, Kendrick Lamar & Betty Wright)",spotify:track:4o1zYFH5QWKu3E4MiC6lgE,0.106,0.413,0.928,0,0.331,-3.671,0.321,83.203,0.469,46,DJ Khaled
+Major Key,5,4LAp0EFUdBeVCkusdw8i77,Jermaine's Interlude (feat. J. Cole),spotify:track:4LAp0EFUdBeVCkusdw8i77,0.515,0.547,0.678,0,0.564,-3.292,0.282,136.348,0.61,52,DJ Khaled
+Major Key,6,6MuZxHZMcFKzhH9jJQ1iW9,Ima Be Alright (feat. Bryson Tiller & Future),spotify:track:6MuZxHZMcFKzhH9jJQ1iW9,0.179,0.391,0.78,0,0.322,-4.198,0.294,172.043,0.562,37,DJ Khaled
+Major Key,8,6uIosJqe4IbrpRfYtQIy7K,"Pick These Hoes Apart (feat. Kodak Black, Jeezy & French Montana)",spotify:track:6uIosJqe4IbrpRfYtQIy7K,0.135,0.667,0.533,0,0.119,-7.552,0.0947,135.113,0.398,36,DJ Khaled
+Major Key,9,4GPkmTFCrA6ERIg2JubGJw,"Fuck Up the Club (feat. Future, Rick Ross, YG & Yo Gotti)",spotify:track:4GPkmTFCrA6ERIg2JubGJw,0.325,0.759,0.616,0,0.116,-3.767,0.284,76.662,0.641,36,DJ Khaled
+Major Key,10,3YtGCqleJmp8wg798qLVtM,"Work for It (feat. Big Sean, Gucci Mane & 2 Chainz)",spotify:track:3YtGCqleJmp8wg798qLVtM,0.278,0.8,0.622,0.000635,0.148,-5.214,0.237,153.004,0.33,40,DJ Khaled
+Major Key,11,1HelT66pscWisKV6mciTSe,"Don't Ever Play Yourself (feat. Jadakiss, Fabolous, Fat Joe, Busta Rhymes & Kent Jones)",spotify:track:1HelT66pscWisKV6mciTSe,0.122,0.644,0.556,0,0.0752,-6.998,0.332,89.581,0.422,35,DJ Khaled
+Major Key,12,7HKrDkHd5kPARX4O7Su70O,Tourist (feat. Travis Scott & Lil Wayne),spotify:track:7HKrDkHd5kPARX4O7Su70O,0.347,0.693,0.533,0,0.287,-6.421,0.0366,120.018,0.238,42,DJ Khaled
+Major Key,13,2uWlfvIAzCtbpzGbXxkSJN,"Forgive Me Father (feat. Meghan Trainor, Wiz Khalifa & Wale)",spotify:track:2uWlfvIAzCtbpzGbXxkSJN,0.132,0.611,0.741,0,0.121,-4.454,0.127,128.126,0.217,34,DJ Khaled
+Major Key,9,35qJJ31t2iwuuHz7VGPsoA,"F**k Up the Club (feat. Future, Rick Ross, YG & Yo Gotti)",spotify:track:35qJJ31t2iwuuHz7VGPsoA,0.282,0.805,0.651,0,0.112,-3.741,0.271,76.806,0.645,10,DJ Khaled
+I Changed A Lot (Deluxe),1,0zpCFrkOrlwTxsUBipSuSR,I Don't Play About My Paper (feat. Future & Rick Ross),spotify:track:0zpCFrkOrlwTxsUBipSuSR,0.0703,0.632,0.792,0,0.371,-4.631,0.198,137.998,0.389,34,DJ Khaled
+I Changed A Lot (Deluxe),2,5X6iHBGNDW1poRfrjH6GEr,"I Ride (feat. Boosie Badazz, Future, Rick Ross & Jeezy)",spotify:track:5X6iHBGNDW1poRfrjH6GEr,0.0639,0.391,0.849,0,0.529,-3.775,0.288,185.977,0.67,32,DJ Khaled
+I Changed A Lot (Deluxe),3,3NMNNcNGnNz7bBSCinr5hv,"Gold Slugs (feat. Chris Brown, August Alsina & Fetty Wap)",spotify:track:3NMNNcNGnNz7bBSCinr5hv,0.323,0.403,0.919,0,0.382,-1.925,0.28,117.435,0.608,50,DJ Khaled
+I Changed A Lot (Deluxe),4,70jQPiz4QRNgK9jNsfSq38,"I Swear I Never Tell Another Soul (feat. Future, Yo Gotti & Trick Daddy)",spotify:track:70jQPiz4QRNgK9jNsfSq38,0.136,0.754,0.874,0,0.296,-4.92,0.126,126.992,0.802,26,DJ Khaled
+I Changed A Lot (Deluxe),5,5btqzCB1tRbgcw1SJhrdzv,"I Lied (feat. French Montana, Meek Mill, Beanie Sigel & Jadakiss)",spotify:track:5btqzCB1tRbgcw1SJhrdzv,0.102,0.6,0.772,0,0.117,-5.863,0.293,74.89,0.594,28,DJ Khaled
+I Changed A Lot (Deluxe),6,6Dy6L7C0OJQnoz40AfaFZO,"How Many Times (feat. Chris Brown, Lil Wayne & Big Sean)",spotify:track:6Dy6L7C0OJQnoz40AfaFZO,0.114,0.797,0.694,0,0.294,-4.469,0.2,116.128,0.865,50,DJ Khaled
+I Changed A Lot (Deluxe),7,6Ayke1Lu1csznJ97WzJGJO,"You Mine (feat. Trey Songz, Jeremih & Future)",spotify:track:6Ayke1Lu1csznJ97WzJGJO,0.408,0.49,0.91,0,0.27,-3.094,0.234,136.179,0.403,38,DJ Khaled
+I Changed A Lot (Deluxe),8,7lUMV2gFUCZJEqrsjqxZky,"Every Time We Come Around (feat. French Montana, Jadakiss, Ace Hood & Vado)",spotify:track:7lUMV2gFUCZJEqrsjqxZky,0.0257,0.52,0.855,0,0.0444,-5.18,0.374,162.817,0.489,28,DJ Khaled
+I Changed A Lot (Deluxe),9,4elZry7goeY6pfiq6gCfvg,I Ain't Worried (feat. Ace Hood & Rick Ross),spotify:track:4elZry7goeY6pfiq6gCfvg,0.00443,0.67,0.812,0,0.2,-5.744,0.206,141.992,0.423,28,DJ Khaled
+I Changed A Lot (Deluxe),10,0588kHJ34DF7ZvTyuo4Dnk,"They Don't Love You No More (feat. Jay-Z, Meek Mill, Rick Ross & French Montana)",spotify:track:0588kHJ34DF7ZvTyuo4Dnk,0.0126,0.365,0.774,0,0.357,-3.701,0.259,89.1,0.398,54,DJ Khaled
+I Changed A Lot (Deluxe),11,1z2U4qNsw0JDou1jnxYdYH,My League,spotify:track:1z2U4qNsw0JDou1jnxYdYH,0.0422,0.76,0.88,0,0.157,-2.494,0.0657,103.051,0.538,40,DJ Khaled
+I Changed A Lot (Deluxe),12,2Ima72UXnfvR539afL3SAF,"Hold You Down (feat. Chris Brown, August Alsina, Future & Jeremih)",spotify:track:2Ima72UXnfvR539afL3SAF,0.195,0.525,0.681,0,0.141,-4.158,0.0683,151.875,0.437,64,DJ Khaled
+I Changed A Lot (Deluxe),13,17EpUaJo3RYHnsgEM9FkUR,Most High (feat. John Legend),spotify:track:17EpUaJo3RYHnsgEM9FkUR,0.678,0.391,0.76,0,0.254,-4.982,0.442,87.848,0.415,26,DJ Khaled
+I Changed A Lot (Deluxe),14,30chYxjcDgUxWnEUeBap9q,"Hold You Down (Remix) (feat. Usher, Rick Ross, Fabolous & Ace Hood)",spotify:track:30chYxjcDgUxWnEUeBap9q,0.377,0.626,0.752,0,0.538,-4.452,0.323,76.164,0.48,38,DJ Khaled
+I Changed A Lot (Deluxe),15,6GjZEBS8OPoskqYqSDzcz7,"Gold Slugs (Instrumental) (feat. Chris Brown, August Alsina & Fetty Wap)",spotify:track:6GjZEBS8OPoskqYqSDzcz7,0.00478,0.653,0.574,0.821,0.0689,-5.029,0.0541,175.955,0.553,21,DJ Khaled
+I Changed A Lot (Deluxe),16,6rNwNXpeEeHi0JVXdciiE7,"I Lied (Instrumental) (feat. French Montana, Meek Mill, Beanie Sigel & Jadakiss)",spotify:track:6rNwNXpeEeHi0JVXdciiE7,0.0237,0.649,0.429,0.844,0.196,-9.597,0.0313,150.077,0.271,20,DJ Khaled
+Suffering From Success,1,4RZBJgDzmIDA3pzGpg5icG,Obama (Winning More Interlude),spotify:track:4RZBJgDzmIDA3pzGpg5icG,0.688,0.276,0.976,0.00395,0.569,-9.486,0.705,139.158,0.207,15,DJ Khaled
+Suffering From Success,2,0oOhHNAXE8nJSoLGCyGDDK,Suffering From Success,spotify:track:0oOhHNAXE8nJSoLGCyGDDK,0.00506,0.674,0.706,2.15E-06,0.177,-4.861,0.0575,133.935,0.381,30,DJ Khaled
+Suffering From Success,3,3m4TkNakXcxkZyFcS7vnmk,I Feel Like Pac / I Feel Like Biggie,spotify:track:3m4TkNakXcxkZyFcS7vnmk,0.116,0.473,0.798,0,0.523,-5.266,0.29,151.302,0.478,30,DJ Khaled
+Suffering From Success,7,3eBa8WLuW8b2Ext8cyRhOv,I'm Still,spotify:track:3eBa8WLuW8b2Ext8cyRhOv,0.169,0.719,0.764,0,0.112,-3.855,0.0481,119.035,0.447,33,DJ Khaled
+Suffering From Success,8,2EAHXJbcFLmREbJCTv2RnD,I Wanna Be With You,spotify:track:2EAHXJbcFLmREbJCTv2RnD,0.13,0.722,0.651,0,0.219,-3.931,0.126,127.801,0.405,53,DJ Khaled
+Suffering From Success,9,04a1HkNH7LFsG5mEiLN7vl,No New Friends - SFTB Remix,spotify:track:04a1HkNH7LFsG5mEiLN7vl,0.00589,0.703,0.681,0,0.449,-6.356,0.133,124.928,0.245,61,DJ Khaled
+Suffering From Success,10,06kIwlDkjVCB04qKgv05PD,Give It All To Me,spotify:track:06kIwlDkjVCB04qKgv05PD,0.0171,0.408,0.706,0,0.124,-5.595,0.426,62.463,0.405,39,DJ Khaled
+Suffering From Success,12,7t30XQp7B6fu32CjENcDBq,Never Surrender,spotify:track:7t30XQp7B6fu32CjENcDBq,0.117,0.47,0.803,0,0.114,-5.232,0.196,76.654,0.484,40,DJ Khaled
+Suffering From Success,14,5yf4QxbxxZRspGQOyOnTCy,Black Ghost,spotify:track:5yf4QxbxxZRspGQOyOnTCy,0.0191,0.596,0.856,0,0.213,-3.206,0.289,81.156,0.192,19,DJ Khaled
+Suffering From Success (Deluxe Version),4,3YfE7YiTaolR8BifU428Ke,You Don't Want These Problems,spotify:track:3YfE7YiTaolR8BifU428Ke,0.0198,0.75,0.806,0,0.656,-5.2,0.179,141.012,0.586,26,DJ Khaled
+Suffering From Success (Deluxe Version),5,4dMcpqw97o30iwrv3GTQHm,Blackball,spotify:track:4dMcpqw97o30iwrv3GTQHm,0.0843,0.739,0.612,0,0.0836,-5.942,0.176,149.207,0.292,26,DJ Khaled
+Suffering From Success (Deluxe Version),6,4M3uApraq6U6bdNnmC4loP,No Motive,spotify:track:4M3uApraq6U6bdNnmC4loP,0.0175,0.691,0.643,0,0.103,-7.671,0.323,141.541,0.576,20,DJ Khaled
+Suffering From Success (Deluxe Version),11,2RwpeZcFwIAb2JPmfKeioc,Hells Kitchen,spotify:track:2RwpeZcFwIAb2JPmfKeioc,0.0704,0.642,0.669,6.51E-05,0.114,-6.21,0.173,85.855,0.176,38,DJ Khaled
+Suffering From Success (Deluxe Version),13,0wLsNbZf4JNotoNk2nS0F4,Murcielago (Doors Go Up),spotify:track:0wLsNbZf4JNotoNk2nS0F4,0.0515,0.594,0.812,0,0.602,-4.638,0.128,126.011,0.337,29,DJ Khaled
+Suffering From Success (Deluxe Version),15,3XIw6mkQ2ZsHh0npLoYizp,Take That Off,spotify:track:3XIw6mkQ2ZsHh0npLoYizp,0.14,0.836,0.744,0,0.381,-6.062,0.112,147.955,0.517,19,DJ Khaled
+Suffering From Success (Deluxe Version),16,1aUNhdAUniQVupbj3zDnK2,Weed & Hennessy,spotify:track:1aUNhdAUniQVupbj3zDnK2,0.0228,0.61,0.812,0,0.0562,-2.779,0.183,117.613,0.45,27,DJ Khaled

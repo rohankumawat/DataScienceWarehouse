@@ -1,0 +1,155 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+BE,1,5FVbvttjEvQ8r2BgUcJgNg,Life Goes On,spotify:track:5FVbvttjEvQ8r2BgUcJgNg,0.00691,0.566,0.716,0,0.37,-5.733,0.0424,81.068,0.45,85,BTS
+BE,2,1NHl9g36Ebu3g16y0vtUNV,Fly To My Room,spotify:track:1NHl9g36Ebu3g16y0vtUNV,0.0484,0.764,0.526,0,0.0718,-7.355,0.212,114.91,0.588,75,BTS
+BE,3,7Ki0hse0IfXEcXUlpyECbJ,Blue & Grey,spotify:track:7Ki0hse0IfXEcXUlpyECbJ,0.42,0.547,0.605,0,0.125,-6.755,0.0415,121.953,0.364,80,BTS
+BE,4,16SFlxZd0oH4YA7KvCQlsG,Skit,spotify:track:16SFlxZd0oH4YA7KvCQlsG,0.864,0.703,0.321,0,0.908,-13.135,0.884,114.822,0.544,59,BTS
+BE,5,6Fnvi5QnVkTskSzeRvvQds,Telepathy,spotify:track:6Fnvi5QnVkTskSzeRvvQds,0.00782,0.787,0.669,0,0.123,-4.333,0.0428,104.994,0.57,79,BTS
+BE,6,0hxeouHqP3qzpTHerA7ha2,Dis-ease,spotify:track:0hxeouHqP3qzpTHerA7ha2,0.0132,0.731,0.845,0,0.0782,-5.352,0.132,101.085,0.484,77,BTS
+BE,7,0TdWVbcerMAcvljXrl9gpG,Stay,spotify:track:0TdWVbcerMAcvljXrl9gpG,0.114,0.582,0.693,0,0.13,-5.048,0.0465,125.904,0.341,77,BTS
+BE,8,5QDLhrAOJJdNAmCTJ8xMyW,Dynamite,spotify:track:5QDLhrAOJJdNAmCTJ8xMyW,0.0112,0.746,0.765,0,0.0936,-4.41,0.0993,114.044,0.737,91,BTS
+BE,2,5JcUAMvjUUM0z3OVIcnuvM,내 방을 여행하는 법,spotify:track:5JcUAMvjUUM0z3OVIcnuvM,0.0484,0.764,0.526,0,0.0718,-7.355,0.212,114.91,0.588,37,BTS
+BE,5,6XesM5tApm8ARWMjoD1EMm,잠시,spotify:track:6XesM5tApm8ARWMjoD1EMm,0.00782,0.787,0.669,0,0.123,-4.333,0.0428,104.994,0.57,39,BTS
+BE,6,6aGtSx8xkaDULmxdx92gkO,병,spotify:track:6aGtSx8xkaDULmxdx92gkO,0.0132,0.731,0.845,0,0.0782,-5.352,0.132,101.085,0.484,38,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,1,5raJ9QoZOdoRZ1MZOcygkR,INTRO : Calling,spotify:track:5raJ9QoZOdoRZ1MZOcygkR,0.582,0.486,0.61,0.791,0.144,-12.063,0.0348,144.992,0.0806,57,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,2,3Ys2PYl1wyPKQIwyqhP9cQ,Stay Gold,spotify:track:3Ys2PYl1wyPKQIwyqhP9cQ,0.0892,0.723,0.634,0,0.0787,-5.415,0.0542,129.017,0.582,74,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,3,1GAAUZBTaIM1LwNpOJQJrZ,Boy With Luv - Japanese ver.,spotify:track:1GAAUZBTaIM1LwNpOJQJrZ,0.0661,0.673,0.855,0,0.209,-4.65,0.089,119.917,0.78,58,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,4,6P0Ni8GrnwRScC4uk8tKqM,Make It Right - Japanese ver.,spotify:track:6P0Ni8GrnwRScC4uk8tKqM,0.0163,0.571,0.703,0,0.262,-7.401,0.468,104.067,0.238,55,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,5,6j0NiWoRQDiNC05RwVVZNa,Dionysus - Japanese ver.,spotify:track:6j0NiWoRQDiNC05RwVVZNa,0.0218,0.455,0.893,0,0.358,-3.712,0.148,175.992,0.588,54,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,6,2vYF5MHeCNtqCVastthDAo,IDOL - Japanese ver.,spotify:track:2vYF5MHeCNtqCVastthDAo,0.000331,0.705,0.754,0,0.129,-5.453,0.0895,126.014,0.422,55,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,7,4EeVAiJtyblHzvkN9sZCmM,Airplane pt.2 - Japanese ver.,spotify:track:4EeVAiJtyblHzvkN9sZCmM,0.04,0.752,0.782,1.04E-06,0.0841,-5.173,0.0297,139.994,0.901,57,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,8,4jTEbIwCMcHSwlSEiR4NlQ,FAKE LOVE - Japanese ver.,spotify:track:4jTEbIwCMcHSwlSEiR4NlQ,0.00362,0.546,0.682,0,0.295,-5.628,0.039,154.923,0.433,56,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,9,5smmjzMNkj4YSacTBH6taZ,Black Swan - Japanese ver.,spotify:track:5smmjzMNkj4YSacTBH6taZ,0.166,0.714,0.736,0,0.133,-5.724,0.0819,147.037,0.536,54,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,10,2hhizKAVm9wNn0d2N05jkG,ON - Japanese ver.,spotify:track:2hhizKAVm9wNn0d2N05jkG,0.119,0.598,0.821,0,0.298,-5.653,0.114,105.991,0.428,54,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,11,3TDUktzfYXMWjkWqwoT5F1,Lights,spotify:track:3TDUktzfYXMWjkWqwoT5F1,0.156,0.608,0.644,0,0.124,-5.588,0.0314,99.005,0.431,72,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,12,3TZ7NHkMT82AhwuYsd00Hz,Your eyes tell,spotify:track:3TZ7NHkMT82AhwuYsd00Hz,0.279,0.449,0.491,0,0.0654,-6.433,0.029,139.923,0.258,76,BTS
+MAP OF THE SOUL : 7 ~ THE JOURNEY ~,13,0VF357Gjay5vvCqWA1kSu6,OUTRO : The Journey,spotify:track:0VF357Gjay5vvCqWA1kSu6,0.704,0.523,0.455,0.459,0.135,-14.26,0.0632,136.959,0.165,56,BTS
+MAP OF THE SOUL : 7,2,5sF9xwCDidhTovLRrr22sT,작은 것들을 위한 시 (Boy With Luv) [feat. Halsey],spotify:track:5sF9xwCDidhTovLRrr22sT,0.0933,0.645,0.862,0,0.193,-4.761,0.0845,119.947,0.803,19,BTS
+MAP OF THE SOUL : 7,9,4Yqung81v8CmhDCEXUyjTm,시차,spotify:track:4Yqung81v8CmhDCEXUyjTm,0.149,0.674,0.641,0,0.0925,-5.139,0.0339,99.91,0.664,49,BTS
+MAP OF THE SOUL : 7,12,4QWPKecgt2lc4GpWtYgYtJ,욱 (UGH!),spotify:track:4QWPKecgt2lc4GpWtYgYtJ,0.0394,0.72,0.824,0,0.0509,-5.086,0.128,165.996,0.333,32,BTS
+MAP OF THE SOUL : 7,15,4NQ8DTueMrnI7u5qUEaR7b,친구,spotify:track:4NQ8DTueMrnI7u5qUEaR7b,0.0668,0.55,0.747,0,0.0536,-5.211,0.0407,79.979,0.649,43,BTS
+MAP OF THE SOUL : 7,2,7lrqvdivAYRGEiO8JFP31G,Boy With Luv (Feat. Halsey),spotify:track:7lrqvdivAYRGEiO8JFP31G,0.0933,0.645,0.862,0,0.193,-4.761,0.0845,119.947,0.803,64,BTS
+MAP OF THE SOUL : 7,6,7om4LRoSct9hiMPo0fPn7m,Interlude : Shadow,spotify:track:7om4LRoSct9hiMPo0fPn7m,0.115,0.384,0.798,0,0.181,-6.439,0.434,149.854,0.146,73,BTS
+MAP OF THE SOUL : 7,7,2EmcTFQ1rM11wp2ztsXTHa,Black Swan,spotify:track:2EmcTFQ1rM11wp2ztsXTHa,0.137,0.719,0.757,0,0.129,-5.167,0.0849,147.024,0.489,81,BTS
+MAP OF THE SOUL : 7,8,4bZZVcgWWMWPBwzTTp642w,Filter,spotify:track:4bZZVcgWWMWPBwzTTp642w,0.0224,0.779,0.762,0,0.121,-5.188,0.0631,110.043,0.859,84,BTS
+MAP OF THE SOUL : 7,9,0YJFlxeHMUr9MxSDQVuQJA,My Time,spotify:track:0YJFlxeHMUr9MxSDQVuQJA,0.149,0.674,0.641,0,0.0925,-5.139,0.0339,99.91,0.664,80,BTS
+MAP OF THE SOUL : 7,10,4Aw8n6r2vuU0KUo1a2nftp,Louder than bombs,spotify:track:4Aw8n6r2vuU0KUo1a2nftp,0.0432,0.643,0.667,0,0.0904,-6.947,0.151,145.999,0.478,76,BTS
+MAP OF THE SOUL : 7,11,0fZRNhPJ4AGmwY7rkpdbqK,ON,spotify:track:0fZRNhPJ4AGmwY7rkpdbqK,0.118,0.583,0.817,0,0.338,-5.146,0.099,105.935,0.437,82,BTS
+MAP OF THE SOUL : 7,12,2QZe2H1f03t5PJWEMg2Mbe,UGH!,spotify:track:2QZe2H1f03t5PJWEMg2Mbe,0.0394,0.72,0.824,0,0.0509,-5.086,0.128,165.996,0.333,75,BTS
+MAP OF THE SOUL : 7,13,6fqaMyg066xlukvUJWdM2T,00:00 (Zero O’Clock),spotify:track:6fqaMyg066xlukvUJWdM2T,0.0806,0.56,0.547,0,0.11,-6.456,0.0675,157.962,0.199,77,BTS
+MAP OF THE SOUL : 7,14,25MHcbjvSdcfTiFgbKJiZF,Inner Child,spotify:track:25MHcbjvSdcfTiFgbKJiZF,0.017,0.589,0.696,0,0.0808,-7.981,0.0725,134.953,0.33,76,BTS
+MAP OF THE SOUL : 7,15,5RjUtRlDonw3TBgGGMLC5b,Friends,spotify:track:5RjUtRlDonw3TBgGGMLC5b,0.0668,0.55,0.747,0,0.0536,-5.211,0.0407,79.979,0.649,77,BTS
+MAP OF THE SOUL : 7,16,6KhAXXgDtEEahVzATvFNcn,Moon,spotify:track:6KhAXXgDtEEahVzATvFNcn,0.0104,0.704,0.646,0,0.191,-6.658,0.0596,141.87,0.64,76,BTS
+MAP OF THE SOUL : 7,17,2yKBnKOmPXePrbHqRv42r4,Respect,spotify:track:2yKBnKOmPXePrbHqRv42r4,0.00491,0.661,0.838,0,0.287,-4.806,0.116,91.463,0.526,69,BTS
+MAP OF THE SOUL : 7,18,133ocfbXXG4HTk76qgSeUb,We are Bulletproof : the Eternal,spotify:track:133ocfbXXG4HTk76qgSeUb,0.224,0.522,0.574,0,0.108,-5.225,0.0317,84.044,0.176,77,BTS
+MAP OF THE SOUL : 7,19,2LVw2bIK99go1NdD77dUCW,Outro : Ego,spotify:track:2LVw2bIK99go1NdD77dUCW,0.0121,0.808,0.903,0.000248,0.0993,-3.106,0.0957,116.988,0.473,73,BTS
+MAP OF THE SOUL : 7,20,4JWbH50WabthGhmtduR8b9,ON (Feat. Sia),spotify:track:4JWbH50WabthGhmtduR8b9,0.137,0.591,0.848,0,0.372,-4.396,0.0828,105.924,0.385,66,BTS
+MAP OF THE SOUL : PERSONA,2,2V7Gxq4QW2Fm4zizDF0V6Z,작은 것들을 위한 시 (Boy With Luv) (feat. Halsey),spotify:track:2V7Gxq4QW2Fm4zizDF0V6Z,0.0933,0.645,0.862,0,0.193,-4.761,0.0845,119.947,0.803,46,BTS
+MAP OF THE SOUL : PERSONA,3,6QVXzFvWhzDFNMjSlMCH77,소우주 (Mikrokosmos),spotify:track:6QVXzFvWhzDFNMjSlMCH77,0.125,0.579,0.858,0,0.0502,-5.212,0.114,174.043,0.475,40,BTS
+MAP OF THE SOUL : PERSONA,1,2GXWzWPsYlTZcvVW8JIu69,Intro : Persona,spotify:track:2GXWzWPsYlTZcvVW8JIu69,0.0278,0.486,0.871,0,0.313,-4.475,0.337,85.411,0.659,69,BTS
+MAP OF THE SOUL : PERSONA,2,4a9tbd947vo9K8Vti9JwcI,Boy With Luv (feat. Halsey),spotify:track:4a9tbd947vo9K8Vti9JwcI,0.0933,0.645,0.862,0,0.193,-4.761,0.0845,119.947,0.803,86,BTS
+MAP OF THE SOUL : PERSONA,3,0jSccBRnhNU4KtACMQPvco,Mikrokosmos,spotify:track:0jSccBRnhNU4KtACMQPvco,0.125,0.579,0.858,0,0.0502,-5.212,0.114,174.043,0.475,80,BTS
+MAP OF THE SOUL : PERSONA,4,3LSjYk6sFQaLi0MjtWcm8P,Make It Right,spotify:track:3LSjYk6sFQaLi0MjtWcm8P,0.0104,0.639,0.706,0,0.132,-7.874,0.448,105.782,0.259,77,BTS
+MAP OF THE SOUL : PERSONA,5,6Yc3tjFCVR2bfAQFRTZBef,HOME,spotify:track:6Yc3tjFCVR2bfAQFRTZBef,0.0144,0.633,0.799,0,0.194,-4.625,0.0427,142.991,0.534,81,BTS
+MAP OF THE SOUL : PERSONA,6,7cgWWkpUaS94xoWI8lMGiI,Jamais Vu,spotify:track:7cgWWkpUaS94xoWI8lMGiI,0.226,0.608,0.47,0,0.0963,-6.73,0.0428,81,0.241,74,BTS
+MAP OF THE SOUL : PERSONA,7,2Wkm4JBcIV2uSuu4qlbqFN,Dionysus,spotify:track:2Wkm4JBcIV2uSuu4qlbqFN,0.04,0.502,0.91,0,0.319,-2.769,0.107,176.084,0.588,75,BTS
+Love Yourself 結 'Answer',1,5YMXGBD6vcYP7IolemyLtK,Euphoria,spotify:track:5YMXGBD6vcYP7IolemyLtK,0.394,0.637,0.799,0,0.0921,-4.518,0.0338,104.996,0.57,84,BTS
+Love Yourself 結 'Answer',2,4YDHRtzm0OGuieCTVQjVuk,Trivia 起 : Just Dance,spotify:track:4YDHRtzm0OGuieCTVQjVuk,0.0929,0.723,0.906,0,0.0771,-4.777,0.281,125.023,0.393,69,BTS
+Love Yourself 結 'Answer',3,1dS4l6xmdgEhCZTAhdOm4N,Serendipity - Full Length Edition,spotify:track:1dS4l6xmdgEhCZTAhdOm4N,0.443,0.422,0.578,0,0.231,-7.524,0.0548,128.921,0.227,78,BTS
+Love Yourself 結 'Answer',5,1rLkzFZdokhx6Wcs80uvnw,Dimple,spotify:track:1rLkzFZdokhx6Wcs80uvnw,0.14,0.612,0.844,0,0.289,-4.694,0.0757,134.872,0.652,64,BTS
+Love Yourself 結 'Answer',6,6bSwpQYEguyMlkCoWiBt3Y,Trivia 承 : Love,spotify:track:6bSwpQYEguyMlkCoWiBt3Y,0.242,0.761,0.761,0,0.103,-5.721,0.0899,121.971,0.484,70,BTS
+Love Yourself 結 'Answer',7,6FHVHycPPTQp6aAHjLhzFT,Her,spotify:track:6FHVHycPPTQp6aAHjLhzFT,0.317,0.48,0.927,0,0.0583,-5.704,0.27,88.804,0.45,57,BTS
+Love Yourself 結 'Answer',8,2ApfJvLr7RbhJl6NOVhEu6,Singularity,spotify:track:2ApfJvLr7RbhJl6NOVhEu6,0.56,0.775,0.272,0.00278,0.112,-9.126,0.091,103.991,0.198,65,BTS
+Love Yourself 結 'Answer',10,4eP8Syl3aBEQw3Jy5Bhq0D,The Truth Untold,spotify:track:4eP8Syl3aBEQw3Jy5Bhq0D,0.374,0.571,0.422,0,0.127,-7.561,0.0422,113.016,0.169,61,BTS
+Love Yourself 結 'Answer',11,0mZI1NpihIVcho2f9MmqSW,Trivia 轉 : Seesaw,spotify:track:0mZI1NpihIVcho2f9MmqSW,0.179,0.707,0.791,0,0.102,-4.483,0.035,106.985,0.674,76,BTS
+Love Yourself 結 'Answer',12,3smbno1dKL410vC27M5KOS,Tear,spotify:track:3smbno1dKL410vC27M5KOS,0.327,0.711,0.903,0,0.0887,-2.723,0.246,140.02,0.469,58,BTS
+Love Yourself 結 'Answer',13,6L88EH68XwlaXwvChlTS41,Epiphany,spotify:track:6L88EH68XwlaXwvChlTS41,0.288,0.508,0.559,0,0.131,-6.366,0.0276,135.866,0.329,78,BTS
+Love Yourself 結 'Answer',14,7HYJqAMbKDJYRyEfUGOCBB,I'm Fine,spotify:track:7HYJqAMbKDJYRyEfUGOCBB,0.00852,0.511,0.84,0,0.346,-2.781,0.103,87.605,0.303,74,BTS
+Love Yourself 結 'Answer',15,1e8J3XClxZbFmvIHLI8CE4,IDOL,spotify:track:1e8J3XClxZbFmvIHLI8CE4,0.00481,0.733,0.855,0,0.123,-3.211,0.118,126.035,0.42,81,BTS
+Love Yourself 結 'Answer',16,2X3UgVLSA4wYriGIQyYmMA,Answer : Love Myself,spotify:track:2X3UgVLSA4wYriGIQyYmMA,0.189,0.568,0.793,0,0.111,-3.749,0.0406,108.051,0.45,75,BTS
+Love Yourself 結 'Answer',7,0RFxljd297sk7sKm5ZDD5J,DNA - Pedal 2 LA Mix,spotify:track:0RFxljd297sk7sKm5ZDD5J,0.0352,0.487,0.956,0,0.301,-3.44,0.134,129.966,0.482,59,BTS
+Love Yourself 結 'Answer',8,1WjGvMbHE23jEipydV80Mu,FAKE LOVE - Rocking Vibe Mix,spotify:track:1WjGvMbHE23jEipydV80Mu,0.0573,0.466,0.804,0,0.432,-4.009,0.0392,154.901,0.352,64,BTS
+Love Yourself 結 'Answer',9,01380RE6UfsPSdiUIwrCoH,MIC Drop (Steve Aoki Remix) - Full Length Edition,spotify:track:01380RE6UfsPSdiUIwrCoH,0.0114,0.606,0.85,1.01E-06,0.206,-3.952,0.183,170.01,0.542,79,BTS
+Love Yourself 轉 'Tear',3,0J8DwdB5YBbcQ2wy7CFmoF,전하지 못한 진심 (feat. Steve Aoki),spotify:track:0J8DwdB5YBbcQ2wy7CFmoF,0.374,0.571,0.422,0,0.127,-7.561,0.0422,113.016,0.169,36,BTS
+Love Yourself 轉 'Tear',5,7oQYcTV6KkRTbFtjhCktX9,낙원,spotify:track:7oQYcTV6KkRTbFtjhCktX9,0.214,0.551,0.828,0,0.0571,-5.523,0.352,139.662,0.928,31,BTS
+Love Yourself 轉 'Tear',1,5rNZsITjXf23iFkRA924FV,Intro: Singularity,spotify:track:5rNZsITjXf23iFkRA924FV,0.56,0.775,0.272,0.00278,0.112,-9.126,0.091,103.991,0.198,75,BTS
+Love Yourself 轉 'Tear',2,6m1TWFMeon7ai9XLOzdbiR,FAKE LOVE,spotify:track:6m1TWFMeon7ai9XLOzdbiR,0.00267,0.557,0.719,0,0.306,-4.515,0.0371,77.502,0.345,83,BTS
+Love Yourself 轉 'Tear',3,7DEKa5Z7Cl8s3Y7imb88OM,The Truth Untold (feat. Steve Aoki),spotify:track:7DEKa5Z7Cl8s3Y7imb88OM,0.374,0.571,0.422,0,0.127,-7.561,0.0422,113.016,0.169,78,BTS
+Love Yourself 轉 'Tear',4,1MX0g22bQkr9HDVe37fLnN,134340,spotify:track:1MX0g22bQkr9HDVe37fLnN,0.155,0.665,0.687,9.28E-05,0.173,-6.466,0.0547,106.023,0.651,72,BTS
+Love Yourself 轉 'Tear',5,1YO4xJXhh9A1Feg9k8xuy2,Paradise,spotify:track:1YO4xJXhh9A1Feg9k8xuy2,0.214,0.551,0.828,0,0.0571,-5.523,0.352,139.662,0.928,73,BTS
+Love Yourself 轉 'Tear',6,4ROdFnoZNn2RTmwct0cVpx,Love Maze,spotify:track:4ROdFnoZNn2RTmwct0cVpx,0.0483,0.637,0.876,0,0.0728,-4.652,0.0618,149.93,0.759,78,BTS
+Love Yourself 轉 'Tear',7,5MTGPkmiUuud9NkA0sl2nI,Magic Shop,spotify:track:5MTGPkmiUuud9NkA0sl2nI,0.103,0.531,0.661,0,0.0779,-5.836,0.0907,149.934,0.278,79,BTS
+Love Yourself 轉 'Tear',8,4lAE47gj539h8R1yxPhhGG,Airplane pt.2,spotify:track:4lAE47gj539h8R1yxPhhGG,0.0265,0.77,0.817,0.000103,0.084,-4.092,0.0339,139.979,0.866,79,BTS
+Love Yourself 轉 'Tear',9,34OSqW5ULWxmCEMjJ1ZgVW,Anpanman,spotify:track:34OSqW5ULWxmCEMjJ1ZgVW,0.024,0.813,0.876,0,0.287,-2.92,0.0922,98.989,0.757,77,BTS
+Love Yourself 轉 'Tear',10,0wqqe8k13bJPxRt7FEmnwS,So What,spotify:track:0wqqe8k13bJPxRt7FEmnwS,0.0238,0.657,0.883,0,0.0481,-4.294,0.0733,129.943,0.461,76,BTS
+Love Yourself 轉 'Tear',11,27yKZtF7WLdmlLoW8qMssq,Outro: Tear,spotify:track:27yKZtF7WLdmlLoW8qMssq,0.327,0.711,0.903,0,0.0887,-2.723,0.246,140.02,0.469,70,BTS
+FACE YOURSELF,1,3asJVXjbxNEOwPUL47wvcc,INTRO : Ringwanderung,spotify:track:3asJVXjbxNEOwPUL47wvcc,0.552,0.589,0.824,0.0275,0.133,-6.402,0.26,115.3,0.207,55,BTS
+FACE YOURSELF,2,6yGKx4J9UdMp7tcaGXWzDj,Best Of Me - Japanese ver.,spotify:track:6yGKx4J9UdMp7tcaGXWzDj,0.0366,0.659,0.769,0,0.405,-4.262,0.0831,122.006,0.398,53,BTS
+FACE YOURSELF,3,6u1ILVDFXcmQGQGCA3h849,血、汗、涙 - Japanese ver.,spotify:track:6u1ILVDFXcmQGQGCA3h849,0.0704,0.61,0.892,0,0.315,-3.52,0.108,93.039,0.576,55,BTS
+FACE YOURSELF,4,4Bkh5uDlP14vneIoRG0umC,DNA - Japanese ver.,spotify:track:4Bkh5uDlP14vneIoRG0umC,0.00335,0.574,0.761,0,0.0645,-3.579,0.0849,129.817,0.597,54,BTS
+FACE YOURSELF,5,6aJj9OlLiZVagW8fd8ZtK3,Not Today - Japanese ver.,spotify:track:6aJj9OlLiZVagW8fd8ZtK3,0.00191,0.598,0.938,0,0.88,-4.068,0.143,110.021,0.672,51,BTS
+FACE YOURSELF,6,3N6te5xi59Ex4HudLKsgGS,MIC Drop - Japanese ver.,spotify:track:3N6te5xi59Ex4HudLKsgGS,0.0136,0.664,0.913,0,0.1,-4.474,0.148,169.974,0.622,52,BTS
+FACE YOURSELF,7,3zIG0WuI5RoJsFYnErkFDU,Don't Leave Me,spotify:track:3zIG0WuI5RoJsFYnErkFDU,0.116,0.62,0.778,0,0.312,-4.622,0.0724,147.012,0.386,71,BTS
+FACE YOURSELF,8,0YguyyCOTyujhSDXWyB4W3,Go Go - Japanese ver.,spotify:track:0YguyyCOTyujhSDXWyB4W3,0.222,0.837,0.69,0,0.0833,-4.705,0.088,136.07,0.847,58,BTS
+FACE YOURSELF,9,6NbfFVZ01Ttvvqmcok8DxL,Crystal Snow,spotify:track:6NbfFVZ01Ttvvqmcok8DxL,0.117,0.618,0.766,0,0.121,-4.507,0.0323,113.997,0.448,70,BTS
+FACE YOURSELF,10,4a8guR4owPEdDyLsPIC6HP,Spring Day - Japanese ver.,spotify:track:4a8guR4owPEdDyLsPIC6HP,0.104,0.572,0.825,0,0.085,-4.383,0.037,106.976,0.424,55,BTS
+FACE YOURSELF,11,1OqDvYVDhJyFZny7XlfIyZ,Let Go,spotify:track:1OqDvYVDhJyFZny7XlfIyZ,0.17,0.558,0.863,0,0.289,-3.53,0.178,173.908,0.388,73,BTS
+FACE YOURSELF,12,0qrPZ27AhOahJivGsDbUSS,OUTRO : Crack,spotify:track:0qrPZ27AhOahJivGsDbUSS,0.864,0.729,0.386,0.574,0.114,-5.623,0.382,90.138,0.0567,56,BTS
+Love Yourself 承 'Her',1,61RvEx7GLYRHQhG7ldjJo1,Intro: Serendipity,spotify:track:61RvEx7GLYRHQhG7ldjJo1,0.523,0.477,0.581,0,0.201,-8.795,0.119,129.571,0.282,68,BTS
+Love Yourself 承 'Her',2,3uRLwBjI2TahxslcMTvpFs,DNA,spotify:track:3uRLwBjI2TahxslcMTvpFs,0.0217,0.599,0.775,0,0.0678,-4.018,0.0543,129.817,0.696,81,BTS
+Love Yourself 承 'Her',3,5C6A1WXVfKvBBQmaFFnBgs,Best Of Me,spotify:track:5C6A1WXVfKvBBQmaFFnBgs,0.0298,0.655,0.756,0,0.396,-4.388,0.07,121.936,0.469,76,BTS
+Love Yourself 承 'Her',4,6pp6xf9zS55GD4nr318XUH,dimple,spotify:track:6pp6xf9zS55GD4nr318XUH,0.14,0.612,0.844,0,0.289,-4.694,0.0757,134.872,0.652,78,BTS
+Love Yourself 承 'Her',5,1ZPeaPDjQOOC8hw1mNjyjF,Pied Piper,spotify:track:1ZPeaPDjQOOC8hw1mNjyjF,0.2,0.583,0.712,0,0.268,-4.942,0.0326,94.051,0.778,80,BTS
+Love Yourself 承 'Her',6,6OeYM2861GaP3D1pbBqmbp,Skit: Billboard Music Awards Speech,spotify:track:6OeYM2861GaP3D1pbBqmbp,0.38,0.315,0.694,0.000203,0.66,-15.389,0.398,90.586,0.327,51,BTS
+Love Yourself 承 'Her',7,4gZGAVECoiutzp64KSHNjE,MIC Drop,spotify:track:4gZGAVECoiutzp64KSHNjE,0.00912,0.667,0.889,0,0.0816,-4.851,0.0917,169.961,0.541,73,BTS
+Love Yourself 承 'Her',8,5vOT8VO87TAnUjh0oADwb1,Go Go,spotify:track:5vOT8VO87TAnUjh0oADwb1,0.171,0.856,0.617,0,0.0857,-5.308,0.084,136.081,0.759,77,BTS
+Love Yourself 承 'Her',9,559U79ujLJSP6OUyH2nGLl,Outro: Her,spotify:track:559U79ujLJSP6OUyH2nGLl,0.317,0.48,0.927,0,0.0583,-5.704,0.27,88.804,0.45,66,BTS
+Love Yourself 承 'Her',4,4OdoUGKiIlknLVmT2414Fw,보조개,spotify:track:4OdoUGKiIlknLVmT2414Fw,0.14,0.612,0.844,0,0.289,-4.694,0.0757,134.872,0.652,34,BTS
+Love Yourself 承 'Her',8,1BTZqCZaEPmpIuWxqfRQrb,고민보다 Go,spotify:track:1BTZqCZaEPmpIuWxqfRQrb,0.171,0.856,0.617,0,0.0857,-5.308,0.084,136.081,0.759,32,BTS
+You Never Walk Alone,15,2j1fFjWHCI9KJSwcuYAOyF,Spring Day,spotify:track:2j1fFjWHCI9KJSwcuYAOyF,0.00631,0.539,0.846,1.71E-06,0.13,-3.192,0.0354,106.994,0.462,81,BTS
+You Never Walk Alone,16,3wyrhwPpV8uhMMEms4vG3X,Not Today,spotify:track:3wyrhwPpV8uhMMEms4vG3X,0.00174,0.593,0.945,0,0.923,-3.408,0.126,110.023,0.674,75,BTS
+You Never Walk Alone,17,7kyUapJyppdjzoAWB6XS14,Outro: Wings,spotify:track:7kyUapJyppdjzoAWB6XS14,0.00503,0.651,0.903,0,0.0875,-3.117,0.129,125.032,0.658,73,BTS
+You Never Walk Alone,18,2ZbYyDM0pacTwP2odNsdlo,A Supplementary Story: You Never Walk Alone,spotify:track:2ZbYyDM0pacTwP2odNsdlo,0.00596,0.696,0.903,0,0.0668,-4.788,0.151,127.994,0.59,65,BTS
+You Never Walk Alone,15,16LATbHXLu0gh8MCw1hUGl,봄날,spotify:track:16LATbHXLu0gh8MCw1hUGl,0.00631,0.539,0.846,1.71E-06,0.13,-3.192,0.0354,106.994,0.462,43,BTS
+Wings,1,1hlT8F0X27uf3fpOWawjbY,Intro: Boy Meets Evil,spotify:track:1hlT8F0X27uf3fpOWawjbY,0.0212,0.573,0.89,0,0.132,-3.53,0.214,130.251,0.242,67,BTS
+Wings,2,2u54HNQamwFuOMLSuhSRom,Blood Sweat & Tears,spotify:track:2u54HNQamwFuOMLSuhSRom,0.0244,0.584,0.885,0,0.357,-3.571,0.104,92.9,0.605,82,BTS
+Wings,3,0bGJHUPR6ems9tzIljlPFR,Begin,spotify:track:0bGJHUPR6ems9tzIljlPFR,0.00357,0.566,0.842,0.000253,0.141,-5.222,0.0442,131.05,0.308,72,BTS
+Wings,4,1nWB8isqs2tviWk20G5pow,Lie,spotify:track:1nWB8isqs2tviWk20G5pow,0.00338,0.541,0.779,0,0.177,-5.581,0.033,94.069,0.501,74,BTS
+Wings,5,3LTwMQ9kkn5VVhP3jipBlR,Stigma,spotify:track:3LTwMQ9kkn5VVhP3jipBlR,0.148,0.566,0.475,0,0.139,-5.556,0.089,136.442,0.335,73,BTS
+Wings,6,1UeVC9gDeHxwlWOQyQJerj,First Love,spotify:track:1UeVC9gDeHxwlWOQyQJerj,0.364,0.545,0.74,0,0.164,-5.997,0.308,86.842,0.671,66,BTS
+Wings,7,6O7358UPKsUumzjumFxVtp,Reflection,spotify:track:6O7358UPKsUumzjumFxVtp,0.0135,0.555,0.607,1.59E-06,0.2,-7.991,0.085,73.997,0.273,63,BTS
+Wings,8,51hIGgLnT8s6gEzjVqKlEF,MAMA,spotify:track:51hIGgLnT8s6gEzjVqKlEF,0.000226,0.543,0.739,2.14E-05,0.0816,-4.818,0.232,185.832,0.466,65,BTS
+Wings,9,3gxNkvcP8scSzL6mGznTn3,Awake,spotify:track:3gxNkvcP8scSzL6mGznTn3,0.023,0.35,0.498,1.99E-06,0.269,-6.589,0.0332,142.803,0.34,71,BTS
+Wings,10,2So2zLatKtnIP0cy3a4Fn0,Lost,spotify:track:2So2zLatKtnIP0cy3a4Fn0,0.000374,0.547,0.838,0,0.0562,-4.157,0.0544,85.018,0.47,69,BTS
+Wings,11,4cTSnpyaIR1qGaTOLJunDM,BTS Cypher 4,spotify:track:4cTSnpyaIR1qGaTOLJunDM,0.00533,0.817,0.797,7.77E-06,0.0551,-4.395,0.0839,119.978,0.361,73,BTS
+Wings,12,7BFVLQASwcGrxEPsz1teIW,Am I Wrong,spotify:track:7BFVLQASwcGrxEPsz1teIW,0.00125,0.76,0.834,1.07E-05,0.0868,-4.992,0.0494,107.988,0.679,65,BTS
+Wings,13,52d5NT69mkmr6WzvQJ9vHr,21st Century Girl,spotify:track:52d5NT69mkmr6WzvQJ9vHr,0.00424,0.716,0.906,0,0.0547,-3.539,0.0719,101.029,0.763,72,BTS
+Wings,14,3KVOfGrYVjoP1w8T2HVltm,2! 3!,spotify:track:3KVOfGrYVjoP1w8T2HVltm,0.0257,0.442,0.928,0,0.1,-4.096,0.207,169.847,0.601,70,BTS
+Wings,15,6dNOlenVY8vp29pkMZOd7c,Interlude: Wings,spotify:track:6dNOlenVY8vp29pkMZOd7c,0.0102,0.638,0.851,0,0.114,-3.042,0.0663,124.992,0.6,65,BTS
+Wings,2,4wdPf3zIzgjGSB4ux3viZs,피 땀 눈물,spotify:track:4wdPf3zIzgjGSB4ux3viZs,0.0244,0.584,0.885,0,0.357,-3.571,0.104,92.9,0.605,37,BTS
+Wings,13,5wu1SrzFsFAQMWbLIiUpKC,21세기 소녀,spotify:track:5wu1SrzFsFAQMWbLIiUpKC,0.00424,0.716,0.906,0,0.0547,-3.539,0.0719,101.029,0.763,27,BTS
+Wings,14,50ZUbWHTqrIP3KfbawmBYo,둘! 셋! (그래도 좋은 날이 더 많기를),spotify:track:50ZUbWHTqrIP3KfbawmBYo,0.0257,0.442,0.928,0,0.1,-4.096,0.207,169.847,0.601,28,BTS
+Youth,1,5KLKbUVfdHOTCDybf61LEW,Introduction : Youth,spotify:track:5KLKbUVfdHOTCDybf61LEW,0.00148,0.563,0.909,0.0028,0.364,-5.321,0.086,87.01,0.547,52,BTS
+Youth,2,0z9xZhi7E8M6JDTL5AvqKh,Run - Japanese Ver.,spotify:track:0z9xZhi7E8M6JDTL5AvqKh,0.000741,0.531,0.863,0.000119,0.21,-3.499,0.0411,132.982,0.551,45,BTS
+Youth,3,37T5IYyhKNow16Rf2eohTt,Fire - Japanese Ver.,spotify:track:37T5IYyhKNow16Rf2eohTt,0.00359,0.651,0.714,0,0.125,-2.977,0.0699,99.999,0.508,50,BTS
+Youth,4,1BGpj3UnDSB5TPPw1XYi2g,Dope - Chou Yabee! - Japanese Ver.,spotify:track:1BGpj3UnDSB5TPPw1XYi2g,0.0285,0.579,0.897,0,0.43,-3.566,0.212,154.002,0.545,44,BTS
+Youth,5,2aTDPjGFdyBfc3lKLAAaoI,Good Day,spotify:track:2aTDPjGFdyBfc3lKLAAaoI,0.0106,0.611,0.89,0,0.075,-3.711,0.0451,94.956,0.665,60,BTS
+Youth,6,3ynWDFCcw9CXngKnxoVIfj,Save Me - Japanese Ver.,spotify:track:3ynWDFCcw9CXngKnxoVIfj,0.0498,0.623,0.804,0,0.0903,-3.705,0.0735,140.077,0.394,46,BTS
+Youth,7,5mONT68829wu4YdMajlTgM,Funtan Syounendan - Japanese Ver.,spotify:track:5mONT68829wu4YdMajlTgM,0.0537,0.69,0.962,0,0.347,-3.66,0.199,116.029,0.77,44,BTS
+Youth,8,7jv4hEfdRuXKpex8uZBKtE,Peppuse - Japanese Ver.,spotify:track:7jv4hEfdRuXKpex8uZBKtE,0.000955,0.669,0.885,0,0.0398,-3.622,0.118,166.967,0.544,44,BTS
+Youth,9,3UvbL9zd4XTsCL8O6Qp2bR,Wishing On A Star,spotify:track:3UvbL9zd4XTsCL8O6Qp2bR,0.0168,0.543,0.832,0,0.0398,-4.717,0.209,179.963,0.636,61,BTS
+Youth,10,5jTNR1Mqi0wLYniACLTmMo,Butterfly - Japanese Ver.,spotify:track:5jTNR1Mqi0wLYniACLTmMo,0.025,0.319,0.785,0,0.074,-4.549,0.0674,149.027,0.231,45,BTS
+Youth,11,2offgVA6h500KKIvUYU5kP,For You,spotify:track:2offgVA6h500KKIvUYU5kP,0.44,0.548,0.809,0,0.102,-4.533,0.185,165.892,0.574,64,BTS
+Youth,12,6VcJUprKUPI1jgsQ78MJrO,I Need U - Japanese Ver.,spotify:track:6VcJUprKUPI1jgsQ78MJrO,0.0147,0.497,0.866,0,0.161,-4.02,0.0681,158.049,0.732,46,BTS
+Youth,13,0FHsHpMfgHnh8HIE1qCwoI,Epilogue : Young Forever - Japanese Ver.,spotify:track:0FHsHpMfgHnh8HIE1qCwoI,0.0221,0.461,0.76,0,0.104,-4.299,0.236,87.434,0.349,46,BTS
+YOUTH,1,2kOe9xRoNs0jRIXGRO10wp,INTRODUCTION : YOUTH,spotify:track:2kOe9xRoNs0jRIXGRO10wp,0.00148,0.563,0.909,0.0028,0.364,-5.321,0.086,87.01,0.547,34,BTS
+YOUTH,2,0hHw8V6p7p4gIUDdEfnk78,RUN‐Japanese Ver.‐,spotify:track:0hHw8V6p7p4gIUDdEfnk78,0.000741,0.531,0.863,0.000119,0.21,-3.499,0.0411,132.982,0.551,46,BTS
+YOUTH,3,7oFP6ewu9e7f4Kxm0sClc8,FIRE‐Japanese Ver.‐,spotify:track:7oFP6ewu9e7f4Kxm0sClc8,0.00359,0.651,0.714,0,0.125,-2.977,0.0699,99.999,0.508,45,BTS
+YOUTH,4,0x6ntMwjXoRaNPrrFPoIY0,DOPE‐超ヤベー!‐(Japanese Ver.),spotify:track:0x6ntMwjXoRaNPrrFPoIY0,0.0285,0.579,0.897,0,0.43,-3.566,0.212,154.002,0.545,43,BTS
+YOUTH,6,4qtif4YRqkU7V1UtDZSHjL,Save ME‐Japanese Ver.‐,spotify:track:4qtif4YRqkU7V1UtDZSHjL,0.0498,0.623,0.804,0,0.0903,-3.705,0.0735,140.077,0.394,45,BTS
+YOUTH,7,05tXjIPecu7f1nHJ5dglYT,フンタン少年団(Japanese Ver.),spotify:track:05tXjIPecu7f1nHJ5dglYT,0.0537,0.69,0.962,0,0.347,-3.66,0.199,116.029,0.77,42,BTS
+YOUTH,8,6hTUjGzDnrEyrmzy9hqkBT,ペップセ‐Japanese Ver.‐,spotify:track:6hTUjGzDnrEyrmzy9hqkBT,0.000955,0.669,0.885,0,0.0398,-3.622,0.118,166.967,0.544,43,BTS
+YOUTH,9,1hSYYD9WI0fuVxN0MFLVYy,Wishing on a star,spotify:track:1hSYYD9WI0fuVxN0MFLVYy,0.0168,0.543,0.832,0,0.0398,-4.717,0.209,179.963,0.636,48,BTS
+YOUTH,10,3f0t8cRg3hz7nyP9W1k9FD,Butterfly‐Japanese Ver.‐,spotify:track:3f0t8cRg3hz7nyP9W1k9FD,0.025,0.319,0.785,0,0.074,-4.549,0.0674,149.027,0.231,45,BTS
+YOUTH,11,4K5ZG5nvQgu9EdyPKSigKm,FOR YOU,spotify:track:4K5ZG5nvQgu9EdyPKSigKm,0.44,0.548,0.809,0,0.102,-4.533,0.185,165.892,0.574,52,BTS
+YOUTH,12,6afHEsJZSp4s4JIPOSgB4w,I NEED U(Japanese Ver.),spotify:track:6afHEsJZSp4s4JIPOSgB4w,0.0147,0.497,0.866,0,0.161,-4.02,0.0681,158.049,0.732,46,BTS
+YOUTH,13,3EiEbnbznDnoPGIU8Btv1F,EPILOGUE : Young Forever‐Japanese Ver.‐,spotify:track:3EiEbnbznDnoPGIU8Btv1F,0.0221,0.461,0.76,0,0.104,-4.299,0.236,87.434,0.349,42,BTS

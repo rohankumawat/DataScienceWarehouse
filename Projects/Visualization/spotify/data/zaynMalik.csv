@@ -1,0 +1,62 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Nobody Is Listening,1,1hGHHKR7KFF2Wl78LBgKBz,Calamity,spotify:track:1hGHHKR7KFF2Wl78LBgKBz,0.94,0.542,0.291,0.000197,0.105,-14.415,0.105,94.882,0.0428,59,ZAYN
+Nobody Is Listening,2,5CBnWXD8M7e8Q6WubFLtXy,Better,spotify:track:5CBnWXD8M7e8Q6WubFLtXy,0.354,0.696,0.409,0,0.132,-7.135,0.235,84.652,0.0962,67,ZAYN
+Nobody Is Listening,3,6f8cT6qJ1KqqVXjx0xRJBt,Outside,spotify:track:6f8cT6qJ1KqqVXjx0xRJBt,0.0957,0.475,0.343,0.00024,0.149,-9.407,0.0397,113.016,0.0536,61,ZAYN
+Nobody Is Listening,4,6T6D9CIrHkALcHPafDFA6L,Vibez,spotify:track:6T6D9CIrHkALcHPafDFA6L,0.241,0.643,0.671,0.0178,0.12,-7.45,0.0842,96.924,0.297,71,ZAYN
+Nobody Is Listening,5,6bL1Rqcx1RXG6VsMmrYN8F,When Love's Around (feat. Syd),spotify:track:6bL1Rqcx1RXG6VsMmrYN8F,0.312,0.694,0.584,0.00646,0.0717,-9.406,0.149,173.987,0.343,58,ZAYN
+Nobody Is Listening,6,5euRP53moGQyGCsq8aNjvo,Connexion,spotify:track:5euRP53moGQyGCsq8aNjvo,0.59,0.619,0.375,0,0.108,-10.06,0.0886,171.797,0.574,59,ZAYN
+Nobody Is Listening,7,6ZHRi0QxzSnlevyhyNkj4a,Sweat,spotify:track:6ZHRi0QxzSnlevyhyNkj4a,0.00227,0.532,0.584,0.00308,0.126,-6.659,0.0444,161.738,0.165,70,ZAYN
+Nobody Is Listening,8,0PuQItGL0eIngxLh2um4QE,Unfuckwitable,spotify:track:0PuQItGL0eIngxLh2um4QE,0.297,0.369,0.432,7.65E-05,0.123,-11.636,0.0453,168.822,0.491,60,ZAYN
+Nobody Is Listening,9,0AyXOhs2iZAS3sOJbi1Kvq,Windowsill (feat. Devlin),spotify:track:0AyXOhs2iZAS3sOJbi1Kvq,0.0754,0.716,0.627,3.70E-06,0.261,-5.498,0.177,150.041,0.311,58,ZAYN
+Nobody Is Listening,10,44ngiCPfS8FfdJOqN0eULl,Tightrope,spotify:track:44ngiCPfS8FfdJOqN0eULl,0.244,0.644,0.48,0.0173,0.0911,-8.347,0.0328,96.953,0.449,66,ZAYN
+Nobody Is Listening,11,74clf1HmwcMA4bSV9sBG4S,River Road,spotify:track:74clf1HmwcMA4bSV9sBG4S,0.829,0.537,0.246,0.00383,0.188,-10.92,0.0344,96.102,0.29,59,ZAYN
+Nobody Is Listening,8,2M9YhtiwNJrGVRvTm2gbnb,Unf**kwitable,spotify:track:2M9YhtiwNJrGVRvTm2gbnb,0.325,0.336,0.43,0.000636,0.143,-11.742,0.043,169.087,0.497,49,ZAYN
+Icarus Falls,1,2cEmWBBlCfR9wWrY9JmTyt,Let Me,spotify:track:2cEmWBBlCfR9wWrY9JmTyt,0.239,0.46,0.566,5.96E-06,0.0967,-5.637,0.0502,168.408,0.189,72,ZAYN
+Icarus Falls,2,7HLMryHxM6b8D9ki0BH799,Natural,spotify:track:7HLMryHxM6b8D9ki0BH799,0.616,0.655,0.482,1.57E-05,0.314,-5.978,0.0726,99.59,0.274,55,ZAYN
+Icarus Falls,3,29G6ZIbACs5om1EEe9Hyon,Back To Life,spotify:track:29G6ZIbACs5om1EEe9Hyon,0.356,0.647,0.513,0,0.0973,-6.089,0.0389,92.078,0.506,59,ZAYN
+Icarus Falls,4,6Qwb3ydNyVsaL7yqHEmkA8,Common,spotify:track:6Qwb3ydNyVsaL7yqHEmkA8,0.201,0.628,0.476,0,0.0913,-5.856,0.0496,134.998,0.219,60,ZAYN
+Icarus Falls,5,1qr80EzLu4KUAsQ8dUqHEz,Imprint,spotify:track:1qr80EzLu4KUAsQ8dUqHEz,0.732,0.684,0.377,1.50E-06,0.145,-8.568,0.112,139.886,0.407,53,ZAYN
+Icarus Falls,6,6Xml14gPg5eBaYV3P05huB,Stand Still,spotify:track:6Xml14gPg5eBaYV3P05huB,0.582,0.66,0.374,0.0724,0.099,-10.769,0.0585,98.012,0.159,52,ZAYN
+Icarus Falls,7,0Zs2AgKKvGcQ55ciaAgJd2,Tonight,spotify:track:0Zs2AgKKvGcQ55ciaAgJd2,0.126,0.644,0.584,0,0.148,-5.224,0.0359,121.823,0.485,57,ZAYN
+Icarus Falls,8,5UOZJblo5RtWk1DO7kd3sw,Flight Of The Stars,spotify:track:5UOZJblo5RtWk1DO7kd3sw,0.643,0.768,0.329,4.16E-05,0.234,-11.956,0.0904,96.009,0.35,56,ZAYN
+Icarus Falls,9,7o8YNkjpf1sU39ycSz7LPR,If I Got You,spotify:track:7o8YNkjpf1sU39ycSz7LPR,0.338,0.548,0.541,0,0.318,-6.684,0.0692,169.488,0.199,54,ZAYN
+Icarus Falls,10,1bQygvXeuASMRSRnvn67rz,Talk To Me,spotify:track:1bQygvXeuASMRSRnvn67rz,0.112,0.541,0.495,0,0.234,-8.08,0.136,102.517,0.434,54,ZAYN
+Icarus Falls,11,5y4XJ9UFS5eOdoYPF5pSAE,There You Are,spotify:track:5y4XJ9UFS5eOdoYPF5pSAE,0.0263,0.452,0.688,0,0.11,-4.84,0.0385,76.99,0.313,70,ZAYN
+Icarus Falls,12,5lKSWvc8JvK4MY1lhkuJOU,I Don't Mind,spotify:track:5lKSWvc8JvK4MY1lhkuJOU,0.377,0.684,0.516,0,0.0818,-9.198,0.114,82.962,0.456,54,ZAYN
+Icarus Falls,13,0VoTuqV45XImjA6XPGm6DB,Icarus Interlude,spotify:track:0VoTuqV45XImjA6XPGm6DB,0.83,0.625,0.198,0.182,0.112,-15.094,0.034,106.531,0.0701,51,ZAYN
+Icarus Falls,14,2a8kWoRITJO751JGbYVvCo,Good Guy,spotify:track:2a8kWoRITJO751JGbYVvCo,0.693,0.641,0.452,0.00721,0.159,-12.108,0.0868,93.018,0.316,51,ZAYN
+Icarus Falls,15,7gKUZ6eKBSK6OSNXfMrZm4,You Wish You Knew,spotify:track:7gKUZ6eKBSK6OSNXfMrZm4,0.343,0.769,0.536,0.000876,0.086,-7.635,0.373,119.942,0.634,52,ZAYN
+Icarus Falls,16,3r7bVFHopFj2g8U4yKEpGJ,Sour Diesel,spotify:track:3r7bVFHopFj2g8U4yKEpGJ,0.00285,0.664,0.808,0.00869,0.096,-4.31,0.0397,94.979,0.593,57,ZAYN
+Icarus Falls,17,2CBQw0vCPn9lLRyWPyEHyk,Satisfaction,spotify:track:2CBQw0vCPn9lLRyWPyEHyk,0.904,0.594,0.382,0.00162,0.112,-11.533,0.163,82.452,0.22,54,ZAYN
+Icarus Falls,18,3jM4vdXoBfj625cifX4cwU,Scripted,spotify:track:3jM4vdXoBfj625cifX4cwU,0.471,0.605,0.658,0.00332,0.0864,-6.125,0.0556,128.045,0.287,53,ZAYN
+Icarus Falls,19,4By48hpAtUx7F7F1yxvwvm,Entertainer,spotify:track:4By48hpAtUx7F7F1yxvwvm,0.475,0.697,0.568,2.51E-05,0.0922,-8.017,0.0369,153.931,0.502,69,ZAYN
+Icarus Falls,20,4y1pHOpS1nm80j4svUWbXP,All That,spotify:track:4y1pHOpS1nm80j4svUWbXP,0.118,0.6,0.528,4.33E-05,0.102,-6.16,0.0566,139.875,0.257,52,ZAYN
+Icarus Falls,21,6CJLdpuz4utMTypcE8kUG3,Good Years,spotify:track:6CJLdpuz4utMTypcE8kUG3,0.55,0.639,0.411,0,0.141,-5.979,0.042,96.965,0.158,67,ZAYN
+Icarus Falls,22,2w3KjAZf8vSSdnoD7ZvA3h,Fresh Air,spotify:track:2w3KjAZf8vSSdnoD7ZvA3h,0.527,0.456,0.492,0.00949,0.256,-7.963,0.476,119.346,0.611,49,ZAYN
+Icarus Falls,23,0wfpSAloBATpRUtSxL1fXw,Rainberry,spotify:track:0wfpSAloBATpRUtSxL1fXw,0.594,0.639,0.402,0,0.382,-8.734,0.158,91.966,0.766,59,ZAYN
+Icarus Falls,24,5r1iIgtgFpqnN4PHVrana7,Insomnia,spotify:track:5r1iIgtgFpqnN4PHVrana7,0.424,0.4,0.662,0,0.0886,-6.042,0.199,81.177,0.324,55,ZAYN
+Icarus Falls,25,5tH8UbEHc3seBxOlnzvoAs,No Candle No Light (feat. Nicki Minaj),spotify:track:5tH8UbEHc3seBxOlnzvoAs,0.0169,0.619,0.751,0.000108,0.0949,-4.22,0.0496,122.138,0.46,57,ZAYN
+Icarus Falls,26,4N5BmGwRTQA27DRRfwMr8l,Fingers,spotify:track:4N5BmGwRTQA27DRRfwMr8l,0.346,0.522,0.434,9.06E-06,0.107,-9.237,0.177,106.734,0.559,59,ZAYN
+Icarus Falls,27,2bkNIMseHRfLidQqpXGsBx,Too Much (feat. Timbaland),spotify:track:2bkNIMseHRfLidQqpXGsBx,0.00442,0.45,0.646,0.000473,0.0855,-4.443,0.0566,90.246,0.3,58,ZAYN
+Icarus Falls,28,75xAS5ctghhPaL7BJi34hi,Still Got Time (feat. PARTYNEXTDOOR),spotify:track:75xAS5ctghhPaL7BJi34hi,0.131,0.748,0.627,0,0.0852,-6.029,0.0639,120.963,0.524,54,ZAYN
+Icarus Falls,29,3e7sxremeOE3wTySiOhGiP,Dusk Till Dawn (feat. Sia) - Radio Edit,spotify:track:3e7sxremeOE3wTySiOhGiP,0.102,0.259,0.437,1.32E-06,0.106,-6.589,0.0386,180.042,0.0951,82,ZAYN
+Icarus Falls,14,2gVOhnMkK8XngKgf0YdlXQ,Dusk Till Dawn (feat. Sia),spotify:track:2gVOhnMkK8XngKgf0YdlXQ,0.0755,0.247,0.472,2.03E-06,0.112,-6.39,0.0382,179.428,0.115,29,ZAYN
+Mind Of Mine (Japan Version),19,3DlqR22Nd1VI4443Rr0IwF,PILLOWTALK - the living room session,spotify:track:3DlqR22Nd1VI4443Rr0IwF,0.871,0.581,0.243,0,0.231,-8.728,0.0331,118.644,0.376,8,ZAYN
+Mind Of Mine (Deluxe Edition),1,2cvFLZPAQoGeQnIRPt2LHE,MiNd Of MiNdd (Intro),spotify:track:2cvFLZPAQoGeQnIRPt2LHE,0.798,0.581,0.32,0.0105,0.206,-8.807,0.0309,110.04,0.332,56,ZAYN
+Mind Of Mine (Deluxe Edition),2,0PDUDa38GO8lMxLCRc4lL1,PILLOWTALK,spotify:track:0PDUDa38GO8lMxLCRc4lL1,0.117,0.584,0.7,0,0.0939,-4.275,0.0456,124.944,0.438,82,ZAYN
+Mind Of Mine (Deluxe Edition),3,6dtWKqqdveI3YvdYJQKWWn,iT's YoU,spotify:track:6dtWKqqdveI3YvdYJQKWWn,0.815,0.611,0.319,0.0151,0.108,-10.743,0.0357,124.92,0.176,65,ZAYN
+Mind Of Mine (Deluxe Edition),4,7ofgPlilLgcw6G7fd2zNpT,BeFoUr,spotify:track:7ofgPlilLgcw6G7fd2zNpT,0.242,0.679,0.629,0.012,0.122,-7.981,0.0318,102.005,0.186,61,ZAYN
+Mind Of Mine (Deluxe Edition),5,48qaQk75LoWs5qgsZgbkA5,sHe,spotify:track:48qaQk75LoWs5qgsZgbkA5,0.0461,0.555,0.532,0,0.117,-7.349,0.0765,91.245,0.668,60,ZAYN
+Mind Of Mine (Deluxe Edition),6,0TC3wZupelwzKhuueGSGZu,dRuNk,spotify:track:0TC3wZupelwzKhuueGSGZu,0.509,0.643,0.597,9.90E-06,0.107,-8.451,0.12,119.827,0.375,61,ZAYN
+Mind Of Mine (Deluxe Edition),7,6dq1fUiJe6BiBORZtb9TxZ,INTERMISSION: fLoWer,spotify:track:6dq1fUiJe6BiBORZtb9TxZ,0.934,0.364,0.161,0.0712,0.11,-18.356,0.0332,118.445,0.21,53,ZAYN
+Mind Of Mine (Deluxe Edition),8,6LWS6iYUZKYHNl2VwNytpo,rEaR vIeW,spotify:track:6LWS6iYUZKYHNl2VwNytpo,0.611,0.719,0.614,1.40E-05,0.108,-5.354,0.0327,95.988,0.69,59,ZAYN
+Mind Of Mine (Deluxe Edition),9,7iCeaYJSEdGWeFNTAEqUzJ,wRoNg (feat. Kehlani),spotify:track:7iCeaYJSEdGWeFNTAEqUzJ,0.395,0.614,0.475,1.06E-06,0.265,-8.642,0.0362,99.968,0.422,68,ZAYN
+Mind Of Mine (Deluxe Edition),10,6lvsJDZ7336YmpBzcNGhbe,fOoL fOr YoU,spotify:track:6lvsJDZ7336YmpBzcNGhbe,0.281,0.52,0.513,0,0.0976,-7.208,0.0256,77.903,0.17,73,ZAYN
+Mind Of Mine (Deluxe Edition),11,3MpdgSxThlICp5LSsZejGf,BoRdErSz,spotify:track:3MpdgSxThlICp5LSsZejGf,0.377,0.627,0.442,0.0319,0.0984,-9.048,0.134,91.008,0.328,60,ZAYN
+Mind Of Mine (Deluxe Edition),12,7xJzcq1r4F1ryMujB1Caqq,tRuTh,spotify:track:7xJzcq1r4F1ryMujB1Caqq,0.833,0.479,0.425,0.000834,0.0935,-12.537,0.0994,85.203,0.162,55,ZAYN
+Mind Of Mine (Deluxe Edition),13,26PFSyfXPYz6NcWbtM5Cst,lUcOzAdE,spotify:track:26PFSyfXPYz6NcWbtM5Cst,0.0792,0.822,0.534,0,0.126,-8.234,0.0487,100.008,0.514,55,ZAYN
+Mind Of Mine (Deluxe Edition),14,7jKdgYPDj6AxVU2wk9muN1,TiO,spotify:track:7jKdgYPDj6AxVU2wk9muN1,0.0481,0.618,0.645,0,0.228,-5.264,0.0434,97.654,0.221,67,ZAYN
+Mind Of Mine (Deluxe Edition),15,1LLIkqUK19oJXHozT5PJ3B,BLUE,spotify:track:1LLIkqUK19oJXHozT5PJ3B,0.925,0.222,0.184,0.000298,0.1,-13.235,0.0335,184.171,0.156,56,ZAYN
+Mind Of Mine (Deluxe Edition),16,1V7dfxBuI7pOysGAKm6w3S,BRIGHT,spotify:track:1V7dfxBuI7pOysGAKm6w3S,0.233,0.504,0.458,0.00278,0.0977,-9.06,0.102,118.161,0.416,55,ZAYN
+Mind Of Mine (Deluxe Edition),17,1zWMf9bVyhY5W3ZORbjNWt,LIKE I WOULD,spotify:track:1zWMf9bVyhY5W3ZORbjNWt,0.0247,0.565,0.832,0,0.26,-5.732,0.114,112.827,0.233,68,ZAYN
+Mind Of Mine (Deluxe Edition),18,4MaOXwqSgiwgngbeYePmu8,SHE DON'T LOVE ME,spotify:track:4MaOXwqSgiwgngbeYePmu8,0.117,0.677,0.396,0,0.0888,-8.229,0.0278,102.028,0.242,56,ZAYN

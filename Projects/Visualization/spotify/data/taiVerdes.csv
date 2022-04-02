@@ -1,0 +1,14 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+TV,1,2BMNzg0LldTQRkgzAubHHI,rEaL WOrLD,spotify:track:2BMNzg0LldTQRkgzAubHHI,0.466,0.731,0.453,7.42E-06,0.323,-7.97,0.0697,79.994,0.281,57,Tai Verdes
+TV,2,4BMBpU3AbNPjsHk41S0uSl,Solamente,spotify:track:4BMBpU3AbNPjsHk41S0uSl,0.44,0.659,0.641,0,0.157,-7.943,0.0944,85.027,0.728,61,Tai Verdes
+TV,3,4tVASOccgcigdCfwUamZCh,DRUGS,spotify:track:4tVASOccgcigdCfwUamZCh,0.115,0.865,0.457,0,0.6,-7.542,0.0715,106.872,0.733,71,Tai Verdes
+TV,4,77QCnbkSYjW6lWBX5rUdDz,we would have some cute kids.,spotify:track:77QCnbkSYjW6lWBX5rUdDz,0.318,0.822,0.484,0,0.16,-7.518,0.0846,85.009,0.534,59,Tai Verdes
+TV,5,44TzvSZLIkM7Y7MEnrvkIl,Stuck In The Middle,spotify:track:44TzvSZLIkM7Y7MEnrvkIl,0.278,0.862,0.564,0,0.0935,-6.566,0.0425,119.952,0.836,73,Tai Verdes
+TV,6,45o2auFAPTzFj350j3BSvY,BAD BAD News,spotify:track:45o2auFAPTzFj350j3BSvY,0.623,0.595,0.489,0,0.1,-5.943,0.0407,129.804,0.484,56,Tai Verdes
+TV,7,0vOK1eCrVrtgcbJbrjKZJ0,Something To Cry About,spotify:track:0vOK1eCrVrtgcbJbrjKZJ0,0.45,0.815,0.446,0,0.13,-5.916,0.0366,86.017,0.841,55,Tai Verdes
+TV,8,0Al5JWoVwDCo4c9DkGeMsv,fake prophet,spotify:track:0Al5JWoVwDCo4c9DkGeMsv,0.579,0.457,0.464,0,0.111,-6.63,0.0288,73.445,0.323,52,Tai Verdes
+TV,9,2NKvrozwURLPXnj3chhnfD,i deserve 2 b alone,spotify:track:2NKvrozwURLPXnj3chhnfD,0.31,0.837,0.514,0,0.0809,-6.161,0.0518,130.004,0.676,63,Tai Verdes
+TV,10,06DZwL9QE5wTRdtxVbxJrL,FEELING THIS BAD NEVER FELT SO GREAT,spotify:track:06DZwL9QE5wTRdtxVbxJrL,0.652,0.896,0.425,0,0.165,-9.186,0.111,122.141,0.495,66,Tai Verdes
+TV,11,2LGY8TGqph3gLFxWJgGu2M,Happy til it hurts,spotify:track:2LGY8TGqph3gLFxWJgGu2M,0.394,0.674,0.381,0,0.123,-8.602,0.259,76.399,0.443,57,Tai Verdes
+TV,12,5oFhakk58OBApacdBhYDkW,momma told me imma be,spotify:track:5oFhakk58OBApacdBhYDkW,0.687,0.659,0.309,0,0.0879,-12.892,0.252,159.461,0.506,55,Tai Verdes
+TV,13,1sx0XsWUusUoPstbvokZjP,A-O-K,spotify:track:1sx0XsWUusUoPstbvokZjP,0.125,0.731,0.626,0,0.183,-6.919,0.0805,82.488,0.862,83,Tai Verdes

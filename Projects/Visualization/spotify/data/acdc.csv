@@ -1,0 +1,214 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+POWER UP,1,4JDjZ2AzlHnde5uUy0TveV,Realize,spotify:track:4JDjZ2AzlHnde5uUy0TveV,3.78E-06,0.455,0.79,0.00021,0.0866,-4.049,0.0432,125.964,0.22,63,AC/DC
+POWER UP,2,4gLrfXB3CgRlIPH7KTVKA4,Rejection,spotify:track:4gLrfXB3CgRlIPH7KTVKA4,1.74E-05,0.526,0.871,0.000142,0.0573,-4.132,0.032,109.82,0.745,56,AC/DC
+POWER UP,3,0sfdiwck2xr4PteGOdyOfz,Shot In The Dark,spotify:track:0sfdiwck2xr4PteGOdyOfz,2.07E-05,0.599,0.787,5.27E-05,0.064,-4.708,0.0338,114.065,0.822,67,AC/DC
+POWER UP,4,3FR2w9O5i9q3unY3gyjq6E,Through The Mists Of Time,spotify:track:3FR2w9O5i9q3unY3gyjq6E,1.62E-06,0.57,0.753,0.627,0.133,-5.98,0.0365,119.99,0.477,56,AC/DC
+POWER UP,5,0Kq6RzOqkHxnfiA9OGqReU,Kick You When You're Down,spotify:track:0Kq6RzOqkHxnfiA9OGqReU,8.32E-05,0.675,0.93,0.000454,0.315,-4.515,0.0319,110.013,0.778,57,AC/DC
+POWER UP,6,06hy0gi5aLXcWRjnj9fgoh,Witch's Spell,spotify:track:06hy0gi5aLXcWRjnj9fgoh,0.000165,0.616,0.801,3.97E-05,0.11,-4.39,0.0342,120.029,0.4,61,AC/DC
+POWER UP,7,6jtUOVRO4p09Z7E35ERRL7,Demon Fire,spotify:track:6jtUOVRO4p09Z7E35ERRL7,4.93E-06,0.521,0.881,0.0114,0.141,-5.309,0.0387,160.026,0.564,64,AC/DC
+POWER UP,8,1ZyQEn0iceHj0Lbt6I6Op3,Wild Reputation,spotify:track:1ZyQEn0iceHj0Lbt6I6Op3,0.00012,0.737,0.709,0.00294,0.199,-5.744,0.0337,108.016,0.839,52,AC/DC
+POWER UP,9,3fKXS93P7YOS4xEUnWzkUz,No Man's Land,spotify:track:3fKXS93P7YOS4xEUnWzkUz,0.000459,0.49,0.905,0.00934,0.202,-4.488,0.03,94.988,0.537,51,AC/DC
+POWER UP,10,1uhPCuhxeC9wEYl7smMByK,Systems Down,spotify:track:1uhPCuhxeC9wEYl7smMByK,1.90E-05,0.649,0.849,0.0852,0.0949,-4.502,0.0326,116.009,0.864,52,AC/DC
+POWER UP,11,0l3jBCAEdeLR9OgQqES9CI,Money Shot,spotify:track:0l3jBCAEdeLR9OgQqES9CI,0.00038,0.628,0.83,2.53E-05,0.0982,-4.752,0.0626,120.004,0.767,52,AC/DC
+POWER UP,12,1nuPjx9gZH0aHZt8Q5Njx6,Code Red,spotify:track:1nuPjx9gZH0aHZt8Q5Njx6,0.000123,0.549,0.731,1.28E-05,0.0655,-5.617,0.035,86.239,0.622,54,AC/DC
+Rock or Bust,1,2vyae4DvSU2gs8OMOGwXF2,Rock or Bust,spotify:track:2vyae4DvSU2gs8OMOGwXF2,7.13E-05,0.572,0.825,0.000134,0.134,-3.977,0.04,98.057,0.56,65,AC/DC
+Rock or Bust,2,3fpzBeEHvuXKOl7QeVe1iz,Play Ball,spotify:track:3fpzBeEHvuXKOl7QeVe1iz,6.71E-06,0.52,0.872,0.246,0.207,-4.354,0.0383,120.006,0.449,54,AC/DC
+Rock or Bust,3,5xGHeN58fFOcORW0pRZznn,Rock the Blues Away,spotify:track:5xGHeN58fFOcORW0pRZznn,0.000131,0.537,0.88,0.00531,0.135,-4.902,0.0353,120.976,0.37,52,AC/DC
+Rock or Bust,4,4WpGOn71DcfB9zMvnN9mLl,Miss Adventure,spotify:track:4WpGOn71DcfB9zMvnN9mLl,1.09E-05,0.51,0.896,0.000771,0.0826,-3.585,0.0624,120.134,0.652,46,AC/DC
+Rock or Bust,5,2eSsmjwzDB9JTGvn2ZPLE9,Dogs of War,spotify:track:2eSsmjwzDB9JTGvn2ZPLE9,4.71E-05,0.502,0.816,0.0217,0.302,-4.562,0.0329,99.372,0.475,51,AC/DC
+Rock or Bust,6,5CqTorhnA1GUNh1Z8PnGiS,Got Some Rock & Roll Thunder,spotify:track:5CqTorhnA1GUNh1Z8PnGiS,0.000157,0.626,0.833,0.000717,0.0608,-4.352,0.0285,107.572,0.863,48,AC/DC
+Rock or Bust,7,5aoTIWdzgcjGo3SdjxqWSf,Hard Times,spotify:track:5aoTIWdzgcjGo3SdjxqWSf,5.64E-05,0.57,0.758,0.0304,0.448,-4.362,0.036,93.095,0.451,58,AC/DC
+Rock or Bust,8,1ULNWGJD3skjg0jWjhCFHc,Baptism By Fire,spotify:track:1ULNWGJD3skjg0jWjhCFHc,4.67E-06,0.457,0.93,0.197,0.174,-4.203,0.0588,150.188,0.674,58,AC/DC
+Rock or Bust,9,57NrsUX4Ix819R67iiwcos,Rock the House,spotify:track:57NrsUX4Ix819R67iiwcos,4.94E-05,0.448,0.94,3.13E-05,0.0975,-3.52,0.0516,91.212,0.593,48,AC/DC
+Rock or Bust,10,7qnCJHj5rzdKzQKkQmrlad,Sweet Candy,spotify:track:7qnCJHj5rzdKzQKkQmrlad,6.25E-06,0.449,0.847,0.032,0.133,-4.31,0.0463,192.149,0.654,46,AC/DC
+Rock or Bust,11,1v2dqCvCUf2TmxtbKXvLFN,Emission Control,spotify:track:1v2dqCvCUf2TmxtbKXvLFN,0.000104,0.409,0.858,0.135,0.212,-4.644,0.0393,168.955,0.628,46,AC/DC
+Live at River Plate,1,2hzg8fX8NGSK4loyJbNLr1,"Rock N Roll Train - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:2hzg8fX8NGSK4loyJbNLr1,0.000379,0.461,0.965,2.17E-05,0.931,-5.087,0.067,125.742,0.432,52,AC/DC
+Live at River Plate,2,5x1wkgdotvZwgmgscxFWcz,"Hell Ain't a Bad Place to Be - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:5x1wkgdotvZwgmgscxFWcz,0.000918,0.361,0.954,0,0.977,-4.608,0.0772,129.602,0.375,51,AC/DC
+Live at River Plate,3,7JLqofLzcpdjFHc6oRSBGf,"Back In Black - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:7JLqofLzcpdjFHc6oRSBGf,0.000593,0.324,0.95,1.28E-06,0.987,-4.553,0.0774,92.703,0.511,54,AC/DC
+Live at River Plate,4,4eJTrppVPYaf4RTVhFoLiV,"Big Jack - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:4eJTrppVPYaf4RTVhFoLiV,0.000912,0.474,0.974,0,0.989,-4.566,0.0635,130.935,0.421,47,AC/DC
+Live at River Plate,5,0q3cKVAjGC0NqmkcEcQDy8,"Dirty Deeds Done Dirt Cheap - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:0q3cKVAjGC0NqmkcEcQDy8,0.000979,0.277,0.934,1.92E-05,0.972,-4.788,0.118,140.06,0.416,51,AC/DC
+Live at River Plate,6,6q7XBzRnDqSXggczzNgSbE,"Shot Down in Flames - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:6q7XBzRnDqSXggczzNgSbE,8.26E-05,0.378,0.965,3.09E-06,0.968,-4.126,0.0818,135.138,0.414,47,AC/DC
+Live at River Plate,7,7eHlRQ5acXEIMdGAKe00fO,"Thunderstruck - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:7eHlRQ5acXEIMdGAKe00fO,0.000842,0.315,0.982,3.48E-05,0.982,-4.872,0.109,130.095,0.327,57,AC/DC
+Live at River Plate,8,0YhEKbKui5CB39vlvUzpkm,"Black Ice - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:0YhEKbKui5CB39vlvUzpkm,0.000141,0.319,0.958,0.000457,0.994,-5.557,0.0513,92.956,0.528,46,AC/DC
+Live at River Plate,9,7DXTI7oKuIr06wNQ7WVmjV,"The Jack - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:7DXTI7oKuIr06wNQ7WVmjV,0.00644,0.34,0.937,0.00148,0.965,-6.017,0.116,73.837,0.263,46,AC/DC
+Live at River Plate,10,6ZIM0F8bSeI2OH6n3sJByc,"Hells Bells - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:6ZIM0F8bSeI2OH6n3sJByc,0.000227,0.297,0.923,7.71E-06,0.954,-5.054,0.0577,117.026,0.247,51,AC/DC
+Live at River Plate,1,3C4D0HOQdvc4AWhMeW4fFt,"Shoot to Thrill - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:3C4D0HOQdvc4AWhMeW4fFt,0.000698,0.309,0.973,7.64E-06,0.991,-5.045,0.124,139.89,0.222,50,AC/DC
+Live at River Plate,2,26xgWDWwV01L1f3jV1Fu3D,"War Machine - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:26xgWDWwV01L1f3jV1Fu3D,0.000505,0.527,0.951,4.18E-06,0.963,-5.805,0.085,130.996,0.562,44,AC/DC
+Live at River Plate,3,1hBoa6sbaicdHqQY3a9xWF,"Dog Eat Dog - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:1hBoa6sbaicdHqQY3a9xWF,0.00128,0.423,0.921,0.0135,0.921,-6.108,0.117,138.441,0.183,43,AC/DC
+Live at River Plate,4,778MsQxm8FaGUpZH6jttfr,"You Shook Me All Night Long - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:778MsQxm8FaGUpZH6jttfr,0.00172,0.404,0.966,0,0.752,-4.83,0.0863,129.914,0.622,54,AC/DC
+Live at River Plate,5,5q7dkO4CQpC3INAvMx55wT,"T.N.T. - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:5q7dkO4CQpC3INAvMx55wT,0.000956,0.322,0.97,5.97E-05,0.977,-4.654,0.166,130.349,0.284,53,AC/DC
+Live at River Plate,6,6bZQwL1KmpE3y4TH3jIVgr,"Whole Lotta Rosie - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:6bZQwL1KmpE3y4TH3jIVgr,6.13E-05,0.179,0.968,3.27E-05,0.948,-4.46,0.0948,150.944,0.256,48,AC/DC
+Live at River Plate,7,2q0FeOVtIivDv9WWzvPH6J,"Let There Be Rock - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:2q0FeOVtIivDv9WWzvPH6J,0.00166,0.249,0.99,0.42,0.556,-5.06,0.178,111.927,0.0621,46,AC/DC
+Live at River Plate,8,7vTCGXUv3XOKScExgMtmel,"Highway to Hell - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:7vTCGXUv3XOKScExgMtmel,0.0167,0.3,0.973,0,0.959,-5.142,0.116,124.496,0.227,55,AC/DC
+Live at River Plate,9,6CszSinwzUcQRponsCm2CR,"For Those About to Rock (We Salute You) - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",spotify:track:6CszSinwzUcQRponsCm2CR,0.000331,0.225,0.953,6.96E-06,0.984,-5.026,0.109,126.714,0.395,45,AC/DC
+Black Ice,1,4feXJ5IC3avXsVW9WNFSag,Rock N Roll Train,spotify:track:4feXJ5IC3avXsVW9WNFSag,0.000998,0.547,0.931,0.0118,0.278,-2.356,0.0615,118.4,0.697,73,AC/DC
+Black Ice,2,4K3ReloaWQZmMz6jrLQ34V,Skies on Fire,spotify:track:4K3ReloaWQZmMz6jrLQ34V,0.000411,0.554,0.657,0.00757,0.182,-3.197,0.0283,93.899,0.583,48,AC/DC
+Black Ice,3,6vgEMqEmhSkv2G23nl1VTu,Big Jack,spotify:track:6vgEMqEmhSkv2G23nl1VTu,0.000159,0.535,0.891,0.0054,0.0992,-2.754,0.0417,125.796,0.436,50,AC/DC
+Black Ice,4,4OrKIUhgiIiOefxwmrVedV,Anything Goes,spotify:track:4OrKIUhgiIiOefxwmrVedV,0.000522,0.605,0.9,0.0271,0.0466,-2.717,0.0291,120.895,0.467,49,AC/DC
+Black Ice,5,5YnNWHKCJaJKwbagXDb5Uf,War Machine,spotify:track:5YnNWHKCJaJKwbagXDb5Uf,4.85E-05,0.518,0.718,0.244,0.25,-4.355,0.0343,127.593,0.531,64,AC/DC
+Black Ice,6,6GIow0bPNRxQwCgCJODRHq,Smash N Grab,spotify:track:6GIow0bPNRxQwCgCJODRHq,6.54E-05,0.5,0.82,0.0124,0.152,-3.517,0.0279,98.705,0.307,43,AC/DC
+Black Ice,7,5yx3jekDsFzX987CIHX2Yn,Spoilin' for a Fight,spotify:track:5yx3jekDsFzX987CIHX2Yn,5.59E-05,0.578,0.823,0.00254,0.0721,-3.163,0.0325,123.429,0.387,48,AC/DC
+Black Ice,8,2L4PQQuGuGaCpT8pYNxka6,Wheels,spotify:track:2L4PQQuGuGaCpT8pYNxka6,9.83E-05,0.494,0.843,0.000275,0.255,-3.079,0.0338,132.385,0.689,43,AC/DC
+Black Ice,9,1KS8jTXFTx6Ue7GijLLGTU,Decibel,spotify:track:1KS8jTXFTx6Ue7GijLLGTU,0.00153,0.618,0.722,0.00361,0.137,-3.438,0.0277,96.436,0.849,44,AC/DC
+Black Ice,10,4Pm55wDKHjx8JQtzUK0loE,Stormy May Day,spotify:track:4Pm55wDKHjx8JQtzUK0loE,0.00026,0.525,0.789,0.000207,0.101,-4.05,0.0269,95.319,0.222,45,AC/DC
+Black Ice,11,6QitPoNJ9DPtBAA5N6LWYA,She Likes Rock N Roll,spotify:track:6QitPoNJ9DPtBAA5N6LWYA,0.00157,0.596,0.651,4.43E-06,0.0762,-3.822,0.0368,103.844,0.587,44,AC/DC
+Black Ice,12,7kiKiDlZVrwufrqegBdUqt,Money Made,spotify:track:7kiKiDlZVrwufrqegBdUqt,0.000432,0.58,0.709,0.00277,0.107,-3.593,0.0277,85.538,0.677,44,AC/DC
+Black Ice,13,6RYm3vNuXgILX6yTVWl4ln,Rock N Roll Dream,spotify:track:6RYm3vNuXgILX6yTVWl4ln,0.00344,0.492,0.661,0.000585,0.241,-5.497,0.0249,106.634,0.389,43,AC/DC
+Black Ice,14,54Qq4F7r3l1CsMOVxj2GJQ,Rocking All the Way,spotify:track:54Qq4F7r3l1CsMOVxj2GJQ,0.000364,0.556,0.849,0.000274,0.126,-4.044,0.0306,124.99,0.451,42,AC/DC
+Black Ice,15,3Axmw41lmMoXih3NJYzbXb,Black Ice,spotify:track:3Axmw41lmMoXih3NJYzbXb,0.000323,0.501,0.889,0.00164,0.186,-3.89,0.0296,94.37,0.442,57,AC/DC
+Stiff Upper Lip,1,1KBuhAHzia2qoD4u6YhvER,Stiff Upper Lip,spotify:track:1KBuhAHzia2qoD4u6YhvER,0.0344,0.588,0.851,0.00773,0.16,-4.206,0.033,123.691,0.706,66,AC/DC
+Stiff Upper Lip,2,6x4UZ92rUZbRxUzvx0JVl6,Meltdown,spotify:track:6x4UZ92rUZbRxUzvx0JVl6,0.0631,0.615,0.702,4.86E-06,0.0805,-3.825,0.0463,111.865,0.599,43,AC/DC
+Stiff Upper Lip,3,2BNFtsFjAXw46wRq0injZj,House of Jazz,spotify:track:2BNFtsFjAXw46wRq0injZj,0.0178,0.615,0.567,0.0814,0.227,-4.976,0.0321,85.762,0.632,42,AC/DC
+Stiff Upper Lip,4,79fB8SJnwlaGCbP4hFFWG0,Hold Me Back,spotify:track:79fB8SJnwlaGCbP4hFFWG0,0.0449,0.731,0.659,0.212,0.107,-5.259,0.0391,115.845,0.931,43,AC/DC
+Stiff Upper Lip,5,6xs17NF4X10Y7UGwto7S7Z,Safe in New York City,spotify:track:6xs17NF4X10Y7UGwto7S7Z,0.0111,0.494,0.881,0.00953,0.104,-4.773,0.037,160.942,0.623,53,AC/DC
+Stiff Upper Lip,6,4GLQAKOPFXOI07JzfrniZs,Can't Stand Still,spotify:track:4GLQAKOPFXOI07JzfrniZs,0.0165,0.602,0.835,0.00246,0.66,-4.407,0.0258,110.116,0.727,45,AC/DC
+Stiff Upper Lip,7,2TCEl9FdIPmIXyM2Jd6Lws,Can't Stop Rock 'n' Roll,spotify:track:2TCEl9FdIPmIXyM2Jd6Lws,0.0741,0.447,0.638,0.0169,0.0984,-4.724,0.0274,84.98,0.539,43,AC/DC
+Stiff Upper Lip,8,7lrBHMaXy0klQR4KFZuwAs,Satellite Blues,spotify:track:7lrBHMaXy0klQR4KFZuwAs,0.0329,0.541,0.696,0.00315,0.0593,-3.988,0.0638,118.901,0.786,45,AC/DC
+Stiff Upper Lip,9,6MJ5Q5tcNIWDrdBt3woKdj,Damned,spotify:track:6MJ5Q5tcNIWDrdBt3woKdj,0.137,0.516,0.443,0.00214,0.0549,-4.98,0.0382,88.798,0.541,40,AC/DC
+Stiff Upper Lip,10,1B7YWCnmn6bWii1Pyy8cfK,Come and Get It,spotify:track:1B7YWCnmn6bWii1Pyy8cfK,0.0304,0.51,0.586,0.016,0.144,-5.226,0.0294,89.778,0.614,43,AC/DC
+Stiff Upper Lip,11,2filqLyVGxteotSCD8b4Jt,All Screwed Up,spotify:track:2filqLyVGxteotSCD8b4Jt,0.0222,0.569,0.591,0.00123,0.0771,-3.962,0.037,102.685,0.577,40,AC/DC
+Stiff Upper Lip,12,3rwdLlTki1Y5YLU9DOU4ks,Give It Up,spotify:track:3rwdLlTki1Y5YLU9DOU4ks,0.0069,0.547,0.722,0.000113,0.064,-3.859,0.0317,129.616,0.92,46,AC/DC
+Ballbreaker,1,1gij27s31tFKcTHa8f1u4g,Hard as a Rock,spotify:track:1gij27s31tFKcTHa8f1u4g,0.0018,0.481,0.724,0.177,0.11,-5.642,0.0324,116.322,0.2,64,AC/DC
+Ballbreaker,2,56OSb0BpuPI9tp4tDvhC8i,Cover You in Oil,spotify:track:56OSb0BpuPI9tp4tDvhC8i,0.00862,0.387,0.74,0.000113,0.345,-5.822,0.0476,197.839,0.816,44,AC/DC
+Ballbreaker,3,6ijCRYmsTbeOWp4qEgl9e0,The Furor,spotify:track:6ijCRYmsTbeOWp4qEgl9e0,0.000138,0.491,0.714,0.529,0.2,-5.515,0.0266,97.861,0.26,44,AC/DC
+Ballbreaker,4,2eeDDhFzhTi78mVOQMEnDw,Boogie Man,spotify:track:2eeDDhFzhTi78mVOQMEnDw,0.0068,0.485,0.603,0.0349,0.227,-6.608,0.0594,111.756,0.468,44,AC/DC
+Ballbreaker,5,6EV7R20p1qHi1HwldZorHi,The Honey Roll,spotify:track:6EV7R20p1qHi1HwldZorHi,0.00185,0.301,0.675,0.0165,0.113,-6.781,0.034,180.773,0.526,41,AC/DC
+Ballbreaker,6,4iAZhaVvrX1d1By5f0QWSB,Burnin' Alive,spotify:track:4iAZhaVvrX1d1By5f0QWSB,0.00404,0.632,0.688,0.0867,0.0894,-6.149,0.0311,113.187,0.615,44,AC/DC
+Ballbreaker,7,5Pa0DPtpyGUlpRJgxq9BMk,Hail Caesar,spotify:track:5Pa0DPtpyGUlpRJgxq9BMk,0.0026,0.475,0.639,0.0163,0.15,-7.921,0.0421,125.167,0.656,47,AC/DC
+Ballbreaker,8,0uCshTeOj3C39Qj4bS539q,Love Bomb,spotify:track:0uCshTeOj3C39Qj4bS539q,0.0103,0.559,0.709,0.498,0.122,-5.872,0.0359,118.419,0.764,38,AC/DC
+Ballbreaker,9,0vT0i6fUPaE0UB4BO74bFI,Caught with Your Pants Down,spotify:track:0vT0i6fUPaE0UB4BO74bFI,0.00782,0.504,0.731,0.00287,0.321,-7.345,0.0417,143.354,0.782,39,AC/DC
+Ballbreaker,10,4KytLdPRCctWfEvXRhbHB4,Whiskey on the Rocks,spotify:track:4KytLdPRCctWfEvXRhbHB4,0.00151,0.432,0.613,0.00293,0.0725,-5.679,0.0315,94.119,0.713,42,AC/DC
+Ballbreaker,11,1TJX5KxBVqwqPPUPH16MFL,Ballbreaker,spotify:track:1TJX5KxBVqwqPPUPH16MFL,0.000728,0.473,0.862,0.00825,0.121,-5.781,0.063,127.233,0.41,52,AC/DC
+Live,1,4f5V6rbtGt67AWtNGRS9vx,Thunderstruck - Live - 1991,spotify:track:4f5V6rbtGt67AWtNGRS9vx,0.000774,0.255,0.973,0.0388,0.728,-5.579,0.257,135.116,0.0671,46,AC/DC
+Live,3,5dvfYJR8yXaO9SHtqJWeL5,Back In Black - Live - 1991,spotify:track:5dvfYJR8yXaO9SHtqJWeL5,0.000585,0.471,0.984,0.000739,0.95,-4.211,0.0795,96.542,0.426,45,AC/DC
+Live,7,6prcnLMTKrcHzvp4XwUnUj,Moneytalks - Live - 1991,spotify:track:6prcnLMTKrcHzvp4XwUnUj,0.000422,0.476,0.954,0.883,0.958,-4.337,0.0585,122.274,0.485,41,AC/DC
+Live,8,3aSUhKMYQkfEOjkdBwWcoC,Hells Bells - Live - 1991,spotify:track:3aSUhKMYQkfEOjkdBwWcoC,6.26E-05,0.317,0.931,0.653,0.878,-5.794,0.0576,113.007,0.248,41,AC/DC
+Live,9,4SUhlKM0n3ejiHQwqTjb9F,Dirty Deeds Done Dirt Cheap - Live - 1991,spotify:track:4SUhlKM0n3ejiHQwqTjb9F,0.00144,0.465,0.977,0.106,0.954,-4.382,0.138,140.433,0.434,41,AC/DC
+Live,10,4eoGQROWDgOs43F0WEYR8a,Whole Lotta Rosie - Live - 1991,spotify:track:4eoGQROWDgOs43F0WEYR8a,4.01E-05,0.35,0.984,0.311,0.971,-5.412,0.139,98.673,0.263,39,AC/DC
+Live,11,4QR6LcLBL8bLDd6lbNwmbC,You Shook Me All Night Long - Live - 1991,spotify:track:4QR6LcLBL8bLDd6lbNwmbC,0.00139,0.462,0.981,0.0128,0.929,-4.334,0.0982,138.041,0.671,41,AC/DC
+Live,12,5Mu7WviNvT9yJeF79V1HS5,Highway to Hell - Live - 1991,spotify:track:5Mu7WviNvT9yJeF79V1HS5,0.00552,0.491,0.982,0.0575,0.968,-5.093,0.113,120.323,0.309,43,AC/DC
+Live,13,6MWkewqqntx7y6AyOqEoXM,T.N.T. - Live - 1991,spotify:track:6MWkewqqntx7y6AyOqEoXM,0.00222,0.455,0.979,0.00236,0.419,-4.727,0.132,128.301,0.49,40,AC/DC
+Live (Collector's Edition),2,4D3qnFFio2eUuiwCM4O023,Shoot to Thrill - Live - 1991,spotify:track:4D3qnFFio2eUuiwCM4O023,1.71E-05,0.304,0.974,0.778,0.892,-4.874,0.0681,145.91,0.556,43,AC/DC
+Live (Collector's Edition),4,5KCCaVQOSe4gLzyGJ3oZnL,Sin City - Live - 1991,spotify:track:5KCCaVQOSe4gLzyGJ3oZnL,0.000562,0.351,0.924,0.511,0.709,-6.247,0.0859,132.942,0.381,39,AC/DC
+Live (Collector's Edition),5,5bx6dKRA1X04ZeTfxCNJMA,Who Made Who - Live - 1991,spotify:track:5bx6dKRA1X04ZeTfxCNJMA,0.000794,0.455,0.969,0.368,0.974,-5.368,0.152,129.979,0.225,40,AC/DC
+Live (Collector's Edition),6,6WnA9KrJ3r9YfJOmxmZRaC,Heatseeker - Live - 1991,spotify:track:6WnA9KrJ3r9YfJOmxmZRaC,0.000732,0.414,0.984,0.356,0.938,-5.259,0.0745,95.082,0.337,39,AC/DC
+Live (Collector's Edition),7,3dduxlMxKeJzAYMBWjCHbP,Fire Your Guns - Live - 1991,spotify:track:3dduxlMxKeJzAYMBWjCHbP,0.00054,0.411,0.982,0.0106,0.889,-6.086,0.0867,104.951,0.217,39,AC/DC
+Live (Collector's Edition),8,6OvZ0eYTiRbvE4yflbKlnt,Jailbreak - Live - 1991,spotify:track:6OvZ0eYTiRbvE4yflbKlnt,0.00667,0.327,0.847,0.254,0.934,-6.69,0.109,131.099,0.31,41,AC/DC
+Live (Collector's Edition),9,2HBUDl71pACQkvOnhpo1ra,The Jack - Live - 1991,spotify:track:2HBUDl71pACQkvOnhpo1ra,0.000277,0.285,0.814,0.0336,0.959,-6.19,0.0698,74.208,0.383,37,AC/DC
+Live (Collector's Edition),10,6TiX53RD1JzwV5saZRIt5z,The Razors Edge - Live - 1991,spotify:track:6TiX53RD1JzwV5saZRIt5z,3.72E-05,0.263,0.937,0.643,0.952,-5.821,0.0811,108.725,0.353,37,AC/DC
+Live (Collector's Edition),2,5TXfht88qy2zLb13TIu47d,Are You Ready - Live - 1991,spotify:track:5TXfht88qy2zLb13TIu47d,0.00323,0.467,0.951,0.184,0.899,-4.228,0.0694,110.46,0.372,37,AC/DC
+Live (Collector's Edition),3,7ks1X6WVC5RI52ljlbG66p,That's the Way I Wanna Rock 'N' Roll - Live - 1991,spotify:track:7ks1X6WVC5RI52ljlbG66p,0.000393,0.398,0.982,0.0183,0.939,-5.888,0.11,94.455,0.383,37,AC/DC
+Live (Collector's Edition),4,3orPMvpxWGqzWhYzpuXeAB,High Voltage - Live - 1991,spotify:track:3orPMvpxWGqzWhYzpuXeAB,5.50E-05,0.508,0.944,0.777,0.952,-5.319,0.0455,141.243,0.748,40,AC/DC
+Live (Collector's Edition),7,6DULdxBZGGDEf5VKVoIMgC,Let There Be Rock - Live - 1991,spotify:track:6DULdxBZGGDEf5VKVoIMgC,0.000581,0.272,0.965,0.519,0.952,-5.288,0.185,110.768,0.106,38,AC/DC
+Live (Collector's Edition),8,2CrEgRDdADE4td2Ot6KaOx,Bonny - Live - 1991,spotify:track:2CrEgRDdADE4td2Ot6KaOx,0.305,0.112,0.855,0.962,0.712,-9.051,0.0949,152.405,0.234,34,AC/DC
+Live (Collector's Edition),11,7aslZ5LcxlHxizdVSfvZbH,For Those About to Rock (We Salute You) - Live - 1991,spotify:track:7aslZ5LcxlHxizdVSfvZbH,7.61E-05,0.291,0.979,0.497,0.856,-4.451,0.154,131.806,0.325,39,AC/DC
+The Razors Edge,1,57bgtoPSgt236HzfBOd8kj,Thunderstruck,spotify:track:57bgtoPSgt236HzfBOd8kj,0.000147,0.502,0.89,0.0117,0.217,-5.175,0.0364,133.52,0.259,87,AC/DC
+The Razors Edge,2,0cLvKgKkqlaJ9UajbitH4l,Fire Your Guns,spotify:track:0cLvKgKkqlaJ9UajbitH4l,0.00135,0.551,0.96,6.54E-06,0.0941,-3.284,0.0508,98.879,0.515,62,AC/DC
+The Razors Edge,3,5u5F7qLDvZjBSktaDp4HxB,Moneytalks,spotify:track:5u5F7qLDvZjBSktaDp4HxB,0.000841,0.649,0.903,0.000351,0.122,-3.677,0.0318,121.841,0.412,70,AC/DC
+The Razors Edge,4,4ObCns6nM6tShx5a5tHiGC,The Razors Edge,spotify:track:4ObCns6nM6tShx5a5tHiGC,0.00108,0.408,0.947,0.195,0.168,-3.522,0.0532,101.053,0.306,54,AC/DC
+The Razors Edge,5,6xwxKqCIdrs0RDWkmFxzZs,Mistress for Christmas,spotify:track:6xwxKqCIdrs0RDWkmFxzZs,0.00447,0.432,0.872,0.00038,0.0673,-4.125,0.036,111.959,0.247,48,AC/DC
+The Razors Edge,6,1SbRJXUX4yNmAr7CZumctk,Rock Your Heart Out,spotify:track:1SbRJXUX4yNmAr7CZumctk,0.00026,0.437,0.901,0.000258,0.0836,-4.473,0.0778,163.323,0.693,48,AC/DC
+The Razors Edge,7,7A1odihHBrI8n9k0Fefh2j,Are You Ready,spotify:track:7A1odihHBrI8n9k0Fefh2j,0.0165,0.452,0.821,3.53E-06,0.13,-4.816,0.0324,108.529,0.414,65,AC/DC
+The Razors Edge,8,1i0hnGnt14GL713mmOgJHh,Got You by the Balls,spotify:track:1i0hnGnt14GL713mmOgJHh,0.00212,0.622,0.757,1.91E-06,0.092,-3.449,0.0246,96.966,0.825,47,AC/DC
+The Razors Edge,9,0NIotBOwHkVRocCRzi41da,Shot of Love,spotify:track:0NIotBOwHkVRocCRzi41da,0.000181,0.581,0.912,0.00149,0.0898,-3.802,0.0317,135.47,0.636,47,AC/DC
+The Razors Edge,10,0FWmC11IDbq8T2ZTOnnBiL,Let's Make It,spotify:track:0FWmC11IDbq8T2ZTOnnBiL,0.0181,0.637,0.76,0.000216,0.0359,-3.482,0.0304,99.13,0.73,45,AC/DC
+The Razors Edge,11,3Y23ZSLRdk0d8YWAu4SnFb,Goodbye and Good Riddance to Bad Luck,spotify:track:3Y23ZSLRdk0d8YWAu4SnFb,0.0392,0.417,0.741,1.44E-06,0.102,-4.483,0.0699,202.798,0.572,45,AC/DC
+The Razors Edge,12,60YOadmxT3GeNlAHbrhR8U,If You Dare,spotify:track:60YOadmxT3GeNlAHbrhR8U,0.00586,0.45,0.848,0.000358,0.0764,-3.374,0.037,91.841,0.621,44,AC/DC
+Blow Up Your Video,1,0h3A3hdDq762DzIOKUoF21,Heatseeker,spotify:track:0h3A3hdDq762DzIOKUoF21,0.00225,0.372,0.873,0.137,0.0638,-5.049,0.0426,159.991,0.481,60,AC/DC
+Blow Up Your Video,2,0u8J52fqQhQXKvAC23ICvO,That's the Way I Wanna Rock 'N' Roll,spotify:track:0u8J52fqQhQXKvAC23ICvO,0.0484,0.395,0.951,0.00334,0.315,-5.469,0.107,157.614,0.514,49,AC/DC
+Blow Up Your Video,3,3C2qc99Ay92Iv43DknVttB,Meanstreak,spotify:track:3C2qc99Ay92Iv43DknVttB,0.213,0.603,0.819,0.00281,0.371,-4.037,0.0401,97.957,0.572,37,AC/DC
+Blow Up Your Video,4,1a6B2hBwnJoqETESO6NDj3,Go Zone,spotify:track:1a6B2hBwnJoqETESO6NDj3,0.00331,0.499,0.763,0.0111,0.226,-5.41,0.0359,100.493,0.38,36,AC/DC
+Blow Up Your Video,5,6MZc25P5QQDCYwUpYZ4gBA,Kissin' Dynamite,spotify:track:6MZc25P5QQDCYwUpYZ4gBA,0.00136,0.469,0.843,0.0334,0.0696,-5.982,0.0409,122.324,0.298,37,AC/DC
+Blow Up Your Video,6,3wYDl8yi2F90kJdSUkyhJG,Nick of Time,spotify:track:3wYDl8yi2F90kJdSUkyhJG,0.0344,0.264,0.959,0.0106,0.146,-4.521,0.174,171.98,0.233,37,AC/DC
+Blow Up Your Video,7,05spmNSk1TB5CFAEbAvLuu,Some Sin for Nuthin',spotify:track:05spmNSk1TB5CFAEbAvLuu,0.0191,0.464,0.927,0.237,0.263,-5.138,0.0483,106.715,0.544,35,AC/DC
+Blow Up Your Video,8,6D1r9yXvmn0zcw5vZuPSw5,Ruff Stuff,spotify:track:6D1r9yXvmn0zcw5vZuPSw5,0.0298,0.466,0.929,0.00944,0.362,-4.889,0.0674,126.659,0.543,36,AC/DC
+Blow Up Your Video,9,4UBIdb16eo8bIykBM6JHE2,Two's Up,spotify:track:4UBIdb16eo8bIykBM6JHE2,0.00201,0.455,0.938,0.028,0.0496,-5.104,0.0609,122.586,0.383,39,AC/DC
+Blow Up Your Video,10,3TzodHWz58jKxePzBDqHf0,This Means War,spotify:track:3TzodHWz58jKxePzBDqHf0,0.0142,0.432,0.988,0.00786,0.0841,-4.442,0.1,111.276,0.199,37,AC/DC
+Who Made Who,1,6rvldt6EoZwzogApECUCwd,Who Made Who,spotify:track:6rvldt6EoZwzogApECUCwd,0.000286,0.514,0.825,0.293,0.607,-5.135,0.0487,125.274,0.655,68,AC/DC
+Who Made Who,3,1nUk7iNwJ26jIhNaEHt910,D.T.,spotify:track:1nUk7iNwJ26jIhNaEHt910,0.0016,0.43,0.6,0.925,0.128,-8.259,0.067,99.187,0.437,43,AC/DC
+Who Made Who,8,4LZyChIF8hKAAtGuPsvKCY,Chase the Ace,spotify:track:4LZyChIF8hKAAtGuPsvKCY,3.53E-05,0.364,0.985,0.801,0.0414,-5.905,0.0795,144.513,0.273,44,AC/DC
+Fly On the Wall,1,4KLh3zTfRqxBPDVzOOy2yE,Fly on the Wall,spotify:track:4KLh3zTfRqxBPDVzOOy2yE,0.00118,0.322,0.92,0.47,0.289,-4.441,0.0574,127.008,0.347,46,AC/DC
+Fly On the Wall,2,1L21YTLKh6eJaIjQWRgzo7,Shake Your Foundations,spotify:track:1L21YTLKh6eJaIjQWRgzo7,0.00765,0.491,0.932,0.519,0.0562,-4.379,0.0631,122.226,0.459,48,AC/DC
+Fly On the Wall,3,3u73GFE4Vr2Agnf6afmW0V,First Blood,spotify:track:3u73GFE4Vr2Agnf6afmW0V,0.0209,0.461,0.948,0.144,0.195,-4.183,0.0675,116.897,0.297,43,AC/DC
+Fly On the Wall,4,4s0zx7jUjCe2qOswnEmQur,Danger,spotify:track:4s0zx7jUjCe2qOswnEmQur,0.207,0.583,0.84,0.369,0.088,-4.199,0.0385,79.351,0.565,41,AC/DC
+Fly On the Wall,5,4tEO5sXXoEOtxEPZJ15pgO,Sink the Pink,spotify:track:4tEO5sXXoEOtxEPZJ15pgO,0.00149,0.474,0.932,0.467,0.439,-5.31,0.0487,123.787,0.531,46,AC/DC
+Fly On the Wall,6,4BE5gpzdVEVA9uROkm7GI9,Playing with Girls,spotify:track:4BE5gpzdVEVA9uROkm7GI9,0.000535,0.429,0.962,0.0223,0.0983,-4.051,0.0581,99.545,0.312,40,AC/DC
+Fly On the Wall,7,1UBmFT0L9ilDySXuuMBfK5,Stand Up,spotify:track:1UBmFT0L9ilDySXuuMBfK5,0.0121,0.443,0.879,0.816,0.331,-4.405,0.0416,91.447,0.416,38,AC/DC
+Fly On the Wall,8,44WgrjG7hWuKqx6KL4AyCR,Hell or High Water,spotify:track:44WgrjG7hWuKqx6KL4AyCR,0.00208,0.405,0.965,0.225,0.164,-5.096,0.0734,116.395,0.474,38,AC/DC
+Fly On the Wall,9,6FCp2G9cQKTBl2nd34vciA,Back in Business,spotify:track:6FCp2G9cQKTBl2nd34vciA,0.0129,0.536,0.972,0.875,0.1,-3.983,0.0416,107.991,0.482,57,AC/DC
+Fly On the Wall,10,0limokbfqb60BMM7c7Z2HE,Send for the Man,spotify:track:0limokbfqb60BMM7c7Z2HE,0.0109,0.484,0.942,0.889,0.357,-5.452,0.0555,105.997,0.594,36,AC/DC
+Flick of the Switch,1,1P0SDqCttZZnmSU7YtPxQY,Rising Power,spotify:track:1P0SDqCttZZnmSU7YtPxQY,0.00506,0.33,0.871,0.00767,0.186,-4.255,0.0419,186.316,0.794,43,AC/DC
+Flick of the Switch,2,6SRadf7zJ0PdkSqQ4Sqkvm,This House Is on Fire,spotify:track:6SRadf7zJ0PdkSqQ4Sqkvm,0.00145,0.368,0.95,0.0261,0.469,-3.394,0.0491,114.153,0.322,41,AC/DC
+Flick of the Switch,3,0oIox8T3bdGZnhQKnaDK2a,Flick of the Switch,spotify:track:0oIox8T3bdGZnhQKnaDK2a,3.32E-05,0.442,0.906,0.144,0.088,-4.429,0.0391,129.483,0.705,49,AC/DC
+Flick of the Switch,4,05gjrT0jcQ0fRkHuYgJTdR,Nervous Shakedown,spotify:track:05gjrT0jcQ0fRkHuYgJTdR,0.000228,0.412,0.793,0.251,0.0871,-4.592,0.0336,83.346,0.816,45,AC/DC
+Flick of the Switch,5,0qKMZuEM8aejK1wz6Dmn8M,Landslide,spotify:track:0qKMZuEM8aejK1wz6Dmn8M,3.48E-05,0.486,0.967,0.772,0.317,-4.162,0.0609,118.998,0.511,40,AC/DC
+Flick of the Switch,6,31F5kR9fPxI7lBV0Stfl4V,Guns for Hire,spotify:track:31F5kR9fPxI7lBV0Stfl4V,0.00331,0.49,0.902,0.354,0.0695,-3.759,0.0493,128.427,0.825,48,AC/DC
+Flick of the Switch,7,5h8XlKa4TvIhOcJXsPvDX7,Deep in the Hole,spotify:track:5h8XlKa4TvIhOcJXsPvDX7,0.00104,0.297,0.784,0.0947,0.457,-4.559,0.038,175.253,0.767,37,AC/DC
+Flick of the Switch,8,1FeFtmh1lljY1AISeZLrhf,Bedlam in Belgium,spotify:track:1FeFtmh1lljY1AISeZLrhf,0.000786,0.48,0.809,0.142,0.127,-4.213,0.0466,127.728,0.679,39,AC/DC
+Flick of the Switch,9,4wL7XxJ7DNtIao5EaynvuP,Badlands,spotify:track:4wL7XxJ7DNtIao5EaynvuP,8.10E-05,0.502,0.891,0.772,0.468,-3.966,0.0312,106.311,0.484,40,AC/DC
+Flick of the Switch,10,79Tq4tCfNGFJChySkOS5Dy,Brain Shake,spotify:track:79Tq4tCfNGFJChySkOS5Dy,2.46E-05,0.274,0.961,0.111,0.0843,-3.988,0.0751,166.176,0.574,36,AC/DC
+For Those About to Rock (We Salute You),1,17lu4tymfnhmcIDlzBbtAb,For Those About to Rock (We Salute You),spotify:track:17lu4tymfnhmcIDlzBbtAb,0.000376,0.37,0.919,0.419,0.49,-5.721,0.102,134.021,0.471,69,AC/DC
+For Those About to Rock (We Salute You),2,7KGbYZv593eAMISQjYqTDT,I Put the Finger on You,spotify:track:7KGbYZv593eAMISQjYqTDT,0.000167,0.483,0.98,0.664,0.169,-4.033,0.0632,133.816,0.759,45,AC/DC
+For Those About to Rock (We Salute You),3,1EJIEPzahlUiev5IQ1HnuL,Let's Get It Up,spotify:track:1EJIEPzahlUiev5IQ1HnuL,0.000702,0.514,0.904,0.0334,0.0815,-4.173,0.0634,108.927,0.682,58,AC/DC
+For Those About to Rock (We Salute You),4,31KSQBbHS275MsHgHmTD21,Inject the Venom,spotify:track:31KSQBbHS275MsHgHmTD21,0.00019,0.272,0.907,0.0393,0.186,-4.592,0.0707,177.225,0.564,45,AC/DC
+For Those About to Rock (We Salute You),5,1is13OusVjtwAvLx5PcxcZ,Snowballed,spotify:track:1is13OusVjtwAvLx5PcxcZ,1.59E-05,0.269,0.955,0.858,0.127,-4.838,0.0639,152.238,0.669,41,AC/DC
+For Those About to Rock (We Salute You),6,5ahPl557niKxia8Kquw1yh,Evil Walks,spotify:track:5ahPl557niKxia8Kquw1yh,1.43E-05,0.478,0.886,0.6,0.0793,-4.642,0.0354,100.427,0.488,45,AC/DC
+For Those About to Rock (We Salute You),7,3zR16RvuoDiglmh4iTacvN,C.O.D.,spotify:track:3zR16RvuoDiglmh4iTacvN,0.000827,0.51,0.935,0.528,0.133,-4.699,0.0579,118.458,0.669,44,AC/DC
+For Those About to Rock (We Salute You),8,1W0rNaAXmNzvfgp47JzcVQ,Breaking the Rules,spotify:track:1W0rNaAXmNzvfgp47JzcVQ,0.000434,0.589,0.875,0.372,0.0652,-5.067,0.0398,126.932,0.479,40,AC/DC
+For Those About to Rock (We Salute You),9,4NQJn1aSV9r6UmYErgzS4s,Night of the Long Knives,spotify:track:4NQJn1aSV9r6UmYErgzS4s,1.90E-05,0.383,0.953,0.564,0.154,-3.445,0.041,98.846,0.39,40,AC/DC
+For Those About to Rock (We Salute You),10,124CQLjNlenz6CTKVCV931,Spellbound,spotify:track:124CQLjNlenz6CTKVCV931,2.89E-05,0.33,0.805,0.844,0.102,-6.115,0.0333,95.338,0.359,42,AC/DC
+Back In Black,1,69QHm3pustz01CJRwdo20z,Hells Bells,spotify:track:69QHm3pustz01CJRwdo20z,0.00532,0.389,0.873,0.0055,0.273,-4.768,0.0475,106.767,0.303,77,AC/DC
+Back In Black,2,0C80GCp0mMuBzLf3EAXqxv,Shoot to Thrill,spotify:track:0C80GCp0mMuBzLf3EAXqxv,0.000239,0.457,0.904,0.0879,0.396,-5.303,0.0747,141.038,0.48,76,AC/DC
+Back In Black,3,6Th6ND8RQPywiyelecP5Lf,What Do You Do for Money Honey,spotify:track:6Th6ND8RQPywiyelecP5Lf,0.00533,0.532,0.858,2.13E-06,0.751,-5.023,0.0599,125.698,0.495,63,AC/DC
+Back In Black,4,6rAy2MsMUabbqu2VygrblP,Givin the Dog a Bone,spotify:track:6rAy2MsMUabbqu2VygrblP,0.0704,0.525,0.975,2.22E-05,0.231,-4.372,0.0572,132.686,0.736,58,AC/DC
+Back In Black,5,5XeMsYb1rWxQL1bUUaZajn,Let Me Put My Love Into You,spotify:track:5XeMsYb1rWxQL1bUUaZajn,0.115,0.4,0.902,0.000116,0.139,-4.385,0.0523,105.659,0.632,58,AC/DC
+Back In Black,6,08mG3Y1vljYA6bvDt4Wqkj,Back In Black,spotify:track:08mG3Y1vljYA6bvDt4Wqkj,0.011,0.31,0.7,0.00965,0.0828,-5.678,0.047,188.386,0.763,87,AC/DC
+Back In Black,7,2SiXAy7TuUkycRVbbWDEpo,You Shook Me All Night Long,spotify:track:2SiXAy7TuUkycRVbbWDEpo,0.00287,0.532,0.767,0.000513,0.39,-5.509,0.0574,127.361,0.755,83,AC/DC
+Back In Black,8,4dDurgTN3eGyU0ghzFJ0T1,Have a Drink on Me,spotify:track:4dDurgTN3eGyU0ghzFJ0T1,0.00167,0.421,0.889,0.00838,0.654,-5.166,0.0545,122.424,0.424,61,AC/DC
+Back In Black,9,2MCUmp0I98gsJBmey7DfZS,Shake a Leg,spotify:track:2MCUmp0I98gsJBmey7DfZS,0.0234,0.417,0.942,0.00857,0.317,-4.225,0.0852,152.346,0.618,56,AC/DC
+Back In Black,10,6J17MkMmuzBiIOjRH6MOBZ,Rock and Roll Ain't Noise Pollution,spotify:track:6J17MkMmuzBiIOjRH6MOBZ,0.041,0.576,0.659,0,0.0587,-5.617,0.0383,94.853,0.717,67,AC/DC
+Highway to Hell,1,2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,spotify:track:2zYzyRzz6pRmhPzyfMEC8s,0.061,0.574,0.913,0.00158,0.156,-4.793,0.133,115.728,0.423,87,AC/DC
+Highway to Hell,2,6Wn3pdFtAcnYJyJVITwt7N,Girls Got Rhythm,spotify:track:6Wn3pdFtAcnYJyJVITwt7N,0.0513,0.512,0.979,0.00102,0.358,-4.267,0.156,137.794,0.535,65,AC/DC
+Highway to Hell,3,5xquYn2sr3uEcyuKU9BmCJ,Walk All Over You,spotify:track:5xquYn2sr3uEcyuKU9BmCJ,0.00791,0.233,0.87,0.0198,0.251,-4.653,0.0643,162.003,0.409,62,AC/DC
+Highway to Hell,4,2j0zExWFB0PowLOeoZosjK,Touch Too Much,spotify:track:2j0zExWFB0PowLOeoZosjK,0.037,0.524,0.906,3.64E-05,0.309,-4.301,0.0963,123.1,0.605,66,AC/DC
+Highway to Hell,5,7sZKoFbEu4mPuCMX5cxLSb,Beating Around the Bush,spotify:track:7sZKoFbEu4mPuCMX5cxLSb,0.00102,0.476,0.889,0.102,0.17,-5.733,0.1,115.754,0.493,54,AC/DC
+Highway to Hell,6,6pivm7pNF4GyBkHNGseHCS,Shot Down in Flames,spotify:track:6pivm7pNF4GyBkHNGseHCS,0.00164,0.531,0.864,0.132,0.884,-4.534,0.08,130.722,0.665,62,AC/DC
+Highway to Hell,7,7HbHwtTGM3kCjDtmP00x4h,Get It Hot,spotify:track:7HbHwtTGM3kCjDtmP00x4h,0.000514,0.648,0.831,0.564,0.0951,-4.635,0.0329,129.855,0.834,52,AC/DC
+Highway to Hell,8,7zscdQe9CjzXnqT3P1Ey7K,If You Want Blood (You've Got It),spotify:track:7zscdQe9CjzXnqT3P1Ey7K,0.0311,0.487,0.932,0.149,0.43,-4.001,0.117,141.243,0.54,66,AC/DC
+Highway to Hell,9,1Kbc8nH6BhsWnTuM22qypl,Love Hungry Man,spotify:track:1Kbc8nH6BhsWnTuM22qypl,0.0019,0.511,0.838,0.0653,0.24,-5.026,0.0516,120.181,0.551,53,AC/DC
+Highway to Hell,10,7w04gIWA7mIbqR03Ghyrkl,Night Prowler,spotify:track:7w04gIWA7mIbqR03Ghyrkl,0.024,0.251,0.73,0.0137,0.181,-5.002,0.0615,197.304,0.482,54,AC/DC
+If You Want Blood You've Got It (Live),1,3TUyK8veWjZqlKFZRPwojT,"Riff Raff - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:3TUyK8veWjZqlKFZRPwojT,2.32E-05,0.195,0.973,0.727,0.971,-4.4,0.106,181.854,0.14,41,AC/DC
+If You Want Blood You've Got It (Live),2,3K8xCiaZKUhHHbO9QDpYjz,"Hell Ain't a Bad Place to Be - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:3K8xCiaZKUhHHbO9QDpYjz,0.00154,0.539,0.878,0.588,0.877,-2.87,0.071,129.448,0.24,42,AC/DC
+If You Want Blood You've Got It (Live),3,4Fa0k3oOSA5KTwpqhfGSSU,"Bad Boy Boogie - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:4Fa0k3oOSA5KTwpqhfGSSU,0.0035,0.274,0.932,0.59,0.971,-4.573,0.063,139.925,0.0979,39,AC/DC
+If You Want Blood You've Got It (Live),4,20vUoaDskVhjYMsNMryrD0,"The Jack - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:20vUoaDskVhjYMsNMryrD0,0.000713,0.283,0.745,0.0883,0.983,-5.658,0.0782,69.417,0.438,41,AC/DC
+If You Want Blood You've Got It (Live),5,0fUyiY8d2SxITRs5cJWR4X,"Problem Child - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:0fUyiY8d2SxITRs5cJWR4X,0.000113,0.391,0.955,0.25,0.983,-3.87,0.0892,138.966,0.55,40,AC/DC
+If You Want Blood You've Got It (Live),6,23t7CA5Oa5D1gRXyQL7wm8,"Whole Lotta Rosie - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:23t7CA5Oa5D1gRXyQL7wm8,0.000945,0.257,0.958,0.439,0.762,-2.946,0.157,165.352,0.401,43,AC/DC
+If You Want Blood You've Got It (Live),7,3zVf2mdjHI2dCAVMyCGOKr,"Rock 'N' Roll Damnation - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:3zVf2mdjHI2dCAVMyCGOKr,0.000999,0.512,0.976,0.786,0.803,-2.948,0.0695,132.848,0.147,40,AC/DC
+If You Want Blood You've Got It (Live),8,4cQAnZie2nr9ZhymIBXi9v,"High Voltage - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:4cQAnZie2nr9ZhymIBXi9v,0.00028,0.55,0.919,0.602,0.935,-4.572,0.0604,136.117,0.564,37,AC/DC
+If You Want Blood You've Got It (Live),9,3Vy9XOOTEU6zMvTozAcHZK,"Let There Be Rock - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:3Vy9XOOTEU6zMvTozAcHZK,0.000369,0.156,0.976,0.146,0.968,-4.87,0.219,191.62,0.0865,42,AC/DC
+If You Want Blood You've Got It (Live),10,3gG3w52fGzMpJdhcJURwaB,"Rocker - Live at the Apollo Theatre, Glasgow, Scotland - April 1978",spotify:track:3gG3w52fGzMpJdhcJURwaB,0.000104,0.17,0.995,0.458,0.954,-3.648,0.152,185.503,0.159,39,AC/DC
+Powerage,1,2308VPPaMh7Q3AX1Zap99A,Rock 'N' Roll Damnation,spotify:track:2308VPPaMh7Q3AX1Zap99A,0.0327,0.524,0.995,0.147,0.0819,-2.676,0.106,133.596,0.323,59,AC/DC
+Powerage,2,4TJzAQN4lSRLMafylE0c4a,Down Payment Blues,spotify:track:4TJzAQN4lSRLMafylE0c4a,0.0209,0.491,0.685,0.0958,0.312,-5.07,0.0369,129.271,0.193,48,AC/DC
+Powerage,3,64CT9WMHVxDmqF8Aa0IjAj,Gimme a Bullet,spotify:track:64CT9WMHVxDmqF8Aa0IjAj,0.0058,0.605,0.924,0.615,0.0542,-4.217,0.0338,125.737,0.919,47,AC/DC
+Powerage,4,0DZwrC4QQOYqpcxCeZzwDg,Riff Raff,spotify:track:0DZwrC4QQOYqpcxCeZzwDg,0.00032,0.179,0.978,0.85,0.264,-3.787,0.0945,185.188,0.251,53,AC/DC
+Powerage,5,3UQQ7g6J8fiMB7oldQzBoq,Sin City,spotify:track:3UQQ7g6J8fiMB7oldQzBoq,0.00197,0.543,0.757,0.626,0.103,-4.986,0.0497,127.648,0.22,60,AC/DC
+Powerage,6,2wr9GtUc8xPMhTVZTc191u,What's Next to the Moon,spotify:track:2wr9GtUc8xPMhTVZTc191u,0.00115,0.513,0.825,0.00591,0.187,-5.019,0.0556,140.949,0.894,48,AC/DC
+Powerage,7,69MwNXryg6NT1lV7buN7U7,Gone Shootin',spotify:track:69MwNXryg6NT1lV7buN7U7,0.00306,0.696,0.593,0.762,0.115,-5.442,0.0349,121.475,0.385,59,AC/DC
+Powerage,8,61iaXFZKvm1cGv4hBleohH,Up to My Neck in You,spotify:track:61iaXFZKvm1cGv4hBleohH,0.00022,0.422,0.938,0.88,0.0548,-3.932,0.0434,138.437,0.498,45,AC/DC
+Powerage,9,0r1gRXwNZiGljDRa2EToL8,Kicked in the Teeth,spotify:track:0r1gRXwNZiGljDRa2EToL8,0.000781,0.266,0.817,0.0795,0.0759,-4.711,0.0779,160.779,0.311,46,AC/DC
+Let There Be Rock,1,7A944u5mXbkCz0I5BdLckI,Go Down,spotify:track:7A944u5mXbkCz0I5BdLckI,0.0858,0.433,0.803,0.354,0.0838,-5.378,0.121,134.84,0.401,48,AC/DC
+Let There Be Rock,2,0L0x35hQnmCLtHeSGQlEZj,Dog Eat Dog,spotify:track:0L0x35hQnmCLtHeSGQlEZj,0.0289,0.596,0.792,0.252,0.458,-5.556,0.0768,137.391,0.394,58,AC/DC
+Let There Be Rock,3,753KutoAy00apPsplMRetG,Let There Be Rock,spotify:track:753KutoAy00apPsplMRetG,0.000209,0.332,0.725,0.607,0.0767,-5.809,0.116,182.364,0.422,67,AC/DC
+Let There Be Rock,4,6HGkds3oqTAr4qyCRZmy4b,Bad Boy Boogie,spotify:track:6HGkds3oqTAr4qyCRZmy4b,0.12,0.494,0.853,0.192,0.254,-4.963,0.0806,141.482,0.538,48,AC/DC
+Let There Be Rock,5,5wTuWXWREngkFGtBXhOaI9,Problem Child,spotify:track:5wTuWXWREngkFGtBXhOaI9,0.00305,0.443,0.869,0.104,0.0867,-3.9,0.126,134.208,0.703,58,AC/DC
+Let There Be Rock,6,7EIPa69XVt6wTdLRkXklXq,Overdose,spotify:track:7EIPa69XVt6wTdLRkXklXq,0.0146,0.401,0.723,0.209,0.167,-4.348,0.0552,127.781,0.247,46,AC/DC
+Let There Be Rock,7,79KUOd1p6yNjh2Jkr9IQHk,Hell Ain't a Bad Place to Be,spotify:track:79KUOd1p6yNjh2Jkr9IQHk,0.181,0.604,0.737,0.0146,0.346,-5.284,0.175,128.056,0.417,60,AC/DC
+Let There Be Rock,8,4wYq5wugZDzQiMZQYG4wVB,Whole Lotta Rosie,spotify:track:4wYq5wugZDzQiMZQYG4wVB,0.0014,0.292,0.838,0.479,0.0953,-4.459,0.078,159.176,0.423,69,AC/DC
+Dirty Deeds Done Dirt Cheap,1,2d4e45fmUnguxh6yqC7gNT,Dirty Deeds Done Dirt Cheap,spotify:track:2d4e45fmUnguxh6yqC7gNT,0.214,0.668,0.906,0.00245,0.135,-4.881,0.17,135.653,0.507,77,AC/DC
+Dirty Deeds Done Dirt Cheap,2,4bP7RH0Ce8Y1XmNye0SVYs,Love at First Feel,spotify:track:4bP7RH0Ce8Y1XmNye0SVYs,0.0145,0.546,0.786,0.274,0.132,-6.442,0.0425,122.838,0.567,46,AC/DC
+Dirty Deeds Done Dirt Cheap,3,2KmSnPWWCIsEomVsKnbE1a,Big Balls,spotify:track:2KmSnPWWCIsEomVsKnbE1a,0.432,0.62,0.634,0,0.604,-6.324,0.198,107.066,0.415,62,AC/DC
+Dirty Deeds Done Dirt Cheap,4,4eutZb21bHZerJnxqW5lB0,Rocker,spotify:track:4eutZb21bHZerJnxqW5lB0,0.2,0.431,0.955,0.703,0.14,-4.09,0.162,118.051,0.481,51,AC/DC
+Dirty Deeds Done Dirt Cheap,6,1OFNVz8rx3pMl9FrL1IlDE,There's Gonna Be Some Rockin',spotify:track:1OFNVz8rx3pMl9FrL1IlDE,0.124,0.55,0.793,0.000138,0.74,-4.776,0.0462,126.591,0.582,46,AC/DC
+Dirty Deeds Done Dirt Cheap,7,73HVgj1xXW9vuiRsFAKwyr,Ain't No Fun (Waiting Round to Be a Millionaire),spotify:track:73HVgj1xXW9vuiRsFAKwyr,0.00919,0.403,0.806,0.0353,0.113,-4.727,0.0562,123.819,0.551,47,AC/DC
+Dirty Deeds Done Dirt Cheap,8,594ONMYoHlJnqHPEx98t08,Ride On,spotify:track:594ONMYoHlJnqHPEx98t08,0.514,0.73,0.388,0.00791,0.0735,-9.511,0.051,105.716,0.279,60,AC/DC
+Dirty Deeds Done Dirt Cheap,9,7EERPGGkPTXUcjXFo4o7jN,Squealer,spotify:track:7EERPGGkPTXUcjXFo4o7jN,0.0755,0.475,0.607,0.0802,0.169,-6.528,0.0929,131.149,0.668,46,AC/DC

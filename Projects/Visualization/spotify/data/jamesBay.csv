@@ -1,0 +1,37 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Electric Light,1,0lJ8a4Cl1brPVARa0WLyOX,Intro,spotify:track:0lJ8a4Cl1brPVARa0WLyOX,0.338,0.408,0.817,0.917,0.28,-12.916,0.361,96.672,0.0856,35,James Bay
+Electric Light,2,6jNqxmC4X9yiQi0X3HIXsf,Wasted On Each Other,spotify:track:6jNqxmC4X9yiQi0X3HIXsf,0.195,0.609,0.79,2.16E-06,0.0533,-3.274,0.0374,96.069,0.457,45,James Bay
+Electric Light,3,5nSDY75s6O6jA0K7J1EMYQ,Pink Lemonade,spotify:track:5nSDY75s6O6jA0K7J1EMYQ,9.39E-05,0.475,0.922,0.0203,0.748,-2.548,0.0469,152.011,0.701,58,James Bay
+Electric Light,4,3XLZOk9aP5VxiO81xFSX2w,Wild Love,spotify:track:3XLZOk9aP5VxiO81xFSX2w,0.0751,0.503,0.584,4.89E-05,0.105,-6.603,0.0485,70.196,0.268,59,James Bay
+Electric Light,5,16XiTUC2rQvb5lmtOm3FYY,Us,spotify:track:16XiTUC2rQvb5lmtOm3FYY,0.177,0.559,0.473,1.50E-06,0.108,-4.147,0.0364,69.973,0.341,79,James Bay
+Electric Light,6,39nav0XmA3ycFfNjXx37IL,In My Head,spotify:track:39nav0XmA3ycFfNjXx37IL,0.0482,0.64,0.649,0,0.554,-5.558,0.0922,107.964,0.593,43,James Bay
+Electric Light,7,0D666EMLUFA9Ms5HZdzhhI,Interlude,spotify:track:0D666EMLUFA9Ms5HZdzhhI,0.29,0.583,0.512,0.108,0.339,-16.968,0.737,84.476,0.0475,35,James Bay
+Electric Light,8,0im9iFcLT5D6pNl85H9mRI,Just For Tonight,spotify:track:0im9iFcLT5D6pNl85H9mRI,0.0342,0.549,0.854,0,0.64,-3.511,0.0392,128.028,0.622,51,James Bay
+Electric Light,9,1ErrkKi89V68HHsyUizbJA,Wanderlust,spotify:track:1ErrkKi89V68HHsyUizbJA,0.234,0.494,0.832,4.79E-05,0.0806,-4.234,0.0911,151.835,0.668,51,James Bay
+Electric Light,10,50J6lp4IShQGX8PC3cP8GY,I Found You,spotify:track:50J6lp4IShQGX8PC3cP8GY,0.242,0.329,0.679,1.10E-05,0.43,-5.436,0.154,90.814,0.347,45,James Bay
+Electric Light,11,6MlvaeqRJDCaU26QTFfAS7,Sugar Drunk High,spotify:track:6MlvaeqRJDCaU26QTFfAS7,0.00593,0.637,0.803,0,0.164,-3.332,0.115,120.816,0.45,41,James Bay
+Electric Light,12,6rLmXc0W6rS2C4BfU47UoA,Stand Up,spotify:track:6rLmXc0W6rS2C4BfU47UoA,0.379,0.325,0.601,0.000288,0.115,-7.081,0.0824,149.824,0.212,40,James Bay
+Electric Light,13,5A17N2UtvOx50EqZWWvGGL,Fade Out,spotify:track:5A17N2UtvOx50EqZWWvGGL,0.225,0.676,0.502,0.000176,0.158,-6.106,0.0611,86.989,0.705,46,James Bay
+Electric Light,14,5QY4JhMKx4aBAaZcosncqd,Slide,spotify:track:5QY4JhMKx4aBAaZcosncqd,0.894,0.497,0.23,2.34E-06,0.0934,-8.22,0.0399,125.822,0.347,60,James Bay
+Chaos And The Calm,5,3ZDqEhR3yfrcnOWi0g5YGD,Best Fake Smile,spotify:track:3ZDqEhR3yfrcnOWi0g5YGD,0.0228,0.689,0.886,0,0.275,-4.266,0.0424,142.017,0.936,57,James Bay
+Chaos And The Calm,10,0IqxBdxLMts788yArIjVyK,Get Out While You Can,spotify:track:0IqxBdxLMts788yArIjVyK,0.0556,0.494,0.74,0.00116,0.136,-5.809,0.076,146.905,0.424,38,James Bay
+Chaos And The Calm,13,4y0DIa6UVVeoby0vwMcUwN,Running,spotify:track:4y0DIa6UVVeoby0vwMcUwN,0.485,0.55,0.261,0,0.139,-12.304,0.0378,74.096,0.31,42,James Bay
+Chaos And The Calm,14,09BoTSQdcXgaN5AeozxArT,Clocks Go Forward,spotify:track:09BoTSQdcXgaN5AeozxArT,0.811,0.514,0.344,2.45E-06,0.102,-11.074,0.0329,98.065,0.206,39,James Bay
+Chaos And The Calm,15,0FTZt8lGNnCNnVRq4Z3AzR,Stealing Cars,spotify:track:0FTZt8lGNnCNnVRq4Z3AzR,0.85,0.493,0.234,3.63E-06,0.0976,-10.87,0.029,87.684,0.361,40,James Bay
+Chaos And The Calm,1,7jbyvAZyXEuASkugCckjBR,Craving,spotify:track:7jbyvAZyXEuASkugCckjBR,0.0102,0.683,0.914,5.06E-05,0.274,-5.352,0.0349,125.039,0.853,43,James Bay
+Chaos And The Calm,2,1KZyVnyptQcPzkx7ELCnZC,Hold Back The River,spotify:track:1KZyVnyptQcPzkx7ELCnZC,0.0526,0.715,0.715,0,0.0936,-7.364,0.0902,134.922,0.507,74,James Bay
+Chaos And The Calm,3,3nnG7AM9QopHVPEuLX3Khk,Let It Go,spotify:track:3nnG7AM9QopHVPEuLX3Khk,0.82,0.536,0.311,1.65E-05,0.107,-10.396,0.0288,147.486,0.246,77,James Bay
+Chaos And The Calm,4,02fZLz9BmmOKb5wkueM9D4,If You Ever Want To Be In Love,spotify:track:02fZLz9BmmOKb5wkueM9D4,0.0276,0.683,0.837,2.98E-05,0.0627,-5.46,0.0307,115.933,0.565,56,James Bay
+Chaos And The Calm,6,6Su1Cvwa5R5Zlj8f0aTURX,When We Were On Fire,spotify:track:6Su1Cvwa5R5Zlj8f0aTURX,0.00117,0.686,0.81,0,0.148,-5.338,0.0496,114.015,0.753,42,James Bay
+Chaos And The Calm,7,42HxrmByT7nOJjtCYXaIl7,Move Together,spotify:track:42HxrmByT7nOJjtCYXaIl7,0.717,0.556,0.297,1.64E-05,0.141,-10.841,0.0344,130.617,0.282,53,James Bay
+Chaos And The Calm,8,78pULHVnsTsnAQcOrdALc0,Scars,spotify:track:78pULHVnsTsnAQcOrdALc0,0.092,0.424,0.452,0.00044,0.11,-8.816,0.0624,129.768,0.205,53,James Bay
+Chaos And The Calm,9,2qKYtRXixgsNmrZyT0ErQK,Collide,spotify:track:2qKYtRXixgsNmrZyT0ErQK,0.0309,0.681,0.765,4.17E-05,0.133,-5.893,0.0485,92.023,0.787,40,James Bay
+Chaos And The Calm,11,1WOxmQAMnyvTdTuzZhuTBo,Need The Sun To Break,spotify:track:1WOxmQAMnyvTdTuzZhuTBo,0.102,0.537,0.485,3.83E-06,0.319,-8.131,0.0332,152.005,0.293,61,James Bay
+Chaos And The Calm,12,78O8CIzX5ZMuJh39fQOR3i,Incomplete,spotify:track:78O8CIzX5ZMuJh39fQOR3i,0.662,0.52,0.401,0,0.118,-9.157,0.037,144.624,0.224,51,James Bay
+Chaos And The Calm (Deluxe Edition),1,3K2YwQn30cfQBWM39XcrXV,Move Together - The Dark Of The Morning Version,spotify:track:3K2YwQn30cfQBWM39XcrXV,0.657,0.384,0.264,0,0.259,-9.444,0.0321,129.877,0.175,40,James Bay
+Chaos And The Calm (Deluxe Edition),2,7jqlTstLYdg5ylmThOCPPy,Need The Sun To Break - The Dark Of The Morning Version,spotify:track:7jqlTstLYdg5ylmThOCPPy,0.854,0.572,0.29,0,0.0804,-9.782,0.0337,78.971,0.357,30,James Bay
+Chaos And The Calm (Deluxe Edition),3,3wn7gh5nm7v5CHNp7Gdp8j,When We Were On Fire - The Dark Of The Morning Version,spotify:track:3wn7gh5nm7v5CHNp7Gdp8j,0.365,0.801,0.414,0,0.092,-8.485,0.0424,115.966,0.658,40,James Bay
+Chaos And The Calm (Deluxe Edition),6,5d6kimf9jAqvWOHWE0nV1q,Sparks,spotify:track:5d6kimf9jAqvWOHWE0nV1q,0.0156,0.703,0.445,0,0.047,-11.281,0.0323,105.985,0.416,35,James Bay
+Chaos And The Calm (Deluxe Edition),7,7pG5LgzNUJRi34ZJ3H2K94,Wait In Line,spotify:track:7pG5LgzNUJRi34ZJ3H2K94,0.581,0.519,0.298,0,0.0974,-9.708,0.0309,82.026,0.293,39,James Bay
+Chaos And The Calm (Deluxe Edition),9,1lUXBhmQYL8k0YkPVV6j6I,Hear Your Heart,spotify:track:1lUXBhmQYL8k0YkPVV6j6I,0.743,0.54,0.296,0,0.102,-13.866,0.0487,104.135,0.572,40,James Bay
+Chaos And The Calm (Deluxe Edition),10,2Dj6ZPP38xQnVKDmFhvHkA,Heavy Handed,spotify:track:2Dj6ZPP38xQnVKDmFhvHkA,0.375,0.581,0.539,6.81E-06,0.15,-9.887,0.03,77.929,0.484,29,James Bay

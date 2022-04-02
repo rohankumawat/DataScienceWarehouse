@@ -1,0 +1,11 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Was It Even Real?,1,67Z15tJ3I6ZUOiDMBBX7Eb,purpleworld,spotify:track:67Z15tJ3I6ZUOiDMBBX7Eb,0.603,0.675,0.356,0.000206,0.362,-9.1,0.188,139.856,0.339,45,Olivia O'Brien
+Was It Even Real?,2,7vHZh0zhB2bLoXnnaROJth,I Don't Exist,spotify:track:7vHZh0zhB2bLoXnnaROJth,0.156,0.755,0.532,0,0.297,-7.288,0.0497,124.916,0.363,53,Olivia O'Brien
+Was It Even Real?,3,6pVrJoQsxj5rnivyFTvyVK,Inhibition (omw),spotify:track:6pVrJoQsxj5rnivyFTvyVK,0.527,0.537,0.471,0,0.159,-6.509,0.19,158.712,0.537,43,Olivia O'Brien
+Was It Even Real?,4,5fpbliFLBFR8hGwFDzWpXB,Just Friends,spotify:track:5fpbliFLBFR8hGwFDzWpXB,0.791,0.447,0.247,3.85E-05,0.298,-10.479,0.0327,77.791,0.291,49,Olivia O'Brien
+Was It Even Real?,5,6QWDugB33Mqc4v0Q0IlCbF,We Lied To Each Other,spotify:track:6QWDugB33Mqc4v0Q0IlCbF,0.29,0.747,0.408,0,0.0721,-8.141,0.0511,145.728,0.666,51,Olivia O'Brien
+Was It Even Real?,6,727RSVK84WPY6wPiPhULk0,UDK,spotify:track:727RSVK84WPY6wPiPhULk0,0.149,0.858,0.736,0.000463,0.369,-7.475,0.0701,123.942,0.704,43,Olivia O'Brien
+Was It Even Real?,7,3l3KNYbuDBpM9YBo878utU,Care Less More,spotify:track:3l3KNYbuDBpM9YBo878utU,0.617,0.745,0.406,0,0.125,-8.307,0.281,128.168,0.744,51,Olivia O'Brien
+Was It Even Real?,8,1bUtuDcc0pRDFWocHR7h5A,Just A Boy,spotify:track:1bUtuDcc0pRDFWocHR7h5A,0.0363,0.768,0.731,1.14E-06,0.205,-6.054,0.0613,99.973,0.614,55,Olivia O'Brien
+Was It Even Real?,9,4JFQ6XcKPvXIU34JPLbbOQ,Call Me!!!,spotify:track:4JFQ6XcKPvXIU34JPLbbOQ,0.141,0.782,0.707,0,0.278,-5.549,0.0509,109.01,0.878,41,Olivia O'Brien
+Was It Even Real?,10,36y5E5cxFbz6xU8UqT7Iv7,Love Myself,spotify:track:36y5E5cxFbz6xU8UqT7Iv7,0.602,0.612,0.619,0,0.0866,-5.702,0.0437,99.71,0.469,64,Olivia O'Brien

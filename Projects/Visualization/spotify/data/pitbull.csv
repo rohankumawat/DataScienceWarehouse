@@ -1,0 +1,134 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Libertad 548,1,7q9W8JUW9re6kPndJjXwfL,Winning,spotify:track:7q9W8JUW9re6kPndJjXwfL,0.0754,0.844,0.613,1.07E-05,0.321,-5.357,0.224,172.037,0.45,41,Pitbull
+Libertad 548,2,7mwoTHCLbucY3b1a6Ude1V,No Lo Trates,spotify:track:7mwoTHCLbucY3b1a6Ude1V,0.0569,0.834,0.808,0.00052,0.222,-2.597,0.0542,104.026,0.829,59,Pitbull
+Libertad 548,3,3WWcN465rY8xdIQvYq0bpB,3 to Tango,spotify:track:3WWcN465rY8xdIQvYq0bpB,0.0539,0.724,0.833,1.10E-06,0.601,-4.225,0.142,96.955,0.521,45,Pitbull
+Libertad 548,4,3sEwjqGhrzXISCF51vWfBZ,Moviéndolo,spotify:track:3sEwjqGhrzXISCF51vWfBZ,0.367,0.685,0.922,0,0.204,-3.751,0.295,160.148,0.63,38,Pitbull
+Libertad 548,5,0YmVJtuU559DTzpxCVurpz,Happy Mama Day,spotify:track:0YmVJtuU559DTzpxCVurpz,0.00999,0.663,0.919,3.05E-06,0.325,-2.845,0.0673,109.999,0.647,35,Pitbull
+Libertad 548,6,0ftlxPXNSjPNEvEGbBnMa7,Get Ready,spotify:track:0ftlxPXNSjPNEvEGbBnMa7,0.000441,0.588,0.978,0,0.389,-4.669,0.227,127.997,0.593,53,Pitbull
+Libertad 548,7,3h4XzxkbhXPaQ2OYLBuLFB,Cinco De Mayo,spotify:track:3h4XzxkbhXPaQ2OYLBuLFB,0.014,0.735,0.866,0,0.0863,-4.15,0.0715,131.958,0.416,44,Pitbull
+Libertad 548,8,0ILXn8bzzMVLq9VkXX0ChG,Mala,spotify:track:0ILXn8bzzMVLq9VkXX0ChG,0.0308,0.82,0.757,0,0.275,-3.883,0.0528,95.006,0.659,43,Pitbull
+Libertad 548,9,6iLyEBNStoAemStXqGY7qP,Mueve La Cintura,spotify:track:6iLyEBNStoAemStXqGY7qP,0.0133,0.735,0.86,1.76E-05,0.0644,-4.524,0.0416,101.897,0.396,50,Pitbull
+Libertad 548,10,0OGDredxd4n2ai4IJjfLNH,Me Quedaré Contigo,spotify:track:0OGDredxd4n2ai4IJjfLNH,0.0593,0.671,0.918,0,0.206,-3.588,0.0774,92.132,0.712,58,Pitbull
+Libertad 548,11,5adattgAW8QDqyuOK2OjnE,Se La Vi,spotify:track:5adattgAW8QDqyuOK2OjnE,0.0818,0.756,0.831,0,0.0524,-4.437,0.0897,100.094,0.755,34,Pitbull
+Libertad 548,12,75NPXq6LKU5UjIHBU7dhja,Tell Me Again,spotify:track:75NPXq6LKU5UjIHBU7dhja,0.0133,0.454,0.726,0,0.109,-3.398,0.289,186.225,0.328,35,Pitbull
+Libertad 548,13,3sNROuAoYvVfN2VwcOiT2a,No Se Lleva Nada,spotify:track:3sNROuAoYvVfN2VwcOiT2a,0.204,0.833,0.856,0,0.235,-4.435,0.0454,135.057,0.976,33,Pitbull
+Libertad 548,14,5IUC0MrNR1rcjVQD7iVJ73,Ocupado,spotify:track:5IUC0MrNR1rcjVQD7iVJ73,0.0818,0.879,0.716,1.37E-06,0.693,-3.247,0.348,111.09,0.689,35,Pitbull
+Libertad 548,15,3sLyTeDoFFgLYtaBeUAlgr,Cantare,spotify:track:3sLyTeDoFFgLYtaBeUAlgr,0.0241,0.74,0.92,0,0.1,-2.58,0.13,110.676,0.674,56,Pitbull
+Gotti (Original Motion Picture Soundtrack),1,0tnnWEeThAUDLh62BnQKRU,So Sorry,spotify:track:0tnnWEeThAUDLh62BnQKRU,0.0252,0.666,0.8,5.13E-06,0.0851,-6.57,0.102,106.981,0.439,29,Pitbull
+Gotti (Original Motion Picture Soundtrack),2,1hkWjoLsahC5HuTyn5J5iT,Father & Son,spotify:track:1hkWjoLsahC5HuTyn5J5iT,0.956,0.257,0.142,0.587,0.188,-13.983,0.0426,119.055,0.0394,26,Pitbull
+Gotti (Original Motion Picture Soundtrack),3,2zH0GWHJ4GSZi2JfUTbDpD,Carpe Diem,spotify:track:2zH0GWHJ4GSZi2JfUTbDpD,0.636,0.487,0.246,0.791,0.0966,-17.278,0.0412,96.044,0.0269,23,Pitbull
+Gotti (Original Motion Picture Soundtrack),4,2lXdIYOoii1t4obdvgMirK,Amore,spotify:track:2lXdIYOoii1t4obdvgMirK,0.285,0.569,0.591,0,0.105,-7.528,0.0536,137.076,0.319,32,Pitbull
+Gotti (Original Motion Picture Soundtrack),5,2JWcZFAQm0hLMezUVp6ytB,Don't Say Another Word,spotify:track:2JWcZFAQm0hLMezUVp6ytB,0.996,0.171,0.156,0.836,0.0946,-17.958,0.0467,108.762,0.0399,22,Pitbull
+Gotti (Original Motion Picture Soundtrack),6,7K2qzAp1FcEaKTNwtlHKdm,The Meeting,spotify:track:7K2qzAp1FcEaKTNwtlHKdm,0.678,0.131,0.272,0.679,0.108,-21.072,0.0505,97.367,0.0384,22,Pitbull
+Gotti (Original Motion Picture Soundtrack),7,7fx9WWXNKLxMN21y62aWIj,Enough,spotify:track:7fx9WWXNKLxMN21y62aWIj,0.847,0.125,0.245,0.939,0.116,-18.472,0.0351,83.773,0.0365,21,Pitbull
+Gotti (Original Motion Picture Soundtrack),8,2XPe3fBELI20H9STwPMX6L,Father,spotify:track:2XPe3fBELI20H9STwPMX6L,0.058,0.163,0.297,0.857,0.105,-11.887,0.0401,87.896,0.0358,22,Pitbull
+Gotti (Original Motion Picture Soundtrack),9,0d99n8DFZziF0DHbBOEhA6,Advice,spotify:track:0d99n8DFZziF0DHbBOEhA6,0.986,0.261,0.00331,0.797,0.165,-23.967,0.0605,70.679,0.0655,34,Pitbull
+Gotti (Original Motion Picture Soundtrack),10,3QUdLpe40Im2mvgJl1kRLl,Somebody To Be,spotify:track:3QUdLpe40Im2mvgJl1kRLl,0.000274,0.322,0.605,0.905,0.0777,-5.172,0.0319,138.096,0.0787,26,Pitbull
+Gotti (Original Motion Picture Soundtrack),11,70nPicj6utwHjEREgoa2ZQ,The Mistake,spotify:track:70nPicj6utwHjEREgoa2ZQ,0.76,0.5,0.606,0.773,0.0669,-13.315,0.0437,131.991,0.24,20,Pitbull
+Gotti (Original Motion Picture Soundtrack),12,00939AtloLku4VBWYNqY8x,Still Here,spotify:track:00939AtloLku4VBWYNqY8x,0.936,0.195,0.0217,0.814,0.262,-16.572,0.0458,131.223,0.0547,19,Pitbull
+Gotti (Original Motion Picture Soundtrack),13,4eXcqF7LRYRpCOv5dseNqE,I Know You Know,spotify:track:4eXcqF7LRYRpCOv5dseNqE,0.755,0.46,0.345,0.371,0.0686,-14.044,0.036,92.987,0.0995,19,Pitbull
+Gotti (Original Motion Picture Soundtrack),14,4e3TTD2pv3iN8sUsqp37eu,Cosa Nostra,spotify:track:4e3TTD2pv3iN8sUsqp37eu,0.763,0.367,0.314,0.924,0.105,-13.659,0.0377,89.433,0.531,20,Pitbull
+Gotti (Original Motion Picture Soundtrack),15,5DtSRptyHUgO89hmFdhbu2,The Decision,spotify:track:5DtSRptyHUgO89hmFdhbu2,0.256,0.153,0.00358,0.416,0.108,-24.896,0.0545,91.09,0.0398,19,Pitbull
+Gotti (Original Motion Picture Soundtrack),16,4xTOKvaVQz4VtgBy1dsulF,The Plot,spotify:track:4xTOKvaVQz4VtgBy1dsulF,0.404,0.102,0.163,0.887,0.11,-12.421,0.0378,86.968,0.0316,19,Pitbull
+Gotti (Original Motion Picture Soundtrack),17,6OxYVG17vm5dsLydvMbLkQ,The Shelf,spotify:track:6OxYVG17vm5dsLydvMbLkQ,0.692,0.121,0.0622,0.701,0.136,-16.432,0.0416,148.72,0.0632,18,Pitbull
+Gotti (Original Motion Picture Soundtrack),18,0sG7AlnXkcyKdwt7d2EFgf,The Trial,spotify:track:0sG7AlnXkcyKdwt7d2EFgf,0.728,0.57,0.288,0.905,0.251,-12.583,0.0374,116.043,0.139,18,Pitbull
+Gotti (Original Motion Picture Soundtrack),19,22DTsu2kSQLvDeql59Qm3C,Mourning,spotify:track:22DTsu2kSQLvDeql59Qm3C,0.965,0.154,0.0155,0.985,0.166,-22.954,0.0414,135.886,0.0381,18,Pitbull
+Sunbeam (feat. Pitbull),1,0vCUNDggQQVE1aag7lNk9I,Sunbeam (feat. Pitbull) [EDM Mix],spotify:track:0vCUNDggQQVE1aag7lNk9I,0.00442,0.613,0.879,1.73E-05,0.441,-3.745,0.184,127.927,0.369,3,Pitbull
+Sunbeam (feat. Pitbull),2,2BGI4v5wNAchFMh1euepyu,Sunbeam (Deep Mix) [feat. Pitbull],spotify:track:2BGI4v5wNAchFMh1euepyu,0.00124,0.537,0.88,0.000339,0.337,-4.977,0.0444,122.008,0.275,2,Pitbull
+Sunbeam (feat. Pitbull),3,2QjQlQN69Y6oqPg31AeciX,Sunbeam (feat. Pitbull) [EDM Mix No Rap],spotify:track:2QjQlQN69Y6oqPg31AeciX,0.00409,0.6,0.867,2.19E-05,0.576,-3.674,0.188,127.925,0.354,1,Pitbull
+Sunbeam (feat. Pitbull),4,4lFiz1dbzvCHaSwdlbM0wl,Sunbeam (feat. Pitbull) [Deep Mix No Rap],spotify:track:4lFiz1dbzvCHaSwdlbM0wl,0.00141,0.519,0.869,0.000584,0.349,-4.908,0.0445,121.931,0.201,1,Pitbull
+Sunbeam (feat. Pitbull),5,3C9MtLydBSURzi5VtBHHAT,Sunbeam (feat. Pitbull)[EDM Mix Extended],spotify:track:3C9MtLydBSURzi5VtBHHAT,0.00572,0.541,0.889,5.52E-06,0.647,-3.848,0.247,128.057,0.272,1,Pitbull
+Sunbeam (feat. Pitbull),6,06UPL3phSojjSDdGaJxgmL,Sunbeam (feat. Pitbull) [Deep Mix Extended],spotify:track:06UPL3phSojjSDdGaJxgmL,0.00107,0.686,0.785,0.00976,0.0631,-5.572,0.0352,121.992,0.397,1,Pitbull
+Sunbeam (feat. Pitbull),7,2nrgnCdk0s5P0oIFVugSLT,Sunbeam (feat. Pitbull) [EDM Mix Extended No Rap],spotify:track:2nrgnCdk0s5P0oIFVugSLT,0.00176,0.701,0.729,0.000691,0.157,-4.794,0.252,127.984,0.376,1,Pitbull
+Sunbeam (feat. Pitbull),8,1OKbwV1BI8TSQR2OAdcS7N,Sunbeam (feat. Pitbull) [Deep Mix Extended No Rap],spotify:track:1OKbwV1BI8TSQR2OAdcS7N,0.00288,0.701,0.765,0.00841,0.0494,-5.556,0.035,121.983,0.327,1,Pitbull
+Sparks Fly (feat. Pitbull),1,1PkPC6u64EInrhpgmT53Ej,Sparks Fly (feat. Pitbull) [Deep Mix Edit],spotify:track:1PkPC6u64EInrhpgmT53Ej,0.0438,0.614,0.835,0,0.465,-4.097,0.0986,124.017,0.357,3,Pitbull
+Sparks Fly (feat. Pitbull),2,24iIPNh5FU9IFeaqVZeC2T,Sparks Fly (feat Pitbull)[BigBeat EDM Mix Edit],spotify:track:24iIPNh5FU9IFeaqVZeC2T,0.0516,0.593,0.939,1.19E-05,0.52,-1.795,0.106,127.98,0.393,1,Pitbull
+Sparks Fly (feat. Pitbull),3,0tpdtXYZXc4Zkg0NWYKBko,Sparks Fly (feat. Pitbull) [ADroiD Remix],spotify:track:0tpdtXYZXc4Zkg0NWYKBko,0.0012,0.67,0.879,0.000943,0.0522,-5.888,0.0423,110.029,0.818,1,Pitbull
+Sparks Fly (feat. Pitbull),4,5JxLJRIMUKGjPPYCCElj8l,Sparks Fly (feat. Pitbull) [Lotus Radio Edit],spotify:track:5JxLJRIMUKGjPPYCCElj8l,0.00159,0.579,0.885,0.0296,0.275,-4.097,0.0375,123.995,0.671,1,Pitbull
+Sparks Fly (feat. Pitbull),5,7salSQ4D9LfWGbUNfgZYo0,Sparks Fly (feat. Pitbull) [Deep Mix Extended],spotify:track:7salSQ4D9LfWGbUNfgZYo0,0.0164,0.592,0.856,2.19E-06,0.225,-6.007,0.134,123.906,0.244,1,Pitbull
+Sparks Fly (feat. Pitbull),6,46VP3UaFDQFoZAtwSygnWt,Sparks Fly (feat. Pitbull) [BigBeat EDM Mix Extended],spotify:track:46VP3UaFDQFoZAtwSygnWt,0.0115,0.701,0.959,0.000733,0.0696,-2.181,0.132,128.013,0.628,1,Pitbull
+Sparks Fly (feat. Pitbull),7,1Gx28nD9o7eJeAt6qyZ4I9,Sparks Fly (feat. Pitbull) [Lotus Extended Mix],spotify:track:1Gx28nD9o7eJeAt6qyZ4I9,0.000479,0.643,0.838,0.254,0.547,-4.694,0.0366,124.012,0.68,1,Pitbull
+Climate Change,1,7LFJv28DFDAVSkpvpozJ1D,We Are Strong (feat. Kiesza),spotify:track:7LFJv28DFDAVSkpvpozJ1D,0.000509,0.683,0.887,0.000254,0.224,-3.682,0.065,98.971,0.47,39,Pitbull
+Climate Change,2,4eRrRWQ06cnqhXUwJOOnKJ,"Bad Man (feat. Robin Thicke, Joe Perry & Travis Barker)",spotify:track:4eRrRWQ06cnqhXUwJOOnKJ,0.00763,0.648,0.97,3.27E-06,0.21,-4.308,0.0691,119.961,0.549,44,Pitbull
+Climate Change,3,3lJA6dGqvaKtVxqHbTtQiQ,Greenlight (feat. Flo Rida & LunchMoney Lewis),spotify:track:3lJA6dGqvaKtVxqHbTtQiQ,0.279,0.697,0.832,0,0.358,-5.603,0.267,115.05,0.633,54,Pitbull
+Climate Change,4,0bG61MsnxRxRHc007PxA2o,Messin' Around (with Enrique Iglesias),spotify:track:0bG61MsnxRxRHc007PxA2o,0.0148,0.568,0.81,0,0.0419,-4.593,0.0472,157.962,0.783,50,Pitbull
+Climate Change,5,0vLlEo1D4VRiGzMLxLbsh2,Better On Me (feat. Ty Dolla $ign),spotify:track:0vLlEo1D4VRiGzMLxLbsh2,0.0701,0.781,0.629,0,0.131,-6.565,0.18,125.938,0.442,48,Pitbull
+Climate Change,6,7IsJihZTqwODrRfrrv3zWB,Sexy Body,spotify:track:7IsJihZTqwODrRfrrv3zWB,0.0401,0.712,0.823,0.00192,0.0508,-5.212,0.036,122.049,0.495,47,Pitbull
+Climate Change,7,1StLlgkTm6s0LGRyAap9SP,Freedom,spotify:track:1StLlgkTm6s0LGRyAap9SP,0.0949,0.701,0.931,0,0.126,-4.954,0.119,118.034,0.803,47,Pitbull
+Climate Change,8,1B0DvDgNgvmccdfdEK4wB5,Options (feat. Stephen Marley),spotify:track:1B0DvDgNgvmccdfdEK4wB5,0.0541,0.744,0.574,0,0.303,-5.91,0.155,138.892,0.518,51,Pitbull
+Climate Change,9,2QPUaxEdbxIQbnATYjTXLW,Educate Ya (feat. Jason Derulo),spotify:track:2QPUaxEdbxIQbnATYjTXLW,0.0647,0.777,0.821,0,0.309,-4.126,0.0954,122.039,0.729,38,Pitbull
+Climate Change,10,64XOpjIAmHElXLV1OqhaOH,Only Ones To Know (feat. Leona Lewis),spotify:track:64XOpjIAmHElXLV1OqhaOH,0.149,0.739,0.913,1.90E-06,0.173,-4.149,0.0414,127.964,0.535,36,Pitbull
+Climate Change,11,16iHofweOVofNFKqni3QvK,Dedicated (feat. R. Kelly & Austin Mahone),spotify:track:16iHofweOVofNFKqni3QvK,0.0251,0.707,0.898,0,0.317,-2.836,0.167,126.01,0.65,31,Pitbull
+Climate Change,12,6ADhQWuCv54VfU3NM8Uyse,Can't Have (feat. Steven A. Clark & Ape Drums),spotify:track:6ADhQWuCv54VfU3NM8Uyse,0.0256,0.624,0.852,1.42E-06,0.147,-2.562,0.107,105.028,0.73,44,Pitbull
+Dale,3,03B4LjjkWBvDvsNQH9iVw1,El Taxi - Radio Edit,spotify:track:03B4LjjkWBvDvsNQH9iVw1,0.0408,0.829,0.758,0,0.139,-6.202,0.256,95.019,0.908,47,Pitbull
+Dale,1,4G8v8POxyDsNyaRAyGvuie,Piensas (Dile la Verdad),spotify:track:4G8v8POxyDsNyaRAyGvuie,0.00271,0.523,0.941,0,0.108,-4.484,0.0679,107.111,0.591,53,Pitbull
+Dale,2,5PnEBmCk56RQphcMe7EqhG,Como Yo Le Doy - Spanglish Version,spotify:track:5PnEBmCk56RQphcMe7EqhG,0.151,0.777,0.84,1.24E-06,0.249,-4.384,0.082,97.979,0.804,64,Pitbull
+Dale,3,1LbGorB0xOfpiXQJFKB2Nd,El Taxi,spotify:track:1LbGorB0xOfpiXQJFKB2Nd,0.12,0.869,0.691,0,0.102,-6.872,0.192,95.019,0.875,68,Pitbull
+Dale,4,3NIgZcptBrGIgGHdrsxIEC,Yo Quiero (Si Tu Te Enamoras),spotify:track:3NIgZcptBrGIgGHdrsxIEC,0.0199,0.654,0.878,2.89E-06,0.121,-3.273,0.0755,129.079,0.907,30,Pitbull
+Dale,5,3rDfmjVX1aS90LXJMMmp51,El Party,spotify:track:3rDfmjVX1aS90LXJMMmp51,0.00379,0.717,0.823,0.000149,0.0674,-5.246,0.0524,89.999,0.747,30,Pitbull
+Dale,6,406DbQLmjelaICKQhJ4BFM,Mami Mami,spotify:track:406DbQLmjelaICKQhJ4BFM,0.0556,0.722,0.756,0,0.163,-5.592,0.0725,89.969,0.546,33,Pitbull
+Dale,7,6Utgc4d1wmtkACjStaJUwd,Baddest Girl In Town,spotify:track:6Utgc4d1wmtkACjStaJUwd,0.0463,0.808,0.856,0,0.36,-3.553,0.162,107.951,0.7,50,Pitbull
+Dale,8,52t6MJCewRtvqaMVl2BssH,Chi Chi Bon Bon,spotify:track:52t6MJCewRtvqaMVl2BssH,0.00901,0.863,0.671,1.69E-06,0.518,-7.577,0.118,101.008,0.566,33,Pitbull
+Dale,9,0tKDRnU5DvHR1nIRxUlglv,Haciendo Ruido,spotify:track:0tKDRnU5DvHR1nIRxUlglv,0.0208,0.688,0.842,0,0.287,-5.04,0.0819,124.963,0.647,38,Pitbull
+Dale,10,3M9BHPTBXTJ4wEhFPneMDE,Hoy Se Bebe,spotify:track:3M9BHPTBXTJ4wEhFPneMDE,0.00874,0.649,0.906,0,0.906,-3.935,0.0427,128.068,0.93,47,Pitbull
+Dale,11,0imqsFAVIQS4MV431jUO51,No Puedo Más,spotify:track:0imqsFAVIQS4MV431jUO51,0.00215,0.733,0.853,2.75E-06,0.335,-5.126,0.0417,134.991,0.863,30,Pitbull
+Dale,12,4YmMHaVX6RImbL1PrfxqaG,Que Lo Que,spotify:track:4YmMHaVX6RImbL1PrfxqaG,0.00169,0.651,0.904,0,0.558,-6.128,0.15,143.986,0.552,33,Pitbull
+Globalization,12,2I44dbiAWJceNwnVfoAZjy,Fireball (feat. John Ryan) - Jump Smokers Remix,spotify:track:2I44dbiAWJceNwnVfoAZjy,0.0137,0.687,0.927,0.000716,0.29,-6.06,0.246,128.01,0.597,8,Pitbull
+Globalization,13,2bP5BoaaJiuIoSHZVC3uuH,Fireball (feat. John Ryan) - DJ Noodles Remix,spotify:track:2bP5BoaaJiuIoSHZVC3uuH,0.00715,0.731,0.978,0.00513,0.871,-5.066,0.122,140.033,0.495,7,Pitbull
+Globalization,1,2sKF6YGV5am5vI6eycPoQX,Ah Leke (feat. Sean Paul),spotify:track:2sKF6YGV5am5vI6eycPoQX,0.0437,0.811,0.889,0,0.185,-3.966,0.169,137.979,0.932,40,Pitbull
+Globalization,2,6Zo3wgDE076K2AuiGZF3CS,Fun (feat. Chris Brown),spotify:track:6Zo3wgDE076K2AuiGZF3CS,0.156,0.793,0.774,0,0.193,-3.667,0.0478,113.967,0.547,65,Pitbull
+Globalization,3,4Y7XAxTANhu3lmnLAzhWJW,Fireball (feat. John Ryan),spotify:track:4Y7XAxTANhu3lmnLAzhWJW,0.0908,0.761,0.933,8.53E-05,0.0607,-5.38,0.056,122.959,0.836,77,Pitbull
+Globalization,4,2bJvI42r8EF3wxjOuDav4r,Time of Our Lives,spotify:track:2bJvI42r8EF3wxjOuDav4r,0.0921,0.721,0.802,0,0.694,-5.797,0.0583,124.022,0.724,85,Pitbull
+Globalization,5,3hm9Df6fGtYVPicuJulXyN,"Celebrate (From the Original Motion Picture ""Penguins of Madagascar"")",spotify:track:3hm9Df6fGtYVPicuJulXyN,0.0136,0.684,0.853,1.45E-05,0.0566,-2.565,0.0616,126.952,0.933,54,Pitbull
+Globalization,6,4QjPFQa2qSqn1GKHwb976V,Sexy Beaches (feat. Chloe Angelides),spotify:track:4QjPFQa2qSqn1GKHwb976V,0.318,0.42,0.858,0,0.124,-5.768,0.423,126.49,0.339,46,Pitbull
+Globalization,7,3GfuzCkO8ufIvEA56DVV52,Day Drinking (feat. Heymous Molly),spotify:track:3GfuzCkO8ufIvEA56DVV52,0.0123,0.587,0.704,0,0.315,-4.603,0.0467,147.915,0.695,39,Pitbull
+Globalization,8,34en17vDgo4EoaFMQ0q1zk,Drive You Crazy (feat. Jason Derulo & Juicy J),spotify:track:34en17vDgo4EoaFMQ0q1zk,0.3,0.822,0.536,0,0.311,-6.102,0.123,127.982,0.546,45,Pitbull
+Globalization,9,2J4Alm5zUad4hB5bY2HhtV,Wild Wild Love (feat. G.R.L.),spotify:track:2J4Alm5zUad4hB5bY2HhtV,0.0165,0.66,0.685,0,0.442,-6.658,0.0477,119.991,0.32,60,Pitbull
+Globalization,10,1n9ihgANQtldosKV142hBz,This Is Not A Drill (feat. Bebe Rexha),spotify:track:1n9ihgANQtldosKV142hBz,0.0602,0.723,0.69,1.75E-06,0.212,-6.636,0.267,157.945,0.706,40,Pitbull
+Globalization,11,1PCvKFPWnTXAe2oaReVUcr,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte),spotify:track:1PCvKFPWnTXAe2oaReVUcr,0.00879,0.592,0.935,0.0154,0.132,-4.317,0.0581,125.013,0.567,73,Pitbull
+Global Warming: Meltdown (Deluxe Version),17,1vfc1fGzTvStnM7GSFBQ5F,Get It Started (feat. Shakira) - Jump Smokers Radio Mix,spotify:track:1vfc1fGzTvStnM7GSFBQ5F,0.00487,0.643,0.947,6.15E-05,0.36,-3.285,0.0364,128.985,0.462,7,Pitbull
+Global Warming: Meltdown (Deluxe Version),18,7jJm3UPVl75old4ITj8QhW,Timber (feat. Ke$ha),spotify:track:7jJm3UPVl75old4ITj8QhW,0.0283,0.59,0.964,0,0.154,-4.097,0.102,129.971,0.807,16,Pitbull
+Global Warming: Meltdown (Deluxe Version),19,5t8o66iRJDTMMCNuclADpS,That High (feat. Kelly Rowland),spotify:track:5t8o66iRJDTMMCNuclADpS,0.00079,0.641,0.788,0,0.131,-4.117,0.173,126.027,0.684,7,Pitbull
+Global Warming: Meltdown (Deluxe Version),20,5XSSpzGHuNcdN1RAkIDEP8,Do It (feat. Mayer Hawthorne),spotify:track:5XSSpzGHuNcdN1RAkIDEP8,0.241,0.812,0.906,0,0.239,-4.768,0.0866,119.481,0.837,8,Pitbull
+Global Warming: Meltdown (Deluxe Version),21,2mqnmvZlRUyjkJzjOZSgmN,Sun in California (feat. Mohombi & Playb4ck),spotify:track:2mqnmvZlRUyjkJzjOZSgmN,0.158,0.7,0.752,0,0.363,-5.549,0.0856,127.872,0.535,5,Pitbull
+Global Warming: Meltdown (Deluxe Version),22,7vBU3388hnVFaf7XlaLwIi,All the Things (feat. Inna),spotify:track:7vBU3388hnVFaf7XlaLwIi,0.00797,0.716,0.751,3.88E-06,0.0444,-4.928,0.0524,127.037,0.885,6,Pitbull
+Global Warming (Deluxe Version),23,5PdP6rQzvcTk4igl6TRkiB,Dance Again,spotify:track:5PdP6rQzvcTk4igl6TRkiB,0.0159,0.798,0.867,2.69E-06,0.0974,-5.24,0.0701,127.979,0.703,0,Pitbull
+Global Warming (Deluxe Version),14,7gQmp1TIfoSXl014IWyppa,Everybody F**ks (feat. Akon & David Rush),spotify:track:7gQmp1TIfoSXl014IWyppa,0.0408,0.753,0.912,0,0.536,-4.795,0.0984,127.995,0.942,8,Pitbull
+Global Warming,1,6OmhkSOpvYBokMKQxpIGx2,Global Warming (feat. Sensato),spotify:track:6OmhkSOpvYBokMKQxpIGx2,0.149,0.746,0.66,0,0.106,-7.013,0.314,103.26,0.854,28,Pitbull
+Global Warming,2,2iblMMIgSznA464mNov7A8,Don't Stop the Party (feat. TJR),spotify:track:2iblMMIgSznA464mNov7A8,0.0073,0.714,0.952,0,0.387,-3.622,0.0894,127.008,0.959,58,Pitbull
+Global Warming,3,4yOn1TEcfsKHUJCL2h1r8I,Feel This Moment (feat. Christina Aguilera),spotify:track:4yOn1TEcfsKHUJCL2h1r8I,0.0338,0.668,0.758,0,0.204,-3.589,0.158,135.958,0.531,58,Pitbull
+Global Warming,4,7fmpKF0rLGPnP7kcQ5ZMm7,"Back in Time - featured in ""Men In Black 3""",spotify:track:7fmpKF0rLGPnP7kcQ5ZMm7,0.00211,0.727,0.91,1.01E-06,0.165,-4.516,0.0466,127.088,0.747,48,Pitbull
+Global Warming,5,3jStb2imKd6oUoBT1zq5lp,Hope We Meet Again (feat. Chris Brown),spotify:track:3jStb2imKd6oUoBT1zq5lp,0.0116,0.635,0.895,0,0.149,-4.527,0.0432,128.005,0.673,27,Pitbull
+Global Warming,6,6Q4PYJtrq8CBx7YCY5IyRN,Party Ain't Over (feat. Usher & Afrojack),spotify:track:6Q4PYJtrq8CBx7YCY5IyRN,0.325,0.644,0.872,0,0.0905,-3.101,0.303,128.025,0.575,28,Pitbull
+Global Warming,7,0QTVwqcOsYd73AOkYkk0Hg,Drinks for You (Ladies Anthem) (feat. J. Lo),spotify:track:0QTVwqcOsYd73AOkYkk0Hg,0.057,0.793,0.776,0.000153,0.119,-8.35,0.0593,128.008,0.887,24,Pitbull
+Global Warming,8,10Sydb6AAFPdgCzCKOSZuI,Have Some Fun (feat. The Wanted & Afrojack),spotify:track:10Sydb6AAFPdgCzCKOSZuI,0.026,0.638,0.91,0,0.092,-4.737,0.426,129.131,0.463,32,Pitbull
+Global Warming,9,4k61iDqmtX9nI7RfLmp9aq,Outta Nowhere (feat. Danny Mercer),spotify:track:4k61iDqmtX9nI7RfLmp9aq,0.163,0.71,0.836,0,0.238,-3.567,0.0346,95.017,0.615,34,Pitbull
+Global Warming,10,7oGRkL31ElVMcevQDceT99,Tchu Tchu Tcha (feat. Enrique Iglesias),spotify:track:7oGRkL31ElVMcevQDceT99,0.0175,0.638,0.809,0,0.0975,-5.418,0.114,126.072,0.44,32,Pitbull
+Global Warming,11,60xPqMqnHZl7Jfiu6E9q8X,Last Night (feat. Afrojack & Havana Brown),spotify:track:60xPqMqnHZl7Jfiu6E9q8X,0.11,0.639,0.649,0,0.118,-5.086,0.119,127.989,0.669,25,Pitbull
+Global Warming,12,1jAdXqOSICyXYLaW9ioSur,I'm Off That,spotify:track:1jAdXqOSICyXYLaW9ioSur,0.134,0.832,0.976,0,0.345,-3.851,0.272,139.97,0.524,19,Pitbull
+Global Warming,13,0fjRYHFz9ealui1lfnN8it,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),spotify:track:0fjRYHFz9ealui1lfnN8it,0.0597,0.464,0.842,0,0.037,-3.64,0.269,89.759,0.957,62,Pitbull
+Global Warming,14,7of35ktwTbL906Z1i3mT4K,Everybody Fucks (feat. Akon & David Rush),spotify:track:7of35ktwTbL906Z1i3mT4K,0.0601,0.749,0.916,0,0.54,-4.749,0.101,128.056,0.93,44,Pitbull
+Global Warming,15,2JA6A6Y5f4m7PawM58U2Op,Get It Started (feat. Shakira),spotify:track:2JA6A6Y5f4m7PawM58U2Op,0.0668,0.693,0.849,0,0.69,-3.259,0.189,128.971,0.599,44,Pitbull
+Global Warming,16,726qZxwhP0jVyIA0ujnnhb,11:59 (feat. Vein),spotify:track:726qZxwhP0jVyIA0ujnnhb,0.0894,0.734,0.886,0,0.369,-4.909,0.105,134.436,0.611,22,Pitbull
+Global Warming,17,6GPER1Sx8MrBiwWxdulg5Q,Rain Over Me (feat. Marc Anthony) - Benny Benassi Remix,spotify:track:6GPER1Sx8MrBiwWxdulg5Q,0.0434,0.575,0.78,2.91E-06,0.0666,-1.726,0.276,129.917,0.263,29,Pitbull
+Global Warming,18,4TWgcICXXfGty8MHGWJ4Ne,International Love (feat. Chris Brown) - Jump Smokers Extended Mix,spotify:track:4TWgcICXXfGty8MHGWJ4Ne,0.0661,0.741,0.635,2.64E-06,0.609,-4.799,0.0675,127.04,0.621,30,Pitbull
+Global Warming (Deluxe Version),1,0teYtzQYxLc3gQ6XIvvgLP,Global Warming,spotify:track:0teYtzQYxLc3gQ6XIvvgLP,0.149,0.746,0.66,0,0.106,-7.013,0.314,103.26,0.854,0,Pitbull
+Global Warming (Deluxe Version),2,0yLlv9F5FDMWe94PDue9jg,Don't Stop The Party,spotify:track:0yLlv9F5FDMWe94PDue9jg,0.0073,0.714,0.952,0,0.387,-3.622,0.0894,127.008,0.959,0,Pitbull
+Global Warming (Deluxe Version),3,68kRi9VkXdXnhI7HqaWBle,Feel This Moment,spotify:track:68kRi9VkXdXnhI7HqaWBle,0.0338,0.668,0.758,0,0.204,-3.589,0.158,135.958,0.531,0,Pitbull
+Global Warming (Deluxe Version),5,69KbPqR5p1avmEH3JUcLMI,Hope We Meet Again,spotify:track:69KbPqR5p1avmEH3JUcLMI,0.0116,0.635,0.895,0,0.149,-4.527,0.0432,128.005,0.673,0,Pitbull
+Global Warming (Deluxe Version),6,3RjlUeSVCphQA1pPAoEe55,Party Ain't Over,spotify:track:3RjlUeSVCphQA1pPAoEe55,0.325,0.644,0.872,0,0.0905,-3.101,0.303,128.025,0.575,0,Pitbull
+Global Warming (Deluxe Version),7,31xosdVbnnFn2z08DtP2at,Drinks For You (Ladies Anthem),spotify:track:31xosdVbnnFn2z08DtP2at,0.057,0.793,0.776,0.000153,0.119,-8.35,0.0593,128.008,0.887,0,Pitbull
+Global Warming (Deluxe Version),8,0rChpOsqfJa6VJd2RzL3qV,Have Some Fun,spotify:track:0rChpOsqfJa6VJd2RzL3qV,0.026,0.638,0.91,0,0.092,-4.737,0.426,129.131,0.463,0,Pitbull
+Global Warming (Deluxe Version),9,3pPzuvQ1p32qPMFuBSbarM,Outta Nowhere,spotify:track:3pPzuvQ1p32qPMFuBSbarM,0.163,0.71,0.836,0,0.238,-3.567,0.0346,95.017,0.615,0,Pitbull
+Global Warming (Deluxe Version),10,75cy1ookWdLd3d6g4vufTB,Tchu Tchu Tcha,spotify:track:75cy1ookWdLd3d6g4vufTB,0.0175,0.638,0.809,0,0.0975,-5.418,0.114,126.072,0.44,0,Pitbull
+Global Warming (Deluxe Version),11,6iyHlKzbyb1Pmx8w4yJEKQ,Last Night,spotify:track:6iyHlKzbyb1Pmx8w4yJEKQ,0.11,0.639,0.649,0,0.118,-5.086,0.119,127.989,0.669,0,Pitbull
+Global Warming (Deluxe Version),13,4agWwCQyPBlv1S1ExzhAXg,Echa Pa'lla (Manos Pa'rriba),spotify:track:4agWwCQyPBlv1S1ExzhAXg,0.0597,0.464,0.842,0,0.037,-3.64,0.269,89.759,0.957,25,Pitbull
+Global Warming (Deluxe Version),14,1hPyhyOenFX8dck03DFbmR,Everybody Fucks,spotify:track:1hPyhyOenFX8dck03DFbmR,0.0601,0.749,0.916,0,0.54,-4.749,0.101,128.056,0.93,0,Pitbull
+Global Warming (Deluxe Version),15,0mIsdRP8xksCwHzx0qNH6e,Get It Started,spotify:track:0mIsdRP8xksCwHzx0qNH6e,0.0668,0.693,0.849,0,0.69,-3.259,0.189,128.971,0.599,0,Pitbull
+Global Warming (Deluxe Version),16,04pcKokVtjgwAWdSBQ2pEG,11:59,spotify:track:04pcKokVtjgwAWdSBQ2pEG,0.0894,0.734,0.886,0,0.369,-4.909,0.105,134.436,0.611,0,Pitbull
+Global Warming (Deluxe Version),17,4miVeeOdgU2ATQXzZi4c92,Rain Over Me,spotify:track:4miVeeOdgU2ATQXzZi4c92,0.0048,0.612,0.909,0,0.824,-2.106,0.0636,127.914,0.272,0,Pitbull
+Global Warming (Deluxe Version),18,3ty6S254KzZOdKpJwsRx2s,International Love,spotify:track:3ty6S254KzZOdKpJwsRx2s,0.0144,0.675,0.859,0,0.267,-3.016,0.0526,119.972,0.651,0,Pitbull
+Global Warming (Deluxe Version),19,0dmVXgA7566FgLn7H9WSPI,Hotel Room Service,spotify:track:0dmVXgA7566FgLn7H9WSPI,0.00301,0.849,0.599,0.000294,0.0757,-8.164,0.227,126,0.763,0,Pitbull
+Global Warming (Deluxe Version),20,0zvEAsH0j1APNZ9QJlRuHO,Give Me Everything,spotify:track:0zvEAsH0j1APNZ9QJlRuHO,0.185,0.672,0.933,1.69E-06,0.107,-3.232,0.167,129.02,0.524,0,Pitbull
+Global Warming (Deluxe Version),21,3h2jgqTVG2F7s7XvjjNPw2,Hey Baby (Drop It To The Floor),spotify:track:3h2jgqTVG2F7s7XvjjNPw2,0.0374,0.596,0.909,0,0.0897,-3.44,0.0831,128.014,0.773,0,Pitbull
+Global Warming (Deluxe Version),22,3kgGNVPgVD2tNdxtEb4mPa,DJ Got Us Fallin' in Love,spotify:track:3kgGNVPgVD2tNdxtEb4mPa,0.0312,0.666,0.878,0,0.0815,-2.84,0.0975,119.937,0.669,0,Pitbull

@@ -1,0 +1,155 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+"""A""",1,2BwmbZnTS8RCH8upxgwmsy,Stay At Home (feat. Future),spotify:track:2BwmbZnTS8RCH8upxgwmsy,0.014,0.817,0.489,1.83E-05,0.106,-8.652,0.0968,140.998,0.357,44,Usher
+"""A""",2,5qfnQ0gOh7bL41HmMT2hJD,ATA,spotify:track:5qfnQ0gOh7bL41HmMT2hJD,0.015,0.717,0.496,0,0.139,-6.263,0.045,140.003,0.302,43,Usher
+"""A""",3,3DlGY66fukwF71OYNLylxc,Peace Sign,spotify:track:3DlGY66fukwF71OYNLylxc,0.14,0.796,0.535,0,0.192,-7.783,0.0453,119.937,0.347,55,Usher
+"""A""",4,43O1LuFW6QIJ20RSV8gC4g,You Decide,spotify:track:43O1LuFW6QIJ20RSV8gC4g,0.205,0.746,0.534,0,0.119,-6.326,0.0403,139.938,0.381,48,Usher
+"""A""",5,3eKNhLFP3smSZTsyXFZchJ,Birthday,spotify:track:3eKNhLFP3smSZTsyXFZchJ,0.0187,0.827,0.701,0,0.138,-6.403,0.0994,144.985,0.825,39,Usher
+"""A""",6,1zNhB8ijPdsRsW4IJAj9ml,She Ain't Tell Ya,spotify:track:1zNhB8ijPdsRsW4IJAj9ml,0.1,0.567,0.519,0,0.107,-7.32,0.365,154.197,0.237,39,Usher
+"""A""",7,0J6rYo0Fw0OkrMx1KHOvtx,Say What U Want,spotify:track:0J6rYo0Fw0OkrMx1KHOvtx,0.152,0.491,0.4,0,0.618,-10.396,0.157,58.358,0.212,40,Usher
+"""A""",8,3rvEfZJr85MYk2hgiOtfoF,Gift Shop (feat. Gunna),spotify:track:3rvEfZJr85MYk2hgiOtfoF,0.0606,0.848,0.662,0,0.078,-6.596,0.0935,127.015,0.35,37,Usher
+Hard II Love,1,2xXWUv1kpqGwckDDyKJEZC,Need U,spotify:track:2xXWUv1kpqGwckDDyKJEZC,0.643,0.337,0.481,0,0.435,-9.36,0.0544,96.72,0.118,32,Usher
+Hard II Love,2,36YfkagRBn8XI6pKOjbTuV,Missin U,spotify:track:36YfkagRBn8XI6pKOjbTuV,0.113,0.735,0.589,0,0.166,-6.586,0.0593,116.974,0.249,39,Usher
+Hard II Love,3,1CDBn2Lm7E63XKQDsdCq6O,No Limit (feat. Young Thug),spotify:track:1CDBn2Lm7E63XKQDsdCq6O,0.0799,0.717,0.523,0,0.206,-6.506,0.0611,127.047,0.282,64,Usher
+Hard II Love,4,5j2qgdGCcIyrZ906oZlXcA,Bump,spotify:track:5j2qgdGCcIyrZ906oZlXcA,0.384,0.72,0.582,0,0.128,-6.638,0.0623,124.97,0.719,35,Usher
+Hard II Love,5,2zGbEkMYPxlQJQ9VKD5crD,Let Me,spotify:track:2zGbEkMYPxlQJQ9VKD5crD,0.147,0.713,0.767,0,0.141,-7.251,0.112,115.008,0.301,36,Usher
+Hard II Love,6,454Qxe6MP4AZU4V971sohu,Downtime,spotify:track:454Qxe6MP4AZU4V971sohu,0.803,0.562,0.533,0.000224,0.12,-7.28,0.161,110.385,0.375,36,Usher
+Hard II Love,7,107ZmaJvvUr4Vi0C8D53R7,Crash,spotify:track:107ZmaJvvUr4Vi0C8D53R7,0.0765,0.698,0.591,0.00033,0.0919,-7.762,0.0898,103.967,0.244,55,Usher
+Hard II Love,8,3d9qL4raQJ9NlV7aCUXhLb,Make U A Believer,spotify:track:3d9qL4raQJ9NlV7aCUXhLb,0.274,0.65,0.582,0,0.0885,-7.219,0.159,132.071,0.297,33,Usher
+Hard II Love,9,6zUSi4CwwJx3DCmJ7NtQtU,Mind Of A Man,spotify:track:6zUSi4CwwJx3DCmJ7NtQtU,0.541,0.625,0.53,0,0.277,-13.345,0.14,124.445,0.142,30,Usher
+Hard II Love,10,20uTG4R792vLsSlcKCbA3r,FWM,spotify:track:20uTG4R792vLsSlcKCbA3r,0.0145,0.823,0.396,8.83E-05,0.0953,-10.219,0.0877,129.997,0.657,33,Usher
+Hard II Love,11,73PUc2G469kE7CVuEiPmNP,Rivals (feat. Future),spotify:track:73PUc2G469kE7CVuEiPmNP,0.221,0.519,0.447,0,0.142,-7.333,0.134,120.086,0.36,54,Usher
+Hard II Love,12,0CiRnuzUmOlm2rPxRTD2nY,Tell Me,spotify:track:0CiRnuzUmOlm2rPxRTD2nY,0.417,0.449,0.468,0.00115,0.06,-6.81,0.033,139.913,0.325,46,Usher
+Hard II Love,13,7i9K4q131A0fvXw2FFhxLr,Hard II Love,spotify:track:7i9K4q131A0fvXw2FFhxLr,0.844,0.621,0.391,0,0.288,-7.731,0.0369,136.852,0.457,33,Usher
+Hard II Love,14,1nuxaVFCgDnqYHGVr4AglT,Stronger,spotify:track:1nuxaVFCgDnqYHGVr4AglT,0.421,0.448,0.612,0,0.189,-7.059,0.141,119.352,0.248,32,Usher
+Hard II Love,15,6oexQfFU2Pv99A7KQFSguS,"Champions (from the Motion Picture ""Hands Of Stone"")",spotify:track:6oexQfFU2Pv99A7KQFSguS,0.0114,0.747,0.663,4.73E-06,0.128,-7.07,0.136,101.969,0.722,30,Usher
+Looking 4 Myself (Expanded Edition),1,3SuYBr6fF1dxNdnPEG6Nrq,Can't Stop Won't Stop,spotify:track:3SuYBr6fF1dxNdnPEG6Nrq,0.00717,0.603,0.752,6.80E-05,0.544,-6.753,0.094,129.86,0.601,35,Usher
+Looking 4 Myself (Expanded Edition),2,12eMQUn2GzfsfsQLH53M19,Scream,spotify:track:12eMQUn2GzfsfsQLH53M19,0.00117,0.616,0.862,0,0.179,-5.18,0.0973,127.992,0.569,72,Usher
+Looking 4 Myself (Expanded Edition),3,5pyVqlqThcxI7tPDjHIzPh,Climax,spotify:track:5pyVqlqThcxI7tPDjHIzPh,0.547,0.647,0.478,2.69E-05,0.156,-8.837,0.0782,135.877,0.333,65,Usher
+Looking 4 Myself (Expanded Edition),4,49HpSwfC9vUtqXXiVyJytQ,I Care For U,spotify:track:49HpSwfC9vUtqXXiVyJytQ,0.0796,0.596,0.622,2.92E-06,0.269,-5.849,0.0655,123.931,0.406,35,Usher
+Looking 4 Myself (Expanded Edition),5,6nOXmmEaUNS2M3FGyqOGbI,Show Me,spotify:track:6nOXmmEaUNS2M3FGyqOGbI,0.0226,0.723,0.664,1.63E-05,0.174,-4.893,0.0617,115.052,0.492,34,Usher
+Looking 4 Myself (Expanded Edition),6,4MevEW6tsWrpmzPKaqK0Uw,Lemme See (feat. Rick Ross),spotify:track:4MevEW6tsWrpmzPKaqK0Uw,0.0262,0.656,0.725,0,0.0712,-4.067,0.0596,153.873,0.403,58,Usher
+Looking 4 Myself (Expanded Edition),7,65czTBQkqPJwK1JAyND9Rb,Twisted (feat. Pharrell),spotify:track:65czTBQkqPJwK1JAyND9Rb,0.00661,0.921,0.718,0.0011,0.0882,-6.698,0.121,120,0.701,35,Usher
+Looking 4 Myself (Expanded Edition),8,3U95Hs5XOsHD6G08ysGK6Q,Dive,spotify:track:3U95Hs5XOsHD6G08ysGK6Q,0.444,0.54,0.639,2.29E-06,0.129,-6.143,0.081,141.741,0.257,41,Usher
+Looking 4 Myself (Expanded Edition),9,1uiXs9hVwwpOqkvIsiPo9E,What Happened To U,spotify:track:1uiXs9hVwwpOqkvIsiPo9E,0.425,0.683,0.608,0.00054,0.116,-8.829,0.0594,92.905,0.113,35,Usher
+Looking 4 Myself (Expanded Edition),10,3pkJ28zhq2wKElcAPtpZjP,Looking 4 Myself (feat. Luke Steele),spotify:track:3pkJ28zhq2wKElcAPtpZjP,0.0153,0.759,0.82,0.00205,0.488,-5.623,0.0312,127.029,0.89,34,Usher
+Looking 4 Myself (Expanded Edition),11,0IGqnANwfZgUFpoPRXQxFj,Numb,spotify:track:0IGqnANwfZgUFpoPRXQxFj,0.0113,0.577,0.687,4.42E-06,0.112,-7.601,0.0471,124.956,0.291,48,Usher
+Looking 4 Myself (Expanded Edition),12,01JcvslxLX2BBbqK0hYTMp,Lessons For The Lover,spotify:track:01JcvslxLX2BBbqK0hYTMp,0.464,0.682,0.678,7.25E-05,0.363,-6.942,0.0534,120.001,0.682,34,Usher
+Looking 4 Myself (Expanded Edition),13,4CQTbx92oyjYheHpInzoa0,Sins Of My Father,spotify:track:4CQTbx92oyjYheHpInzoa0,0.0728,0.602,0.688,0,0.0833,-5.855,0.0996,145.355,0.514,29,Usher
+Looking 4 Myself (Expanded Edition),14,4Ir9AFLOMPgb8IJ38WbEIp,Euphoria,spotify:track:4Ir9AFLOMPgb8IJ38WbEIp,0.124,0.594,0.771,3.32E-05,0.0854,-6.2,0.0445,127.942,0.423,38,Usher
+Looking 4 Myself (Expanded Edition),15,1cI5MKYbSDZIc0LIXfqDtT,I.F.U.,spotify:track:1cI5MKYbSDZIc0LIXfqDtT,0.0398,0.696,0.831,2.05E-05,0.273,-5.479,0.0803,164.952,0.527,33,Usher
+Looking 4 Myself (Expanded Edition),16,7Bg0IhQwtP06zmG6bB9cjz,Say The Words,spotify:track:7Bg0IhQwtP06zmG6bB9cjz,0.244,0.742,0.348,2.90E-06,0.0672,-10.307,0.0345,99.93,0.726,29,Usher
+Looking 4 Myself (Expanded Edition),17,2R3psbsyvdSONzCHAnLO4x,2nd Round,spotify:track:2R3psbsyvdSONzCHAnLO4x,0.0103,0.446,0.715,0,0.375,-6.864,0.142,89.251,0.199,29,Usher
+Looking 4 Myself (Expanded Edition),18,3JxDy5oyoxfjDZQBcuQErB,Hot Thing (feat. A$AP Rocky),spotify:track:3JxDy5oyoxfjDZQBcuQErB,0.0237,0.751,0.726,0,0.0383,-2.857,0.0629,84.999,0.579,33,Usher
+Raymond v Raymond (Expanded Edition),1,3IfytpNFSJwGXrSJOVhKLV,Monstar,spotify:track:3IfytpNFSJwGXrSJOVhKLV,0.0397,0.691,0.506,0.000319,0.0918,-9.369,0.274,115.995,0.169,33,Usher
+Raymond v Raymond (Expanded Edition),2,030OCtLMrljNhp8OWHBWW3,Hey Daddy (Daddy's Home),spotify:track:030OCtLMrljNhp8OWHBWW3,0.000176,0.59,0.698,0,0.107,-4.262,0.0286,95.975,0.352,65,Usher
+Raymond v Raymond (Expanded Edition),3,6IUiqtI8tE49sqGbmtrNd8,There Goes My Baby,spotify:track:6IUiqtI8tE49sqGbmtrNd8,0.175,0.626,0.52,0,0.13,-8.077,0.0892,77.468,0.257,62,Usher
+Raymond v Raymond (Expanded Edition),4,2sdarYql1R0GAdFsdb4LDM,Lil Freak (feat. Nicki Minaj),spotify:track:2sdarYql1R0GAdFsdb4LDM,0.000879,0.834,0.628,0.000192,0.292,-6.616,0.0626,139.958,0.766,58,Usher
+Raymond v Raymond (Expanded Edition),5,34PFCxQHHROuFl2OsDCvxH,She Don't Know (feat. Ludacris),spotify:track:34PFCxQHHROuFl2OsDCvxH,0.0023,0.511,0.736,0,0.167,-6.811,0.153,174.19,0.361,37,Usher
+Raymond v Raymond (Expanded Edition),6,1bM50INir8voAkVoKuvEUI,OMG (feat. will.i.am),spotify:track:1bM50INir8voAkVoKuvEUI,0.198,0.781,0.745,1.14E-05,0.36,-5.81,0.0332,129.998,0.326,78,Usher
+Raymond v Raymond (Expanded Edition),7,4qPmUf6dsy4AyfbxliqGSM,Mars vs. Venus,spotify:track:4qPmUf6dsy4AyfbxliqGSM,0.0904,0.338,0.567,0,0.0669,-8.826,0.137,97.551,0.297,38,Usher
+Raymond v Raymond (Expanded Edition),8,7140BL0vb51Y52HZ77VgZ5,Pro Lover,spotify:track:7140BL0vb51Y52HZ77VgZ5,0.00316,0.703,0.62,7.27E-05,0.0724,-5.162,0.231,71.996,0.61,36,Usher
+Raymond v Raymond (Expanded Edition),9,0ZZ4nTGGQrNlTDbr0iPS3k,Foolin' Around,spotify:track:0ZZ4nTGGQrNlTDbr0iPS3k,0.0706,0.581,0.537,0,0.234,-8.554,0.14,113.114,0.261,43,Usher
+Raymond v Raymond (Expanded Edition),10,77fP7UixHMYEIFT8NS92Ul,Papers,spotify:track:77fP7UixHMYEIFT8NS92Ul,0.0339,0.802,0.556,0,0.0958,-5.395,0.0418,120.047,0.158,50,Usher
+Raymond v Raymond (Expanded Edition),11,6I87amCgXe8XOFfQJZWGPP,So Many Girls,spotify:track:6I87amCgXe8XOFfQJZWGPP,0.00141,0.683,0.664,2.47E-05,0.0781,-8.311,0.0582,109.038,0.647,33,Usher
+Raymond v Raymond (Expanded Edition),12,7ERcLgXeNSWG3ktsgaH56i,Guilty (feat. T.I.),spotify:track:7ERcLgXeNSWG3ktsgaH56i,0.0208,0.81,0.606,0,0.0787,-8.114,0.104,98.606,0.765,43,Usher
+Raymond v Raymond (Expanded Edition),13,0G6SfvXZcPxKe931dS0LwB,Okay,spotify:track:0G6SfvXZcPxKe931dS0LwB,0.274,0.602,0.692,0,0.0884,-6.82,0.248,158.954,0.479,35,Usher
+Raymond v Raymond (Expanded Edition),14,4XmQMFVOdI7dstMgmhThyJ,Making Love (Into the Night),spotify:track:4XmQMFVOdI7dstMgmhThyJ,0.0641,0.607,0.454,0,0.0662,-8.206,0.0788,77.454,0.301,44,Usher
+Raymond v Raymond (Expanded Edition),15,3xWoPclLuCoGpt9sg9RfAh,Love 'Em All,spotify:track:3xWoPclLuCoGpt9sg9RfAh,0.0137,0.632,0.707,0,0.341,-6.174,0.101,140.43,0.813,32,Usher
+Raymond v Raymond (Expanded Edition),16,4356Typ82hUiFAynbLYbPn,DJ Got Us Fallin' In Love (feat. Pitbull),spotify:track:4356Typ82hUiFAynbLYbPn,0.0338,0.663,0.861,0,0.082,-3.398,0.109,119.963,0.654,84,Usher
+Raymond v Raymond (Expanded Edition),17,1Vot6YSxInL52SGTN0XN9n,Hot Tottie (feat. Jay-Z),spotify:track:1Vot6YSxInL52SGTN0XN9n,0.00155,0.654,0.866,5.38E-06,0.0928,-4.332,0.286,87.525,0.669,47,Usher
+Raymond v Raymond (Expanded Edition),18,469v2YvryJ3zKe7IdzYOlj,Lay You Down,spotify:track:469v2YvryJ3zKe7IdzYOlj,0.00691,0.65,0.547,0,0.0822,-7.473,0.0419,120.053,0.476,37,Usher
+Raymond v Raymond (Expanded Edition),19,2LvCnYNqj2nzP6VQAB1uZV,Lingerie,spotify:track:2LvCnYNqj2nzP6VQAB1uZV,0.000335,0.91,0.521,0.000426,0.055,-5.279,0.0676,113.964,0.717,29,Usher
+Raymond v Raymond (Expanded Edition),20,4ImEeJ5Fsdg4ULiBCOKEPG,Get In My Car (feat. Bun B),spotify:track:4ImEeJ5Fsdg4ULiBCOKEPG,0.0463,0.757,0.804,0,0.0768,-7.275,0.242,128.858,0.666,29,Usher
+Raymond v Raymond (Expanded Edition),21,6tnrFU8iLQ6orFXjCA3flL,Somebody to Love (feat. Justin Bieber) - Remix,spotify:track:6tnrFU8iLQ6orFXjCA3flL,0.0113,0.642,0.87,0,0.677,-2.879,0.034,129.982,0.649,45,Usher
+Raymond v Raymond (Expanded Edition),22,3PxTsBlC26KCv3pbsgeZsb,Stranger,spotify:track:3PxTsBlC26KCv3pbsgeZsb,0.141,0.405,0.823,0,0.0921,-5.03,0.0401,119.777,0.303,31,Usher
+Here I Stand,2,5j0McHPthKpOXRr3fBq8M0,Love in This Club (feat. Young Jeezy),spotify:track:5j0McHPthKpOXRr3fBq8M0,0.0572,0.573,0.712,0,0.167,-5.976,0.0732,140.012,0.346,74,Usher
+Here I Stand,3,6DVBysMGcFQ3dGTxjvDhSz,This Ain't Sex,spotify:track:6DVBysMGcFQ3dGTxjvDhSz,0.00241,0.91,0.657,0,0.027,-2.934,0.137,111.988,0.709,38,Usher
+Here I Stand,4,5yC7WplXvhIHsp8NBYV5dT,Trading Places,spotify:track:5yC7WplXvhIHsp8NBYV5dT,0.000153,0.696,0.643,1.03E-05,0.156,-5.218,0.0447,146.005,0.332,58,Usher
+Here I Stand,5,0Z4DAkZzXkupqCtT7BGU5F,Moving Mountains,spotify:track:0Z4DAkZzXkupqCtT7BGU5F,0.0856,0.72,0.734,0,0.303,-4.515,0.0316,115.999,0.37,58,Usher
+Here I Stand,6,3JAiho4Z6tZ7G9RuSxpwxV,What's Your Name (feat. will.i.am),spotify:track:3JAiho4Z6tZ7G9RuSxpwxV,0.0113,0.946,0.447,0,0.0603,-8.568,0.0885,115.966,0.877,44,Usher
+Here I Stand,7,6Psjnlv7LWT3vOBIdmQgPG,Prayer for You Interlude,spotify:track:6Psjnlv7LWT3vOBIdmQgPG,0.914,0.467,0.215,0,0.263,-15.427,0.0524,125.061,0.522,30,Usher
+Here I Stand,8,2MmFydaQFS4QeR8xJ2aEhj,Something Special,spotify:track:2MmFydaQFS4QeR8xJ2aEhj,0.445,0.818,0.543,0,0.109,-5.567,0.301,99.046,0.548,47,Usher
+Here I Stand,9,6kc6aWYAiHwRBloyIhBpcO,Love You Gently,spotify:track:6kc6aWYAiHwRBloyIhBpcO,0.321,0.448,0.546,0,0.52,-6.672,0.086,123.513,0.403,41,Usher
+Here I Stand,10,4QCMnKAZBUKCWdIHQnC3Np,Best Thing (feat. Jay-Z),spotify:track:4QCMnKAZBUKCWdIHQnC3Np,0.135,0.484,0.792,0,0.412,-3.361,0.335,173.417,0.838,37,Usher
+Here I Stand,11,7CMq7iYOWyTut4SbxtKSfC,Before I Met You,spotify:track:7CMq7iYOWyTut4SbxtKSfC,0.00211,0.434,0.54,0,0.102,-7.752,0.0594,109.97,0.0508,38,Usher
+Here I Stand,12,6sVVOCLGg2gyUSBZArNnoO,His Mistakes,spotify:track:6sVVOCLGg2gyUSBZArNnoO,0.52,0.714,0.624,0,0.113,-6.718,0.0307,92.964,0.594,46,Usher
+Here I Stand,13,7gWAEVw34siFiQdkTZLcxS,Appetite,spotify:track:7gWAEVw34siFiQdkTZLcxS,0.125,0.692,0.65,0,0.174,-5.882,0.0603,132.712,0.681,36,Usher
+Here I Stand,14,5aWlIXGEDzqQdIDRNxDQVA,What's a Man to Do,spotify:track:5aWlIXGEDzqQdIDRNxDQVA,0.0761,0.723,0.647,0,0.201,-5.786,0.125,98.002,0.566,51,Usher
+Here I Stand,15,4w3hJAy5ftDgsOQZ7EpaqQ,Lifetime,spotify:track:4w3hJAy5ftDgsOQZ7EpaqQ,0.0487,0.835,0.583,1.17E-05,0.0694,-6.561,0.0952,136.924,0.822,35,Usher
+Here I Stand,16,2bppvcuQhuMcJZHtM9So7r,"Love in This Club, Pt. II (feat. Beyoncé & Lil' Wayne)",spotify:track:2bppvcuQhuMcJZHtM9So7r,0.0322,0.623,0.487,0,0.146,-7.954,0.113,138.893,0.507,68,Usher
+Here I Stand,17,1oFEgr3Ujpwuiu4bn53B25,Here I Stand,spotify:track:1oFEgr3Ujpwuiu4bn53B25,0.322,0.535,0.528,0,0.24,-5.763,0.0461,119.796,0.261,44,Usher
+Here I Stand,18,0vRIDBeoVMtyEBU7UZAIes,Will Work for Love - f/k/a Hidden Bonus Track,spotify:track:0vRIDBeoVMtyEBU7UZAIes,0.469,0.598,0.603,0,0.0945,-5.556,0.0261,85.017,0.249,35,Usher
+Confessions (Expanded Edition),1,1tV1G9juUCSNEDdVhCaWKh,Intro,spotify:track:1tV1G9juUCSNEDdVhCaWKh,0.098,0.704,0.322,0.00848,0.0806,-14.657,0.0602,90.372,0.249,41,Usher
+Confessions (Expanded Edition),2,5rb9QrpfcKFHM1EUbSIurX,Yeah! (feat. Lil Jon & Ludacris),spotify:track:5rb9QrpfcKFHM1EUbSIurX,0.0183,0.894,0.791,0,0.0388,-4.699,0.112,105.018,0.583,86,Usher
+Confessions (Expanded Edition),3,1bPbiotvwSAYHG3ycVC2CV,Throwback (feat. Jadakiss),spotify:track:1bPbiotvwSAYHG3ycVC2CV,0.000542,0.655,0.751,0,0.136,-5.451,0.129,84.488,0.319,53,Usher
+Confessions (Expanded Edition),4,4719foL6R25RSHSJ1shNaj,Confessions,spotify:track:4719foL6R25RSHSJ1shNaj,0.178,0.83,0.417,0,0.0858,-7.559,0.0423,115.985,0.559,62,Usher
+Confessions (Expanded Edition),5,7wBThXx7BGZHJJ3aN3OPvv,Confessions Part II,spotify:track:7wBThXx7BGZHJJ3aN3OPvv,0.0586,0.845,0.467,0,0.0694,-7.674,0.138,138.007,0.702,72,Usher
+Confessions (Expanded Edition),6,7z3N2W7Xz1t2G2sAO8wFVH,Burn,spotify:track:7z3N2W7Xz1t2G2sAO8wFVH,0.314,0.796,0.477,0,0.12,-7.161,0.108,119.928,0.685,73,Usher
+Confessions (Expanded Edition),7,5zdUc1JRCImBYcDWgvFNpE,Caught Up,spotify:track:5zdUc1JRCImBYcDWgvFNpE,0.027,0.817,0.806,9.00E-06,0.119,-4.606,0.0623,110.086,0.805,66,Usher
+Confessions (Expanded Edition),8,22IVvpKhaLiYGzu3FdqBwB,Superstar - Interlude,spotify:track:22IVvpKhaLiYGzu3FdqBwB,0.0547,0.656,0.441,0.00484,0.858,-12.325,0.1,140.07,0.502,47,Usher
+Confessions (Expanded Edition),9,18JosZY3HzD3lMy6iOOSAY,Superstar,spotify:track:18JosZY3HzD3lMy6iOOSAY,0.127,0.673,0.592,0,0.336,-5.196,0.0537,142.222,0.705,59,Usher
+Confessions (Expanded Edition),10,0HyCm2IYlKEhImmdP9lgG7,Truth Hurts,spotify:track:0HyCm2IYlKEhImmdP9lgG7,0.266,0.708,0.508,0,0.278,-5.485,0.231,88.076,0.821,47,Usher
+Confessions (Expanded Edition),11,4rO5VOxTbRSRuuwCQ5D1Bl,Simple Things,spotify:track:4rO5VOxTbRSRuuwCQ5D1Bl,0.0604,0.844,0.579,0,0.0588,-5.202,0.0516,90.489,0.775,51,Usher
+Confessions (Expanded Edition),12,5rPzPAaOUceS8HiAculegz,Bad Girl,spotify:track:5rPzPAaOUceS8HiAculegz,0.245,0.777,0.829,0,0.207,-6.905,0.268,87.998,0.835,66,Usher
+Confessions (Expanded Edition),13,0D3HhtkWfHXuyU3sVm89hF,That's What It's Made For,spotify:track:0D3HhtkWfHXuyU3sVm89hF,0.147,0.717,0.59,0,0.0911,-4.825,0.113,131.904,0.783,52,Usher
+Confessions (Expanded Edition),14,6gRGMnzrsAY5Fl2byZf2jd,Can U Handle It?,spotify:track:6gRGMnzrsAY5Fl2byZf2jd,0.425,0.754,0.319,1.10E-06,0.127,-8.773,0.0464,129.858,0.382,55,Usher
+Confessions (Expanded Edition),15,6gfxE8DH93iLsNDoloANDG,Do It To Me,spotify:track:6gfxE8DH93iLsNDoloANDG,0.103,0.756,0.555,0,0.0802,-7.321,0.0521,127.956,0.579,48,Usher
+Confessions (Expanded Edition),16,5ivOsplYSO0erChGQcnANS,Take Your Hand,spotify:track:5ivOsplYSO0erChGQcnANS,0.0442,0.831,0.586,0,0.0495,-6.362,0.217,95.775,0.933,44,Usher
+Confessions (Expanded Edition),17,1CTVk3GInRIYtWjC0BFPEv,Follow Me,spotify:track:1CTVk3GInRIYtWjC0BFPEv,0.101,0.729,0.684,0,0.144,-4.331,0.123,141.192,0.904,45,Usher
+Confessions (Expanded Edition),18,68vgtRHr7iZHpzGpon6Jlo,My Boo,spotify:track:68vgtRHr7iZHpzGpon6Jlo,0.257,0.662,0.507,0,0.0465,-8.238,0.118,86.412,0.676,81,Usher
+Confessions (Expanded Edition),19,7Jaey6t7JjD3R1lmJABBa4,Red Light,spotify:track:7Jaey6t7JjD3R1lmJABBa4,0.0138,0.806,0.523,2.64E-05,0.227,-6.829,0.0359,115.012,0.276,45,Usher
+Confessions (Expanded Edition),20,2qVqxcTXGugY41u8Sr8xfp,Seduction,spotify:track:2qVqxcTXGugY41u8Sr8xfp,0.0541,0.797,0.538,7.79E-06,0.0899,-6.006,0.0608,128.068,0.5,52,Usher
+Confessions (Expanded Edition),21,6xcz5MXwY36hItZg5PZj78,"Confessions Part II Remix (feat. Shyne, Twista & Kanye West)",spotify:track:6xcz5MXwY36hItZg5PZj78,0.213,0.834,0.485,0,0.137,-10.29,0.369,138.078,0.635,50,Usher
+8701,1,7xViZs9g3vi1ITx1RjRr0a,Intro-lude 8701,spotify:track:7xViZs9g3vi1ITx1RjRr0a,0.539,0.544,0.13,0,0.0958,-19.532,0.0574,56.594,0.662,37,Usher
+8701,2,2QsZVnbWVSjKMXK6K3uRBL,U Remind Me,spotify:track:2QsZVnbWVSjKMXK6K3uRBL,0.194,0.657,0.629,0,0.254,-4.938,0.0782,93.985,0.726,75,Usher
+8701,3,1NCSa6QvClPVe7KqsqjnMn,I Don't Know (feat. P. Diddy),spotify:track:1NCSa6QvClPVe7KqsqjnMn,0.219,0.85,0.732,1.01E-06,0.0407,-4.337,0.168,98.019,0.931,44,Usher
+8701,4,3rYil4c9oKuTVUBquB1izZ,Twork It Out,spotify:track:3rYil4c9oKuTVUBquB1izZ,0.00438,0.627,0.675,0,0.0766,-5.477,0.0526,89.973,0.519,47,Usher
+8701,5,7J41dYQolQJEtj3UmKLu5r,U Got It Bad,spotify:track:7J41dYQolQJEtj3UmKLu5r,0.0227,0.816,0.5,1.53E-06,0.0733,-4.551,0.03,124.037,0.649,74,Usher
+8701,6,2PSIKR8QBagtU9yVdGqbY9,If I Want To,spotify:track:2PSIKR8QBagtU9yVdGqbY9,0.0226,0.789,0.831,3.18E-05,0.0458,-4.269,0.0568,97.317,0.907,45,Usher
+8701,7,0CBh4pQtYpm6vzqnUZKDsg,I Can't Let U Go,spotify:track:0CBh4pQtYpm6vzqnUZKDsg,0.033,0.835,0.811,1.98E-06,0.0278,-5.537,0.169,97.967,0.777,39,Usher
+8701,8,5PCJldueshnwqQVjS16543,U Don't Have to Call,spotify:track:5PCJldueshnwqQVjS16543,0.0478,0.793,0.568,3.57E-05,0.0304,-4.958,0.0459,100.005,0.806,64,Usher
+8701,9,7i18nLcndculH8hpc7PnZ7,Without U - Interlude,spotify:track:7i18nLcndculH8hpc7PnZ7,0.849,0.426,0.117,0,0.196,-19.213,0.0721,87.413,0.293,44,Usher
+8701,10,2pvpgsrLLPrADZpbngZbt6,Can U Help Me,spotify:track:2pvpgsrLLPrADZpbngZbt6,0.534,0.601,0.623,0,0.307,-6.43,0.0348,120.049,0.243,53,Usher
+8701,11,1JQJxZ8qnkltxt7rU60Wa6,How Do I Say,spotify:track:1JQJxZ8qnkltxt7rU60Wa6,0.117,0.664,0.706,7.15E-06,0.323,-7.593,0.0463,87.958,0.645,44,Usher
+8701,12,2gfpyDt6g0OQNWJqFm3bHB,Hottest Thing,spotify:track:2gfpyDt6g0OQNWJqFm3bHB,0.0147,0.771,0.606,0,0.101,-7.025,0.081,93.966,0.73,37,Usher
+8701,13,0UaTXy2I8q2BxRPGmFwAoY,Good Ol' Ghetto,spotify:track:0UaTXy2I8q2BxRPGmFwAoY,0.28,0.807,0.569,0,0.215,-6.36,0.0526,144.17,0.961,38,Usher
+8701,14,3KkxYjVDCdiLkJ2ETnrhr2,U-Turn,spotify:track:3KkxYjVDCdiLkJ2ETnrhr2,0.116,0.703,0.76,0,0.213,-6.054,0.17,90.989,0.894,51,Usher
+8701,15,1JWd374FLuXj4ajrrwbkES,U R The One,spotify:track:1JWd374FLuXj4ajrrwbkES,0.00371,0.762,0.796,0.00859,0.359,-7.01,0.0699,109.037,0.926,38,Usher
+Live,2,0W6FelyVW7B9bEa2ek8K9v,Think of You,spotify:track:0W6FelyVW7B9bEa2ek8K9v,0.0344,0.691,0.614,3.95E-06,0.275,-9.929,0.0389,95.941,0.806,18,Usher
+Live,5,7uxAbTwaYV78TLew5xrc0m,Don't Be Cruel - Intro,spotify:track:7uxAbTwaYV78TLew5xrc0m,0.224,0.358,0.459,0.167,0.412,-13.984,0.0458,88.679,0.215,16,Usher
+Live,6,0jWCQaAKPrmaPJVabqtLVC,Every Little Step,spotify:track:0jWCQaAKPrmaPJVabqtLVC,0.00125,0.718,0.737,2.03E-05,0.313,-8.916,0.0462,109.886,0.749,20,Usher
+Live,7,7rbSiJRDW2kvxD7LjVQFuf,Rock Wit'cha,spotify:track:7rbSiJRDW2kvxD7LjVQFuf,0.00364,0.528,0.709,3.84E-05,0.199,-9.162,0.0723,155.165,0.581,22,Usher
+Live,8,6xUZ426wM2EIgbqW8ZvlN9,Roni,spotify:track:6xUZ426wM2EIgbqW8ZvlN9,0.0109,0.591,0.81,4.93E-06,0.156,-8.883,0.0698,155.353,0.62,21,Usher
+Live,9,6gcWu0UJ5D0N9Z4tHHSd88,Pianolude,spotify:track:6gcWu0UJ5D0N9Z4tHHSd88,0.648,0.273,0.282,0.000108,0.915,-17.855,0.0391,104.199,0.465,17,Usher
+Live,10,5fi5i7vGhACkzyufNRA4Vv,I Need Love,spotify:track:5fi5i7vGhACkzyufNRA4Vv,0.0538,0.434,0.487,0.0159,0.112,-15.529,0.0941,177.3,0.358,16,Usher
+Live,11,6eSfRyg6NSZXj5MMkOk0Yc,Tender Love,spotify:track:6eSfRyg6NSZXj5MMkOk0Yc,0.114,0.412,0.465,0.00532,0.747,-13.797,0.0481,71.639,0.422,20,Usher
+Live,12,6aW2jLjr3YpNbQEbaUIup3,Bedtime - Live,spotify:track:6aW2jLjr3YpNbQEbaUIup3,0.188,0.379,0.587,0,0.847,-9.266,0.05,158.91,0.311,25,Usher
+Live,13,0BUXkJNraLK1pQPLXj3glm,Nice & Slow - Live,spotify:track:0BUXkJNraLK1pQPLXj3glm,0.102,0.499,0.713,1.10E-05,0.909,-10.036,0.19,121.86,0.244,24,Usher
+Live,14,5R2HdNbWNcJxjptegqyaGo,You Make Me Wanna... - Live,spotify:track:5R2HdNbWNcJxjptegqyaGo,0.00613,0.468,0.863,0.000332,0.927,-9.493,0.321,163.838,0.281,22,Usher
+Live,15,0zTOpNvTe2OwV1xA83GFoy,My Way - JD's Remix w/ JD,spotify:track:0zTOpNvTe2OwV1xA83GFoy,0.0209,0.782,0.586,0,0.592,-8.629,0.0974,89.989,0.841,23,Usher
+Live,16,01vGlen8zIZBIUnuCwQwtY,Nice & Slow - B-Rock's Basement Mix,spotify:track:01vGlen8zIZBIUnuCwQwtY,0.000437,0.817,0.701,3.01E-06,0.121,-8.265,0.0613,133.992,0.827,26,Usher
+Live,17,50bqgh1I8Zfy9LWmsDzTUg,You Make Me Wanna... - Tuff & Jam Dance Mix,spotify:track:50bqgh1I8Zfy9LWmsDzTUg,0.00218,0.755,0.818,0.0035,0.0313,-8.114,0.0542,123.086,0.915,18,Usher
+My Way,1,47TqCCnEliDp8NRDyIQoQq,You Make Me Wanna...,spotify:track:47TqCCnEliDp8NRDyIQoQq,0.0359,0.761,0.639,0,0.0945,-7.577,0.0539,164.088,0.922,71,Usher
+My Way,2,4qFbw0LTlaLfV2M6ZeXCfI,Just Like Me,spotify:track:4qFbw0LTlaLfV2M6ZeXCfI,0.0664,0.861,0.554,0,0.0643,-9.381,0.224,84.968,0.778,34,Usher
+My Way,3,5L0KDoZklMgs9GPoonneEl,Nice & Slow - Radio Version,spotify:track:5L0KDoZklMgs9GPoonneEl,0.153,0.819,0.299,0,0.3,-11.964,0.122,121.913,0.515,67,Usher
+My Way,4,0VdSyCb1n7F5G0XkePzAlf,Slow Jam (feat. Monica),spotify:track:0VdSyCb1n7F5G0XkePzAlf,0.0138,0.701,0.457,0,0.054,-8.562,0.0311,127.925,0.298,50,Usher
+My Way,5,5PIveStlGgjVL54GpVcqxr,My Way,spotify:track:5PIveStlGgjVL54GpVcqxr,0.0105,0.815,0.521,0,0.0509,-8.178,0.136,90.079,0.887,58,Usher
+My Way,6,2uVQybBotoLu2gGy2C40kn,Come Back,spotify:track:2uVQybBotoLu2gGy2C40kn,0.145,0.856,0.43,0,0.5,-10.297,0.0611,91.042,0.685,36,Usher
+My Way,7,5fs0LHUu38cIGAGIYouP7L,I Will,spotify:track:5fs0LHUu38cIGAGIYouP7L,0.0272,0.719,0.417,0,0.106,-5.114,0.0469,58.006,0.752,40,Usher
+My Way,8,1WpppMTGlhmg2eQfZWIWq1,Bedtime,spotify:track:1WpppMTGlhmg2eQfZWIWq1,0.0606,0.644,0.399,0,0.105,-8.548,0.0239,79.463,0.302,44,Usher
+My Way,9,64ujSykVY35bgU74PTmCsJ,One Day You'll Be Mine,spotify:track:64ujSykVY35bgU74PTmCsJ,0.066,0.736,0.453,0,0.125,-11.111,0.0713,79.977,0.964,38,Usher
+My Way,10,2jCOtQRabNRKV9MxJGrBuy,You Make Me Wanna... - Extended Version,spotify:track:2jCOtQRabNRKV9MxJGrBuy,0.0168,0.78,0.588,4.16E-05,0.0908,-8.816,0.0681,82.035,0.908,39,Usher
+Usher,1,65PcrmZqD2HQVy6Zln9WZc,I'll Make It Right,spotify:track:65PcrmZqD2HQVy6Zln9WZc,0.00611,0.652,0.392,1.04E-06,0.153,-8.092,0.0341,179.93,0.484,24,Usher
+Usher,2,36H4muaX9TkwvICNKFJCno,Interlude 1,spotify:track:36H4muaX9TkwvICNKFJCno,0.46,0.122,0.271,0.097,0.333,-12.306,0.0341,149.546,0.304,19,Usher
+Usher,3,5oDDFHXz3YfhkmyPeOuFxV,Can U Get Wit It,spotify:track:5oDDFHXz3YfhkmyPeOuFxV,0.0692,0.619,0.527,0,0.333,-9.376,0.0628,124.356,0.242,36,Usher
+Usher,4,1FlDtQBj95pnFbS9kCTZEI,Think Of You,spotify:track:1FlDtQBj95pnFbS9kCTZEI,0.0553,0.71,0.431,4.23E-05,0.0537,-8.333,0.0388,93.105,0.553,40,Usher
+Usher,5,7f9ABlckfkc7ECbb2rGeoS,Crazy,spotify:track:7f9ABlckfkc7ECbb2rGeoS,0.0652,0.699,0.541,4.72E-06,0.0589,-10.329,0.0408,138.641,0.539,24,Usher
+Usher,6,6Q23Jc4Sitf0DC4Rp5HQC9,Slow Love,spotify:track:6Q23Jc4Sitf0DC4Rp5HQC9,0.0133,0.694,0.56,0.000636,0.0619,-8.652,0.0577,169.805,0.674,21,Usher
+Usher,7,1BdWWwGmICR872yoqWQzOy,The Many Ways,spotify:track:1BdWWwGmICR872yoqWQzOy,0.19,0.648,0.633,5.31E-06,0.0947,-6.868,0.0502,76.938,0.747,27,Usher
+Usher,8,1uQtVXwktqrzxofWpGZYVU,I'll Show You Love,spotify:track:1uQtVXwktqrzxofWpGZYVU,0.102,0.658,0.747,0,0.0402,-7.905,0.0459,90.206,0.698,20,Usher
+Usher,9,2ti1XPHOSijdN6ng8tQIKk,Interlude 2 (Can't Stop),spotify:track:2ti1XPHOSijdN6ng8tQIKk,0.795,0.198,0.294,0,0.0856,-12.46,0.0279,81.547,0.301,21,Usher
+Usher,10,5Pw1OFh5i6r1R79qjQCNhF,Love Was Here,spotify:track:5Pw1OFh5i6r1R79qjQCNhF,0.2,0.688,0.691,9.04E-06,0.0802,-7.483,0.0282,134.035,0.687,20,Usher
+Usher,11,19MA3l9WMDvj6OXz3yIYnx,Whispers,spotify:track:19MA3l9WMDvj6OXz3yIYnx,0.0164,0.494,0.642,0,0.239,-9.762,0.101,74.154,0.814,22,Usher
+Usher,12,5KUNZCIbb68ZVWnYEEdfXF,You Took My Heart,spotify:track:5KUNZCIbb68ZVWnYEEdfXF,0.23,0.693,0.524,0.000119,0.0901,-8.379,0.0335,80.27,0.657,24,Usher
+Usher,13,4T7QHa31KuBnQmrJuUxoAF,Smile Again,spotify:track:4T7QHa31KuBnQmrJuUxoAF,0.493,0.558,0.632,0,0.128,-8.506,0.0332,140.136,0.497,21,Usher
+Usher,14,1x7bi9juu36L0ysWou2ff4,Final Goodbye,spotify:track:1x7bi9juu36L0ysWou2ff4,0.0768,0.65,0.589,1.80E-06,0.0813,-9.118,0.0244,92.816,0.788,20,Usher

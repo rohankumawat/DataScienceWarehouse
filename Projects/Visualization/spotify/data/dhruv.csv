@@ -1,0 +1,9 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+rapunzel,1,4w0rTd0QIbsvVykYij8M7L,retrograde,spotify:track:4w0rTd0QIbsvVykYij8M7L,0.804,0.49,0.229,0.00489,0.126,-12.11,0.0273,90.205,0.281,52,dhruv
+rapunzel,2,2Qn6WHJrY5Im82Jux8FboH,moonlight,spotify:track:2Qn6WHJrY5Im82Jux8FboH,0.627,0.735,0.501,0.0013,0.104,-11.257,0.167,92.031,0.551,71,dhruv
+rapunzel,3,0QzuaeCEEOV40Pn7IvKEny,double take,spotify:track:0QzuaeCEEOV40Pn7IvKEny,0.845,0.656,0.436,0,0.221,-11.141,0.0744,109.239,0.196,85,dhruv
+rapunzel,4,4t5joZkdlXlvzLXJbkgppJ,airplane thoughts,spotify:track:4t5joZkdlXlvzLXJbkgppJ,0.83,0.677,0.454,8.55E-05,0.274,-8.555,0.0673,80.045,0.273,67,dhruv
+rapunzel,5,4MiZmaNIbvO7yY8UltCATD,vulnerable,spotify:track:4MiZmaNIbvO7yY8UltCATD,0.438,0.696,0.543,3.29E-05,0.394,-8.73,0.0454,115.983,0.3,61,dhruv
+rapunzel,6,6sWkR0Y0NsJN4Ov3vKAPIa,what's wrong with me?,spotify:track:6sWkR0Y0NsJN4Ov3vKAPIa,0.786,0.504,0.405,0.00143,0.102,-11.312,0.0515,93.469,0.176,50,dhruv
+rapunzel,7,1KWbsqgeBi2WfqZ8Of494c,stable life,spotify:track:1KWbsqgeBi2WfqZ8Of494c,0.466,0.502,0.446,9.03E-05,0.331,-9.086,0.0365,150.164,0.311,51,dhruv
+rapunzel,8,7mMzlK2pYVbgkUL1zaGGyV,grateful,spotify:track:7mMzlK2pYVbgkUL1zaGGyV,0.457,0.507,0.516,0.0284,0.128,-9.67,0.106,83.951,0.486,65,dhruv

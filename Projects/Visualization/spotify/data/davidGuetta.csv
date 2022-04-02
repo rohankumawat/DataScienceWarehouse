@@ -1,0 +1,166 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+7,1,2zy9TMoZlYGuCNY4TLqG24,Don't Leave Me Alone (feat. Anne-Marie),spotify:track:2zy9TMoZlYGuCNY4TLqG24,0.177,0.694,0.617,0,0.11,-7.838,0.0469,127.928,0.496,58,David Guetta
+7,2,58adTUxM5N810ZVYuW9tmW,Battle (feat. Faouzia),spotify:track:58adTUxM5N810ZVYuW9tmW,0.0518,0.516,0.691,0,0.238,-4.975,0.0431,160.086,0.384,52,David Guetta
+7,3,66BjcDhhwWCcQIBxHMpKXh,Flames,spotify:track:66BjcDhhwWCcQIBxHMpKXh,0.0817,0.631,0.649,3.80E-06,0.0934,-5.892,0.0385,93.95,0.421,64,David Guetta
+7,4,4a35MftzWTiOPhG9zE7W0s,Blame It on Love (feat. Madison Beer),spotify:track:4a35MftzWTiOPhG9zE7W0s,0.112,0.671,0.729,0,0.1,-7.47,0.202,94.955,0.35,50,David Guetta
+7,5,0YammaEkYSeo9vQYZ1OwS6,Say My Name,spotify:track:0YammaEkYSeo9vQYZ1OwS6,0.137,0.703,0.66,0,0.192,-5.119,0.123,95.031,0.79,77,David Guetta
+7,6,5f3JSGmXvBk2PxE1hvMG8w,Goodbye (feat. Nicki Minaj & Willy William),spotify:track:5f3JSGmXvBk2PxE1hvMG8w,0.0776,0.643,0.904,0,0.189,-3.694,0.0739,103.028,0.481,51,David Guetta
+7,7,7jJVq2u7EP9XoAxMIc5Dro,I'm That Bitch (feat. Saweetie),spotify:track:7jJVq2u7EP9XoAxMIc5Dro,0.012,0.826,0.834,0.0133,0.12,-5.856,0.104,122.992,0.902,49,David Guetta
+7,8,4aBYzs8RxZMuqyOanNlf8I,Like I Do,spotify:track:4aBYzs8RxZMuqyOanNlf8I,0.00569,0.667,0.871,0.00655,0.165,-4.905,0.0343,128.042,0.187,60,David Guetta
+7,9,265zv3IDBskSIkvgPOSiGQ,2U (feat. Justin Bieber),spotify:track:265zv3IDBskSIkvgPOSiGQ,0.234,0.534,0.613,0,0.227,-7.41,0.0591,144.878,0.528,65,David Guetta
+7,10,5LHTgByvupvwtTfxOqW4Xw,She Knows How to Love Me (feat. Jess Glynne & Stefflon Don),spotify:track:5LHTgByvupvwtTfxOqW4Xw,0.112,0.629,0.676,0,0.396,-5.413,0.156,171.801,0.441,50,David Guetta
+7,11,5geGPE69kNm7CFKh8mdZve,"Motto (feat. Lil Uzi Vert, G-Eazy & Mally Mall)",spotify:track:5geGPE69kNm7CFKh8mdZve,0.052,0.742,0.827,0,0.263,-5.067,0.0584,85.014,0.654,47,David Guetta
+7,13,6ExOeqdAGRIl2epdTdOqFA,Para que te quedes (feat. J. Balvin),spotify:track:6ExOeqdAGRIl2epdTdOqFA,0.122,0.863,0.584,0,0.0707,-4.785,0.279,94,0.698,52,David Guetta
+7,14,2F83FxNVkK6PPMHuYnwyVc,Let It Be Me (feat. Ava Max),spotify:track:2F83FxNVkK6PPMHuYnwyVc,0.128,0.743,0.529,0,0.181,-6.187,0.0505,102.048,0.438,69,David Guetta
+7,15,63lctya7LlMoW5iht9JAVZ,Light Headed,spotify:track:63lctya7LlMoW5iht9JAVZ,0.0595,0.452,0.709,0,0.124,-6.053,0.0448,139.883,0.343,47,David Guetta
+7,1,4LI1LaB0bKCIZUyey7I97g,Reach For Me,spotify:track:4LI1LaB0bKCIZUyey7I97g,0.017,0.789,0.896,0.217,0.101,-6.588,0.0574,124.986,0.496,37,David Guetta
+7,2,1TcNWttaet1eKCwl2p6Qae,Freedom,spotify:track:1TcNWttaet1eKCwl2p6Qae,0.00266,0.456,0.802,0.37,0.122,-7.173,0.0962,116.497,0.0616,36,David Guetta
+7,3,4t2pbeCfKh9JboqNG6t3YU,Grenade,spotify:track:4t2pbeCfKh9JboqNG6t3YU,0.027,0.627,0.883,0.172,0.0917,-6.915,0.081,124,0.479,35,David Guetta
+7,4,1P0RYGP8i90T63FCmMLVIb,Inferno,spotify:track:1P0RYGP8i90T63FCmMLVIb,0.00191,0.311,0.734,0.898,0.201,-7.74,0.0641,191.814,0.225,37,David Guetta
+7,5,1qB0pBoaZ3xag69lZ3wsjq,Overtone,spotify:track:1qB0pBoaZ3xag69lZ3wsjq,0.00132,0.656,0.792,0.71,0.113,-6.815,0.0314,121.002,0.0472,36,David Guetta
+7,6,1398PWJxupakwoj2Ulkv2W,Back and Forth,spotify:track:1398PWJxupakwoj2Ulkv2W,0.00633,0.788,0.751,0.489,0.162,-5.636,0.0522,124.016,0.738,35,David Guetta
+7,7,6i2HdhGvdouYMK1Ruo7s03,Pelican,spotify:track:6i2HdhGvdouYMK1Ruo7s03,0.00513,0.416,0.611,0.883,0.109,-6.974,0.0347,122.986,0.0495,33,David Guetta
+7,8,31BEz9IE8KlSxig3GTA3NG,Afterglow,spotify:track:31BEz9IE8KlSxig3GTA3NG,0.0851,0.667,0.69,0.847,0.11,-12.317,0.037,122.03,0.0386,34,David Guetta
+7,9,5LGdqP9bBxxNlzAiMNxTWw,Think Think Think,spotify:track:5LGdqP9bBxxNlzAiMNxTWw,0.137,0.648,0.71,0.0294,0.0417,-7.853,0.039,127.965,0.408,34,David Guetta
+7,10,3MW40zf5R22WFTD5dDCfCE,Orion,spotify:track:3MW40zf5R22WFTD5dDCfCE,0.0963,0.633,0.824,0.884,0.112,-9.721,0.0355,122.018,0.169,33,David Guetta
+7,11,2zkTwxTJCiwWjXwXJWxqpd,What 2 Say,spotify:track:2zkTwxTJCiwWjXwXJWxqpd,0.0228,0.758,0.464,0.535,0.147,-10.375,0.052,123.03,0.222,34,David Guetta
+7,12,1h66tR1OkaN8Z4SirC1Dx4,Just a Little More Love (feat. Chris Willis) - Jack Back 2018 Remix,spotify:track:1h66tR1OkaN8Z4SirC1Dx4,0.00848,0.62,0.86,0.000141,0.0852,-5.391,0.0445,127.967,0.0972,48,David Guetta
+7,12,6lXPxNJVBoIRUitMJZw64Y,Drive (feat. Delilah Montagu),spotify:track:6lXPxNJVBoIRUitMJZw64Y,0.00163,0.711,0.829,0.0125,0.0809,-7.37,0.037,118.021,0.435,0,David Guetta
+Listen Again,23,19UJXRWv1AXlvf6PAfsuxY,"Hey Mama (feat. Nicki Minaj, TANAKA ALICE & Afrojack)",spotify:track:19UJXRWv1AXlvf6PAfsuxY,0.158,0.547,0.742,4.05E-06,0.25,-4.208,0.179,172.269,0.531,6,David Guetta
+Listen Again,24,5liMujTkY8BsIvnjmH4c9Y,What I Did for Love (feat. Namie Amuro),spotify:track:5liMujTkY8BsIvnjmH4c9Y,0.0904,0.452,0.704,0,0.0997,-5.588,0.036,127.741,0.39,15,David Guetta
+Listen Again,7,0tYszKcoxeQqH5JGbgWVjm,Listen (feat. John Legend),spotify:track:0tYszKcoxeQqH5JGbgWVjm,0.394,0.564,0.723,0,0.111,-4.232,0.0427,130.006,0.292,44,David Guetta
+Listen Again,15,53Y0kdCa1CZ9gRqEuknfwy,Bang My Head (feat. Sia & Fetty Wap),spotify:track:53Y0kdCa1CZ9gRqEuknfwy,0.0525,0.599,0.869,0.00719,0.103,-3.697,0.0789,108.061,0.593,66,David Guetta
+Listen Again,16,4Rc4eaDQIXwEsefZZX7XUk,Clap Your Hands,spotify:track:4Rc4eaDQIXwEsefZZX7XUk,0.0114,0.673,0.957,0.127,0.145,-2.04,0.133,128.004,0.336,46,David Guetta
+Listen Again,19,4oEcoHOoHYAErA3Tbc0EoW,Blast Off - Radio Edit,spotify:track:4oEcoHOoHYAErA3Tbc0EoW,0.00255,0.656,0.993,2.49E-06,0.197,-1.702,0.18,127.938,0.128,44,David Guetta
+Listen Again,20,2yjFJnhn1PELoinffD89tj,The Death of EDM (feat. Beardyman),spotify:track:2yjFJnhn1PELoinffD89tj,0.0865,0.711,0.906,0.0241,0.0967,-3.205,0.116,108.992,0.0392,48,David Guetta
+Listen Again,21,4eFRu5DAcatoDSPFAD1p8f,Pelican - Edit,spotify:track:4eFRu5DAcatoDSPFAD1p8f,0.0052,0.419,0.604,0.929,0.106,-6.775,0.0344,123.001,0.0529,46,David Guetta
+Listen Again,22,1lZ0tMLKYKpRlj83OXIPXF,Bang My Head (feat. Sia) - GLOWINTHEDARK Remix,spotify:track:1lZ0tMLKYKpRlj83OXIPXF,0.0126,0.695,0.887,0.0925,0.0549,-2.372,0.0777,128.011,0.16,32,David Guetta
+Listen Again,23,2N6amTz2RnT55oZ7GHYtrz,Listenin' (Intro) - Continuous Mix,spotify:track:2N6amTz2RnT55oZ7GHYtrz,0.565,0.365,0.563,0.00013,0.29,-10.738,0.0312,86.118,0.461,31,David Guetta
+Listen Again,24,2Hz8yIuevyviT7k2LN0NyU,What I Did for Love (feat. Emeli Sandé) vs. S.T.O.P. (feat. Ryan Tedder) - Listenin' Continuous Mix,spotify:track:2Hz8yIuevyviT7k2LN0NyU,0.167,0.507,0.784,0.0466,0.451,-8.617,0.0446,129.84,0.488,29,David Guetta
+Listen Again,25,4KTFfLOR9w3VWLMoKYFl90,What I Did for Love (feat. Emeli Sandé) - Morten Remix; Listenin' Continuous Mix,spotify:track:4KTFfLOR9w3VWLMoKYFl90,0.000867,0.674,0.927,0.0494,0.364,-4.657,0.0758,128.004,0.521,30,David Guetta
+Listen Again,26,4n4gzE90LFBwZE86XbllGo,Lovers on the Sun (feat. Sam Martin) - Stadiumx Remix; Listenin' Continuous Mix,spotify:track:4n4gzE90LFBwZE86XbllGo,0.00201,0.565,0.962,0.008,0.0824,-1.708,0.045,127.966,0.292,36,David Guetta
+Listen Again,27,1L2DLOdfG1jHh7XYewDptW,"Yesterday (feat. Bebe Rexha) vs. Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo) - Listenin' Continuous Mix",spotify:track:1L2DLOdfG1jHh7XYewDptW,0.0594,0.638,0.824,0.00241,0.197,-8.269,0.0592,128.015,0.516,35,David Guetta
+Listen Again,28,0fIQvc5h8T9173DmOe9dLP,Dangerous (feat. Sam Martin) - Robin Schulz Remix; Listenin' Continuous Mix,spotify:track:0fIQvc5h8T9173DmOe9dLP,0.0136,0.489,0.787,0.194,0.676,-9.112,0.0466,122.043,0.404,30,David Guetta
+Listen Again,29,2uE8oex0wLSUZD3Ur8kMIy,Dangerous (feat. Sam Martin) - David Guetta Banging Remix; Listenin' Continuous Mix,spotify:track:2uE8oex0wLSUZD3Ur8kMIy,0.0427,0.552,0.96,0.729,0.333,-3.762,0.0797,127.826,0.077,32,David Guetta
+Listen Again,30,2BZV4YMUkl2B96TaK83zOj,Sun Goes Down (feat. MAGIC! & Sonny Wilson) - Brooks Remix; Listenin' Continuous Mix,spotify:track:2BZV4YMUkl2B96TaK83zOj,0.0167,0.64,0.867,0.000164,0.419,-3.952,0.0534,125.976,0.334,29,David Guetta
+Listen Again,31,70etV1enu30JmB4trRIwFT,Sun Goes Down (feat. MAGIC! & Sonny Wilson) - Hugel Remix; Listenin' Continuous Mix,spotify:track:70etV1enu30JmB4trRIwFT,0.00184,0.604,0.94,0.00399,0.411,-2.33,0.0373,128.03,0.514,29,David Guetta
+Listen Again,32,2ViVrUNezsBRVnOyuPUvAG,Bang My Head (feat. Sia) - GLOWINTHEDARK Remix; Listenin' Continuous Mix,spotify:track:2ViVrUNezsBRVnOyuPUvAG,0.042,0.631,0.968,0.0143,0.395,-2.231,0.108,127.998,0.137,30,David Guetta
+Listen Again,33,2xDXsaU28V1c73dxJOxgCX,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Noodles Remix; Listenin' Continuous Mix",spotify:track:2xDXsaU28V1c73dxJOxgCX,0.00233,0.429,0.98,0.63,0.111,-3.737,0.215,126.037,0.406,31,David Guetta
+Listen Again,34,7LLzNQbyk0aV2RwSzhb7ac,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Afrojack Remix; Listenin' Continuous Mix",spotify:track:7LLzNQbyk0aV2RwSzhb7ac,0.00956,0.688,0.692,0.462,0.892,-4.795,0.239,128.111,0.275,28,David Guetta
+Listen Again,35,0BCVesa9vk3jQhXQ1C0gWZ,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Club Killers Remix; Listenin' Continuous Mix",spotify:track:0BCVesa9vk3jQhXQ1C0gWZ,0.00362,0.391,0.854,0.00884,0.415,-6.002,0.183,180.227,0.272,31,David Guetta
+Listen Again,36,5nDlSU5Yse741xGM7eVRY2,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Cesqeaux & Jeremia Jones Remix; Listenin' Continuous Mix",spotify:track:5nDlSU5Yse741xGM7eVRY2,0.0606,0.509,0.846,0.275,0.383,-4.765,0.277,144.139,0.799,27,David Guetta
+Listen Again,37,3sUB9BsvGEbNmOwjQRy0s4,I'll Keep Loving You (feat. Birdy & Jaymes Young) vs Yesterday (feat. Bebe Rexha) - Listenin' Continuous Mix,spotify:track:3sUB9BsvGEbNmOwjQRy0s4,0.00882,0.634,0.712,0.00127,0.784,-7.886,0.0282,127.929,0.394,29,David Guetta
+Listen Again,38,0c6DmfwLYzO9ffTS6naWIs,"Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo) vs. Bang My Head (feat. Sia) - Listenin' Continuous Mix",spotify:track:0c6DmfwLYzO9ffTS6naWIs,0.00668,0.53,0.726,0,0.333,-7.575,0.0881,124.175,0.316,31,David Guetta
+Listen Again,39,3OHKmw72UQUS46H5SUo6s6,S.T.O.P. (feat. Ryan Tedder) vs. Goodbye Friend (feat. The Script) - Listenin' Continuous Mix,spotify:track:3OHKmw72UQUS46H5SUo6s6,0.000812,0.548,0.868,0.00126,0.247,-4.138,0.0379,127.918,0.524,29,David Guetta
+Listen Again,40,2hcHUGp2XSklWOzLEz6NpC,Clap Your Hands - Listenin' Continuous Mix,spotify:track:2hcHUGp2XSklWOzLEz6NpC,0.00598,0.614,0.977,0.0341,0.327,-2.427,0.181,128.024,0.105,27,David Guetta
+Listen Again,41,01ernMIZmczJ6N35O5oQTq,BAD (feat. Vassy) - Listenin' Continuous Mix,spotify:track:01ernMIZmczJ6N35O5oQTq,0.000587,0.589,0.979,0.0673,0.358,-3.947,0.0878,128.035,0.162,39,David Guetta
+Listen Again,42,1Ty2QpEBFaQ19sVt5KZvvb,Blast Off - Listenin' Continuous Mix,spotify:track:1Ty2QpEBFaQ19sVt5KZvvb,0.00453,0.661,0.991,6.95E-06,0.412,-1.451,0.149,127.954,0.32,28,David Guetta
+Listen Again,43,1PScldrV392qovI1nThucU,Shot Me Down (feat. Skylar Grey) - Listenin' Continuous Mix,spotify:track:1PScldrV392qovI1nThucU,0.026,0.387,0.891,0.119,0.256,-3.708,0.0389,128.031,0.0321,37,David Guetta
+Listen Again,44,2TagwUQRWSmOCYaGDHlYKu,The Death of EDM (feat. Beardyman) - Listenin' Continuous Mix,spotify:track:2TagwUQRWSmOCYaGDHlYKu,0.0857,0.649,0.874,0.036,0.351,-2.82,0.0597,109.048,0.158,28,David Guetta
+Listen Again,45,04hXKSEXIffoMdLOyn1Cmr,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) vs. The Whisperer (feat. Sia) - Listenin' Continuous Mix",spotify:track:04hXKSEXIffoMdLOyn1Cmr,0.971,0.557,0.251,0.00376,0.204,-14.132,0.0432,144.138,0.25,28,David Guetta
+Listen Again,46,2G3z1jOVJYVDvaiTVvvHls,Listenin' - Continuous Mix,spotify:track:2G3z1jOVJYVDvaiTVvvHls,0.011,0.526,0.904,0.00434,0.32,-3.58,0.0632,127.82,0.161,31,David Guetta
+Listen,1,7pqgMEKsDMOHUdFQ7n0N9K,Dangerous (feat. Sam Martin),spotify:track:7pqgMEKsDMOHUdFQ7n0N9K,0.417,0.466,0.747,9.76E-06,0.107,-4.838,0.0795,92.161,0.43,71,David Guetta
+Listen,2,1YRjRHdl0aEtzHEn1uGi8k,What I Did for Love (feat. Emeli Sandé),spotify:track:1YRjRHdl0aEtzHEn1uGi8k,0.107,0.494,0.721,0,0.119,-4.855,0.0416,128.1,0.356,64,David Guetta
+Listen,3,5I1QXv0dEydyRIPOo2MO9l,No Money No Love (feat. Elliphant & Ms. Dynamite),spotify:track:5I1QXv0dEydyRIPOo2MO9l,0.0029,0.667,0.886,7.00E-05,0.167,-3.354,0.0583,132.034,0.457,47,David Guetta
+Listen,4,2rgtCOVK2tpfao2VjURn84,Lovers on the Sun (feat. Sam Martin),spotify:track:2rgtCOVK2tpfao2VjURn84,0.0932,0.645,0.891,3.88E-06,0.379,-2.505,0.0387,124.915,0.568,73,David Guetta
+Listen,5,4IyTNlvWHiMxDdZ4Ii5hnA,Goodbye Friend (feat. The Script),spotify:track:4IyTNlvWHiMxDdZ4Ii5hnA,0.0162,0.608,0.765,0.000103,0.106,-4.277,0.0348,128.018,0.329,42,David Guetta
+Listen,6,2YgD8aDme4OP5kPIp7PCZy,"Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo)",spotify:track:2YgD8aDme4OP5kPIp7PCZy,0.102,0.672,0.85,0,0.176,-3.827,0.0484,127.988,0.383,42,David Guetta
+Listen,8,3kJRBUfW9qhYkWnlIBFAMw,Bang My Head (feat. Sia),spotify:track:3kJRBUfW9qhYkWnlIBFAMw,0.241,0.521,0.763,0,0.662,-3.691,0.0602,123.926,0.416,53,David Guetta
+Listen,9,6CZh6hYZajOjpEcPmnRMnt,Yesterday (feat. Bebe Rexha),spotify:track:6CZh6hYZajOjpEcPmnRMnt,0.0242,0.57,0.782,6.66E-05,0.329,-4.379,0.0331,127.94,0.276,45,David Guetta
+Listen,10,285HeuLxsngjFn4GGegGNm,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",spotify:track:285HeuLxsngjFn4GGegGNm,0.24,0.596,0.73,0,0.325,-4.091,0.151,85.979,0.525,81,David Guetta
+Listen,11,1JI77eVbrOtdHOsLK4G1Mq,Sun Goes Down (feat. MAGIC! & Sonny Wilson),spotify:track:1JI77eVbrOtdHOsLK4G1Mq,0.01,0.652,0.922,0.0189,0.366,-3.267,0.068,127.997,0.695,61,David Guetta
+Listen,12,37TgrDSXlOQI1mAqASPI7F,S.T.O.P (feat. Ryan Tedder),spotify:track:37TgrDSXlOQI1mAqASPI7F,0.272,0.539,0.835,0.000396,0.142,-3.952,0.038,130.041,0.486,41,David Guetta
+Listen,13,1MtHnqURYyTeeMKur7qd0E,I'll Keep Loving You (feat. Birdy & Jaymes Young),spotify:track:1MtHnqURYyTeeMKur7qd0E,0.143,0.646,0.572,0.000171,0.0852,-6.249,0.0281,127.98,0.27,43,David Guetta
+Listen,14,4J1DXVKlC7h5wSgeuULPYh,The Whisperer (feat. Sia),spotify:track:4J1DXVKlC7h5wSgeuULPYh,0.932,0.263,0.287,1.83E-05,0.14,-8.701,0.0302,140.821,0.123,43,David Guetta
+Listen,15,6eIacmhkE82vZlMDnGS7aP,Bad (feat. Vassy) - Radio Edit,spotify:track:6eIacmhkE82vZlMDnGS7aP,0.00125,0.614,0.972,0.0186,0.328,-3.927,0.088,127.966,0.411,71,David Guetta
+Listen,16,31RuuWQ8XpyLNp5iKMyxWq,Rise (feat. Skylar Grey),spotify:track:31RuuWQ8XpyLNp5iKMyxWq,0.137,0.656,0.717,4.11E-06,0.119,-2.893,0.0511,129.867,0.253,45,David Guetta
+Listen,17,6qVXkG01rBYGfxIndGOQ3z,Shot Me Down (feat. Skylar Grey) - Radio Edit,spotify:track:6qVXkG01rBYGfxIndGOQ3z,0.0597,0.347,0.772,0.0333,0.115,-4.359,0.0549,192.118,0.035,65,David Guetta
+Listen,18,1FkbBFzuPskyOvIoipKug5,Dangerous (feat. Sam Martin) - Robin Schulz Remix; Radio Edit,spotify:track:1FkbBFzuPskyOvIoipKug5,0.00711,0.55,0.868,0.000822,0.263,-5.776,0.0659,115.984,0.13,48,David Guetta
+Listen (Track by Track),1,47HCvNIjHytv9Zjc7w2oo7,Intro - Track by Track,spotify:track:47HCvNIjHytv9Zjc7w2oo7,0.275,0.716,0.259,0,0.268,-12.861,0.939,91.814,0.967,0,David Guetta
+Listen (Track by Track),2,0mJug6bXeuQDefZW9SOvwh,Dangerous - Track by Track,spotify:track:0mJug6bXeuQDefZW9SOvwh,0.34,0.575,0.341,0,0.347,-15.234,0.91,78.904,0.637,18,David Guetta
+Listen (Track by Track),3,5AQ6Ik7hX1qKFUWp9Gzru1,What I Did for Love - Track by Track,spotify:track:5AQ6Ik7hX1qKFUWp9Gzru1,0.465,0.538,0.429,0,0.46,-12.323,0.514,131.144,0.524,17,David Guetta
+Listen (Track by Track),4,4Yx309PEyVfYo427io5fqN,No Money No Love - Track by Track,spotify:track:4Yx309PEyVfYo427io5fqN,0.358,0.516,0.364,0,0.228,-13.091,0.479,65.17,0.753,16,David Guetta
+Listen (Track by Track),5,7CbPXX4QmXCCytQYaRetR2,Lovers on the Sun - Track by Track,spotify:track:7CbPXX4QmXCCytQYaRetR2,0.546,0.479,0.502,0,0.689,-12.045,0.431,75.102,0.72,0,David Guetta
+Listen (Track by Track),6,1ejUnbPe3jcup1CxYYgT0c,Goodbye Friend - Track by Track,spotify:track:1ejUnbPe3jcup1CxYYgT0c,0.289,0.485,0.42,0,0.471,-14.658,0.47,126.228,0.705,0,David Guetta
+Listen (Track by Track),7,33z3OYm7uVwiFcEu62GfFK,Lift Me Up - Track by Track,spotify:track:33z3OYm7uVwiFcEu62GfFK,0.399,0.538,0.494,0,0.681,-12.304,0.489,111.482,0.683,0,David Guetta
+Listen (Track by Track),8,5oa4VYZeQDEDIvJOePsnBZ,Listen - Track by Track,spotify:track:5oa4VYZeQDEDIvJOePsnBZ,0.277,0.555,0.307,0,0.698,-14.721,0.593,155.562,0.796,0,David Guetta
+Listen (Track by Track),9,3Z0e6T4IM1qaJjd7YHhfXu,Bang My Head - Track by Track,spotify:track:3Z0e6T4IM1qaJjd7YHhfXu,0.227,0.585,0.51,0,0.79,-11.125,0.472,123.15,0.649,0,David Guetta
+Listen (Track by Track),10,1kfuN7KtcDCJOTr1G501hy,Yesterday - Track by Track,spotify:track:1kfuN7KtcDCJOTr1G501hy,0.347,0.663,0.497,0,0.208,-10.87,0.514,103.47,0.682,15,David Guetta
+Listen (Track by Track),11,5lyi4yhUH2KKAF1ZvZvjjk,Hey Mama - Track by Track,spotify:track:5lyi4yhUH2KKAF1ZvZvjjk,0.384,0.66,0.437,0,0.797,-12.671,0.555,83.464,0.887,16,David Guetta
+Listen (Track by Track),12,55GAAwOPZEAM7LXyyi5Mqj,Sun Goes Down - Track by Track,spotify:track:55GAAwOPZEAM7LXyyi5Mqj,0.446,0.61,0.342,0,0.711,-13.138,0.448,95.849,0.747,0,David Guetta
+Listen (Track by Track),13,6ND5BNXpSiCc79a4klmslk,S.T.O.P - Track by Track,spotify:track:6ND5BNXpSiCc79a4klmslk,0.367,0.596,0.413,0,0.513,-12.393,0.453,85.73,0.94,0,David Guetta
+Listen (Track by Track),14,7fQ538Rw4s2NjbU6wERtDy,I'll Keep Loving You - Track by Track,spotify:track:7fQ538Rw4s2NjbU6wERtDy,0.216,0.574,0.383,0,0.53,-15.547,0.457,130.723,0.534,15,David Guetta
+Listen (Track by Track),15,2PBfBCAHU6y0Lr3urs8CSq,The Whisperer - Track by Track,spotify:track:2PBfBCAHU6y0Lr3urs8CSq,0.629,0.637,0.313,0,0.192,-14.357,0.588,113.418,0.575,15,David Guetta
+Nothing but the Beat (Ultimate Edition),1,0TDLuuLlV54CkRRUOahJb4,Titanium (feat. Sia),spotify:track:0TDLuuLlV54CkRRUOahJb4,0.0679,0.604,0.787,0.15,0.127,-3.674,0.103,126.062,0.301,84,David Guetta
+Nothing but the Beat (Ultimate Edition),2,6T27IN7Ai94BeDv6PPCmoC,Turn Me On (feat. Nicki Minaj),spotify:track:6T27IN7Ai94BeDv6PPCmoC,0.0488,0.704,0.793,0,0.575,-2.266,0.0591,127.96,0.412,70,David Guetta
+Nothing but the Beat (Ultimate Edition),3,1SgdUjvppHnIp6L7DZSnwc,She Wolf (Falling to Pieces) [feat. Sia],spotify:track:1SgdUjvppHnIp6L7DZSnwc,0.0841,0.492,0.857,7.82E-06,0.344,-2.634,0.0655,129.973,0.393,72,David Guetta
+Nothing but the Beat (Ultimate Edition),4,3UN6cIn3VIyg0z1LCuFSum,Without You (feat. Usher),spotify:track:3UN6cIn3VIyg0z1LCuFSum,0.227,0.608,0.614,4.06E-06,0.157,-3.727,0.0285,127.884,0.402,75,David Guetta
+Nothing but the Beat (Ultimate Edition),5,4f3uZW3Wc1uO2cN4WJs5nu,I Can Only Imagine (feat. Chris Brown & Lil Wayne),spotify:track:4f3uZW3Wc1uO2cN4WJs5nu,0.0463,0.67,0.939,1.10E-06,0.335,-2.06,0.0427,127.946,0.264,58,David Guetta
+Nothing but the Beat (Ultimate Edition),6,5YPMEOJ58kfl56VHxTgwx3,Play Hard (feat. Ne-Yo & Akon),spotify:track:5YPMEOJ58kfl56VHxTgwx3,0.173,0.691,0.921,0,0.331,-1.702,0.0533,130.072,0.8,74,David Guetta
+Nothing but the Beat (Ultimate Edition),7,2KGJmBU3OHPIsksbXK3qBN,"Wild One Two (feat. David Guetta, Nicky Romero & Sia) - Compilation Edit",spotify:track:2KGJmBU3OHPIsksbXK3qBN,0.0124,0.509,0.8,0,0.32,-3.785,0.0422,126.073,0.265,47,David Guetta
+Nothing but the Beat (Ultimate Edition),8,043vxbUHxQErHDIe7zuC0O,Just One Last Time (feat. Taped Rai),spotify:track:043vxbUHxQErHDIe7zuC0O,0.0206,0.532,0.814,0,0.124,-2.507,0.0579,128.022,0.208,59,David Guetta
+Nothing but the Beat (Ultimate Edition),9,5EWMmyErW4NEeb7EUGfume,In My Head (feat. Nervo),spotify:track:5EWMmyErW4NEeb7EUGfume,0.00131,0.451,0.894,0.000162,0.136,-3.378,0.0487,127.962,0.396,44,David Guetta
+Nothing but the Beat (Ultimate Edition),10,7ks6AZmFcm3Y6PGGxGSmlB,Where Them Girls At (feat. Nicki Minaj & Flo Rida),spotify:track:7ks6AZmFcm3Y6PGGxGSmlB,0.055,0.666,0.876,0,0.259,-3.078,0.0414,129.884,0.552,77,David Guetta
+Nothing but the Beat (Ultimate Edition),11,55VzNhbcf0Gxf6qRCUAV01,Little Bad Girl (feat. Taio Cruz & Ludacris),spotify:track:55VzNhbcf0Gxf6qRCUAV01,0.00572,0.668,0.829,0,0.358,-2.748,0.0334,127,0.648,63,David Guetta
+Nothing but the Beat (Ultimate Edition),13,4PQA5I8Qf99He3SBKtl4Tf,Crank It Up (feat. Akon),spotify:track:4PQA5I8Qf99He3SBKtl4Tf,0.0119,0.725,0.879,3.50E-05,0.367,-3.336,0.0551,128.03,0.638,53,David Guetta
+Nothing but the Beat (Ultimate Edition),14,4O2FKTkt3ST7ARIcdI69NI,Nothing Really Matters (feat. will.i.am),spotify:track:4O2FKTkt3ST7ARIcdI69NI,0.0529,0.733,0.665,0,0.225,-3.958,0.0291,128.015,0.632,46,David Guetta
+Nothing but the Beat (Ultimate Edition),15,7Fw0jmqsgMyD7MezLrFTE8,I Just Wanna F. (feat. Timbaland & Dev),spotify:track:7Fw0jmqsgMyD7MezLrFTE8,0.0288,0.787,0.889,3.35E-06,0.562,-4.125,0.037,110.038,0.293,43,David Guetta
+Nothing but the Beat (Ultimate Edition),16,4XoixmemUvnf5ooowJ62kc,Night of Your Life (feat. Jennifer Hudson),spotify:track:4XoixmemUvnf5ooowJ62kc,0.01,0.739,0.705,0,0.25,-5.797,0.0414,128.026,0.349,50,David Guetta
+Nothing but the Beat (Ultimate Edition),17,1sRCCA27Ogwy3MUGeJsYa2,Repeat (feat. Jessie J),spotify:track:1sRCCA27Ogwy3MUGeJsYa2,0.0138,0.624,0.721,2.11E-05,0.444,-5.844,0.027,131.913,0.604,44,David Guetta
+Nothing but the Beat (Ultimate Edition),1,14GjTzurOPyaxusQvJxokJ,Every Chance We Get We Run (feat. Tegan & Sara),spotify:track:14GjTzurOPyaxusQvJxokJ,0.0034,0.562,0.882,0.123,0.55,-4.356,0.0604,125.985,0.694,47,David Guetta
+Nothing but the Beat (Ultimate Edition),2,0PCRR19Pf4iiuvSrPxtQ0x,Sunshine,spotify:track:0PCRR19Pf4iiuvSrPxtQ0x,0.00064,0.59,0.8,0.902,0.0512,-5.044,0.0437,127.994,0.219,56,David Guetta
+Nothing but the Beat (Ultimate Edition),3,6i7fGIyktBDlEe4PlpiU0Q,Lunar,spotify:track:6i7fGIyktBDlEe4PlpiU0Q,0.0191,0.591,0.804,0.0729,0.245,-6.374,0.0692,127.991,0.275,39,David Guetta
+Nothing but the Beat (Ultimate Edition),4,12dBXUbgyQdYv8TOVQubLw,What the Fuck,spotify:track:12dBXUbgyQdYv8TOVQubLw,0.0388,0.82,0.95,0.0123,0.176,-3.327,0.0625,127.995,0.133,38,David Guetta
+Nothing but the Beat (Ultimate Edition),5,2x6hopxvQkOzZTBdEMyUO2,Metropolis,spotify:track:2x6hopxvQkOzZTBdEMyUO2,0.00301,0.691,0.982,0.195,0.244,-2.894,0.13,128.03,0.364,42,David Guetta
+Nothing but the Beat (Ultimate Edition),6,0cDTCma0cfyXGhOdjD5rnj,The Alphabeat,spotify:track:0cDTCma0cfyXGhOdjD5rnj,0.0339,0.376,0.809,0.0965,0.688,-3.905,0.168,121.887,0.147,49,David Guetta
+Nothing but the Beat (Ultimate Edition),7,4m9Fc8ZCfl1ILchJ47CmKR,Metro Music,spotify:track:4m9Fc8ZCfl1ILchJ47CmKR,0.00768,0.577,0.914,2.13E-06,0.364,-2.52,0.133,126.099,0.243,35,David Guetta
+Nothing but the Beat (Ultimate Edition),8,2KxRauNqahX7034OR2oAG6,Toy Story,spotify:track:2KxRauNqahX7034OR2oAG6,0.0566,0.559,0.904,0.00175,0.26,-3.934,0.0595,130.012,0.359,37,David Guetta
+Nothing but the Beat (Ultimate Edition),9,3MswKmq4eSEJToBPfeJjop,The Future,spotify:track:3MswKmq4eSEJToBPfeJjop,0.03,0.44,0.88,0.806,0.0416,-4.978,0.449,169.312,0.682,34,David Guetta
+Nothing but the Beat (Ultimate Edition),10,2t4SQDOXu89qm0WW4TwGgD,Dreams,spotify:track:2t4SQDOXu89qm0WW4TwGgD,0.0117,0.728,0.674,0.889,0.0522,-6.763,0.0558,127.976,0.166,35,David Guetta
+Nothing but the Beat (Ultimate Edition),11,6ElXX89QyYhYtrqdZasbTh,Paris,spotify:track:6ElXX89QyYhYtrqdZasbTh,0.0128,0.679,0.935,0.842,0.0391,-4.981,0.0346,130.005,0.158,43,David Guetta
+Nothing but the Beat (Ultimate Edition),12,2PoF7HKzwz2qTMFrLapLTi,Glasgow,spotify:track:2PoF7HKzwz2qTMFrLapLTi,0.206,0.707,0.894,0.738,0.141,-4.588,0.0912,129.084,0.538,37,David Guetta
+Nothing but the Beat 2.0,12,3zS06cRoy2yIK8PucGa2h0,Sweat (Snoop Dogg vs. David Guetta) - David Guetta Remix,spotify:track:3zS06cRoy2yIK8PucGa2h0,0.0697,0.822,0.749,0.000273,0.0732,-5.563,0.0285,130.005,0.707,13,David Guetta
+Nothing but the Beat (Bonus Commentary),1,16ZcVSvFKqStfMzoHdOrQY,Where Them Girls At - Bonus Commentary,spotify:track:16ZcVSvFKqStfMzoHdOrQY,0.93,0.715,0.18,0,0.119,-16.706,0.935,122.391,0.833,23,David Guetta
+Nothing but the Beat (Bonus Commentary),2,6JvZPefQnG37UKvuzw8nAX,Little Bad Girl - Bonus Commentary,spotify:track:6JvZPefQnG37UKvuzw8nAX,0.771,0.772,0.063,0,0.185,-19.5,0.88,94.024,0.618,14,David Guetta
+Nothing but the Beat (Bonus Commentary),3,1m5O2yrKAlTYOGKVfXPmDh,Turn Me On - Bonus Commentary,spotify:track:1m5O2yrKAlTYOGKVfXPmDh,0.651,0.687,0.146,0,0.618,-21.544,0.929,138.921,0.728,14,David Guetta
+Nothing but the Beat (Bonus Commentary),4,6eUNIV7WAOdTzZKFgkcdMM,Sweat - Bonus Commentary,spotify:track:6eUNIV7WAOdTzZKFgkcdMM,0.916,0.616,0.0864,0,0.195,-17.084,0.899,179.388,0.666,13,David Guetta
+Nothing but the Beat (Bonus Commentary),5,18kS89XLmy7TXpaLaH4OYO,Without You - Bonus Commentary,spotify:track:18kS89XLmy7TXpaLaH4OYO,0.75,0.615,0.103,0,0.316,-20.558,0.922,175.205,0.613,14,David Guetta
+Nothing but the Beat (Bonus Commentary),6,5uNDSICfuBromwoHoqveWp,Nothing Really Matters - Bonus Commentary,spotify:track:5uNDSICfuBromwoHoqveWp,0.842,0.692,0.0694,0,0.135,-21.98,0.773,103.095,0.361,13,David Guetta
+Nothing but the Beat (Bonus Commentary),7,4PqmhPUbZGgcyvjq3PtnfU,I Can Only Imagine,spotify:track:4PqmhPUbZGgcyvjq3PtnfU,0.801,0.758,0.129,0,0.144,-22.236,0.901,96.2,0.375,13,David Guetta
+Nothing but the Beat (Bonus Commentary),8,7yvkaUCdib64jS8MczA10A,Crank It Up - Bonus Commentary,spotify:track:7yvkaUCdib64jS8MczA10A,0.97,0.75,0.206,0,0.143,-15.222,0.891,64.634,0.723,18,David Guetta
+Nothing but the Beat (Bonus Commentary),9,6LtsTeLu3Gfj6lnsScVu2u,I Just Wanna F. - Bonus Commentary,spotify:track:6LtsTeLu3Gfj6lnsScVu2u,0.825,0.759,0.134,0,0.482,-23.098,0.938,103.669,0.588,16,David Guetta
+Nothing but the Beat (Bonus Commentary),10,65Zk3FrHky39CaUluRrwXZ,Night of Your Life - Bonus Commentary,spotify:track:65Zk3FrHky39CaUluRrwXZ,0.795,0.641,0.169,0,0.306,-24.164,0.754,119.884,0.769,12,David Guetta
+Nothing but the Beat (Bonus Commentary),11,01P9zjV6lu6ZEcHJzhz7nB,Repeat - Bonus Commentary,spotify:track:01P9zjV6lu6ZEcHJzhz7nB,0.348,0.761,0.156,0,0.18,-22.244,0.954,70.505,0.473,0,David Guetta
+Nothing but the Beat (Bonus Commentary),12,5beOxa4wMl2mu8uJNgZMHK,Titanium - Bonus Commentary,spotify:track:5beOxa4wMl2mu8uJNgZMHK,0.87,0.654,0.113,0,0.171,-22.751,0.767,86.704,0.587,13,David Guetta
+Nothing but the Beat (Bonus Commentary),13,2yujUqQQOCK1HN1zVyD0s1,The Alphabeat - Bonus Commentary,spotify:track:2yujUqQQOCK1HN1zVyD0s1,0.819,0.714,0.145,0,0.215,-19.314,0.856,71.889,0.764,12,David Guetta
+Nothing but the Beat (Bonus Commentary),14,5sTJMmPfbuE4vKrOnPAwS0,Lunar - Bonus Commentary,spotify:track:5sTJMmPfbuE4vKrOnPAwS0,0.781,0.768,0.138,0,0.256,-22.71,0.932,79.453,0.769,12,David Guetta
+Nothing but the Beat (Bonus Commentary),15,2Xvg7Q7A8AMq9hFq9LOvEA,Sunshine - Bonus Commentary,spotify:track:2Xvg7Q7A8AMq9hFq9LOvEA,0.873,0.707,0.0832,0,0.183,-22.952,0.812,96.775,0.657,0,David Guetta
+Nothing but the Beat (Bonus Commentary),16,34US5LYf5mXylXf8h3QVtH,Little Bad Girl - Bonus Commentary 2,spotify:track:34US5LYf5mXylXf8h3QVtH,0.833,0.741,0.134,0,0.169,-21.373,0.933,64.652,0.678,11,David Guetta
+Nothing but the Beat (Bonus Commentary),17,0TAIhdYH0O06S3m4B4Y09T,Metro Music - Bonus Commentary,spotify:track:0TAIhdYH0O06S3m4B4Y09T,0.953,0.706,0.204,0,0.117,-17.234,0.912,95.354,0.454,12,David Guetta
+Nothing but the Beat (Bonus Commentary),18,4ziAG4wnFiSjXoIJuKuyxv,Toy Story - Bonus Commentary,spotify:track:4ziAG4wnFiSjXoIJuKuyxv,0.887,0.798,0.0575,0,0.125,-22.137,0.929,49.897,0.531,0,David Guetta
+Nothing but the Beat (Bonus Commentary),19,6Rv7lpKYJoRhCBl5OnEyFy,The Future - Bonus Commentary,spotify:track:6Rv7lpKYJoRhCBl5OnEyFy,0.865,0.577,0.154,0,0.129,-21.294,0.936,172.747,0.844,0,David Guetta
+Nothing but the Beat (Bonus Commentary),21,3yKeRWqIiQAWHFd8BzJcrA,Paris - Bonus Commentary,spotify:track:3yKeRWqIiQAWHFd8BzJcrA,0.844,0.801,0.107,0,0.175,-19.85,0.899,128.618,0.765,11,David Guetta
+Nothing but the Beat,6,3Dnn0LFTFHVwIOTi5wd01k,Nothing Really Matters (feat. Will.i.am),spotify:track:3Dnn0LFTFHVwIOTi5wd01k,0.0301,0.724,0.642,0,0.134,-4.393,0.0301,127.982,0.538,11,David Guetta
+Nothing but the Beat 2.0,19,3cEMbLr45pcKVjdaFWvuCS,Sunshine - Edit,spotify:track:3cEMbLr45pcKVjdaFWvuCS,0.00113,0.557,0.896,0.876,0.0346,-3.563,0.0438,127.993,0.23,28,David Guetta
+Nothing but the Beat 2.0,20,42Ww0qsGh21rjWeXwyitCY,Lunar - Edit,spotify:track:42Ww0qsGh21rjWeXwyitCY,0.000935,0.524,0.851,0.00811,0.334,-3.459,0.188,127.987,0.44,23,David Guetta
+Nothing but the Beat 2.0,22,1darGVlsVBNBimGzXWztxF,Metropolis - Edit,spotify:track:1darGVlsVBNBimGzXWztxF,0.00357,0.628,0.988,0.03,0.416,-1.148,0.106,128.01,0.666,28,David Guetta
+Nothing but the Beat Ultimate,18,4ulPHE79As22eq71sDCoCP,Titanium (feat. Che'Nelle),spotify:track:4ulPHE79As22eq71sDCoCP,0.0985,0.627,0.733,0.00426,0.123,-4.145,0.0911,125.951,0.296,15,David Guetta
+Nothing but the Beat Ultimate,13,7sAPvkLzZFEHVqBYnDW8RQ,Titanium (feat. Che'Nelle) - Mitomi Tokoto Remix,spotify:track:7sAPvkLzZFEHVqBYnDW8RQ,0.000125,0.633,0.932,0.426,0.0509,-2.934,0.0861,128.012,0.451,9,David Guetta
+Nothing but the Beat Ultimate,13,5z7UlmBUz6qI220LlrfCcH,Little Bad Girl - Instrumental Club Mix,spotify:track:5z7UlmBUz6qI220LlrfCcH,0.000238,0.71,0.456,0.836,0.0758,-4.629,0.0518,127.019,0.381,17,David Guetta
+Nothing but the Beat - The Electronic Album,4,7zMijWZAaaImomNcYwWdf7,Little Bad Girl - Instrumental Edit,spotify:track:7zMijWZAaaImomNcYwWdf7,0.0004,0.638,0.665,0.769,0.342,-3.883,0.0365,126.999,0.344,25,David Guetta
+One More Love,1,3z9kU9hSs0fTxPNrBl1Wtj,When Love Takes Over (feat. Kelly Rowland),spotify:track:3z9kU9hSs0fTxPNrBl1Wtj,0.0165,0.675,0.862,0.000427,0.169,-4.614,0.0253,129.967,0.498,41,David Guetta
+One More Love,2,0QFhSpTIEGnv7F4VxHOvKA,Gettin' Over You (feat. Fergie & LMFAO),spotify:track:0QFhSpTIEGnv7F4VxHOvKA,0.178,0.615,0.913,0,0.0773,-5.077,0.0816,129.944,0.45,43,David Guetta
+One More Love,3,0pBMFlAy7mQeUMQKaN4y8x,Sexy Bitch (feat. Akon),spotify:track:0pBMFlAy7mQeUMQKaN4y8x,0.0771,0.813,0.627,0.000616,0.131,-5.018,0.0486,130.011,0.801,50,David Guetta
+One More Love,4,5mQxnUb7XbV9vyYIGn5L0g,Memories (feat. Kid Cudi),spotify:track:5mQxnUb7XbV9vyYIGn5L0g,0.0015,0.561,0.87,2.82E-06,0.246,-6.103,0.343,129.98,0.498,46,David Guetta
+One More Love,5,6AlEK7L8c6y8ZlQyinDXQq,On the Dancefloor (feat. will.i.am & apl.de.ap),spotify:track:6AlEK7L8c6y8ZlQyinDXQq,0.0252,0.848,0.864,8.22E-05,0.283,-3.8,0.272,129.998,0.411,24,David Guetta
+One More Love,6,75d6e3GrR6aTeMLMF7fxgK,Who's That Chick? (feat. Rihanna),spotify:track:75d6e3GrR6aTeMLMF7fxgK,0.00377,0.675,0.602,0,0.0458,-4.733,0.116,127.938,0.933,58,David Guetta
+One More Love,7,2WG36bP1p9K9W0IfGMO9Ap,It's the Way You Love Me (feat. Kelly Rowland),spotify:track:2WG36bP1p9K9W0IfGMO9Ap,0.00484,0.65,0.793,0.000115,0.128,-6.239,0.0314,127.971,0.221,23,David Guetta
+One More Love,8,1Oi4jiR1suYnhKZr1TMjsi,Missing You (feat. Novel) - New Version,spotify:track:1Oi4jiR1suYnhKZr1TMjsi,0.228,0.696,0.715,0.00338,0.554,-7.281,0.106,127.931,0.478,23,David Guetta
+One More Love,9,0oofaHautZWKGQ4gPtjx0x,Choose (feat. Ne-Yo & Kelly Rowland),spotify:track:0oofaHautZWKGQ4gPtjx0x,0.019,0.705,0.828,7.10E-05,0.102,-4.998,0.298,124.972,0.57,20,David Guetta
+One More Love,10,6PaYyiAQKFyAX3jabvl2Ee,How Soon Is Now - Dirty South,spotify:track:6PaYyiAQKFyAX3jabvl2Ee,0.021,0.54,0.842,0.000699,0.065,-7.269,0.0751,128.04,0.329,22,David Guetta
+One More Love,11,0JlQJ2i62zn2Hfsycqr67r,I Gotta Feeling - FMIF Remix; Edit,spotify:track:0JlQJ2i62zn2Hfsycqr67r,0.0921,0.792,0.786,6.37E-06,0.154,-5.01,0.0431,127.981,0.402,0,David Guetta
+One More Love,12,2cWTCTC16xP07k7ya69eOf,One Love (feat. Estelle),spotify:track:2cWTCTC16xP07k7ya69eOf,0.151,0.676,0.643,0,0.14,-6.394,0.058,125.989,0.371,35,David Guetta
+One More Love,13,0xkFgsFT2BaEl0BV4iURoE,I Wanna Go Crazy (feat. will.i.am),spotify:track:0xkFgsFT2BaEl0BV4iURoE,0.00277,0.634,0.865,7.07E-06,0.296,-3.842,0.135,127.971,0.553,22,David Guetta
+One More Love,14,2tyCb2KfbnsN8ziOPsVr6u,Sound of Letting Go (feat. Chris Willis),spotify:track:2tyCb2KfbnsN8ziOPsVr6u,0.0023,0.658,0.712,4.40E-06,0.0484,-6.896,0.0286,128.013,0.542,19,David Guetta
+One More Love,15,79fSGcz8VaLDOzxIbj6ux0,Toyfriend (feat. Wynter Gordon),spotify:track:79fSGcz8VaLDOzxIbj6ux0,0.0801,0.742,0.738,0,0.161,-6.096,0.102,127,0.328,20,David Guetta
+One More Love,16,278NgoZRzLkGK29h8g3j5C,If We Ever (feat. Makeba),spotify:track:278NgoZRzLkGK29h8g3j5C,0.233,0.536,0.835,0.000182,0.107,-4.763,0.0429,127.848,0.455,18,David Guetta

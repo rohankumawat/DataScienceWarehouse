@@ -1,0 +1,109 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+CRASH (Deluxe),13,4qo8MT581bE5mDm7FGi5qB,Selfish Girl,spotify:track:4qo8MT581bE5mDm7FGi5qB,0.214,0.681,0.95,2.34E-05,0.149,-3.741,0.185,125.886,0.52,68,Charlie XCX
+CRASH (Deluxe),14,29KYqUjF9Oc9NCxvs7srlP,How Can I Not Know What I Need Right Now,spotify:track:29KYqUjF9Oc9NCxvs7srlP,0.0299,0.604,0.916,0.000415,0.372,-4.526,0.0709,119.986,0.694,64,Charlie XCX
+CRASH (Deluxe),15,2qbgcxEMIZgyHAySxxHywc,Sorry if I Hurt You,spotify:track:2qbgcxEMIZgyHAySxxHywc,0.0293,0.556,0.826,0,0.236,-4.669,0.0356,127.968,0.0718,64,Charlie XCX
+CRASH (Deluxe),16,1Qokr1fQFm6DRtzeNPfKIM,What You Think About Me,spotify:track:1Qokr1fQFm6DRtzeNPfKIM,0.0453,0.799,0.775,0.004,0.344,-6.027,0.0592,116.039,0.455,63,Charlie XCX
+CRASH,1,6WKDtdVILJvcfqpvSQgwAQ,Crash,spotify:track:6WKDtdVILJvcfqpvSQgwAQ,0.378,0.688,0.905,0,0.411,-3.361,0.054,112.075,0.85,74,Charlie XCX
+CRASH,2,1K9yH9EpJsH2kXWX4ozH68,New Shapes (feat. Christine and the Queens and Caroline Polachek),spotify:track:1K9yH9EpJsH2kXWX4ozH68,0.111,0.735,0.74,0,0.032,-4.929,0.0552,107.061,0.553,71,Charlie XCX
+CRASH,3,2grSOc6HNTXQQXNoRKt9UM,Good Ones,spotify:track:2grSOc6HNTXQQXNoRKt9UM,0.072,0.764,0.672,3.32E-06,0.0806,-5.947,0.0293,129.049,0.789,72,Charlie XCX
+CRASH,4,0U9ltIN4q3aBKGZDZq5cAW,Constant Repeat,spotify:track:0U9ltIN4q3aBKGZDZq5cAW,0.113,0.832,0.677,0,0.241,-6.442,0.0414,126.015,0.49,74,Charlie XCX
+CRASH,5,11M8c9SHQYpd8DOrmcu25k,Beg For You (feat. Rina Sawayama),spotify:track:11M8c9SHQYpd8DOrmcu25k,0.223,0.788,0.945,2.97E-06,0.115,-5.091,0.0599,128.036,0.466,72,Charlie XCX
+CRASH,6,2A8lxHaI7sJD1oABvXwly1,Move Me,spotify:track:2A8lxHaI7sJD1oABvXwly1,0.0864,0.748,0.737,0.000121,0.118,-5.377,0.0449,139.967,0.0859,73,Charlie XCX
+CRASH,7,2lE8pY64icLsx6k0Wr9iVF,Baby,spotify:track:2lE8pY64icLsx6k0Wr9iVF,0.139,0.779,0.859,0.0472,0.093,-1.572,0.0364,128.04,0.904,72,Charlie XCX
+CRASH,8,4aguR8nLIlmF6WCOlCArhT,Lightning,spotify:track:4aguR8nLIlmF6WCOlCArhT,0.0265,0.715,0.683,2.31E-05,0.209,-5.042,0.0476,119.159,0.471,73,Charlie XCX
+CRASH,9,3qT67cZ6ZloAk6jDgG1Zc8,Every Rule,spotify:track:3qT67cZ6ZloAk6jDgG1Zc8,0.519,0.714,0.521,2.32E-06,0.117,-7.384,0.033,91.957,0.336,70,Charlie XCX
+CRASH,10,5cYEuFqzITZlZzpoR1sHvu,Yuck,spotify:track:5cYEuFqzITZlZzpoR1sHvu,0.0585,0.765,0.675,1.51E-06,0.0703,-5.687,0.0402,100.939,0.886,74,Charlie XCX
+CRASH,11,5dry5tz8yLcLuOJ3l6ZEQd,Used To Know Me,spotify:track:5dry5tz8yLcLuOJ3l6ZEQd,0.0914,0.711,0.931,4.41E-05,0.0892,-4.042,0.0323,118.009,0.775,78,Charlie XCX
+CRASH,12,3phMvUDFwKvFbKABGrmqMV,Twice,spotify:track:3phMvUDFwKvFbKABGrmqMV,0.186,0.779,0.739,0.148,0.109,-4.769,0.0391,99.992,0.38,70,Charlie XCX
+how i'm feeling now,1,3V0PgcsUMlAGXwCD0084pY,pink diamond,spotify:track:3V0PgcsUMlAGXwCD0084pY,0.0693,0.675,0.787,0,0.0494,-2.468,0.334,140.959,0.647,58,Charlie XCX
+how i'm feeling now,2,5GsJIVCBFjhCcUwJaTW2sB,forever,spotify:track:5GsJIVCBFjhCcUwJaTW2sB,0.578,0.577,0.927,0,0.116,-3.195,0.107,87.389,0.462,59,Charlie XCX
+how i'm feeling now,3,7Dexi5Z2IowCkHrnzlWysc,claws,spotify:track:7Dexi5Z2IowCkHrnzlWysc,0.036,0.707,0.771,6.87E-05,0.547,-4.246,0.038,135.049,0.629,62,Charlie XCX
+how i'm feeling now,4,4jQDJPgw3qkc1T2f1safdy,7 years,spotify:track:4jQDJPgw3qkc1T2f1safdy,0.343,0.671,0.786,1.21E-06,0.345,-2.211,0.221,160.054,0.659,55,Charlie XCX
+how i'm feeling now,5,1M6VHCglQ2PLWeAsyhgEUH,detonate,spotify:track:1M6VHCglQ2PLWeAsyhgEUH,0.45,0.648,0.74,0.000145,0.104,-6.188,0.0364,140.026,0.68,58,Charlie XCX
+how i'm feeling now,6,51qNCY0lUymE88LPDUqFXd,enemy,spotify:track:51qNCY0lUymE88LPDUqFXd,0.00449,0.69,0.661,0.00389,0.154,-4.274,0.0343,91.519,0.222,54,Charlie XCX
+how i'm feeling now,7,2PBcNVg8jB1e5kVkjXJyZ5,i finally understand,spotify:track:2PBcNVg8jB1e5kVkjXJyZ5,0.167,0.809,0.666,0.00829,0.0769,-4.977,0.148,160.022,0.762,54,Charlie XCX
+how i'm feeling now,8,5gNTRfMRPZg1U07j7KSSaG,c2.0,spotify:track:5gNTRfMRPZg1U07j7KSSaG,0.404,0.435,0.588,0,0.0897,-8.024,0.337,85.052,0.688,52,Charlie XCX
+how i'm feeling now,9,2RdEC8Ff83WkX7kDVCHseE,party 4 u,spotify:track:2RdEC8Ff83WkX7kDVCHseE,0.761,0.579,0.522,1.41E-05,0.655,-8.393,0.0993,79.453,0.245,56,Charlie XCX
+how i'm feeling now,10,2ljvO8ZpKFMT3HXwCjW4Yw,anthems,spotify:track:2ljvO8ZpKFMT3HXwCjW4Yw,0.00224,0.643,0.866,5.69E-06,0.218,-4.364,0.0752,149.887,0.391,57,Charlie XCX
+how i'm feeling now,11,5oZIhePTCzvWskktjYgdjr,visions,spotify:track:5oZIhePTCzvWskktjYgdjr,0.00136,0.677,0.786,5.45E-05,0.326,-6.587,0.0467,139.917,0.28,53,Charlie XCX
+Charli,1,7a6HVxpLhW7hRL9JcFZl16,Next Level Charli,spotify:track:7a6HVxpLhW7hRL9JcFZl16,0.0961,0.536,0.847,0,0.0837,-3.421,0.0323,150.043,0.215,56,Charlie XCX
+Charli,2,1yUJK3qxPiFiPeAG2gLfuW,Gone,spotify:track:1yUJK3qxPiFiPeAG2gLfuW,0.0414,0.91,0.441,8.80E-06,0.0745,-7.575,0.0693,114.002,0.66,60,Charlie XCX
+Charli,3,15IgHEkeO9gSqrKilaEh8b,Cross You Out (feat. Sky Ferreira),spotify:track:15IgHEkeO9gSqrKilaEh8b,0.00749,0.604,0.492,0,0.11,-5.207,0.0288,121.125,0.385,54,Charlie XCX
+Charli,4,3WGJSY8JaGliVIJyMig5aS,1999,spotify:track:3WGJSY8JaGliVIJyMig5aS,0.0183,0.745,0.728,1.50E-06,0.14,-4.686,0.034,124.016,0.625,63,Charlie XCX
+Charli,5,3B0K8G7WESjdKxQvVMByR9,Click (feat. Kim Petras and Tommy Cash),spotify:track:3B0K8G7WESjdKxQvVMByR9,0.546,0.677,0.781,0,0.182,-5.722,0.198,135.047,0.529,51,Charlie XCX
+Charli,6,2xHEAdEalJ5YcP0ur8kF6L,Warm (feat. HAIM),spotify:track:2xHEAdEalJ5YcP0ur8kF6L,0.406,0.518,0.58,0.0017,0.109,-8.213,0.0871,117.501,0.396,51,Charlie XCX
+Charli,7,7A32ilnCkeWlDNM0xsBUfw,Thoughts,spotify:track:7A32ilnCkeWlDNM0xsBUfw,0.173,0.492,0.696,0,0.181,-3.781,0.0292,119.782,0.157,50,Charlie XCX
+Charli,8,2RCUr24WkEe2r5Vv4oDKlN,Blame It on Your Love (feat. Lizzo),spotify:track:2RCUr24WkEe2r5Vv4oDKlN,0.0262,0.717,0.755,0,0.294,-2.673,0.0481,100.022,0.598,57,Charlie XCX
+Charli,9,7fOFeVSyL18q7RiU6cnhiM,White Mercedes,spotify:track:7fOFeVSyL18q7RiU6cnhiM,0.0392,0.743,0.544,0,0.0672,-5.737,0.0372,129.979,0.199,55,Charlie XCX
+Charli,10,25x38hVatSDa5ptfbKwdn5,Silver Cross,spotify:track:25x38hVatSDa5ptfbKwdn5,0.298,0.597,0.835,0,0.178,-5.112,0.0363,134.967,0.623,51,Charlie XCX
+Charli,11,2wsypbBdFwN1woTAh9sq6X,I Don't Wanna Know,spotify:track:2wsypbBdFwN1woTAh9sq6X,0.612,0.46,0.424,2.42E-06,0.314,-6.098,0.0267,104.866,0.148,49,Charlie XCX
+Charli,12,38ybr0LS9XLUcqg8Yo62Wj,Official,spotify:track:38ybr0LS9XLUcqg8Yo62Wj,0.706,0.472,0.29,1.13E-06,0.0906,-7.839,0.0436,192.049,0.212,55,Charlie XCX
+Charli,13,3XbNseJrIK8LzoTh4eA0Xf,"Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",spotify:track:3XbNseJrIK8LzoTh4eA0Xf,0.05,0.577,0.613,0,0.0917,-9.346,0.543,133.652,0.422,50,Charlie XCX
+Charli,14,3fTEcn7Jt6Dq3NVVdNvl4w,February 2017 (feat. Clairo and Yaeji),spotify:track:3fTEcn7Jt6Dq3NVVdNvl4w,0.0434,0.692,0.506,0.00024,0.0971,-7.621,0.0738,119.882,0.482,50,Charlie XCX
+Charli,15,2T4SAwloHxRAtpD2hgykdA,2099 (feat. Troye Sivan),spotify:track:2T4SAwloHxRAtpD2hgykdA,0.134,0.342,0.573,0,0.229,-8.397,0.258,89.674,0.271,50,Charlie XCX
+Pop 2,1,4HjtHraeKy5wA4DA9o92HZ,Backseat (feat. Carly Rae Jepsen),spotify:track:4HjtHraeKy5wA4DA9o92HZ,0.247,0.626,0.607,1.56E-06,0.393,-5.139,0.0409,120.04,0.339,52,Charlie XCX
+Pop 2,2,2khkbmL11VFqKGMrcGIJB3,Out of My Head (feat. Tove Lo and ALMA),spotify:track:2khkbmL11VFqKGMrcGIJB3,0.0736,0.851,0.709,0.00137,0.12,-5.157,0.0694,116.467,0.42,55,Charlie XCX
+Pop 2,3,4fSHrm2WrIZmtYMXQq0YwI,Lucky,spotify:track:4fSHrm2WrIZmtYMXQq0YwI,0.632,0.193,0.335,2.35E-05,0.0973,-8.746,0.033,79.165,0.0621,46,Charlie XCX
+Pop 2,4,64xw3gXNMWv4wNXjF6tnXr,Tears (feat. Caroline Polachek),spotify:track:64xw3gXNMWv4wNXjF6tnXr,0.0554,0.434,0.713,0,0.177,-4.079,0.0408,127.721,0.15,49,Charlie XCX
+Pop 2,5,7tjQl5EC72HBJRAKxP3Bvm,"I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)",spotify:track:7tjQl5EC72HBJRAKxP3Bvm,0.219,0.829,0.598,0,0.177,-6.18,0.294,141.902,0.651,51,Charlie XCX
+Pop 2,6,1qZuf7zgRHKgfSijGm2CTy,Femmebot (feat. Dorian Electra and Mykki Blanco),spotify:track:1qZuf7zgRHKgfSijGm2CTy,0.0984,0.742,0.656,0,0.114,-6.409,0.0744,129.946,0.874,54,Charlie XCX
+Pop 2,7,740PUPhgdtWhxGYbQzM3do,Delicious (feat. Tommy Cash),spotify:track:740PUPhgdtWhxGYbQzM3do,0.222,0.455,0.642,0,0.0941,-5.106,0.162,142.013,0.243,48,Charlie XCX
+Pop 2,8,3qGHAKgjQruzj6doKkyEb5,Unlock it (Lock It) - feat. Kim Petras and Jay Park,spotify:track:3qGHAKgjQruzj6doKkyEb5,0.0585,0.504,0.711,1.83E-05,0.382,-5.864,0.0452,134.824,0.5,71,Charlie XCX
+Pop 2,9,5cAokEuetqzaLMxhtQl4h2,Porsche (feat. MØ),spotify:track:5cAokEuetqzaLMxhtQl4h2,0.0729,0.847,0.48,3.48E-06,0.131,-5.103,0.0523,144.946,0.481,49,Charlie XCX
+Pop 2,10,4t9PBD27dndlf6YMBK2ROc,Track 10,spotify:track:4t9PBD27dndlf6YMBK2ROc,0.212,0.64,0.652,0,0.0814,-5.07,0.0383,100.065,0.273,51,Charlie XCX
+Pop 2,8,7KQ1zZkcfupHYz7FFXhYEC,Unlock it (feat. Kim Petras and Jay Park),spotify:track:7KQ1zZkcfupHYz7FFXhYEC,0.0585,0.504,0.711,1.83E-05,0.382,-5.864,0.0452,134.824,0.5,10,Charlie XCX
+Number 1 Angel,1,1sDCV1aKQswj5QPqOQm72s,Dreamer,spotify:track:1sDCV1aKQswj5QPqOQm72s,0.0271,0.576,0.616,0.000673,0.627,-6.278,0.041,139.966,0.265,10,Charlie XCX
+Number 1 Angel,1,7Coulic7di20MlW1bEytkQ,Dreamer - Compound Version,spotify:track:7Coulic7di20MlW1bEytkQ,0.0298,0.582,0.626,0.000538,0.62,-6.273,0.041,139.912,0.297,51,Charlie XCX
+Number 1 Angel,2,4R2u9nFjSycaZsEYAe5Kc0,3AM (Pull Up) (feat. MØ),spotify:track:4R2u9nFjSycaZsEYAe5Kc0,0.0481,0.402,0.747,3.37E-05,0.14,-4.313,0.104,187.709,0.624,48,Charlie XCX
+Number 1 Angel,3,053tQJvHupZLhjUWMmHlQ1,Blame It on U,spotify:track:053tQJvHupZLhjUWMmHlQ1,0.0202,0.689,0.67,9.19E-05,0.134,-6.94,0.0758,140.069,0.154,43,Charlie XCX
+Number 1 Angel,4,0D6VCA9ycrkk9kH9F0p0AB,Roll with Me,spotify:track:0D6VCA9ycrkk9kH9F0p0AB,0.0286,0.728,0.603,0.00303,0.581,-6.681,0.0587,137.962,0.478,52,Charlie XCX
+Number 1 Angel,5,6QhqEJFZKUV3DKIsoXbTTH,Emotional,spotify:track:6QhqEJFZKUV3DKIsoXbTTH,0.0521,0.566,0.714,0,0.273,-4.891,0.0355,96.015,0.205,43,Charlie XCX
+Number 1 Angel,6,1KPS1MHPrq9uPklJX8Q4XW,ILY2,spotify:track:1KPS1MHPrq9uPklJX8Q4XW,0.00163,0.608,0.88,0.000403,0.206,-5.884,0.0686,99.99,0.227,50,Charlie XCX
+Number 1 Angel,7,363vy5ekQwiC5ilmiMhqbA,White Roses,spotify:track:363vy5ekQwiC5ilmiMhqbA,0.0544,0.585,0.322,4.96E-05,0.0933,-8.661,0.0354,129.812,0.0746,46,Charlie XCX
+Number 1 Angel,8,1G2uiB6xTRkfrZvG7jk4Sc,Babygirl (feat. Uffie),spotify:track:1G2uiB6xTRkfrZvG7jk4Sc,0.00423,0.624,0.943,2.53E-05,0.0756,-3.258,0.0356,91.969,0.275,45,Charlie XCX
+Number 1 Angel,9,2JjQNEYozHM41eQPFgOV6j,Drugs (feat. ABRA),spotify:track:2JjQNEYozHM41eQPFgOV6j,0.000982,0.67,0.658,0.0144,0.151,-4.171,0.0247,139.95,0.22,49,Charlie XCX
+Number 1 Angel,10,7niKxzFThgRf5fXlIYdjtZ,Lipgloss (feat. CupcakKe),spotify:track:7niKxzFThgRf5fXlIYdjtZ,0.0586,0.744,0.816,0,0.358,-4.312,0.0572,120.025,0.383,52,Charlie XCX
+SUCKER,16,5GSRyX3OzE2RkfeX5eRHk2,Break the Rules - Japanese Version,spotify:track:5GSRyX3OzE2RkfeX5eRHk2,0.06,0.713,0.934,0.00103,0.0768,-2.433,0.0416,123.953,0.848,5,Charlie XCX
+SUCKER,17,2dpGnF3myODmEGZftTTsr9,Boom Clap - Japanese Version,spotify:track:2dpGnF3myODmEGZftTTsr9,0.0792,0.61,0.881,1.50E-05,0.0974,-2.951,0.0749,91.977,0.558,9,Charlie XCX
+SUCKER,1,4T6z0KqQ1WuEUcUU4UGB1X,Sucker,spotify:track:4T6z0KqQ1WuEUcUU4UGB1X,0.0018,0.55,0.95,0,0.238,-3.61,0.0859,126.859,0.309,41,Charlie XCX
+SUCKER,2,70ebKSMHvkUSg7JXgUz74Q,Break the Rules,spotify:track:70ebKSMHvkUSg7JXgUz74Q,0.0305,0.676,0.926,0.000658,0.0771,-2.244,0.0425,124.019,0.818,63,Charlie XCX
+SUCKER,3,2S7oQv5DIOZjO35ZjZNvN6,London Queen,spotify:track:2S7oQv5DIOZjO35ZjZNvN6,0.0147,0.615,0.873,0.000213,0.0963,-3.125,0.331,171.87,0.531,36,Charlie XCX
+SUCKER,4,2LzpxcsZ6AdG9vZperIxDn,Breaking Up,spotify:track:2LzpxcsZ6AdG9vZperIxDn,0.00913,0.584,0.989,4.41E-05,0.215,-2.206,0.0707,131.035,0.578,36,Charlie XCX
+SUCKER,5,46fPfm9v4LiE7j9qYi4UDQ,Gold Coins,spotify:track:46fPfm9v4LiE7j9qYi4UDQ,0.00693,0.555,0.86,7.02E-05,0.133,-3.829,0.103,85.949,0.669,31,Charlie XCX
+SUCKER,7,4AEObGzm9VUNJ3IDgD9TH3,Doing It (feat. Rita Ora),spotify:track:4AEObGzm9VUNJ3IDgD9TH3,0.0282,0.611,0.947,0,0.303,-1.538,0.0558,105.94,0.564,51,Charlie XCX
+SUCKER,8,2uoWRWXaEdFH2EMjzvTP3Z,Body of My Own,spotify:track:2uoWRWXaEdFH2EMjzvTP3Z,0.0036,0.717,0.943,1.92E-05,0.1,-2.844,0.0545,147.874,0.728,37,Charlie XCX
+SUCKER,9,6AXoNiKAmN32HBEfhHmfSn,Famous,spotify:track:6AXoNiKAmN32HBEfhHmfSn,0.000913,0.437,0.938,0,0.116,-2.92,0.152,201.97,0.734,43,Charlie XCX
+SUCKER,10,4yPgqOZbCahUHuahj631xP,Hanging Around,spotify:track:4yPgqOZbCahUHuahj631xP,0.00692,0.476,0.875,0.000647,0.111,-4.076,0.41,169.815,0.638,31,Charlie XCX
+SUCKER,11,60kz07rm2LIT1kmFs7wvIK,So over You,spotify:track:60kz07rm2LIT1kmFs7wvIK,0.00243,0.38,0.913,0.0902,0.277,-3.308,0.2,193.737,0.344,32,Charlie XCX
+SUCKER,12,4chihmJgGOsNVveR2YMqoI,Die Tonight,spotify:track:4chihmJgGOsNVveR2YMqoI,0.0124,0.532,0.944,3.84E-05,0.327,-3.972,0.113,170.009,0.666,31,Charlie XCX
+SUCKER,13,366gHz1ttdBN3GSLSxDb08,Caught in the Middle,spotify:track:366gHz1ttdBN3GSLSxDb08,0.0237,0.419,0.833,7.65E-05,0.39,-3.628,0.0563,87.159,0.501,30,Charlie XCX
+SUCKER,6,0Y1MWB026LYxGvhq4EcMiC,Boom Clap,spotify:track:0Y1MWB026LYxGvhq4EcMiC,0.154,0.659,0.911,0.000304,0.191,-2.28,0.0786,91.999,0.576,65,Charlie XCX
+SUCKER,14,4ktr6cVeb0tQT7gy6UBKTx,Need Ur Luv,spotify:track:4ktr6cVeb0tQT7gy6UBKTx,0.0522,0.67,0.891,0.000913,0.365,-3.598,0.0603,116.008,0.528,34,Charlie XCX
+SUCKER,15,7slO17jNwf7yI0SHLEXIXJ,Red Balloon - Bonus Track,spotify:track:7slO17jNwf7yI0SHLEXIXJ,0.0247,0.698,0.773,0.000112,0.327,-3.257,0.0428,89.03,0.681,41,Charlie XCX
+SUCKER,7,3d7yYxNQodiLK3eGOBA7rG,Doing It,spotify:track:3d7yYxNQodiLK3eGOBA7rG,0.027,0.599,0.962,5.85E-06,0.35,-1.67,0.068,105.926,0.526,32,Charlie XCX
+True Romance,2,5cghqtgljxpGJ1XeXAIK4p,You (Ha Ha Ha),spotify:track:5cghqtgljxpGJ1XeXAIK4p,0.000222,0.498,0.887,0.0384,0.0884,-4.533,0.0601,91.055,0.63,40,Charlie XCX
+True Romance,5,0nKMa6IFuGRE0tC6u9QO6o,Set Me Free (Feel My Pain),spotify:track:0nKMa6IFuGRE0tC6u9QO6o,0.0857,0.537,0.958,0,0.606,-3.269,0.104,159.91,0.775,36,Charlie XCX
+True Romance,8,6SCIOF8Qq3jhDpE7qEoWbK,Cloud Aura (feat. Brooke Candy),spotify:track:6SCIOF8Qq3jhDpE7qEoWbK,0.145,0.638,0.736,0,0.109,-4.82,0.0753,89.992,0.697,32,Charlie XCX
+True Romance,1,1D77DlGAE1HWBHyXQBCpgT,Nuclear Seasons,spotify:track:1D77DlGAE1HWBHyXQBCpgT,0.0414,0.521,0.94,0.00133,0.279,-3.702,0.0969,115.039,0.236,39,Charlie XCX
+True Romance,2,6Eiu7cflRNm6pCSSo1XeE1,You - Ha Ha Ha,spotify:track:6Eiu7cflRNm6pCSSo1XeE1,0.000742,0.5,0.902,0.137,0.164,-4.67,0.0718,91.059,0.619,42,Charlie XCX
+True Romance,3,51eXqjC11mFVT2B9vTSTNi,Take My Hand,spotify:track:51eXqjC11mFVT2B9vTSTNi,0.014,0.534,0.893,0.031,0.356,-4.92,0.0943,131.957,0.616,36,Charlie XCX
+True Romance,4,1eQXuEHvm3FPm0iSIJOEWk,Stay Away,spotify:track:1eQXuEHvm3FPm0iSIJOEWk,0.00566,0.452,0.857,0.000821,0.151,-4.243,0.0383,182.788,0.298,36,Charlie XCX
+True Romance,6,6PVMVmACGqDs2BP50tEX6s,Grins,spotify:track:6PVMVmACGqDs2BP50tEX6s,6.87E-05,0.48,0.858,0.873,0.151,-4.303,0.0701,143.781,0.358,36,Charlie XCX
+True Romance,7,5IOEH3MF0ybXAbiWHltJeM,So Far Away,spotify:track:5IOEH3MF0ybXAbiWHltJeM,1.52E-05,0.429,0.761,0.00752,0.104,-5.539,0.0316,98.771,0.453,41,Charlie XCX
+True Romance,9,5ot3q8KR1vzq471WAtCNSU,What I Like,spotify:track:5ot3q8KR1vzq471WAtCNSU,0.000292,0.597,0.812,0.000504,0.232,-6.385,0.181,77.505,0.767,39,Charlie XCX
+True Romance,10,6KHaAM65eCWE0KGZCoqfFi,Black Roses,spotify:track:6KHaAM65eCWE0KGZCoqfFi,0.000135,0.512,0.8,0.823,0.0731,-5.584,0.0491,143.987,0.511,33,Charlie XCX
+True Romance,11,6SDL8459MUpkQ4BElyV1a4,You're the One,spotify:track:6SDL8459MUpkQ4BElyV1a4,0.00191,0.561,0.772,0.000218,0.115,-3.962,0.0387,90.974,0.364,32,Charlie XCX
+True Romance,12,1YKyWZjOqRV65SfOdfMErO,How Can I,spotify:track:1YKyWZjOqRV65SfOdfMErO,0.000517,0.24,0.86,0.00786,0.105,-4.745,0.0747,126.77,0.233,29,Charlie XCX
+True Romance,13,0r6r49D3KGqa4wjn660NBo,Lock You Up,spotify:track:0r6r49D3KGqa4wjn660NBo,0.00505,0.535,0.923,0.0028,0.197,-4.052,0.0317,119.797,0.692,34,Charlie XCX
+True Romance (Deluxe),14,6wGTKoHSgSgywVWsOVPqLG,You (Ha Ha Ha) - BURNS' Violet Cloud Version [BURNS' Violet Cloud Version],spotify:track:6wGTKoHSgSgywVWsOVPqLG,0.00159,0.493,0.833,0.00156,0.0903,-5.192,0.0597,89.973,0.432,17,Charlie XCX
+True Romance (Deluxe),15,2P9sYv6ftj96ZU3urJMo5i,You're the One (feat. Mike G) - Odd Future's: The Internet Remix,spotify:track:2P9sYv6ftj96ZU3urJMo5i,0.0614,0.753,0.594,0.00494,0.172,-8.691,0.0898,97.988,0.72,17,Charlie XCX
+True Romance (Deluxe),16,6hq9KygGmfnT7WWrQwiYp9,You (Ha Ha Ha) - Goldroom Remix,spotify:track:6hq9KygGmfnT7WWrQwiYp9,0.0648,0.625,0.808,0.27,0.121,-2.838,0.0404,112.993,0.594,19,Charlie XCX
+True Romance (Deluxe),17,6BvTIZ5xjQXtfHAItmzhIZ,Stay Away - T. Williams Remix,spotify:track:6BvTIZ5xjQXtfHAItmzhIZ,0.0122,0.424,0.799,0.683,0.552,-7.161,0.0699,170.971,0.248,14,Charlie XCX
+True Romance (Deluxe),18,4N5HrHBRCGn8POXxGRxHSA,You're the One - Blood Orange Remix,spotify:track:4N5HrHBRCGn8POXxGRxHSA,0.53,0.383,0.644,0.259,0.114,-7.348,0.0613,90.939,0.0928,17,Charlie XCX
+True Romance (Deluxe),19,7J7LKPaHER1TDfxjr1CM84,You (Ha Ha Ha) - MS MR Remix,spotify:track:7J7LKPaHER1TDfxjr1CM84,0.193,0.567,0.588,3.09E-05,0.0948,-10.009,0.0524,90.117,0.346,15,Charlie XCX
+True Romance (Deluxe),20,21qUMTg9TO1B7xiblNvocq,Nuclear Seasons - Balam Acab Remix,spotify:track:21qUMTg9TO1B7xiblNvocq,0.134,0.396,0.743,0.0063,0.0904,-7.412,0.0403,105.759,0.0791,15,Charlie XCX
+True Romance (Deluxe),21,7vHzRMcvNdNmZyHm9B2WRg,You're the One - Climbers Remix; Radio Edit,spotify:track:7vHzRMcvNdNmZyHm9B2WRg,0.147,0.762,0.532,0.884,0.0563,-7.951,0.0714,120.02,0.509,13,Charlie XCX
+True Romance (Deluxe),22,7I7yAJnNwevbF47FduvNB6,Stay Away - Salem's Angel Remix,spotify:track:7I7yAJnNwevbF47FduvNB6,0.0186,0.507,0.716,0.515,0.196,-6.354,0.0289,90.964,0.0946,13,Charlie XCX
+True Romance (Deluxe),23,00kO5NmNG2jfYGJQHMzPlm,Nuclear Seasons - Hackman Remix,spotify:track:00kO5NmNG2jfYGJQHMzPlm,0.367,0.704,0.768,0.686,0.0675,-4.453,0.0594,115,0.649,13,Charlie XCX
+True Romance (Deluxe),24,5PDbZLSxtjHTMMm9yC45Oa,You're the One - Loadstar Remix,spotify:track:5PDbZLSxtjHTMMm9yC45Oa,0.00156,0.402,0.921,0.327,0.11,-4.576,0.0487,173.961,0.0861,14,Charlie XCX
+True Romance (Deluxe),25,1FEpfeBwe07UShFhDVAfbt,You're the One - St. Lucia Remix,spotify:track:1FEpfeBwe07UShFhDVAfbt,0.25,0.492,0.827,0.000272,0.106,-5.178,0.0507,90.992,0.404,15,Charlie XCX

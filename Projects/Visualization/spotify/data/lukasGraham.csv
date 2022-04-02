@@ -1,0 +1,59 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+3 (The Purple Album),1,5vph4KmP15IRBLRPPsLnRo,Not A Damn Thing Changed,spotify:track:5vph4KmP15IRBLRPPsLnRo,0.238,0.8,0.709,0,0.119,-5.834,0.0381,127.438,0.388,48,Lukas Graham
+3 (The Purple Album),3,6ZZcEpdRmcgYX1rgBW7m7z,You’re Not The Only One (Redemption Song),spotify:track:6ZZcEpdRmcgYX1rgBW7m7z,0.293,0.653,0.419,0,0.111,-7.486,0.0414,98.983,0.366,44,Lukas Graham
+3 (The Purple Album),1,6TWoOOvqyMHBUuHpNS5Rre,Not a Damn Thing Changed,spotify:track:6TWoOOvqyMHBUuHpNS5Rre,0.238,0.8,0.709,0,0.119,-5.834,0.0381,127.438,0.388,48,Lukas Graham
+3 (The Purple Album),2,6iuKYlSk5PxQ3P8O4OrLcj,Lullaby,spotify:track:6iuKYlSk5PxQ3P8O4OrLcj,0.077,0.658,0.493,0,0.108,-7.702,0.0303,139.829,0.524,48,Lukas Graham
+3 (The Purple Album),3,2GUMnvJq9GUWH5d9XRgTeP,You're Not the Only One (Redemption Song),spotify:track:2GUMnvJq9GUWH5d9XRgTeP,0.293,0.653,0.419,0,0.111,-7.486,0.0414,98.983,0.366,49,Lukas Graham
+3 (The Purple Album),4,0OCRwXbQRdOZ1OtB4Imsp1,Love Someone,spotify:track:0OCRwXbQRdOZ1OtB4Imsp1,0.172,0.538,0.409,0,0.11,-6.581,0.0505,171.838,0.265,75,Lukas Graham
+3 (The Purple Album),5,1xRn1GOSJCqf0HxFEB200o,Promise,spotify:track:1xRn1GOSJCqf0HxFEB200o,0.398,0.767,0.508,0,0.136,-5.016,0.0457,95.97,0.687,46,Lukas Graham
+3 (The Purple Album),6,5VSlplWVGj9b3HBUJ7Gsnz,Stick Around,spotify:track:5VSlplWVGj9b3HBUJ7Gsnz,0.478,0.369,0.45,6.97E-06,0.111,-7.737,0.0411,185.961,0.126,47,Lukas Graham
+3 (The Purple Album),7,7LKZfLbyXHEph3t9Svfk0i,Unhappy,spotify:track:7LKZfLbyXHEph3t9Svfk0i,0.0522,0.793,0.697,1.45E-06,0.262,-6.43,0.115,87.985,0.554,45,Lukas Graham
+3 (The Purple Album),8,5ssuMBqBwZbxN8BCIX5sLo,Everything That Isn't Me,spotify:track:5ssuMBqBwZbxN8BCIX5sLo,0.626,0.702,0.413,3.96E-05,0.103,-8.538,0.0961,75.832,0.263,46,Lukas Graham
+3 (The Purple Album),9,3iOej8QpexFHC47NBouYyU,Hold My Hand,spotify:track:3iOej8QpexFHC47NBouYyU,0.375,0.727,0.506,0,0.104,-7.438,0.0548,129.054,0.271,45,Lukas Graham
+3 (The Purple Album),10,7tvLOdL1l7aDQOiK9NHTNi,Say Yes (Church Ballad),spotify:track:7tvLOdL1l7aDQOiK9NHTNi,0.194,0.6,0.501,0,0.11,-6.044,0.0371,77.981,0.129,42,Lukas Graham
+3 (The Purple Album) [Edition Deluxe],11,3Gepf42F2HTp1f7lYEZvVr,Love Someone - Live In Paris,spotify:track:3Gepf42F2HTp1f7lYEZvVr,0.312,0.428,0.589,0,0.496,-7.588,0.0381,85.858,0.213,9,Lukas Graham
+3 (The Purple Album) [Edition Deluxe],12,4dmqoYiMv0OQim9ORjhU0C,7 Years - Live In Paris,spotify:track:4dmqoYiMv0OQim9ORjhU0C,0.235,0.6,0.691,0,0.826,-7.038,0.0382,119.958,0.432,10,Lukas Graham
+3 (The Purple Album) [Edition Deluxe],13,3PbTIZ2j9BoPydUrNdgnPh,You’re Not The Only One (Redemption Song) - Live In Paris,spotify:track:3PbTIZ2j9BoPydUrNdgnPh,0.312,0.535,0.539,0,0.709,-7.705,0.0326,98.695,0.196,8,Lukas Graham
+Spotify Sessions,1,58Ktmrt1XEpGKu3Id7PlAZ,Intro - Spotify Sessions,spotify:track:58Ktmrt1XEpGKu3Id7PlAZ,0.84,0.547,0.339,0,0.9,-11.677,0.914,95.945,0.489,32,Lukas Graham
+Spotify Sessions,2,1MpeZifykX9qcDNWvLJnV0,Better Than Yourself (Criminal Mind Pt. 2) - Spotify Sessions,spotify:track:1MpeZifykX9qcDNWvLJnV0,0.462,0.703,0.541,0,0.698,-5.845,0.0301,99.812,0.378,29,Lukas Graham
+Spotify Sessions,3,5rWYY6iWD7FikIgbEtDYoE,Reaching Your Goals - Spotify Sessions,spotify:track:5rWYY6iWD7FikIgbEtDYoE,0.688,0.763,0.427,0,0.528,-12.088,0.94,62.976,0.426,32,Lukas Graham
+Spotify Sessions,4,6Ox39olnrcF0UEPP0DpDsD,Drunk In the Morning - Spotify Sessions,spotify:track:6Ox39olnrcF0UEPP0DpDsD,0.249,0.703,0.83,0,0.575,-4.849,0.0689,93.382,0.801,29,Lukas Graham
+Spotify Sessions,5,6hdnITM4y5GLMGyzECDYlA,Strip No More - Spotify Sessions,spotify:track:6hdnITM4y5GLMGyzECDYlA,0.211,0.65,0.803,0,0.71,-4.49,0.0449,130.425,0.852,24,Lukas Graham
+Spotify Sessions,6,4KICAf3UMxBgVj7wHgdwHD,Take Your Shirt Off - Spotify Sessions,spotify:track:4KICAf3UMxBgVj7wHgdwHD,0.787,0.618,0.532,0,0.906,-11.493,0.935,83.354,0.784,32,Lukas Graham
+Spotify Sessions,7,0kU7ZDwKoO7eVCzgfAixyK,Mama Said - Spotify Sessions,spotify:track:0kU7ZDwKoO7eVCzgfAixyK,0.204,0.714,0.721,0,0.673,-4.859,0.0678,84.074,0.386,26,Lukas Graham
+Spotify Sessions,8,670o72rs75yRXa5NxoiOgS,Poetic License - Spotify Sessions,spotify:track:670o72rs75yRXa5NxoiOgS,0.676,0.518,0.534,0,0.744,-13.527,0.951,174.833,0.373,22,Lukas Graham
+Spotify Sessions,9,0YC1UaZcPFh4rcOH51VsAp,7 Years - Spotify Sessions,spotify:track:0YC1UaZcPFh4rcOH51VsAp,0.546,0.718,0.546,0,0.939,-6.135,0.0425,119.947,0.489,40,Lukas Graham
+Spotify Sessions,1,3lhifev5k9iLlBx74EILTU,Intro,spotify:track:3lhifev5k9iLlBx74EILTU,0.84,0.583,0.339,0,0.9,-11.677,0.908,88.148,0.494,36,Lukas Graham
+Spotify Sessions,3,2t3pM5V5mTfRJKxI6cNN3P,Reaching Your Goals,spotify:track:2t3pM5V5mTfRJKxI6cNN3P,0.684,0.761,0.427,0,0.529,-12.088,0.941,62.986,0.428,36,Lukas Graham
+Spotify Sessions,4,63FYBhIva6z33qPCvgs8z7,Drunk in the Morning - Spotify Sessions,spotify:track:63FYBhIva6z33qPCvgs8z7,0.249,0.703,0.83,0,0.577,-4.849,0.0689,93.383,0.8,33,Lukas Graham
+Spotify Sessions,6,2y7QG8rrv8GRIYfoLyKhxk,Take Your Shirt Off,spotify:track:2y7QG8rrv8GRIYfoLyKhxk,0.787,0.619,0.531,0,0.906,-11.494,0.931,82.816,0.782,36,Lukas Graham
+Spotify Sessions,8,2BTZiQJq2SNz1h8E8xet26,Poetic License,spotify:track:2BTZiQJq2SNz1h8E8xet26,0.664,0.518,0.534,0,0.745,-13.528,0.951,174.888,0.373,27,Lukas Graham
+Lukas Graham,1,5kqIPrATaCc2LqxVWzQGbk,7 Years,spotify:track:5kqIPrATaCc2LqxVWzQGbk,0.287,0.765,0.473,0,0.391,-5.829,0.0514,119.992,0.34,84,Lukas Graham
+Lukas Graham,2,5xRBYte8zzJNmRfBgYIWnX,Take the World By Storm,spotify:track:5xRBYte8zzJNmRfBgYIWnX,0.0387,0.589,0.865,0,0.114,-4.162,0.0838,86.337,0.467,51,Lukas Graham
+Lukas Graham,3,5ArQzSBevAdXTxRY6Ulhbq,Mama Said,spotify:track:5ArQzSBevAdXTxRY6Ulhbq,0.0447,0.712,0.799,6.40E-05,0.37,-4.564,0.0703,83.996,0.591,75,Lukas Graham
+Lukas Graham,4,3Vq1gRj4U2HQ4uLBbT9y9U,Happy Home,spotify:track:3Vq1gRj4U2HQ4uLBbT9y9U,0.392,0.754,0.322,0,0.101,-8.568,0.0476,128.108,0.475,51,Lukas Graham
+Lukas Graham,5,3xi7d2yGx09UKMAAr7A3az,Drunk in the Morning,spotify:track:3xi7d2yGx09UKMAAr7A3az,0.0614,0.768,0.744,0,0.177,-4.721,0.0426,93.537,0.691,55,Lukas Graham
+Lukas Graham,6,3DwN8YfAtvJh4c5u8DZPen,"Better Than Yourself (Criminal Mind, Pt. 2)",spotify:track:3DwN8YfAtvJh4c5u8DZPen,0.307,0.558,0.508,0,0.0888,-6.471,0.0393,99.336,0.209,49,Lukas Graham
+Lukas Graham,7,6WtQ5gKWzVW1MxiEbeCtoi,Don't You Worry 'Bout Me,spotify:track:6WtQ5gKWzVW1MxiEbeCtoi,0.00818,0.627,0.772,0,0.362,-6.406,0.125,178.005,0.482,45,Lukas Graham
+Lukas Graham,8,67DNRQWjRLMFvekBRprYtW,What Happened to Perfect,spotify:track:67DNRQWjRLMFvekBRprYtW,0.378,0.647,0.529,0,0.0879,-6.524,0.0975,139.997,0.145,51,Lukas Graham
+Lukas Graham,9,6Mkj948t1Rvf8Zr9cgE1oE,Strip No More,spotify:track:6Mkj948t1Rvf8Zr9cgE1oE,0.0109,0.724,0.664,0,0.376,-5.65,0.109,130.639,0.853,49,Lukas Graham
+Lukas Graham,10,3cdmLOVYY9vht4a1THRJcZ,You're Not There,spotify:track:3cdmLOVYY9vht4a1THRJcZ,0.0606,0.766,0.516,3.45E-05,0.102,-7.809,0.0474,92.059,0.296,57,Lukas Graham
+Lukas Graham,11,630aEV7ZOzv5BcWxzXFokR,Funeral,spotify:track:630aEV7ZOzv5BcWxzXFokR,0.834,0.749,0.35,6.27E-06,0.0948,-6.82,0.038,94.867,0.423,53,Lukas Graham
+Lukas Graham (Blue Album),2,7B8SfUWT3a9W3cBrW4DAWb,Take The World By Storm,spotify:track:7B8SfUWT3a9W3cBrW4DAWb,0.0287,0.602,0.86,0,0.113,-4.166,0.0815,175.859,0.555,40,Lukas Graham
+Lukas Graham (Blue Album),5,0CseCPMR1qtPp3Uiw7Z1ng,Hayo,spotify:track:0CseCPMR1qtPp3Uiw7Z1ng,0.138,0.764,0.644,0,0.693,-5.216,0.191,82.013,0.811,34,Lukas Graham
+Lukas Graham (Blue Album),6,7LJPVJRdvkaCZ9ULUSSgyE,When I Woke Up… - Interlude,spotify:track:7LJPVJRdvkaCZ9ULUSSgyE,0.682,0.899,0.43,3.76E-05,0.136,-7.181,0.0914,105.009,0.961,28,Lukas Graham
+Lukas Graham (Blue Album),8,6MbtUcXRSDlJ4Zu3CYWMEG,What Happened To Perfect,spotify:track:6MbtUcXRSDlJ4Zu3CYWMEG,0.389,0.652,0.525,0,0.0815,-6.485,0.0839,139.92,0.162,46,Lukas Graham
+Lukas Graham (Blue Album),9,10VY4z9M9FGMKxYEGceB7Q,Playtime,spotify:track:10VY4z9M9FGMKxYEGceB7Q,0.0935,0.763,0.8,1.97E-06,0.113,-4.28,0.11,119.979,0.649,30,Lukas Graham
+Lukas Graham (International Version),1,30AXKeoo7d6Ra6EcckzA88,Ordinary Things,spotify:track:30AXKeoo7d6Ra6EcckzA88,0.537,0.872,0.57,0,0.0865,-7.973,0.14,95.052,0.37,49,Lukas Graham
+Lukas Graham (International Version),2,023Dc1qCuHyx34ZtjZSolg,Nice Guy,spotify:track:023Dc1qCuHyx34ZtjZSolg,0.000457,0.896,0.771,0.0028,0.157,-7.547,0.0834,113.981,0.322,38,Lukas Graham
+Lukas Graham (International Version),3,7IiIVORBnoCqpq59upc67R,Drunk In The Morning,spotify:track:7IiIVORBnoCqpq59upc67R,0.094,0.854,0.742,0,0.223,-5.825,0.0444,91.662,0.855,54,Lukas Graham
+Lukas Graham (International Version),4,1pzBaFh59IK28vcvq1vznP,When You're With Me (Interlude),spotify:track:1pzBaFh59IK28vcvq1vznP,0.874,0.586,0.164,0.000129,0.102,-12.915,0.0813,75.885,0.329,31,Lukas Graham
+Lukas Graham (International Version),5,3IAp6klqCewHwWW5gj8Suh,Red Wine,spotify:track:3IAp6klqCewHwWW5gj8Suh,0.328,0.774,0.251,3.47E-06,0.0718,-12.1,0.0583,116.052,0.39,39,Lukas Graham
+Lukas Graham (International Version),6,7mXTUhe5gCfaePbYfyhiQx,"Daddy, Now That You're Gone (Ain't No Love)",spotify:track:7mXTUhe5gCfaePbYfyhiQx,0.0052,0.395,0.593,3.65E-05,0.37,-7.046,0.0732,169.568,0.533,38,Lukas Graham
+Lukas Graham (International Version),7,44M4VFcSVyaTpanfjWk20S,Criminal Mind,spotify:track:44M4VFcSVyaTpanfjWk20S,0.0437,0.784,0.661,3.45E-05,0.0778,-7.73,0.0883,99.047,0.0762,43,Lukas Graham
+Lukas Graham (International Version),8,4gYUJ5MYNXwHP0p1rQTg7C,Better Than Yourself (Criminal Mind Pt. 2),spotify:track:4gYUJ5MYNXwHP0p1rQTg7C,0.209,0.623,0.525,0,0.111,-8.915,0.0399,99.69,0.281,46,Lukas Graham
+Lukas Graham (International Version),9,6DoZhwKftWIXyKMR8vczzf,Don't Hurt Me This Way,spotify:track:6DoZhwKftWIXyKMR8vczzf,0.0185,0.862,0.445,0,0.302,-6.338,0.0472,101.213,0.882,41,Lukas Graham
+Lukas Graham (International Version),10,4I3rmuAl2hvRfLQ4Mz7F7r,Moving Alone,spotify:track:4I3rmuAl2hvRfLQ4Mz7F7r,0.251,0.596,0.525,0,0.114,-9.989,0.211,144.009,0.315,36,Lukas Graham
+Lukas Graham (International Version),11,6TzS4eCP6my4v9Ts8FDigl,Oohhh (Interlude),spotify:track:6TzS4eCP6my4v9Ts8FDigl,0.678,0.649,0.196,0,0.12,-13.784,0.0503,124.755,0.444,29,Lukas Graham
+Lukas Graham (International Version),12,78bS9xh2p267ATPcxWkZSp,Never Let Me Down,spotify:track:78bS9xh2p267ATPcxWkZSp,0.0127,0.807,0.765,7.26E-06,0.28,-4.127,0.0703,150.994,0.872,35,Lukas Graham
+Lukas Graham (International Version),13,6CBfMDgS7jOLbhLkm8OhBZ,Before The Morning Sun,spotify:track:6CBfMDgS7jOLbhLkm8OhBZ,0.779,0.547,0.227,0,0.0981,-8.984,0.0402,97.97,0.366,40,Lukas Graham

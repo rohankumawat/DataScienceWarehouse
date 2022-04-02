@@ -1,0 +1,52 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+Stay +,1,0I20rLT2MJDhcF96AjbNYo,Stay,spotify:track:0I20rLT2MJDhcF96AjbNYo,0.253,0.69,0.622,0,0.113,-5.025,0.063,102.039,0.543,57,Zedd
+Stay +,2,1XlrBhlkPAVRficvsd5qQ4,Get Low,spotify:track:1XlrBhlkPAVRficvsd5qQ4,0.0277,0.728,0.926,4.85E-06,0.0493,-3.546,0.0541,107.981,0.514,38,Zedd
+Stay +,3,0pE0WxffKLK2vcJMut5inx,Break Free,spotify:track:0pE0WxffKLK2vcJMut5inx,0.00594,0.687,0.698,5.26E-05,0.195,-5.308,0.0467,129.959,0.265,25,Zedd
+Stay +,5,7MzmJaFcVaLVXB4SlUf51O,Candyman,spotify:track:7MzmJaFcVaLVXB4SlUf51O,0.0255,0.586,0.863,0,0.394,-4.137,0.0493,149.964,0.261,26,Zedd
+Stay +,6,5gHF8LYlSiBQNIsJiFfYkn,Adrenaline,spotify:track:5gHF8LYlSiBQNIsJiFfYkn,0.0738,0.66,0.987,0.598,0.0489,-2.869,0.0463,127.998,0.424,25,Zedd
+Stay +,7,3bfBZ3m5O7oSdJF4wwqE7o,Ignite - 2016 League Of Legends World Championship,spotify:track:3bfBZ3m5O7oSdJF4wwqE7o,0.0732,0.723,0.731,2.08E-05,0.084,-4.436,0.0337,127.968,0.403,28,Zedd
+Stay +,8,1hVF3yhGZ75n8vXhGNNmmS,Starving,spotify:track:1hVF3yhGZ75n8vXhGNNmmS,0.378,0.729,0.615,0,0.125,-4.238,0.0647,99.989,0.508,25,Zedd
+Stay +,9,7p3W4sRh1oqD0RiTOXKGMt,Stay - Yasutaka Nakata Remix,spotify:track:7p3W4sRh1oqD0RiTOXKGMt,0.0199,0.673,0.795,4.32E-05,0.64,-3.064,0.0467,127.99,0.61,25,Zedd
+Stay +,10,1wuWDAz17fIDYtGbD9BqPU,Get Low - KUURO Remix,spotify:track:1wuWDAz17fIDYtGbD9BqPU,0.00219,0.741,0.949,0.00184,0.165,-2.884,0.0462,127.964,0.585,17,Zedd
+Stay +,11,5oOxuG7lGTZpfKdc0M1BoK,Let Me Love You - Zedd Remix,spotify:track:5oOxuG7lGTZpfKdc0M1BoK,0.00755,0.715,0.863,0.00515,0.0906,-4.258,0.0534,117.053,0.246,18,Zedd
+Stay +,12,38C2ZuVaD8jnvYkPzhiJF9,Zedd Mega Nonstop Mix,spotify:track:38C2ZuVaD8jnvYkPzhiJF9,0.0482,0.528,0.753,1.55E-05,0.301,-4.341,0.0528,128.355,0.218,27,Zedd
+True Colors (Perfect Edition),12,5YVZON5q42s3EhB98pXTpL,Stay The Night,spotify:track:5YVZON5q42s3EhB98pXTpL,0.109,0.596,0.738,0,0.0948,-3.109,0.0411,127.961,0.461,31,Zedd
+True Colors (Perfect Edition),14,3wTxBsattPtRbap8uLHtng,Clarity - Tiesto Remix,spotify:track:3wTxBsattPtRbap8uLHtng,0.00224,0.625,0.938,0.0028,0.27,-4.174,0.0432,128,0.338,15,Zedd
+True Colors (Perfect Edition),15,4AyiFdxousGJC3UTimmQUo,I Want You To Know - Lophiile Remix,spotify:track:4AyiFdxousGJC3UTimmQUo,0.157,0.595,0.895,0.00944,0.294,-5.431,0.0475,149.952,0.707,15,Zedd
+True Colors (Perfect Edition),16,1MREkDsZLIRePABuMLLuPR,True Colors - Grey Remix,spotify:track:1MREkDsZLIRePABuMLLuPR,0.011,0.622,0.869,0.0714,0.11,-4.702,0.0414,140.003,0.11,10,Zedd
+True Colors (Perfect Edition),17,1s4phXTiQ3ClnDOvZNtA2Z,Addicted To A Memory - Edit Version,spotify:track:1s4phXTiQ3ClnDOvZNtA2Z,0.00259,0.583,0.816,0.028,0.0559,-4.91,0.0372,127.987,0.0977,12,Zedd
+True Colors (Perfect Edition),18,6Mrmo0BfstORgxOgkLIZHm,Rude - Zedd Remix,spotify:track:6Mrmo0BfstORgxOgkLIZHm,0.028,0.6,0.833,1.50E-06,0.0728,-3.418,0.041,130.012,0.363,0,Zedd
+True Colors,12,7vAHlOAhsDbTz252wjPQSf,I Want You To Know - Marc Benjamin Remix,spotify:track:7vAHlOAhsDbTz252wjPQSf,0.0717,0.694,0.949,0.113,0.111,-2.402,0.0598,127.999,0.35,10,Zedd
+True Colors,13,2jZA2BIYAeR5x7BY4BOAyl,I Want You To Know - Fox Stevenson Remix,spotify:track:2jZA2BIYAeR5x7BY4BOAyl,0.027,0.835,0.686,0.0462,0.106,-1.596,0.0524,130.006,0.589,10,Zedd
+True Colors,1,0xTGfdrWzJLKRD4U6hxSsg,Addicted To A Memory,spotify:track:0xTGfdrWzJLKRD4U6hxSsg,0.000983,0.66,0.762,0.0242,0.145,-4.939,0.0442,128.008,0.0659,53,Zedd
+True Colors,2,1JDIArrcepzWDTAWXdGYmP,I Want You To Know,spotify:track:1JDIArrcepzWDTAWXdGYmP,0.00537,0.58,0.846,6.62E-06,0.145,-2.876,0.0573,129.998,0.366,71,Zedd
+True Colors,3,2ISSQPb9LHHiV6ng2NXosL,Beautiful Now,spotify:track:2ISSQPb9LHHiV6ng2NXosL,0.0079,0.628,0.833,1.48E-05,0.074,-4.126,0.0282,128.003,0.56,74,Zedd
+True Colors,4,1Bh8jtOXIBIRUUghbrwUTX,Transmission,spotify:track:1Bh8jtOXIBIRUUghbrwUTX,0.105,0.54,0.874,0,0.135,-3.467,0.0551,99.995,0.411,48,Zedd
+True Colors,5,0qlAureWHln3vDCsqnkyRE,Done With Love,spotify:track:0qlAureWHln3vDCsqnkyRE,0.06,0.579,0.759,0.000138,0.117,-5.584,0.0386,127.875,0.127,51,Zedd
+True Colors,6,2KTsF6TFius01SCYmnIkJG,True Colors,spotify:track:2KTsF6TFius01SCYmnIkJG,0.377,0.622,0.737,2.03E-05,0.0949,-4.946,0.0342,125.952,0.435,44,Zedd
+True Colors,7,1Aw0wPIW70GsV9KoD8m7Ps,Straight Into The Fire,spotify:track:1Aw0wPIW70GsV9KoD8m7Ps,0.0231,0.583,0.86,1.33E-06,0.0977,-4.347,0.0842,127.032,0.279,43,Zedd
+True Colors,8,62hWYjPL57rbUd5rhvI3Of,Papercut,spotify:track:62hWYjPL57rbUd5rhvI3Of,0.046,0.647,0.92,0.0058,0.357,-4.556,0.041,125.997,0.242,54,Zedd
+True Colors,9,0L2tjlCReyNfmL37wZh6kF,Bumble Bee,spotify:track:0L2tjlCReyNfmL37wZh6kF,0.00321,0.594,0.964,0.727,0.113,-5.359,0.0564,127.957,0.0368,39,Zedd
+True Colors,10,4ccQmBycgXDYtIA7Z1i32V,Daisy,spotify:track:4ccQmBycgXDYtIA7Z1i32V,0.124,0.586,0.598,0,0.151,-5.774,0.0359,112.067,0.201,51,Zedd
+True Colors,11,3ID8CH6UCMCIhcGg4Yfy4d,Illusion,spotify:track:3ID8CH6UCMCIhcGg4Yfy4d,0.253,0.753,0.725,0.00756,0.115,-5.898,0.0299,128.012,0.35,45,Zedd
+Clarity (Deluxe),12,5ADEOoHi4QVVCdQNSWxO8W,Push Play,spotify:track:5ADEOoHi4QVVCdQNSWxO8W,0.0868,0.604,0.921,0,0.0841,-1.44,0.0459,130.03,0.252,41,Zedd
+Clarity (Deluxe),13,5MrQhCbUZnAa2EIGQt5DHu,Alive,spotify:track:5MrQhCbUZnAa2EIGQt5DHu,0.00584,0.649,0.747,0.0171,0.698,-3.054,0.0489,127.961,0.0609,46,Zedd
+Clarity (Deluxe),14,4GubwVNqQLCtoqMz2LeQbu,Breakn' A Sweat - Zedd Remix,spotify:track:4GubwVNqQLCtoqMz2LeQbu,0.0076,0.561,0.949,0.291,0.377,-3.865,0.0646,130.03,0.408,28,Zedd
+Clarity (Deluxe),15,2zSEnOEVOQGOK7BVWWxcRN,Clarity - Remix,spotify:track:2zSEnOEVOQGOK7BVWWxcRN,0.0446,0.517,0.749,0,0.0991,-3.023,0.0542,128.049,0.182,41,Zedd
+Clarity (Deluxe),16,560bmVbJ73hE75bunZ8SNa,Stay The Night - Tiesto's Club Life Remix,spotify:track:560bmVbJ73hE75bunZ8SNa,0.00574,0.619,0.835,0.00736,0.602,-2.992,0.0272,128,0.331,33,Zedd
+Clarity (Deluxe),17,7mazffu6nlIv0rtRyPDMTD,Find You,spotify:track:7mazffu6nlIv0rtRyPDMTD,0.0227,0.53,0.783,2.11E-06,0.0987,-4.61,0.0388,127.971,0.397,58,Zedd
+Clarity,3,0VlS8FxzSyKpU6Bauoaac3,Spectrum - Radio Mix,spotify:track:0VlS8FxzSyKpU6Bauoaac3,0.0137,0.609,0.801,0.00349,0.127,-4.417,0.034,129.99,0.407,39,Zedd
+Clarity,11,3LyJxgGOskFrE7TDwnMyLC,Spectrum - livetune Remix,spotify:track:3LyJxgGOskFrE7TDwnMyLC,0.0355,0.643,0.825,0.0453,0.0749,-4.621,0.0418,129.997,0.465,10,Zedd
+Clarity,12,6kbO7f41CEKY9NKAQSlNue,Spectrum - Acoustic Version,spotify:track:6kbO7f41CEKY9NKAQSlNue,0.835,0.41,0.258,0,0.104,-8.534,0.0324,121.083,0.193,10,Zedd
+Clarity,13,1tg6w99dRxD2oIy7CnEOtU,Clarity - Zedd Union Mix,spotify:track:1tg6w99dRxD2oIy7CnEOtU,0.58,0.556,0.453,0,0.277,-8.216,0.0279,127.875,0.341,12,Zedd
+Clarity,1,6NwrXtcFbc8OX7wJyBqE89,Hourglass,spotify:track:6NwrXtcFbc8OX7wJyBqE89,0.0319,0.646,0.832,0.00147,0.0947,-5.008,0.0778,127.025,0.0468,44,Zedd
+Clarity,2,4mtCNSfEwcwvm9iLG1bADY,Shave It Up,spotify:track:4mtCNSfEwcwvm9iLG1bADY,0.000176,0.539,0.965,0.83,0.334,-4.213,0.0379,129.942,0.293,38,Zedd
+Clarity,3,1dFkD1JfRMzwO6hwUsE8aS,Spectrum,spotify:track:1dFkD1JfRMzwO6hwUsE8aS,0.0137,0.609,0.801,0.00349,0.127,-4.417,0.034,129.99,0.407,65,Zedd
+Clarity,4,3Gwq0zKnMWluOEPKh93BeC,Lost At Sea,spotify:track:3Gwq0zKnMWluOEPKh93BeC,0.0247,0.567,0.796,0,0.124,-3.534,0.0364,127.983,0.305,53,Zedd
+Clarity,5,60wwxj6Dd9NJlirf84wr2c,Clarity,spotify:track:60wwxj6Dd9NJlirf84wr2c,0.0398,0.509,0.781,0,0.0749,-3.48,0.072,128,0.176,79,Zedd
+Clarity,6,25erct5EXEr421xrRI6eOW,Codec,spotify:track:25erct5EXEr421xrRI6eOW,0.00287,0.755,0.74,0.355,0.0762,-4.928,0.0468,128.009,0.506,38,Zedd
+Clarity,7,0HSLQNyOkBZupUBurCHZdC,Stache,spotify:track:0HSLQNyOkBZupUBurCHZdC,0.00122,0.572,0.921,0.564,0.315,-4.219,0.12,127.976,0.371,37,Zedd
+Clarity,8,6xzCQrXrn0uOOKBQZK1zsF,Fall Into The Sky,spotify:track:6xzCQrXrn0uOOKBQZK1zsF,0.0362,0.656,0.956,0.0384,0.138,-3.635,0.0699,128.001,0.54,47,Zedd
+Clarity,9,2VtX9viww814jnWFERUhAS,Follow You Down,spotify:track:2VtX9viww814jnWFERUhAS,0.00792,0.688,0.694,0.0117,0.365,-5.335,0.0451,128.009,0.576,49,Zedd
+Clarity,10,2XtiJWLCPzR9AyUKMEgu3a,Epos,spotify:track:2XtiJWLCPzR9AyUKMEgu3a,0.000186,0.505,0.629,0.758,0.0541,-6.404,0.0674,127.993,0.382,34,Zedd
+Clarity (Deluxe),11,2QtJA4gbwe1AcanB2p21aP,Stay The Night - Featuring Hayley Williams Of Paramore,spotify:track:2QtJA4gbwe1AcanB2p21aP,0.109,0.596,0.738,0,0.0947,-3.109,0.0411,127.961,0.461,68,Zedd

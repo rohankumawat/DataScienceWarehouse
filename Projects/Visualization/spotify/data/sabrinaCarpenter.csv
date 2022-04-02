@@ -1,0 +1,54 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+CLOUDS (Music From The Disney+ Original Movie),1,5GWOpEPh1YAu1c25EENFlF,Galaxies,spotify:track:5GWOpEPh1YAu1c25EENFlF,0.869,0.513,0.277,0,0.0621,-10.587,0.0296,135.926,0.132,40,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),2,3KKUAEaehogQNQUSIlZxF1,Sexy And I Know It,spotify:track:3KKUAEaehogQNQUSIlZxF1,0.795,0.583,0.269,0,0.0938,-9.823,0.0882,106.921,0.5,37,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),3,6b2WZQaW8BWRCY7AMHaMP1,Blueberries,spotify:track:6b2WZQaW8BWRCY7AMHaMP1,0.823,0.602,0.363,0,0.091,-8.393,0.0362,177.954,0.483,46,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),4,0nCfCedKIf6EjWFt55AXum,Clouds (with Sabrina Carpenter),spotify:track:0nCfCedKIf6EjWFt55AXum,0.571,0.583,0.633,0.000816,0.156,-7.662,0.0279,95.037,0.379,60,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),5,1ERCrZMVMSpqDW4zmr4sRc,afterthoughts,spotify:track:1ERCrZMVMSpqDW4zmr4sRc,0.86,0.51,0.229,3.03E-05,0.118,-11.394,0.0352,93.309,0.107,57,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),6,3tlYKGhlexHCt8Ac5pYG49,Fix Me Up (with Sabrina Carpenter),spotify:track:3tlYKGhlexHCt8Ac5pYG49,0.731,0.396,0.418,9.46E-06,0.164,-8.504,0.0294,126.083,0.142,56,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),7,60FOYIclKOq7bdwY5z5GRw,My Little Dancer,spotify:track:60FOYIclKOq7bdwY5z5GRw,0.907,0.558,0.178,0,0.132,-12.816,0.0396,79.53,0.373,44,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),8,0v0o4Otymd018Md9coeR4i,How To Go To Confession,spotify:track:0v0o4Otymd018Md9coeR4i,0.482,0.278,0.552,0.000174,0.101,-6.305,0.0518,161.958,0.193,48,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),9,5l3HdNxHfzukubdqakV6hL,Clouds Score Suite,spotify:track:5l3HdNxHfzukubdqakV6hL,0.873,0.383,0.238,0.917,0.0716,-13.231,0.0288,102.042,0.0369,35,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),10,4Ad8uVajbb6QpUNQSmuswp,Purple Pink,spotify:track:4Ad8uVajbb6QpUNQSmuswp,0.686,0.752,0.336,0.000133,0.11,-13.032,0.0377,95.996,0.521,36,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),11,0Om29oA0R3YPxVuf8Okowh,Star Hopping - Film Version,spotify:track:0Om29oA0R3YPxVuf8Okowh,0.809,0.48,0.282,0,0.112,-10.37,0.0824,199.724,0.498,33,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),12,6Y9HBKuFzPRzmW1Cc4j3Rs,Ames - Film Version,spotify:track:6Y9HBKuFzPRzmW1Cc4j3Rs,0.62,0.456,0.349,0,0.0778,-9.298,0.0386,139.609,0.276,34,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),13,3f8zH05JnpK8wtuTqvSFsg,Sandcastles - Film Version,spotify:track:3f8zH05JnpK8wtuTqvSFsg,0.703,0.436,0.473,0,0.089,-8.986,0.0426,186.078,0.351,36,Sabrina Carpenter
+CLOUDS (Music From The Disney+ Original Movie),14,7iG6ySNM8AjH8zR3N3F4FY,Wild Life,spotify:track:7iG6ySNM8AjH8zR3N3F4FY,0.00711,0.485,0.762,0.0132,0.12,-7.843,0.0379,115.956,0.052,49,Sabrina Carpenter
+Singular Act II,1,1FjD1jpm51dH5LzLvrDVPY,In My Bed,spotify:track:1FjD1jpm51dH5LzLvrDVPY,0.0714,0.545,0.385,0.0014,0.0859,-6.01,0.299,218.365,0.655,56,Sabrina Carpenter
+Singular Act II,2,1xMHC2XPuDyBWU1ULY7eMA,Pushing 20,spotify:track:1xMHC2XPuDyBWU1ULY7eMA,0.171,0.633,0.814,0,0.161,-2.876,0.313,150.789,0.623,52,Sabrina Carpenter
+Singular Act II,3,1AVVv4FgNLxQlV64j7dfP1,I Can't Stop Me,spotify:track:1AVVv4FgNLxQlV64j7dfP1,0.288,0.677,0.69,0,0.103,-3.111,0.0741,139.995,0.545,52,Sabrina Carpenter
+Singular Act II,4,62dMfMIAoHZcu3ne9Ie3RE,I'm Fakin,spotify:track:62dMfMIAoHZcu3ne9Ie3RE,0.0939,0.729,0.828,0,0.0826,-3.223,0.0645,160.007,0.506,53,Sabrina Carpenter
+Singular Act II,5,27B9H3cOefm9lWDfh9A0gj,Take Off All Your Cool,spotify:track:27B9H3cOefm9lWDfh9A0gj,0.216,0.514,0.713,0,0.138,-4.207,0.457,117.042,0.809,46,Sabrina Carpenter
+Singular Act II,6,1CXLy7cfmAuxoIYcVM3wtK,Tell Em,spotify:track:1CXLy7cfmAuxoIYcVM3wtK,0.143,0.792,0.134,0,0.131,-11.12,0.054,102.985,0.199,47,Sabrina Carpenter
+Singular Act II,7,6CagMrZXJUdGGIw6Eaepos,Exhale,spotify:track:6CagMrZXJUdGGIw6Eaepos,0.879,0.513,0.266,0,0.123,-10.611,0.0357,74.009,0.276,63,Sabrina Carpenter
+Singular Act II,8,1NF9ux53nctr5Rjb3c8i7D,Take You Back,spotify:track:1NF9ux53nctr5Rjb3c8i7D,0.0794,0.625,0.7,0,0.143,-3.801,0.135,199.847,0.517,46,Sabrina Carpenter
+Singular Act II,9,59tskctgqUmjCWAwhzYAFm,Looking at Me,spotify:track:59tskctgqUmjCWAwhzYAFm,0.00398,0.681,0.798,5.11E-06,0.0542,-4.367,0.0375,105.99,0.516,77,Sabrina Carpenter
+Singular Act I,1,1yXFAwSMDZmX2ZyDLLyQ9s,Almost Love,spotify:track:1yXFAwSMDZmX2ZyDLLyQ9s,0.111,0.81,0.759,4.73E-06,0.0919,-3.029,0.0376,104.993,0.615,57,Sabrina Carpenter
+Singular Act I,2,359HNzfOXhCMHB1pNKhyfH,Paris,spotify:track:359HNzfOXhCMHB1pNKhyfH,0.0482,0.576,0.671,0,0.114,-6.408,0.0474,114.839,0.226,62,Sabrina Carpenter
+Singular Act I,3,72DnQlaqdNhz9QJZXfYe6L,Hold Tight,spotify:track:72DnQlaqdNhz9QJZXfYe6L,0.126,0.582,0.383,0,0.25,-8.576,0.195,135.535,0.388,47,Sabrina Carpenter
+Singular Act I,4,3WVhkjB7Y4xFruqoCAajBb,Sue Me,spotify:track:3WVhkjB7Y4xFruqoCAajBb,0.0422,0.46,0.809,5.04E-05,0.138,-5.415,0.326,157.184,0.609,74,Sabrina Carpenter
+Singular Act I,5,75wU86jr8iIiBVfD3kU3cU,prfct,spotify:track:75wU86jr8iIiBVfD3kU3cU,0.18,0.789,0.771,0,0.336,-5.191,0.0581,122.966,0.5,48,Sabrina Carpenter
+Singular Act I,6,1YqPDOmooQQIXsRSdbRrwI,Bad Time,spotify:track:1YqPDOmooQQIXsRSdbRrwI,0.243,0.667,0.536,0,0.566,-6.54,0.0623,82.964,0.693,49,Sabrina Carpenter
+Singular Act I,7,7Gq4tfeuWPjr6WQiB7aBXz,Mona Lisa,spotify:track:7Gq4tfeuWPjr6WQiB7aBXz,0.277,0.764,0.473,0,0.117,-6.59,0.0451,143.999,0.53,54,Sabrina Carpenter
+Singular Act I,8,2KTdmzSdPipwFYdUdilmi3,Diamonds Are Forever,spotify:track:2KTdmzSdPipwFYdUdilmi3,0.00107,0.418,0.574,0,0.114,-4.497,0.0343,175.816,0.324,54,Sabrina Carpenter
+EVOLution,1,1Xmjr9Cft2ZdiGVZPxhqCs,On Purpose,spotify:track:1Xmjr9Cft2ZdiGVZPxhqCs,0.0294,0.603,0.781,0,0.0905,-4.221,0.0412,99.966,0.252,59,Sabrina Carpenter
+EVOLution,2,0QTOY1FBKwC7jA33N8cLSi,Feels Like Loneliness,spotify:track:0QTOY1FBKwC7jA33N8cLSi,0.0975,0.746,0.638,0.00752,0.173,-4.766,0.0923,127.985,0.333,47,Sabrina Carpenter
+EVOLution,3,6WC5fhc9XMaCrUNKNjm9xE,Thumbs,spotify:track:6WC5fhc9XMaCrUNKNjm9xE,0.0284,0.73,0.718,0,0.0892,-3.496,0.0478,135.045,0.127,76,Sabrina Carpenter
+EVOLution,4,7gnUZFwdWMCaLNPDbGaq0Y,No Words,spotify:track:7gnUZFwdWMCaLNPDbGaq0Y,0.0255,0.72,0.801,5.44E-06,0.298,-3.542,0.0763,94.974,0.649,44,Sabrina Carpenter
+EVOLution,5,24fhYqs2KtWbHfY4Ngdf5U,Run and Hide,spotify:track:24fhYqs2KtWbHfY4Ngdf5U,0.863,0.522,0.362,0,0.161,-7.72,0.0529,155.978,0.454,47,Sabrina Carpenter
+EVOLution,6,1PnDrmc20HzbzfqVA53iYD,Mirage,spotify:track:1PnDrmc20HzbzfqVA53iYD,0.214,0.635,0.578,0.0182,0.0928,-9.64,0.0375,101.99,0.202,42,Sabrina Carpenter
+EVOLution,7,2yqhHi9QfZ5INE13sS5Bva,Don't Want It Back,spotify:track:2yqhHi9QfZ5INE13sS5Bva,0.0493,0.523,0.67,0,0.22,-3.576,0.0313,98.052,0.511,45,Sabrina Carpenter
+EVOLution,8,65RTUeyKsXuiIocxEzYhMY,Shadows,spotify:track:65RTUeyKsXuiIocxEzYhMY,0.579,0.532,0.561,0,0.0915,-3.107,0.0347,125.355,0.288,51,Sabrina Carpenter
+EVOLution,9,4uiZziAgyMvmKr4tujpcXm,Space,spotify:track:4uiZziAgyMvmKr4tujpcXm,0.0597,0.619,0.707,5.02E-05,0.206,-6.035,0.0637,100.1,0.623,42,Sabrina Carpenter
+EVOLution,10,4WFWvM4zjMgjQxmP21ezfO,All We Have Is Love,spotify:track:4WFWvM4zjMgjQxmP21ezfO,0.499,0.658,0.699,1.25E-05,0.0692,-4.766,0.0368,129.768,0.437,47,Sabrina Carpenter
+Eyes Wide Open,1,4pbrp5dxpqjfaf4GiS6YuO,Eyes Wide Open,spotify:track:4pbrp5dxpqjfaf4GiS6YuO,0.00435,0.584,0.641,1.22E-06,0.113,-6.637,0.0284,88.033,0.353,59,Sabrina Carpenter
+Eyes Wide Open,2,5K7fGxZQB0K5sPKhLe9e07,Can't Blame a Girl for Trying,spotify:track:5K7fGxZQB0K5sPKhLe9e07,0.449,0.601,0.392,0,0.13,-7.322,0.0342,143.716,0.352,63,Sabrina Carpenter
+Eyes Wide Open,3,5wX5skuafFdeF31vpM6Krl,The Middle of Starting Over,spotify:track:5wX5skuafFdeF31vpM6Krl,0.0107,0.49,0.805,0,0.381,-6.041,0.0302,92.033,0.32,51,Sabrina Carpenter
+Eyes Wide Open,4,7lqkNvVxJdYDCSAwSJNzHs,We'll Be The Stars,spotify:track:7lqkNvVxJdYDCSAwSJNzHs,0.00786,0.563,0.513,0,0.154,-5.13,0.0259,82.959,0.428,54,Sabrina Carpenter
+Eyes Wide Open,5,47hRbUwwBU3E2wyIA8OE4x,Two Young Hearts,spotify:track:47hRbUwwBU3E2wyIA8OE4x,0.00394,0.605,0.69,0,0.134,-7.512,0.0379,110.058,0.197,44,Sabrina Carpenter
+Eyes Wide Open,6,1fVnTuUKlhkFqZ6HXV56s6,Your Love's Like,spotify:track:1fVnTuUKlhkFqZ6HXV56s6,0.00621,0.536,0.737,1.52E-06,0.112,-5.776,0.0332,78.016,0.387,46,Sabrina Carpenter
+Eyes Wide Open,7,694MyEbGgAtoEVYqdtfvp2,Too Young,spotify:track:694MyEbGgAtoEVYqdtfvp2,0.376,0.317,0.489,0,0.248,-6.899,0.0336,151.492,0.165,55,Sabrina Carpenter
+Eyes Wide Open,8,75s1b4uRCk6UPOPBLNdDIA,Seamless,spotify:track:75s1b4uRCk6UPOPBLNdDIA,0.817,0.607,0.295,0,0.0848,-8.613,0.0312,76.797,0.677,55,Sabrina Carpenter
+Eyes Wide Open,9,3hqJdqziOPbu422kXaOyII,Right Now,spotify:track:3hqJdqziOPbu422kXaOyII,0.0407,0.649,0.678,0,0.156,-6.233,0.0401,107.978,0.528,40,Sabrina Carpenter
+Eyes Wide Open,10,6rdKHwxWa9aqWyoGf1r20v,Darling I'm a Mess,spotify:track:6rdKHwxWa9aqWyoGf1r20v,0.672,0.552,0.484,0,0.124,-6.875,0.0271,89.677,0.466,41,Sabrina Carpenter
+Eyes Wide Open,11,6xQdHOX1Tq3IrKsQdLs0nc,White Flag,spotify:track:6xQdHOX1Tq3IrKsQdLs0nc,0.287,0.678,0.731,0,0.0784,-4.432,0.0256,96.01,0.86,41,Sabrina Carpenter
+Eyes Wide Open,12,66g4mn8jSks0Hu1zEcc81G,Best Thing I Got,spotify:track:66g4mn8jSks0Hu1zEcc81G,0.00877,0.671,0.696,0.000143,0.298,-5.641,0.0273,129.987,0.629,42,Sabrina Carpenter

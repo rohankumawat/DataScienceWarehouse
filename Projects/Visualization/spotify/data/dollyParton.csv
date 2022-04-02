@@ -1,0 +1,186 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+"Run, Rose, Run",1,2JndeCU11e848HNakDGaZC,Run,spotify:track:2JndeCU11e848HNakDGaZC,0.72,0.624,0.858,0,0.356,-4.795,0.0954,115.048,0.675,51,Dolly Parton
+"Run, Rose, Run",2,74oyvAPVoZvnEHDwZQgYnL,Big Dreams and Faded Jeans,spotify:track:74oyvAPVoZvnEHDwZQgYnL,0.445,0.768,0.553,0,0.0801,-7.878,0.0438,112.026,0.81,49,Dolly Parton
+"Run, Rose, Run",3,42qQfL7lQefUOXvqtSyrWM,Demons,spotify:track:42qQfL7lQefUOXvqtSyrWM,0.488,0.681,0.356,0,0.109,-8.233,0.0306,86.915,0.401,51,Dolly Parton
+"Run, Rose, Run",4,04FrhzuZSgjHL1fGgOLiiT,Driven,spotify:track:04FrhzuZSgjHL1fGgOLiiT,0.589,0.616,0.827,1.82E-06,0.243,-5.535,0.0543,139.992,0.644,48,Dolly Parton
+"Run, Rose, Run",5,0eMAQzLpfKkS57DzOiaTNv,Snakes In the Grass,spotify:track:0eMAQzLpfKkS57DzOiaTNv,0.336,0.695,0.554,0,0.0639,-8.637,0.058,109.959,0.551,45,Dolly Parton
+"Run, Rose, Run",6,0wSRvzs3I0Dig07ejN2jiZ,Blue Bonnet Breeze,spotify:track:0wSRvzs3I0Dig07ejN2jiZ,0.902,0.364,0.202,2.52E-06,0.159,-15.262,0.0494,147.097,0.369,45,Dolly Parton
+"Run, Rose, Run",7,4ed8tSfo4yU778D2mzIptV,Woman Up (And Take It Like A Man),spotify:track:4ed8tSfo4yU778D2mzIptV,0.383,0.681,0.759,0,0.0974,-5.602,0.0982,98.038,0.614,54,Dolly Parton
+"Run, Rose, Run",8,7C8gwN0JX7Df8Rfepg8nMi,Firecracker,spotify:track:7C8gwN0JX7Df8Rfepg8nMi,0.351,0.593,0.812,0,0.396,-3.935,0.044,139.842,0.764,47,Dolly Parton
+"Run, Rose, Run",9,5ZEOBAdt5fnY6l4yJzaMVf,Secrets,spotify:track:5ZEOBAdt5fnY6l4yJzaMVf,0.778,0.555,0.284,0.000249,0.101,-11.691,0.043,73.751,0.304,42,Dolly Parton
+"Run, Rose, Run",10,3Ygg9wPKyNeNzcmqqji605,Lost and Found,spotify:track:3Ygg9wPKyNeNzcmqqji605,0.605,0.659,0.428,0,0.135,-7.989,0.0324,126.157,0.46,43,Dolly Parton
+"Run, Rose, Run",11,2QzacNYLUsovHldopNz2vc,"Dark Night, Bright Future",spotify:track:2QzacNYLUsovHldopNz2vc,0.621,0.609,0.683,0,0.325,-4.616,0.035,127.836,0.829,42,Dolly Parton
+"Run, Rose, Run",12,7rj4tSgemISEWBs81UhWxj,Love Or Lust,spotify:track:7rj4tSgemISEWBs81UhWxj,0.841,0.404,0.279,6.19E-05,0.122,-10.021,0.0375,95.043,0.334,42,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),1,7Lm2SpRFSiBUnojsvJUWuf,Holly Jolly Christmas,spotify:track:7Lm2SpRFSiBUnojsvJUWuf,0.703,0.668,0.616,0,0.316,-6.901,0.0338,142.016,0.797,33,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),2,2Ntvb40N49c6B8vYfeUz0j,Christmas Is (feat. Miley Cyrus),spotify:track:2Ntvb40N49c6B8vYfeUz0j,0.685,0.345,0.331,0,0.155,-8.564,0.031,155.344,0.165,30,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),3,5kh18bCA4I2S1hAFDlffiE,"Cuddle Up, Cozy Down Christmas",spotify:track:5kh18bCA4I2S1hAFDlffiE,0.678,0.658,0.515,0,0.154,-7.283,0.0368,110.089,0.652,48,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),4,6UFj5kbrQtd2L4yUcDDXfx,Christmas On The Square,spotify:track:6UFj5kbrQtd2L4yUcDDXfx,0.409,0.386,0.764,0,0.39,-7.039,0.0957,199.683,0.777,23,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),5,7I6vPoqV38o7Ej8S0huALi,Circle Of Love,spotify:track:7I6vPoqV38o7Ej8S0huALi,0.64,0.325,0.315,1.14E-05,0.107,-9.265,0.0309,169.847,0.252,26,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),6,5Eeh2qLvZ0Uzy42IXIDj3E,All I Want For Christmas Is You,spotify:track:5Eeh2qLvZ0Uzy42IXIDj3E,0.593,0.42,0.755,0,0.204,-5.904,0.0584,149.918,0.361,27,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),7,04u6VIyEbFcF2RsTcGhxue,Comin' Home For Christmas,spotify:track:04u6VIyEbFcF2RsTcGhxue,0.681,0.543,0.474,0,0.347,-8.659,0.0316,79.909,0.21,22,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),8,6GYPgQrH30IIPSYwrFBhf2,Christmas Where We Are (feat. Billy Ray Cyrus),spotify:track:6GYPgQrH30IIPSYwrFBhf2,0.354,0.638,0.742,0.00389,0.0653,-8.729,0.0334,105.045,0.804,22,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),9,4rbMxIHRSv04oBBuskJgTp,Pretty Paper,spotify:track:4rbMxIHRSv04oBBuskJgTp,0.833,0.411,0.431,1.28E-05,0.278,-7.179,0.0269,80.09,0.244,24,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),10,3e7cCncURbVfVa7h6nygX2,I Saw Mommy Kissing Santa Claus,spotify:track:3e7cCncURbVfVa7h6nygX2,0.59,0.628,0.554,0,0.0998,-7.393,0.0303,145.955,0.822,25,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),11,3aEBeCFb7lPe1JnNQNBgzJ,You Are My Christmas (feat. Randy Parton),spotify:track:3aEBeCFb7lPe1JnNQNBgzJ,0.308,0.564,0.788,0,0.13,-7.197,0.0489,105.955,0.506,20,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),12,6Z7DDFJ1Xc3oWtxKnXTbde,"Mary, Did You Know?",spotify:track:6Z7DDFJ1Xc3oWtxKnXTbde,0.784,0.355,0.382,0,0.123,-9.257,0.0378,95.994,0.261,24,Dolly Parton
+A Holly Dolly Christmas (Bonus Version),13,2kDQz2J9Z3ajMf58KNHQut,"I Still Believe - Performed Live on ""A Holly Dolly Christmas"" TV Special",spotify:track:2kDQz2J9Z3ajMf58KNHQut,0.269,0.544,0.534,0,0.111,-8.335,0.0328,75.113,0.362,26,Dolly Parton
+A Holly Dolly Christmas (Deluxe Edition),14,4FTNR8T2bpzN8kUmJD7kgX,Three Candles,spotify:track:4FTNR8T2bpzN8kUmJD7kgX,0.888,0.48,0.275,0,0.0877,-10.964,0.0306,135.065,0.443,11,Dolly Parton
+A Holly Dolly Christmas (Deluxe Edition),15,5LpqTCdzDtqui2kaRUzV6R,The Wish Book,spotify:track:5LpqTCdzDtqui2kaRUzV6R,0.674,0.594,0.583,0,0.132,-7.34,0.0354,93.126,0.716,10,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,1,4KOHpFQGEvkJFcwwm7g3ax,Here I Am - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:4KOHpFQGEvkJFcwwm7g3ax,0.281,0.458,0.506,7.76E-06,0.236,-5.375,0.0271,80.04,0.233,46,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,2,3jyVsxt4UNU4PEZR0klPAK,Holdin' On To You - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:3jyVsxt4UNU4PEZR0klPAK,0.379,0.605,0.66,0,0.257,-3.89,0.0386,172.155,0.742,42,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,3,0c0myGBE4tomCo74Ipyr4G,Girl in the Movies - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:0c0myGBE4tomCo74Ipyr4G,0.754,0.612,0.453,5.23E-05,0.119,-5.945,0.0307,120.082,0.178,41,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,4,4nHV7YyK8KruEtie7JZVpJ,Red Shoes - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:4nHV7YyK8KruEtie7JZVpJ,0.312,0.573,0.539,3.17E-06,0.0929,-5.964,0.0365,152.106,0.367,36,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,5,7B2mVnUVnCiq1fptYMQqwh,Why - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:7B2mVnUVnCiq1fptYMQqwh,0.694,0.763,0.639,0,0.348,-5.269,0.0422,108.039,0.638,30,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,6,5UOQ50D5xDZ0YwnmZWcutu,Dumb Blonde - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:5UOQ50D5xDZ0YwnmZWcutu,0.415,0.555,0.64,7.42E-06,0.0953,-5.081,0.0259,78.946,0.828,43,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,7,6Ze4jf0D5XFZbBr064zf8C,Here You Come Again - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:6Ze4jf0D5XFZbBr064zf8C,0.606,0.485,0.22,0,0.151,-7.886,0.0296,80.692,0.153,38,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,8,5BIeIgoBJAl7GI6yG68JKo,Who - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:5BIeIgoBJAl7GI6yG68JKo,0.805,0.668,0.362,0,0.32,-8.668,0.0303,83.973,0.349,28,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,9,29h1lB9PTcekp5oUvCt2Za,Push and Pull - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:29h1lB9PTcekp5oUvCt2Za,0.277,0.683,0.456,1.66E-05,0.142,-6.588,0.0277,127.954,0.0987,29,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,10,6XZFRtDF6VB7FeFQzZ0UWG,If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:6XZFRtDF6VB7FeFQzZ0UWG,0.0953,0.627,0.867,0,0.305,-4.283,0.0594,121.959,0.818,33,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,11,1tBIs8mlLyU5Ptd1vec4Vm,Two Doors Down - from the Dumplin' Original Motion Picture Soundtrack,spotify:track:1tBIs8mlLyU5Ptd1vec4Vm,0.205,0.672,0.53,0.000148,0.122,-6.213,0.0367,97.899,0.636,39,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,12,57x4rhVOEoPQbJYcIXS1WK,Jolene - New String Version [from the Dumplin' Original Motion Picture Soundtrack],spotify:track:57x4rhVOEoPQbJYcIXS1WK,0.902,0.427,0.223,0,0.128,-8.152,0.0305,87.065,0.349,33,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,13,6liLOaQxM5MFWywFdCKo0y,Here You Come Again - Dumplin' Remix,spotify:track:6liLOaQxM5MFWywFdCKo0y,0.102,0.661,0.761,0.0106,0.624,-5.288,0.0555,105.913,0.704,40,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,14,0HtY7ILTZVSd4i44FuOrur,Jolene - Dumplin' Remix,spotify:track:0HtY7ILTZVSd4i44FuOrur,0.0484,0.712,0.861,0.000694,0.0776,-6.779,0.0428,126.058,0.767,50,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,15,2Ruu0tAMyAJoOvNPy5BuPC,9 to 5,spotify:track:2Ruu0tAMyAJoOvNPy5BuPC,0.416,0.554,0.783,1.54E-06,0.631,-5.852,0.0457,105.39,0.813,38,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,16,5FruSFyMn5v6Tl5EPib89l,Dumb Blonde,spotify:track:5FruSFyMn5v6Tl5EPib89l,0.659,0.621,0.565,0,0.116,-8.033,0.0311,79.922,0.775,34,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,17,6yG2bpHo6CP5eQ4isLtWvC,Two Doors Down,spotify:track:6yG2bpHo6CP5eQ4isLtWvC,0.52,0.705,0.669,0.0195,0.0503,-10.479,0.0761,97.912,0.82,35,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,18,5ZRP4MYa5WdaQNql23Nqeq,Jolene,spotify:track:5ZRP4MYa5WdaQNql23Nqeq,0.566,0.68,0.53,0,0.125,-11.544,0.0362,110.498,0.79,33,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,19,6xpXTGznpnc2GcylNmNnlr,Here You Come Again,spotify:track:6xpXTGznpnc2GcylNmNnlr,0.583,0.543,0.57,0.000625,0.065,-9.105,0.0362,105.441,0.621,32,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,20,5KPeSaRC84NJp4F7f7H6Lm,Holdin' On to You,spotify:track:5KPeSaRC84NJp4F7f7H6Lm,0.75,0.652,0.633,0,0.63,-9.692,0.159,164.988,0.9,28,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,21,3zojMGtQn3iDpiulkHfwc9,Just Because I'm a Woman,spotify:track:3zojMGtQn3iDpiulkHfwc9,0.704,0.604,0.286,0,0.0925,-8.975,0.0314,104.026,0.57,29,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,22,5zr3mpLwwj1lKRC0ywtLhT,Better Get to Livin',spotify:track:5zr3mpLwwj1lKRC0ywtLhT,0.00435,0.638,0.685,0,0.186,-9.657,0.0286,101.003,0.766,47,Dolly Parton
+Dumplin' Original Motion Picture Soundtrack,23,30C91h0O9OLREDN2i8zAs9,High And Mighty (with The Christ Church Choir),spotify:track:30C91h0O9OLREDN2i8zAs9,0.308,0.546,0.702,0,0.318,-7.485,0.0608,134.507,0.511,27,Dolly Parton
+I Believe in You,1,01r5xwvpAgMEo5luQhY5tL,I Believe in You,spotify:track:01r5xwvpAgMEo5luQhY5tL,0.224,0.725,0.684,0,0.158,-7.846,0.0536,98.06,0.82,29,Dolly Parton
+I Believe in You,2,0serfzd0g9WncDcrh2vUQO,Coat of Many Colors,spotify:track:0serfzd0g9WncDcrh2vUQO,0.787,0.429,0.304,0,0.14,-12.075,0.0694,89.192,0.662,32,Dolly Parton
+I Believe in You,3,44ZQqizqyr4o7QGeVg7b8N,Together Forever,spotify:track:44ZQqizqyr4o7QGeVg7b8N,0.0631,0.684,0.622,0,0.442,-7.115,0.0769,107.958,0.8,20,Dolly Parton
+I Believe in You,4,0GpjcFdlkxlNqeqnozWOyu,I Am a Rainbow,spotify:track:0GpjcFdlkxlNqeqnozWOyu,0.687,0.694,0.456,0,0.0687,-8.078,0.0323,115.011,0.643,21,Dolly Parton
+I Believe in You,5,70fjpRC86MupQ4b8eEeSPA,I'm Here,spotify:track:70fjpRC86MupQ4b8eEeSPA,0.588,0.477,0.562,0,0.19,-9.149,0.0313,88.007,0.472,19,Dolly Parton
+I Believe in You,6,4RGPWfzJwvYMSmasEuxelG,A Friend Like You,spotify:track:4RGPWfzJwvYMSmasEuxelG,0.368,0.508,0.683,0,0.188,-7.04,0.15,184.223,0.833,20,Dolly Parton
+I Believe in You,7,2cpserKlnR16Ikn0W9cDEa,Imagination,spotify:track:2cpserKlnR16Ikn0W9cDEa,0.665,0.654,0.643,0,0.0647,-7.066,0.0553,91.997,0.852,18,Dolly Parton
+I Believe in You,8,4NFPPk3MFLotcjz2hNrEVy,You Can Do It,spotify:track:4NFPPk3MFLotcjz2hNrEVy,0.246,0.471,0.636,0,0.249,-6.737,0.168,200.302,0.627,19,Dolly Parton
+I Believe in You,9,3TqycrM2UT5iLUOIzGfWpe,Responsibility,spotify:track:3TqycrM2UT5iLUOIzGfWpe,0.301,0.641,0.651,0,0.0848,-6.808,0.0512,90.037,0.749,17,Dolly Parton
+I Believe in You,10,02xqT1kwgj1XPkjU9SDpdF,You Gotta Be,spotify:track:02xqT1kwgj1XPkjU9SDpdF,0.327,0.617,0.682,0,0.102,-6.095,0.055,177.049,0.942,17,Dolly Parton
+I Believe in You,11,0yGnWwzsGhnoZD2SNYKyYp,Makin' Fun Ain't Funny,spotify:track:0yGnWwzsGhnoZD2SNYKyYp,0.535,0.743,0.459,0,0.0722,-8.455,0.114,90.057,0.505,17,Dolly Parton
+I Believe in You,12,2XiivklJG73ZoEZs5DUX2y,Chemo Hero,spotify:track:2XiivklJG73ZoEZs5DUX2y,0.361,0.704,0.734,0,0.793,-7.383,0.0486,103.075,0.793,16,Dolly Parton
+I Believe in You,13,6jp1QxKzeZWdxrRNcvCCFL,Brave Little Soldier,spotify:track:6jp1QxKzeZWdxrRNcvCCFL,0.457,0.652,0.405,0,0.0932,-10.325,0.0444,92.551,0.174,17,Dolly Parton
+I Believe in You,14,7kjtFLfTVskvVGB0eHI5Ub,"A Reading of ""Coat of Many Colors"" - Bonus Track",spotify:track:7kjtFLfTVskvVGB0eHI5Ub,0.912,0.69,0.115,0,0.0986,-20.58,0.914,62.33,0.388,15,Dolly Parton
+Pure & Simple,1,38vLT8x79CiWYXco43vQjW,Fire Medley: Baby I'm Burning / Great Balls of Fire / Girl on Fire (Live at Glastonbury),spotify:track:38vLT8x79CiWYXco43vQjW,0.155,0.392,0.932,3.30E-05,0.952,-4.684,0.168,110.556,0.516,12,Dolly Parton
+Pure & Simple,2,7F4iN4hzhm4Sf7Fp3hmKLv,Why'd You Come in Here Lookin' Like That (Live at Glastonbury),spotify:track:7F4iN4hzhm4Sf7Fp3hmKLv,0.43,0.501,0.929,1.94E-05,0.91,-5.862,0.384,175.321,0.631,13,Dolly Parton
+Pure & Simple,3,65aDM65r56SYmxuD2E79sb,Jolene (Live at Glastonbury),spotify:track:65aDM65r56SYmxuD2E79sb,0.789,0.603,0.691,9.51E-05,0.892,-8.202,0.2,105.685,0.688,15,Dolly Parton
+Pure & Simple,4,4NhdKMprl3nhlZn2b1CmOc,Blue Smoke (Live at Glastonbury),spotify:track:4NhdKMprl3nhlZn2b1CmOc,0.837,0.512,0.765,1.27E-06,0.649,-7.313,0.381,120.684,0.584,12,Dolly Parton
+Pure & Simple,5,6HNum3TsD048urK12SyA5p,Coat of Many Colors (Live at Glastonbury),spotify:track:6HNum3TsD048urK12SyA5p,0.901,0.4,0.411,0,0.376,-10.821,0.177,80.918,0.645,11,Dolly Parton
+Pure & Simple,6,0nvgk20vhcOYL4M4uBemyQ,Rocky Top (Live at Glastonbury),spotify:track:0nvgk20vhcOYL4M4uBemyQ,0.153,0.483,0.877,0.000181,0.801,-7.274,0.289,149.1,0.496,11,Dolly Parton
+Pure & Simple,7,49RBItmcuDwe7WHFTFkmWH,Mud Song (Live at Glastonbury),spotify:track:49RBItmcuDwe7WHFTFkmWH,0.168,0.58,0.776,1.10E-05,0.572,-7.304,0.224,98.599,0.314,7,Dolly Parton
+Pure & Simple,8,0rCYIHviz1crAD357cFbyE,Banks of the Ohio (Live at Glastonbury),spotify:track:0rCYIHviz1crAD357cFbyE,0.925,0.372,0.274,0,0.729,-9.904,0.0447,59.381,0.394,10,Dolly Parton
+Pure & Simple,9,3RUEOWHo1RWOJq6NIZ5TWz,Here You Come Again (Live at Glastonbury),spotify:track:3RUEOWHo1RWOJq6NIZ5TWz,0.302,0.521,0.767,0,0.735,-5.311,0.0405,107.875,0.694,13,Dolly Parton
+Pure & Simple,10,3rm3YSU7mCAxbMctoSriHv,Two Doors Down (Live at Glastonbury),spotify:track:3rm3YSU7mCAxbMctoSriHv,0.282,0.597,0.963,0,0.914,-3.843,0.0957,104.041,0.635,11,Dolly Parton
+Pure & Simple,11,4MVhZV9N0iNfC8rNlXkrA7,Islands in the Stream (Live at Glastonbury),spotify:track:4MVhZV9N0iNfC8rNlXkrA7,0.563,0.471,0.834,0,0.811,-5.379,0.084,203.767,0.739,11,Dolly Parton
+Pure & Simple,12,32NYx5xpMzKTs0YFk53TxR,9 to 5 (Live at Glastonbury),spotify:track:32NYx5xpMzKTs0YFk53TxR,0.564,0.559,0.754,1.13E-06,0.945,-7.196,0.362,105.323,0.404,14,Dolly Parton
+Pure & Simple,13,3G4abLp7cYWeOzE7G1LTZl,Lay Your Hands On Me (Live at Glastonbury) (feat. Richie Sambora),spotify:track:3G4abLp7cYWeOzE7G1LTZl,0.0627,0.432,0.93,4.30E-06,0.904,-4.641,0.126,107.092,0.343,9,Dolly Parton
+Pure & Simple,14,72vuWGwskP0R5OxX5IayOv,I Will Always Love You (Live at Glastonbury),spotify:track:72vuWGwskP0R5OxX5IayOv,0.0126,0.297,0.813,0.0241,0.877,-6.95,0.0587,140.044,0.338,12,Dolly Parton
+Pure & Simple,2,4gI8JwkAbJAdgtxsKmDqol,Say Forever You'll Be Mine,spotify:track:4gI8JwkAbJAdgtxsKmDqol,0.636,0.573,0.261,0.000217,0.137,-9.238,0.0261,78.998,0.417,23,Dolly Parton
+Pure & Simple,3,0q5MhtscA0xtO40yYkwAKj,Never Not Love You,spotify:track:0q5MhtscA0xtO40yYkwAKj,0.348,0.603,0.568,0.000183,0.117,-7.671,0.0265,97.047,0.468,21,Dolly Parton
+Pure & Simple,4,6pFlMu3GUKcK1inypYrn2y,Kiss It - And Make It All Better,spotify:track:6pFlMu3GUKcK1inypYrn2y,0.572,0.349,0.574,0,0.11,-6.755,0.0529,203.492,0.4,21,Dolly Parton
+Pure & Simple,5,31PXOFIB7WoKCBOxYXSccq,Can't Be That Wrong,spotify:track:31PXOFIB7WoKCBOxYXSccq,0.802,0.621,0.226,1.62E-05,0.112,-9.946,0.034,124.628,0.226,20,Dolly Parton
+Pure & Simple,6,7y6N0X6Iiw0xnUjp9jR12g,Outside Your Door,spotify:track:7y6N0X6Iiw0xnUjp9jR12g,0.356,0.478,0.645,0,0.148,-6.353,0.0487,199.976,0.682,21,Dolly Parton
+Pure & Simple,7,7AHjPoqOI7v9GoxSP9katd,Tomorrow Is Forever,spotify:track:7AHjPoqOI7v9GoxSP9katd,0.642,0.592,0.422,1.98E-06,0.106,-8.533,0.0247,83.908,0.344,22,Dolly Parton
+Pure & Simple,8,0AABWeXoSrNbwJhxzGGy17,I'm Sixteen,spotify:track:0AABWeXoSrNbwJhxzGGy17,0.664,0.75,0.589,0,0.164,-7.316,0.0422,105.028,0.818,20,Dolly Parton
+Pure & Simple,9,1bTGsa2u5cn2PnL9UddXSA,Head Over High Heels,spotify:track:1bTGsa2u5cn2PnL9UddXSA,0.226,0.659,0.7,0,0.167,-5.776,0.029,104.052,0.661,19,Dolly Parton
+Pure & Simple,10,6V9nZvp7mbU11KoZnXR05e,Forever Love,spotify:track:6V9nZvp7mbU11KoZnXR05e,0.861,0.36,0.215,0.00016,0.119,-10.999,0.0329,116.175,0.334,20,Dolly Parton
+Pure & Simple,11,4JDhKd6W9XpYgrVBZtH9HJ,Mama,spotify:track:4JDhKd6W9XpYgrVBZtH9HJ,0.853,0.507,0.297,9.84E-06,0.127,-7.827,0.0404,73.552,0.261,20,Dolly Parton
+Pure & Simple,12,6HSky9oVaQrP2lX0RxrTGa,Lovin' You,spotify:track:6HSky9oVaQrP2lX0RxrTGa,0.342,0.513,0.554,0,0.0915,-7.669,0.0418,174.848,0.76,22,Dolly Parton
+Pure & Simple,1,2ZeMgfaduG8hqovQ3gWIyi,My Tennessee Mountain Home,spotify:track:2ZeMgfaduG8hqovQ3gWIyi,0.686,0.56,0.364,0,0.341,-7.302,0.0274,87.765,0.563,23,Dolly Parton
+Pure & Simple,3,63TO1hf3lgUHyJt0wau3F1,How Great Thou Art,spotify:track:63TO1hf3lgUHyJt0wau3F1,0.927,0.307,0.121,1.51E-06,0.0364,-8.117,0.0294,82.447,0.154,18,Dolly Parton
+Pure & Simple,5,5uP5H1QEcPyW7SGE9shVnW,Light of a Clear Blue Morning,spotify:track:5uP5H1QEcPyW7SGE9shVnW,0.557,0.491,0.719,2.72E-06,0.2,-6.757,0.101,118.426,0.42,19,Dolly Parton
+Pure & Simple,7,19CYHapjx9CnSvkHH4V0dV,Help!,spotify:track:19CYHapjx9CnSvkHH4V0dV,0.361,0.557,0.689,0,0.158,-9.032,0.0462,129.968,0.569,19,Dolly Parton
+Pure & Simple,8,6apPqjW8ezpKEicAkkBlvO,Islands in the Stream,spotify:track:6apPqjW8ezpKEicAkkBlvO,0.68,0.611,0.524,0,0.0753,-8.256,0.035,203.787,0.73,71,Dolly Parton
+Pure & Simple,10,7e0i8QUi0QHzBpPd3jVJOR,I Will Always Love You,spotify:track:7e0i8QUi0QHzBpPd3jVJOR,0.96,0.525,0.198,0.000423,0.165,-9.982,0.0324,68.315,0.187,25,Dolly Parton
+Pure & Simple,1,7szyzZ3J9ortisMHATOXCp,Pure and Simple,spotify:track:7szyzZ3J9ortisMHATOXCp,0.316,0.627,0.518,0,0.108,-7.803,0.0267,85.003,0.669,32,Dolly Parton
+Letter To Heaven,1,3J1AxkYm0SP63UGRKzYtAh,Letter To Heaven,spotify:track:3J1AxkYm0SP63UGRKzYtAh,0.296,0.332,0.419,0.000965,0.145,-9.547,0.0316,109.651,0.426,11,Dolly Parton
+Letter To Heaven,2,1BLmgvkVvaKAr2wpwsNiZV,Makin' Believe,spotify:track:1BLmgvkVvaKAr2wpwsNiZV,0.132,0.288,0.427,2.33E-05,0.108,-8.903,0.0291,110.238,0.402,10,Dolly Parton
+Letter To Heaven,3,3zEXpyZUJRqXWYnSHXKrsy,Little Blossoms,spotify:track:3zEXpyZUJRqXWYnSHXKrsy,0.598,0.322,0.412,0.0239,0.106,-9.855,0.0348,62.134,0.488,8,Dolly Parton
+Letter To Heaven,4,7zQQKU3WHI9qJ1qxTB98Jx,Release Me,spotify:track:7zQQKU3WHI9qJ1qxTB98Jx,0.382,0.319,0.433,0.00089,0.0946,-8.661,0.0301,62.391,0.48,13,Dolly Parton
+Letter To Heaven,5,7wjAHXPxhFLP20FwiPYjMs,Two Little Orphans,spotify:track:7wjAHXPxhFLP20FwiPYjMs,0.223,0.261,0.396,0.145,0.124,-9.283,0.0325,103.094,0.398,8,Dolly Parton
+Letter To Heaven,6,0D0ARxIQNmknzIeeEImU2A,Girl Left Alone,spotify:track:0D0ARxIQNmknzIeeEImU2A,0.205,0.432,0.574,0.734,0.213,-11.441,0.0367,105.475,0.551,8,Dolly Parton
+Letter To Heaven,7,38AZFMReslWp1m8jtzD6O1,Puppy Love,spotify:track:38AZFMReslWp1m8jtzD6O1,0.357,0.16,0.679,0.495,0.158,-11.132,0.067,184.729,0.851,10,Dolly Parton
+Blue Smoke,4,3WHxMUni9hOHbjmUajTkYT,You Can't Make Old Friends,spotify:track:3WHxMUni9hOHbjmUajTkYT,0.764,0.65,0.362,0.000135,0.102,-7.904,0.0268,87.008,0.312,12,Dolly Parton
+Blue Smoke,11,7hY7X423koKQtRSCGfpYeJ,From Here to the Moon and Back,spotify:track:7hY7X423koKQtRSCGfpYeJ,0.848,0.551,0.362,0.0129,0.12,-8.517,0.0288,111.845,0.241,8,Dolly Parton
+Blue Smoke,1,4TBsD2Rd9GxZ4EX9YVl4EN,Blue Smoke,spotify:track:4TBsD2Rd9GxZ4EX9YVl4EN,0.72,0.33,0.728,0,0.096,-4.377,0.118,203.679,0.793,36,Dolly Parton
+Blue Smoke,2,5neS6KQwTVT4tNq1gGT7ry,Unlikely Angel,spotify:track:5neS6KQwTVT4tNq1gGT7ry,0.753,0.389,0.524,3.59E-05,0.113,-6.475,0.0305,147.404,0.578,23,Dolly Parton
+Blue Smoke,3,2PQtBf6seNvtuZHysaOt8x,Don't Think Twice,spotify:track:2PQtBf6seNvtuZHysaOt8x,0.795,0.334,0.717,0.000765,0.154,-4.474,0.0396,203.867,0.636,29,Dolly Parton
+Blue Smoke,4,196bgqiHesdIVIb7qOokt4,You Can't Make Old Friends (feat. Dolly Parton),spotify:track:196bgqiHesdIVIb7qOokt4,0.755,0.65,0.369,0.000166,0.103,-7.915,0.0268,86.97,0.318,31,Dolly Parton
+Blue Smoke,5,6vGJAqNKJF6TiFpVoXKUBz,Home,spotify:track:6vGJAqNKJF6TiFpVoXKUBz,0.579,0.44,0.816,0,0.13,-3.949,0.0473,179.894,0.863,30,Dolly Parton
+Blue Smoke,6,5J2jDO0ZPC9nKWgFffo31c,Banks of the Ohio,spotify:track:5J2jDO0ZPC9nKWgFffo31c,0.904,0.377,0.249,0,0.131,-8.598,0.0371,136.15,0.336,26,Dolly Parton
+Blue Smoke,7,6pHRS2WEPcTa6Uqa7YMV9q,Lay Your Hands on Me,spotify:track:6pHRS2WEPcTa6Uqa7YMV9q,0.0756,0.486,0.92,0,0.132,-3.411,0.0502,107.037,0.524,20,Dolly Parton
+Blue Smoke,8,1ZHInAdq3A7r2nmKyoie6A,Miss You-Miss Me,spotify:track:1ZHInAdq3A7r2nmKyoie6A,0.909,0.405,0.282,5.86E-05,0.116,-9.352,0.034,140.475,0.301,17,Dolly Parton
+Blue Smoke,9,1cTqz8SwXTptCtFMrKW7D8,If I Had Wings,spotify:track:1cTqz8SwXTptCtFMrKW7D8,0.747,0.439,0.522,0.0101,0.194,-6.462,0.0297,149.88,0.648,34,Dolly Parton
+Blue Smoke,10,3asOxce2BR2MOcpooxGqsa,Lover du Jour,spotify:track:3asOxce2BR2MOcpooxGqsa,0.481,0.543,0.765,0,0.16,-5.466,0.0646,93.106,0.7,18,Dolly Parton
+Blue Smoke,11,0bhH9khKLgmpyddWQw0Vkf,From Here to the Moon and Back (feat. Dolly Parton),spotify:track:0bhH9khKLgmpyddWQw0Vkf,0.845,0.597,0.362,0.0105,0.12,-8.508,0.0275,111.84,0.264,28,Dolly Parton
+Blue Smoke,12,0pzx69eVg5qVeYDoBksGcK,Try,spotify:track:0pzx69eVg5qVeYDoBksGcK,0.399,0.518,0.65,3.39E-05,0.116,-5.412,0.0313,77.786,0.588,23,Dolly Parton
+Better Day,1,4uFKQyWPWdE4l2p6EQohHx,In the Meantime,spotify:track:4uFKQyWPWdE4l2p6EQohHx,0.266,0.456,0.883,0,0.268,-2.936,0.157,168.333,0.568,19,Dolly Parton
+Better Day,2,6nnelgtzmbwse9WRx70o9b,Just Leavin',spotify:track:6nnelgtzmbwse9WRx70o9b,0.235,0.633,0.775,0.00019,0.297,-5.649,0.035,117.839,0.781,16,Dolly Parton
+Better Day,3,6vhkg5ozoB0mz2TM7ZRgJg,Somebody's Missin' You,spotify:track:6vhkg5ozoB0mz2TM7ZRgJg,0.685,0.535,0.472,0,0.319,-5.85,0.025,101.711,0.41,18,Dolly Parton
+Better Day,4,1tfxHLVImgnWGPfg8aOsTx,Together You and I,spotify:track:1tfxHLVImgnWGPfg8aOsTx,0.177,0.597,0.788,0,0.0692,-5.029,0.0427,123.669,0.613,26,Dolly Parton
+Better Day,5,5gQ0wIMQ2kDaIHzvupy5mg,Country Is as Country Does,spotify:track:5gQ0wIMQ2kDaIHzvupy5mg,0.0809,0.549,0.942,0,0.0652,-3.941,0.0545,97.904,0.707,21,Dolly Parton
+Better Day,6,21WPgH3f0j93aZl2oDg0lO,Holding Everything,spotify:track:21WPgH3f0j93aZl2oDg0lO,0.046,0.378,0.745,0,0.0332,-5.327,0.0544,171.69,0.61,17,Dolly Parton
+Better Day,7,1rhoZuLdavs3lsGhzbruiP,The Sacrifice,spotify:track:1rhoZuLdavs3lsGhzbruiP,0.0599,0.587,0.86,0,0.15,-4.722,0.0388,113.87,0.402,23,Dolly Parton
+Better Day,8,2jYRuKSIqzsfYJFMDZDcOv,I Just Might,spotify:track:2jYRuKSIqzsfYJFMDZDcOv,0.505,0.563,0.489,8.63E-06,0.099,-5.5,0.033,86.755,0.222,18,Dolly Parton
+Better Day,9,08G12eWc5AprZZzVxZGMzh,Better Day,spotify:track:08G12eWc5AprZZzVxZGMzh,0.801,0.436,0.44,1.26E-05,0.245,-5.638,0.0305,106.519,0.416,17,Dolly Parton
+Better Day,10,5m3mFuAteVApSOOExfGbVB,Shine like the Sun,spotify:track:5m3mFuAteVApSOOExfGbVB,0.126,0.522,0.914,1.12E-06,0.377,-4.377,0.105,143.302,0.842,20,Dolly Parton
+Better Day,11,3M6dnIh45uWznNbxtBfVF0,Get Out and Stay Out,spotify:track:3M6dnIh45uWznNbxtBfVF0,0.201,0.498,0.665,0,0.134,-4.559,0.0276,92.029,0.349,18,Dolly Parton
+Better Day,12,4tLa4fmjv1lM6tw3p3Ts38,Let Love Grow,spotify:track:4tLa4fmjv1lM6tw3p3Ts38,0.228,0.413,0.838,0,0.224,-4.735,0.14,171.444,0.559,17,Dolly Parton
+Better Day,1,01AMMwGecdHIIPVBdeIzgv,In The Meantime,spotify:track:01AMMwGecdHIIPVBdeIzgv,0.271,0.441,0.885,0,0.283,-2.939,0.158,168.342,0.597,6,Dolly Parton
+Better Day,5,6oSTk9Wp1stZzqggYzL6Xa,Country Is As Country Does,spotify:track:6oSTk9Wp1stZzqggYzL6Xa,0.0834,0.564,0.945,0,0.088,-3.952,0.0521,97.972,0.732,6,Dolly Parton
+Better Day,10,3gyzfC6I5x0mzfddnvNnca,Shine Like The Sun,spotify:track:3gyzfC6I5x0mzfddnvNnca,0.119,0.515,0.904,0,0.381,-4.345,0.109,143.454,0.851,5,Dolly Parton
+Live From London,5,6hDnTXYyVuxtFLM0IzQt2r,Only Dreaming,spotify:track:6hDnTXYyVuxtFLM0IzQt2r,0.719,0.487,0.359,0.000162,0.957,-9.555,0.0313,117.984,0.179,2,Dolly Parton
+Live From London,6,737CCqCmkCBHXKnOwhK7Ob,Better Get To Livin,spotify:track:737CCqCmkCBHXKnOwhK7Ob,0.339,0.554,0.853,0,0.959,-5.792,0.085,101.008,0.514,2,Dolly Parton
+Live From London,9,5rs1LNnrw7Ai5R0I3z1uPn,Grass is Blue,spotify:track:5rs1LNnrw7Ai5R0I3z1uPn,0.948,0.365,0.288,3.20E-06,0.987,-9.62,0.0411,130.953,0.32,1,Dolly Parton
+Live From London,10,6IGgRaZirb7FMOXpTYgk62,Do I ever Cross your mind,spotify:track:6IGgRaZirb7FMOXpTYgk62,0.959,0.659,0.591,0,0.729,-8.557,0.167,105.303,0.454,3,Dolly Parton
+Live From London,11,3MZtkrU385wwlRLERWIalc,Here you Come Again,spotify:track:3MZtkrU385wwlRLERWIalc,0.613,0.56,0.803,0,0.972,-4.929,0.0509,107.936,0.487,4,Dolly Parton
+Dolly: Live From London,8,4rkpyZcjw5m8tKOwRjg71U,Little Sparrow,spotify:track:4rkpyZcjw5m8tKOwRjg71U,0.961,0.339,0.12,0.000295,0.867,-14.439,0.0464,118.967,0.196,8,Dolly Parton
+Dolly: Live From London,9,3kmUl5dxUMGiBr39a6Owdg,The Grass is Blue,spotify:track:3kmUl5dxUMGiBr39a6Owdg,0.95,0.45,0.287,3.93E-06,0.988,-9.63,0.036,77.659,0.352,3,Dolly Parton
+Dolly: Live From London,10,7A1T346DZ3WwjUfiP17Ota,Do I Ever Cross Your Mind,spotify:track:7A1T346DZ3WwjUfiP17Ota,0.961,0.65,0.588,0,0.776,-8.538,0.195,105.124,0.426,3,Dolly Parton
+Dolly: Live From London,15,1RzmkdxtIv3nKq6qjj9Ah6,Jesus and Gravity,spotify:track:1RzmkdxtIv3nKq6qjj9Ah6,0.144,0.352,0.873,1.24E-06,0.97,-5.129,0.0918,159.813,0.344,6,Dolly Parton
+Backwoods Barbie,1,00KdsZvaIrw8Kms7LTCkc8,Better Get To Livin',spotify:track:00KdsZvaIrw8Kms7LTCkc8,0.13,0.635,0.484,0,0.269,-16.487,0.0295,101.028,0.823,36,Dolly Parton
+Backwoods Barbie,2,4EeagOZfmVZYSeOn5XrfSL,Made Of Stone,spotify:track:4EeagOZfmVZYSeOn5XrfSL,0.428,0.535,0.173,8.66E-06,0.217,-20.297,0.0311,167.766,0.422,21,Dolly Parton
+Backwoods Barbie,3,5XKnU0dQaCRQ596uK1OuXR,Drives Me Crazy,spotify:track:5XKnU0dQaCRQ596uK1OuXR,0.0837,0.732,0.32,0.000258,0.211,-20.016,0.0355,109.005,0.924,24,Dolly Parton
+Backwoods Barbie,4,1V1tqCF60nsfTfZUENTF03,Backwoods Barbie,spotify:track:1V1tqCF60nsfTfZUENTF03,0.4,0.592,0.304,0,0.0936,-17.887,0.0486,151.648,0.78,44,Dolly Parton
+Backwoods Barbie,5,2cNLiYh3JEoNg1XJ5EzU6H,Jesus & Gravity,spotify:track:2cNLiYh3JEoNg1XJ5EzU6H,0.377,0.424,0.308,0,0.106,-17.608,0.0335,159.842,0.32,25,Dolly Parton
+Backwoods Barbie,6,4ZDes2YxEki3GKSbcqaoNR,Only Dreamin',spotify:track:4ZDes2YxEki3GKSbcqaoNR,0.633,0.495,0.0796,0.000185,0.289,-21.426,0.0333,117.937,0.169,19,Dolly Parton
+Backwoods Barbie,7,5KtoxvmgUPNpyYyNYux6Sw,The Tracks Of My Tears,spotify:track:5KtoxvmgUPNpyYyNYux6Sw,0.147,0.615,0.343,0,0.22,-18.119,0.0296,98.954,0.678,23,Dolly Parton
+Backwoods Barbie,8,6DX3MDr7Du0a6jxGaXbbDC,The Lonesomes,spotify:track:6DX3MDr7Du0a6jxGaXbbDC,0.575,0.489,0.211,0,0.242,-18.532,0.0651,137.618,0.498,17,Dolly Parton
+Backwoods Barbie,9,14R7ScIKjofYQEKkvQbuGj,Cologne,spotify:track:14R7ScIKjofYQEKkvQbuGj,0.0995,0.636,0.333,1.04E-05,0.101,-19.268,0.041,107.834,0.161,20,Dolly Parton
+Backwoods Barbie,10,3MJvPCxFDVYxnOQQYPcREn,Shinola,spotify:track:3MJvPCxFDVYxnOQQYPcREn,0.112,0.648,0.411,0,0.067,-18.227,0.0347,129.666,0.58,24,Dolly Parton
+Backwoods Barbie,11,41Meod15ZpbPmshx1AjaAA,I Will Forever Hate Roses,spotify:track:41Meod15ZpbPmshx1AjaAA,0.536,0.589,0.248,0,0.0888,-17.464,0.0339,109.82,0.357,22,Dolly Parton
+Backwoods Barbie,12,3OTzyLrN9moxMUSkT5xuwQ,Somebody's Everything,spotify:track:3OTzyLrN9moxMUSkT5xuwQ,0.0981,0.336,0.312,0,0.307,-17.55,0.0474,154.502,0.396,20,Dolly Parton
+Those Were The Days,1,02skeIERPwxwDkcYWDv1pl,Those Were The Days,spotify:track:02skeIERPwxwDkcYWDv1pl,0.748,0.35,0.69,0,0.554,-6.029,0.0649,185.497,0.462,30,Dolly Parton
+Those Were The Days,2,0RRi7xGWGYQAzOydcpJM15,Blowin' In The Wind,spotify:track:0RRi7xGWGYQAzOydcpJM15,0.74,0.434,0.561,0,0.313,-5.204,0.0317,167.153,0.57,19,Dolly Parton
+Those Were The Days,3,73Eq3UZncwoQoF64M2CfJI,Where Have All The The Flowers Gone,spotify:track:73Eq3UZncwoQoF64M2CfJI,0.795,0.376,0.348,0,0.39,-8.826,0.0291,79.478,0.402,13,Dolly Parton
+Those Were The Days,4,7iHGjWDWOYrSonuBeJNnxf,Twelfth Of Never,spotify:track:7iHGjWDWOYrSonuBeJNnxf,0.635,0.567,0.725,0,0.315,-5.172,0.0474,122.068,0.567,12,Dolly Parton
+Those Were The Days,5,13eXbBwhK3cK9nUf1HOMHE,Where Do The Children Play,spotify:track:13eXbBwhK3cK9nUf1HOMHE,0.615,0.58,0.684,0,0.163,-4.871,0.0288,135.849,0.56,12,Dolly Parton
+Those Were The Days,6,3FHHmYGHyzzIhOdS7tycBZ,Me And Bobby McGee,spotify:track:3FHHmYGHyzzIhOdS7tycBZ,0.443,0.464,0.682,0,0.253,-3.901,0.0615,168.797,0.804,23,Dolly Parton
+Those Were The Days,7,7thbZv3HauSA2q6QUMkBk2,Crimson And Clover,spotify:track:7thbZv3HauSA2q6QUMkBk2,0.65,0.395,0.635,3.12E-06,0.344,-5.346,0.0379,170.413,0.567,11,Dolly Parton
+Those Were The Days,10,0DzmKrFLiG00QnyJFoWitJ,If I Were A Carpenter,spotify:track:0DzmKrFLiG00QnyJFoWitJ,0.67,0.54,0.74,0,0.291,-4.53,0.0495,168.933,0.802,14,Dolly Parton
+Those Were the Days,1,7qFwkwOZKDiyyJEZR8Ar5q,Those Were the Days,spotify:track:7qFwkwOZKDiyyJEZR8Ar5q,0.762,0.364,0.687,0,0.574,-6.055,0.066,184.655,0.448,28,Dolly Parton
+Those Were the Days,2,2zllLrbGlaUL229qVGbNe7,Blowin' in the Wind,spotify:track:2zllLrbGlaUL229qVGbNe7,0.734,0.437,0.567,0,0.317,-5.205,0.0314,167.132,0.566,17,Dolly Parton
+Those Were the Days,3,0IUxvRYcNeXVd5qosIOuzg,Where Have All the Flowers Gone?,spotify:track:0IUxvRYcNeXVd5qosIOuzg,0.79,0.369,0.356,0,0.381,-8.822,0.029,78.987,0.448,18,Dolly Parton
+Those Were the Days,4,4TxT3Oau4arndYWWjNHfYG,The Twelfth of Never,spotify:track:4TxT3Oau4arndYWWjNHfYG,0.632,0.565,0.725,0,0.309,-5.18,0.0475,122.079,0.573,16,Dolly Parton
+Those Were the Days,5,49ebslu3c3Ho8JDQ36aYfx,Where Do the Children Play?,spotify:track:49ebslu3c3Ho8JDQ36aYfx,0.595,0.579,0.682,0,0.151,-4.852,0.0284,135.829,0.579,15,Dolly Parton
+Those Were the Days,6,5iHj1kYn5Biw6SFtnkSiAr,Me and Bobby McGee,spotify:track:5iHj1kYn5Biw6SFtnkSiAr,0.452,0.584,0.687,0,0.252,-3.909,0.04,84.533,0.818,24,Dolly Parton
+Those Were the Days,7,4FqFXUgSEaB15EiwLn5Q1y,Crimson and Clover,spotify:track:4FqFXUgSEaB15EiwLn5Q1y,0.653,0.388,0.629,2.38E-06,0.36,-5.332,0.0382,170.318,0.573,17,Dolly Parton
+Those Were the Days,8,0DhVjarrZZG2QlLtVV0PMo,The Cruel War,spotify:track:0DhVjarrZZG2QlLtVV0PMo,0.854,0.453,0.283,0,0.106,-8.334,0.0367,124.633,0.291,13,Dolly Parton
+Those Were the Days,9,6Tfleus3LR7g6bqsnb8ORc,"Turn, Turn, Turn",spotify:track:6Tfleus3LR7g6bqsnb8ORc,0.534,0.619,0.654,0,0.158,-4.073,0.0331,126.027,0.774,14,Dolly Parton
+Those Were the Days,10,0kCbtMQh1t40Q3AXbFKVFH,If I Were a Carpenter,spotify:track:0kCbtMQh1t40Q3AXbFKVFH,0.674,0.532,0.738,0,0.285,-4.521,0.0494,168.96,0.781,16,Dolly Parton
+Those Were the Days,11,1cjDZNaMWIv7Q1eRqF9Rca,Both Sides Now,spotify:track:1cjDZNaMWIv7Q1eRqF9Rca,0.448,0.551,0.76,0,0.168,-3.908,0.0317,128.035,0.804,16,Dolly Parton
+Those Were the Days,12,6Lrv5SmfoN0wbkmZDeMjQF,Imagine,spotify:track:6Lrv5SmfoN0wbkmZDeMjQF,0.614,0.481,0.388,0,0.175,-7.178,0.0277,76.162,0.284,16,Dolly Parton
+Porter Wagoner Duets,1,3MJbs3xOcSmXSL6VQavUFT,Drifting Too Far from the Shore,spotify:track:3MJbs3xOcSmXSL6VQavUFT,0.84,0.439,0.142,0,0.113,-13.268,0.0364,138.238,0.326,13,Dolly Parton
+Porter Wagoner Duets,2,1G8V9iJQB84FJGRXcpCdJx,Bury Me Beneath the Willow,spotify:track:1G8V9iJQB84FJGRXcpCdJx,0.442,0.555,0.346,4.20E-06,0.167,-12.776,0.0284,76.035,0.655,16,Dolly Parton
+Porter Wagoner Duets,3,70rqRlmDGYx0D0i5GpesmR,Old Log Cabin for Sale,spotify:track:70rqRlmDGYx0D0i5GpesmR,0.885,0.566,0.274,0,0.202,-12.544,0.0302,157.466,0.496,9,Dolly Parton
+Porter Wagoner Duets,4,5Kw0MI2gEjew42RrvgIMdg,Walk That Lonesome Valley,spotify:track:5Kw0MI2gEjew42RrvgIMdg,0.498,0.643,0.404,0,0.108,-12.236,0.0277,129.996,0.575,9,Dolly Parton
+Porter Wagoner Duets,5,0JnqVhbkK6tc6QOz2XJHJ0,Workin' On a Building,spotify:track:0JnqVhbkK6tc6QOz2XJHJ0,0.443,0.655,0.731,0.0127,0.245,-12.459,0.037,103.06,0.694,9,Dolly Parton
+Porter Wagoner Duets,6,33sEVFOPM6UJnkdLVUt3gp,We Don't Want the World,spotify:track:33sEVFOPM6UJnkdLVUt3gp,0.183,0.654,0.481,1.54E-06,0.186,-11.34,0.0275,88.044,0.473,10,Dolly Parton
+Porter Wagoner Duets,7,2lNeGBQVStSzZ0qQ7F079P,Don't Let Me Cross Over,spotify:track:2lNeGBQVStSzZ0qQ7F079P,0.74,0.602,0.252,0,0.269,-11.407,0.0286,121.022,0.459,8,Dolly Parton
+Porter Wagoner Duets,8,7r0YytTvSXvy4yD19ClLUy,Charlie and Nellie,spotify:track:7r0YytTvSXvy4yD19ClLUy,0.841,0.645,0.28,0,0.151,-13.016,0.0269,135.951,0.554,9,Dolly Parton
+Porter Wagoner Duets,9,6iOHDEA4a3LB5fVsYyxUYG,Dreaming of a Little Cabin,spotify:track:6iOHDEA4a3LB5fVsYyxUYG,0.697,0.562,0.338,1.59E-05,0.186,-10.56,0.028,79.992,0.534,10,Dolly Parton
+Porter Wagoner Duets,10,4w1pCcQvybWZ1nQBs4CsQ7,When I Lay My Burdens Down,spotify:track:4w1pCcQvybWZ1nQBs4CsQ7,0.114,0.639,0.782,0.0711,0.419,-10.437,0.0288,123.025,0.774,10,Dolly Parton
+Porter Wagoner Duets,11,0tNT98yCg57Ra8XHJ0VQ3R,Mary of the Wild Moor,spotify:track:0tNT98yCg57Ra8XHJ0VQ3R,0.887,0.585,0.322,2.04E-06,0.117,-12.416,0.0337,130.526,0.477,7,Dolly Parton
+Porter Wagoner Duets,12,1PUjf8ja84ilzvZfVnuoTd,Old Country Church,spotify:track:1PUjf8ja84ilzvZfVnuoTd,0.643,0.55,0.351,0,0.104,-10.716,0.0277,141.866,0.575,12,Dolly Parton

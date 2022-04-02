@@ -1,0 +1,152 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist_name
+FORΞVΞR (DΞLUXΞ ΞDITION),1,71aIUivj7CNz4TZGhss6LK,FORΞVΞR,spotify:track:71aIUivj7CNz4TZGhss6LK,0.126,0.282,0.485,0.00231,0.134,-7.951,0.0329,75.004,0.0805,41,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),2,3Nx1HSvKbHu198qPVIV13N,Stay Awake,spotify:track:3Nx1HSvKbHu198qPVIV13N,0.00557,0.658,0.726,4.18E-05,0.273,-6.26,0.0486,99.994,0.354,56,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),3,41JMkYGCl35JbOrFqdDwM6,Sail Away,spotify:track:41JMkYGCl35JbOrFqdDwM6,0.186,0.538,0.746,6.35E-06,0.0983,-5.65,0.0662,94.837,0.508,49,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),4,61XEPnW5oMUGXJpdRdaEvk,Tears For Later,spotify:track:61XEPnW5oMUGXJpdRdaEvk,0.0239,0.633,0.867,0.00101,0.0901,-3.692,0.149,95.057,0.162,55,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),5,5tQnoZNXlKBXlnu3rSVGZl,Get Out Get Hurt,spotify:track:5tQnoZNXlKBXlnu3rSVGZl,0.378,0.752,0.787,1.11E-05,0.104,-5.829,0.218,108.007,0.268,44,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),6,5RLE8K2uLYoGkyi2yvKnsN,Good Time,spotify:track:5RLE8K2uLYoGkyi2yvKnsN,0.0573,0.562,0.732,0,0.0954,-3.973,0.0842,100.023,0.276,38,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),7,6vbcojwsVS0geU7t8T5UnQ,Make a Change,spotify:track:6vbcojwsVS0geU7t8T5UnQ,0.219,0.665,0.797,0,0.0874,-4.83,0.103,94.972,0.5,39,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),8,4ZhVzE3rSxnJLqfXRBE8Ar,Too Much To Ask,spotify:track:4ZhVzE3rSxnJLqfXRBE8Ar,0.102,0.693,0.691,0,0.111,-5.483,0.0758,102.033,0.401,43,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),9,7dA0NSbWeuvuVJn2c3o7la,Survive,spotify:track:7dA0NSbWeuvuVJn2c3o7la,0.732,0.633,0.806,1.01E-05,0.11,-5.546,0.147,99.963,0.358,0,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),10,2PRjwWPjJHmjFmC3NPXrTy,Cheque,spotify:track:2PRjwWPjJHmjFmC3NPXrTy,0.202,0.816,0.796,1.66E-06,0.137,-4.393,0.148,122.028,0.702,54,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),11,67p96tIoC4ESrod9kW331R,Hot Air Balloon,spotify:track:67p96tIoC4ESrod9kW331R,0.129,0.815,0.71,0.528,0.113,-6.353,0.0469,122.967,0.572,62,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),12,5f3DSQhteHEjqPoY0C55y8,From The Deep,spotify:track:5f3DSQhteHEjqPoY0C55y8,0.42,0.661,0.848,0.000133,0.464,-6.146,0.0666,111.951,0.222,34,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),13,51tE20mzMwHmKPtvkIN6Yc,Invisible,spotify:track:51tE20mzMwHmKPtvkIN6Yc,0.0439,0.666,0.664,0.00175,0.15,-5.828,0.0384,127.989,0.528,36,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),14,0ceNAVvWa5fxzrqbDBfLN1,Into The Unknown,spotify:track:0ceNAVvWa5fxzrqbDBfLN1,0.141,0.591,0.755,0.0217,0.117,-6.541,0.0403,116.012,0.13,35,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),15,7lKUa1NjFYQI6wMIvZbRhW,Beautiful Feeling,spotify:track:7lKUa1NjFYQI6wMIvZbRhW,0.293,0.753,0.846,0.000522,0.318,-4.754,0.0429,100.052,0.216,34,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),1,4zQdlbEh6Bg6UBUcgPGzk7,Bad,spotify:track:4zQdlbEh6Bg6UBUcgPGzk7,0.443,0.79,0.771,0.00656,0.168,-4.109,0.0686,123.929,0.683,0,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),2,6emQ5bCB0gr0ExPlUzCwLG,Problems,spotify:track:6emQ5bCB0gr0ExPlUzCwLG,0.21,0.721,0.768,0.00843,0.262,-4.371,0.0685,124.076,0.468,56,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),3,1DLd7KBEzbDElnG9MJb42t,High Low,spotify:track:1DLd7KBEzbDElnG9MJb42t,0.155,0.56,0.786,0,0.127,-4.415,0.0439,80.004,0.518,42,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),4,03urVLAOI0gaqJab5vQ9PC,Kill Me Better,spotify:track:03urVLAOI0gaqJab5vQ9PC,0.107,0.46,0.784,0,0.129,-3.489,0.0459,79.979,0.519,0,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),5,6vYTQjlQkBTFYDMgfjkgin,Through The Storm,spotify:track:6vYTQjlQkBTFYDMgfjkgin,0.549,0.709,0.69,0,0.0924,-6.397,0.222,109.99,0.387,40,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),7,6hEpSYkEjWoDY55RLt5cYE,What We Started,spotify:track:6hEpSYkEjWoDY55RLt5cYE,0.223,0.292,0.845,0.000199,0.162,-3.939,0.108,89.775,0.466,0,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),8,53wCe6bXmbDerqzSjfHcxO,Congratulations,spotify:track:53wCe6bXmbDerqzSjfHcxO,0.0836,0.813,0.801,3.53E-05,0.36,-5.295,0.14,120.055,0.504,51,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),9,02lwJYZRLPdCiP9apvxcka,Brave,spotify:track:02lwJYZRLPdCiP9apvxcka,0.171,0.66,0.873,1.38E-06,0.133,-3.88,0.0529,119.938,0.536,0,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),10,62JwUIKvKr6xirwpn7Wcwu,I Got Love,spotify:track:62JwUIKvKr6xirwpn7Wcwu,0.286,0.848,0.955,0.000862,0.0604,-1.862,0.153,122.98,0.545,0,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),11,3ypUfpnLcbSrpi0hpMsU0Z,Never Change,spotify:track:3ypUfpnLcbSrpi0hpMsU0Z,0.00383,0.554,0.955,0.0406,0.408,-2.884,0.0571,125.882,0.243,46,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),12,4T8oU7z9zmu4CxvP8pN1NV,Thousand Faces,spotify:track:4T8oU7z9zmu4CxvP8pN1NV,0.534,0.577,0.821,0,0.0961,-3.079,0.0452,97.006,0.515,0,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),13,7wnIrqyDhFuydjN84GzRYs,INFINITΞ FUTURΞ,spotify:track:7wnIrqyDhFuydjN84GzRYs,0.924,0.182,0.169,0.959,0.111,-17.876,0.0469,121.979,0.0392,26,Don Diablo
+FORΞVΞR (DΞLUXΞ ΞDITION),14,18I3fEKcn99ow6aTTUzA41,RACΞ - Welcome to HΞXAGONIA,spotify:track:18I3fEKcn99ow6aTTUzA41,0.00201,0.614,0.844,0.692,0.491,-4.923,0.042,115.065,0.0364,33,Don Diablo
+Reconstructions Part II,1,29fPhldPheJlrr55sVHPqo,Nothing Breaks Like A Heart - Don Diablo Remix,spotify:track:29fPhldPheJlrr55sVHPqo,0.179,0.712,0.871,1.83E-06,0.203,-3.571,0.224,123.975,0.379,0,Don Diablo
+Reconstructions Part II,2,4zR4PEQl6wQlEP7IhsaTjo,Levitating - Don Diablo Remix,spotify:track:4zR4PEQl6wQlEP7IhsaTjo,0.103,0.683,0.918,1.26E-06,0.471,-3.029,0.155,119.972,0.372,0,Don Diablo
+Reconstructions Part II,3,77zDXzvG3aF09dGWFS8erd,Sun In Our Eyes - Don Diablo Remix,spotify:track:77zDXzvG3aF09dGWFS8erd,0.0569,0.674,0.86,1.47E-06,0.1,-3.058,0.204,126.025,0.267,0,Don Diablo
+Reconstructions Part II,4,6wrwSB09L9qD8VWlQmqhEW,Alane - Don Diablo Remix,spotify:track:6wrwSB09L9qD8VWlQmqhEW,0.422,0.632,0.887,2.74E-05,0.129,-3.795,0.116,124.964,0.435,0,Don Diablo
+Reconstructions Part II,5,1Twjyowj6fkCMr7rEUkfig,Something Just Like This - Don Diablo Remix,spotify:track:1Twjyowj6fkCMr7rEUkfig,0.115,0.723,0.79,0.000482,0.0714,-4.163,0.0842,124.035,0.498,0,Don Diablo
+Reconstructions Part II,6,7gQPvxz4LmQA5C5LTA0Wwg,All The Time - Don Diablo Remix,spotify:track:7gQPvxz4LmQA5C5LTA0Wwg,0.0797,0.674,0.931,2.17E-05,0.111,-3.432,0.0734,124.004,0.608,0,Don Diablo
+Reconstructions Part II,7,1iqF9buiiBvLbz3Ya5Wy5l,High Hopes - Don Diablo Remix,spotify:track:1iqF9buiiBvLbz3Ya5Wy5l,0.0216,0.595,0.888,0,0.484,-2.856,0.0686,126.101,0.264,0,Don Diablo
+Reconstructions Part II,8,4CkQBeCr5KoDayy0RbDOtv,Sixteen - Don Diablo Remix,spotify:track:4CkQBeCr5KoDayy0RbDOtv,0.431,0.493,0.769,6.14E-06,0.0807,-3.791,0.149,123.009,0.299,0,Don Diablo
+Reconstructions Part II,9,6AupPVNaK5g6nHr2MRQ9ix,Another Chance - Don Diablo Edit,spotify:track:6AupPVNaK5g6nHr2MRQ9ix,0.00272,0.581,0.959,0,0.553,-1.785,0.0977,125.986,0.0725,0,Don Diablo
+Reconstructions Part II,10,5rkckwd832ds1ClRHvRiTL,Birthday - Don Diablo Remix,spotify:track:5rkckwd832ds1ClRHvRiTL,0.0868,0.649,0.935,0,0.127,-3.155,0.122,123.965,0.676,0,Don Diablo
+Reconstructions Part II,11,5n16oYRdufc0Xb0Amb4ryy,Kids In Love - Don Diablo Remix,spotify:track:5n16oYRdufc0Xb0Amb4ryy,0.0635,0.652,0.91,5.74E-05,0.301,-2.98,0.0639,125.959,0.322,0,Don Diablo
+Reconstructions Part II,12,2q6nFKXh0zdL6lPq5cgi9S,Ocean - Don Diablo Remix,spotify:track:2q6nFKXh0zdL6lPq5cgi9S,0.0808,0.704,0.88,0.0157,0.612,-4.209,0.0635,122.934,0.209,0,Don Diablo
+Reconstructions Part II,13,53rYsF6sn2remCi5I0GGPk,Thing For You - Don Diablo Remix,spotify:track:53rYsF6sn2remCi5I0GGPk,0.38,0.748,0.887,1.13E-05,0.613,-3.042,0.0926,124.114,0.536,0,Don Diablo
+Reconstructions Part II,14,6jkqLJFwa2VBbQQkBEtIXP,Survive - Don Diablo VIP Mix,spotify:track:6jkqLJFwa2VBbQQkBEtIXP,0.124,0.674,0.889,0.0244,0.076,-3.473,0.0963,123.919,0.439,0,Don Diablo
+Reconstructions Part II,15,1WaEyQAIEXfUpDvizEqB79,Brave - Don Diablo VIP Mix,spotify:track:1WaEyQAIEXfUpDvizEqB79,0.0561,0.788,0.739,0.126,0.895,-4.737,0.22,123.983,0.353,0,Don Diablo
+Reconstructions Part II,16,0eeM88MgKSuEXPqIUpZB3V,What If I Told You That I Love You - Don Diablo Remix,spotify:track:0eeM88MgKSuEXPqIUpZB3V,0.545,0.745,0.631,0,0.186,-6.488,0.0952,104.93,0.334,0,Don Diablo
+Reconstructions Part II,17,0K1YSDOafxrFJzJTbogkuS,Hide and Seek - Don Diablo Edit,spotify:track:0K1YSDOafxrFJzJTbogkuS,0.392,0.422,0.453,1.26E-06,0.0929,-8.163,0.0448,124.072,0.165,17,Don Diablo
+Future (Deluxe Edition),8,0sjyJAk5KhDa6gZ8AgtDYQ,Save a Little Love,spotify:track:0sjyJAk5KhDa6gZ8AgtDYQ,0.0106,0.625,0.91,0,0.662,-2.583,0.107,122.063,0.328,13,Don Diablo
+FUTURE,1,6g4E77lcLFKS8eytblHWCI,Back to Us,spotify:track:6g4E77lcLFKS8eytblHWCI,0.0719,0.737,0.884,4.42E-06,0.216,-3.063,0.153,100.018,0.531,10,Don Diablo
+FUTURE,3,5ZEESBJv7BiK3w5lxfjdlB,Put It on for Me,spotify:track:5ZEESBJv7BiK3w5lxfjdlB,0.562,0.727,0.678,0,0.251,-5.219,0.11,105.035,0.417,8,Don Diablo
+FUTURE,6,6eIDX7iXjZtlYE9aQKHXCh,Take Her Place,spotify:track:6eIDX7iXjZtlYE9aQKHXCh,0.279,0.604,0.744,5.08E-06,0.106,-5.724,0.0455,101.976,0.607,7,Don Diablo
+FUTURE (Deluxe Edition),1,2SarJa9ShYlxXMm3YPTmdP,Believe,spotify:track:2SarJa9ShYlxXMm3YPTmdP,0.328,0.498,0.755,0,0.143,-4.862,0.0776,123.63,0.442,37,Don Diablo
+FUTURE (Deluxe Edition),2,0QPjoIP9zKPH6EYtGAKNY3,Back To Us,spotify:track:0QPjoIP9zKPH6EYtGAKNY3,0.0694,0.64,0.884,3.09E-06,0.218,-3.062,0.278,200.15,0.531,45,Don Diablo
+FUTURE (Deluxe Edition),3,6GrYromsB1qQzMEEp395FC,Everybody's Somebody,spotify:track:6GrYromsB1qQzMEEp395FC,0.0422,0.463,0.875,1.55E-06,0.0537,-3.389,0.0907,160.127,0.46,44,Don Diablo
+FUTURE (Deluxe Edition),4,3Oovjs1GW9tF5vF295AKp0,Put It On For Me,spotify:track:3Oovjs1GW9tF5vF295AKp0,0.564,0.727,0.681,0,0.24,-5.22,0.112,105.032,0.422,38,Don Diablo
+FUTURE (Deluxe Edition),5,6dnuiEx1GXh1G1Rpehj0Dn,Give Me Love,spotify:track:6dnuiEx1GXh1G1Rpehj0Dn,0.0196,0.661,0.921,1.65E-05,0.213,-2.773,0.059,114.941,0.224,51,Don Diablo
+FUTURE (Deluxe Edition),6,2oyVJNPLvVBtd8k66ZQW2d,Higher,spotify:track:2oyVJNPLvVBtd8k66ZQW2d,0.115,0.614,0.815,0,0.146,-3.673,0.0648,112.156,0.358,36,Don Diablo
+FUTURE (Deluxe Edition),7,6xKeAXx57GdiD1Upwemy03,Head Up,spotify:track:6xKeAXx57GdiD1Upwemy03,0.336,0.439,0.944,0,0.0893,-1.864,0.221,122.739,0.278,51,Don Diablo
+FUTURE (Deluxe Edition),8,3LCoejTOQmc1sKAJ0wlYd9,Save A Little Love,spotify:track:3LCoejTOQmc1sKAJ0wlYd9,0.0104,0.629,0.909,0,0.553,-2.582,0.108,121.943,0.321,42,Don Diablo
+FUTURE (Deluxe Edition),9,0dsbJQycwHP6SzxsfqZbwA,Bright Skies (The Bit U Know),spotify:track:0dsbJQycwHP6SzxsfqZbwA,0.193,0.7,0.889,2.26E-06,0.817,-3.718,0.0536,109.979,0.286,32,Don Diablo
+FUTURE (Deluxe Edition),10,1Huj5ge9C6oENTk0JrPByu,Found You,spotify:track:1Huj5ge9C6oENTk0JrPByu,0.228,0.637,0.767,4.69E-06,0.111,-5.137,0.0491,124.006,0.803,38,Don Diablo
+FUTURE (Deluxe Edition),11,6jcz17XhJsS7aNByEaSTHw,Reflections,spotify:track:6jcz17XhJsS7aNByEaSTHw,0.0926,0.543,0.805,0.363,0.102,-5.016,0.0589,123.012,0.0373,33,Don Diablo
+FUTURE (Deluxe Edition),12,3jegvM7Iolakj2grAT4ZO6,You Can't Change Me,spotify:track:3jegvM7Iolakj2grAT4ZO6,0.288,0.548,0.929,0.317,0.0376,-2.739,0.0543,123.809,0.538,35,Don Diablo
+FUTURE (Deluxe Edition),13,7lxryWZvTXbYhCEfrDeo2F,Momentum,spotify:track:7lxryWZvTXbYhCEfrDeo2F,0.052,0.761,0.928,0.000387,0.0365,-2.895,0.0644,126.071,0.0398,37,Don Diablo
+FUTURE (Deluxe Edition),14,4QqIpBnTLtpLOYZC4lA5sR,Don't Let Go,spotify:track:4QqIpBnTLtpLOYZC4lA5sR,0.383,0.656,0.907,9.87E-06,0.359,-1.687,0.0422,110.049,0.551,36,Don Diablo
+FUTURE (Deluxe Edition),15,5CHU0qCmup2iHfGy4b8HDA,Killer,spotify:track:5CHU0qCmup2iHfGy4b8HDA,0.483,0.592,0.867,0,0.146,-3.917,0.0432,126.025,0.166,31,Don Diablo
+FUTURE (Deluxe Edition),16,6C0p0MTrfAhTZbdy3fpnDc,People Say,spotify:track:6C0p0MTrfAhTZbdy3fpnDc,0.195,0.529,0.856,2.68E-05,0.205,-2.54,0.238,149.995,0.4,42,Don Diablo
+FUTURE (Deluxe Edition),17,0ogNJ4qd7Oj7zFfeM7hAR1,Satellites,spotify:track:0ogNJ4qd7Oj7zFfeM7hAR1,0.024,0.336,0.782,0,0.547,-3.978,0.0561,171.925,0.267,32,Don Diablo
+FUTURE (Deluxe Edition),18,6GpnXwHVnGRWkVuARmgIr4,Echoes,spotify:track:6GpnXwHVnGRWkVuARmgIr4,0.82,0.367,0.324,3.01E-06,0.114,-11.027,0.0343,114.746,0.258,26,Don Diablo
+Reconstructions,1,0JGBLgGEmy4OgMDjsyj7Gu,Keeping Your Head Up - Don Diablo Remix; Radio Edit,spotify:track:0JGBLgGEmy4OgMDjsyj7Gu,0.46,0.639,0.931,0,0.0942,-1.73,0.0708,126.084,0.471,29,Don Diablo
+Reconstructions,2,3DMiBRGKhVKQfUqmmWEvQb,Let Me Love You (feat. Justin Bieber) - Don Diablo Remix,spotify:track:3DMiBRGKhVKQfUqmmWEvQb,0.0105,0.68,0.847,0.0002,0.135,-3.202,0.076,125.943,0.292,27,Don Diablo
+Reconstructions,3,596NsF7EjTUICX5kf86Xan,Good Grief - Don Diablo Remix,spotify:track:596NsF7EjTUICX5kf86Xan,0.0197,0.739,0.799,0,0.136,-3.407,0.0971,125.994,0.733,32,Don Diablo
+Reconstructions,4,5XxN7wFsWc5L8EirF3zrFz,Love On The Brain - Don Diablo Remix,spotify:track:5XxN7wFsWc5L8EirF3zrFz,0.0498,0.707,0.944,0.0462,0.0979,-1.918,0.0777,160,0.324,24,Don Diablo
+Reconstructions,5,23IEXwjFSFAWNWyCe4GfI3,Don't - Don Diablo Remix,spotify:track:23IEXwjFSFAWNWyCe4GfI3,0.0112,0.681,0.949,0.103,0.271,-2.608,0.0359,125.969,0.36,24,Don Diablo
+Reconstructions,6,2UK5sf4QpfOsJjZnEqmPYb,Ghosttown - Don Diablo Remix,spotify:track:2UK5sf4QpfOsJjZnEqmPYb,0.0213,0.701,0.982,0.432,0.602,-3.049,0.111,125.975,0.196,19,Don Diablo
+Reconstructions,7,5vBOQ3px3hq7vYuBbRxqHf,Secrets (feat. VASSY) - Don Diablo's VIP Mix,spotify:track:5vBOQ3px3hq7vYuBbRxqHf,0.00126,0.692,0.785,0.0686,0.105,-3.058,0.0438,125.995,0.187,25,Don Diablo
+Reconstructions,8,7lBXE9G4ETild43YxpgYgb,Give Me a Try - Don Diablo Remix,spotify:track:7lBXE9G4ETild43YxpgYgb,0.00841,0.565,0.98,0.0114,0.332,-2.849,0.0563,125.971,0.283,27,Don Diablo
+Reconstructions,9,0RFzoEbw7M3PNuQP6r0Wh0,Never Let You Go (feat. Foy Vance) - Don Diablo Remix,spotify:track:0RFzoEbw7M3PNuQP6r0Wh0,0.00646,0.711,0.856,0.16,0.0578,-3.741,0.0828,125.991,0.585,22,Don Diablo
+Reconstructions,10,1fMpOn1N9wWaRIDwGMcd29,All Cried Out (feat. Alex Newell) - Don Diablo Remix,spotify:track:1fMpOn1N9wWaRIDwGMcd29,0.0047,0.522,0.961,0.851,0.0605,-3.131,0.0626,126.02,0.125,21,Don Diablo
+Reconstructions,11,1tzsMWiiLri3v3YRIuvRIu,Children Of A Miracle - Don Diablo's VIP Mix,spotify:track:1tzsMWiiLri3v3YRIuvRIu,0.1,0.603,0.92,0.000274,0.206,-2.885,0.0988,126.083,0.176,32,Don Diablo
+Reconstructions,12,5osZ3Bj5v0b5YtkKEQDswC,Fester Skank (feat. Diztortion) - Don Diablo Remix,spotify:track:5osZ3Bj5v0b5YtkKEQDswC,0.00275,0.738,0.937,0.249,0.037,-4.917,0.0593,125.96,0.29,17,Don Diablo
+Reconstructions,13,0VYOHqfEeQJMEggmVHpr7g,Tunnel Vision - Don Diablo Edit,spotify:track:0VYOHqfEeQJMEggmVHpr7g,0.232,0.762,0.914,0.459,0.11,-4.101,0.111,125.993,0.367,23,Don Diablo
+Reconstructions,14,0URXJ4I1t0ey1kF27FMGDa,Belong To The Rhythm (feat. Michael Meaco) - Don Diablo Edit,spotify:track:0URXJ4I1t0ey1kF27FMGDa,0.00875,0.754,0.771,0.232,0.358,-5.166,0.0749,125.061,0.268,20,Don Diablo
+Reconstructions,15,3WgEbKOTI8VNggnKmxtReO,Close My Eyes - Don Diablo Edit,spotify:track:3WgEbKOTI8VNggnKmxtReO,0.0381,0.751,0.591,5.61E-06,0.158,-5.249,0.141,125.98,0.229,17,Don Diablo
+Past.Present.Future.,1,3R0Et3SS6eO5VgpZGpnTaU,Silence (feat. Dave Thomas Junior),spotify:track:3R0Et3SS6eO5VgpZGpnTaU,0.326,0.75,0.667,0.00343,0.111,-5.468,0.0544,121.94,0.33,43,Don Diablo
+Past.Present.Future.,2,40dweDLovf20EbZCq1Kwj1,On My Mind - Radio Edit,spotify:track:40dweDLovf20EbZCq1Kwj1,0.00547,0.578,0.941,0.812,0.412,-2.452,0.0901,125.986,0.271,60,Don Diablo
+Past.Present.Future.,3,3hENlPbIlUZXQ3MiosF87Q,Cutting Shapes,spotify:track:3hENlPbIlUZXQ3MiosF87Q,0.0254,0.715,0.914,0,0.0961,-3.87,0.214,125.826,0.565,63,Don Diablo
+Past.Present.Future.,4,0A5RGU5yvtneXlFunXVPE6,Drifter (feat. DYU),spotify:track:0A5RGU5yvtneXlFunXVPE6,0.258,0.754,0.96,0.00113,0.69,-3.7,0.0991,125.979,0.693,42,Don Diablo
+Past.Present.Future.,5,4OWio8PyFuHqNVxR81pb6c,Chemicals (feat. Thomas Troelsen),spotify:track:4OWio8PyFuHqNVxR81pb6c,0.0345,0.528,0.955,4.29E-05,0.353,-2.589,0.0794,125.994,0.0989,41,Don Diablo
+Past.Present.Future.,6,0xnBlKwiZlcab4Sjqg6rbl,AnyTime,spotify:track:0xnBlKwiZlcab4Sjqg6rbl,0.0265,0.672,0.964,9.59E-05,0.379,-2.076,0.128,125.959,0.493,47,Don Diablo
+Past.Present.Future.,7,3qj4fjFMJ1wOUUALQMbNsR,Knight Time,spotify:track:3qj4fjFMJ1wOUUALQMbNsR,0.0114,0.756,0.972,0.75,0.289,-3.826,0.0693,126.031,0.777,36,Don Diablo
+Past.Present.Future.,8,3WOEPoCzDhfwSgAm6gbeoL,Tonight,spotify:track:3WOEPoCzDhfwSgAm6gbeoL,0.0681,0.646,0.96,0.163,0.345,-2.098,0.0589,125.988,0.624,45,Don Diablo
+Past.Present.Future.,9,3t4YFQ2lyLIpHCU79KzoWZ,Switch,spotify:track:3t4YFQ2lyLIpHCU79KzoWZ,0.000214,0.644,0.878,0.787,0.112,-4.39,0.0366,126.009,0.125,42,Don Diablo
+Past.Present.Future.,10,21XOKNYyj4DhDdhAUWhI1W,Universe (feat. Emeni) - Radio Edit,spotify:track:21XOKNYyj4DhDdhAUWhI1W,0.00347,0.578,0.982,0.0243,0.335,-2.536,0.112,126.052,0.264,48,Don Diablo
+Past.Present.Future.,11,3ZQILyD18bOufkf5ytwRmj,My Window (feat. Maluca) - Radio Edit,spotify:track:3ZQILyD18bOufkf5ytwRmj,0.0875,0.677,0.954,0.212,0.244,-3.73,0.0612,126.106,0.662,39,Don Diablo
+Past.Present.Future.,12,5uhDr7OuXWgy0tJlrEB5dG,Got The Love,spotify:track:5uhDr7OuXWgy0tJlrEB5dG,0.031,0.654,0.891,1.03E-05,0.261,-3.096,0.079,126.015,0.25,45,Don Diablo
+Past.Present.Future.,13,488hsEkBdSwBDVIEsboUvR,I'll House You (feat. Jungle Brothers) - VIP Mix,spotify:track:488hsEkBdSwBDVIEsboUvR,0.00686,0.683,0.952,0,0.257,-3.859,0.245,126.007,0.436,33,Don Diablo
+Past.Present.Future.,14,6AdpIJZRIAAtz0mF9njzWZ,Chain Reaction (Domino) [feat. Kris Kiss] - Radio Edit,spotify:track:6AdpIJZRIAAtz0mF9njzWZ,0.0201,0.675,0.982,0.000747,0.803,-3.255,0.144,126.017,0.428,31,Don Diablo
+Past.Present.Future.,15,6KXTnkBuUKjsm7LTADUL26,Back In Time - Radio Edit,spotify:track:6KXTnkBuUKjsm7LTADUL26,0.00168,0.582,0.865,0.367,0.173,-2.875,0.038,125.954,0.416,37,Don Diablo
+Don Diablo Presents The Hex Files 002,1,5UrPnFJOylrP6d909CJfKy,What We Started (feat. BullySongs),spotify:track:5UrPnFJOylrP6d909CJfKy,0.223,0.36,0.847,0.00019,0.147,-3.931,0.109,89.915,0.501,54,Don Diablo
+Don Diablo Presents The Hex Files 002,2,6k0BaaFprQxNiWtbRmcdi6,Be Free,spotify:track:6k0BaaFprQxNiWtbRmcdi6,0.0588,0.694,0.935,0.847,0.0627,-4.1,0.0403,126.037,0.424,15,Don Diablo
+Don Diablo Presents The Hex Files 002,3,62RuCzdsp2PLj5dnc3E382,Ready Or Not,spotify:track:62RuCzdsp2PLj5dnc3E382,0.0528,0.646,0.961,1.47E-06,0.368,-2.637,0.268,125.958,0.529,17,Don Diablo
+Don Diablo Presents The Hex Files 002,4,0SQXNS7co9l2pzl9MtlOLF,Right Now (feat. TRM) - Sam Feldt Radio Edit,spotify:track:0SQXNS7co9l2pzl9MtlOLF,0.152,0.657,0.941,3.76E-06,0.282,-2.255,0.033,123.075,0.615,15,Don Diablo
+Don Diablo Presents The Hex Files 002,5,2lOt8RgoRyXKH0bePqc3MB,Paralyzed (feat. John Quarles),spotify:track:2lOt8RgoRyXKH0bePqc3MB,0.0674,0.576,0.675,1.29E-06,0.348,-5.753,0.0597,112.982,0.197,13,Don Diablo
+Don Diablo Presents The Hex Files 002,6,2LhFWGUBuAruTKUF9Bunlw,Everytime,spotify:track:2LhFWGUBuAruTKUF9Bunlw,0.0502,0.618,0.906,0.106,0.304,-3.022,0.0357,124.988,0.544,19,Don Diablo
+Don Diablo Presents The Hex Files 002,7,36xJzteczovnJmBcRqopMa,Call Me (feat. Michelle McKenna),spotify:track:36xJzteczovnJmBcRqopMa,0.0124,0.802,0.828,0.0113,0.305,-2.999,0.0548,125.998,0.207,17,Don Diablo
+Don Diablo Presents The Hex Files 002,8,3ovDJjDJJMErSo6KLiEYgn,No Bounds (feat. Ghost Singer),spotify:track:3ovDJjDJJMErSo6KLiEYgn,0.00431,0.619,0.783,0.167,0.0711,-7.574,0.0287,125.991,0.174,19,Don Diablo
+Don Diablo Presents The Hex Files 002,9,4QphuwI8p469COCQxWQEmA,Lift Me Up,spotify:track:4QphuwI8p469COCQxWQEmA,0.000672,0.721,0.932,0.0449,0.0651,-2.809,0.0406,128.001,0.286,28,Don Diablo
+Don Diablo Presents The Hex Files 002,10,617UEmd1wj7V5YAs2DYpnb,Chicago,spotify:track:617UEmd1wj7V5YAs2DYpnb,0.00304,0.726,0.921,0.0819,0.101,-6.496,0.125,127.991,0.197,20,Don Diablo
+Don Diablo Presents The Hex Files 002,11,4GJ24HfdYwmfzqcUP2B7U2,Toink,spotify:track:4GJ24HfdYwmfzqcUP2B7U2,0.000507,0.482,0.937,0.00956,0.386,-4.445,0.0538,128.045,0.235,10,Don Diablo
+Don Diablo Presents The Hex Files 002,12,5J6bRoNpdbEy2XLRwuNsA3,Happiness,spotify:track:5J6bRoNpdbEy2XLRwuNsA3,0.0597,0.699,0.986,0.255,0.274,-1.803,0.0804,126.001,0.692,15,Don Diablo
+Don Diablo Presents The Hex Files 002,13,5TecTiHRz0wKMeITguj036,Doppler,spotify:track:5TecTiHRz0wKMeITguj036,0.00442,0.442,0.892,0.381,0.04,-2.762,0.0614,125.869,0.203,13,Don Diablo
+Don Diablo Presents The Hex Files,1,1UFJqScwTlbBfucqPJqtD6,Talking About Love,spotify:track:1UFJqScwTlbBfucqPJqtD6,0.00969,0.681,0.935,0.0101,0.122,-1.503,0.0335,125.992,0.412,14,Don Diablo
+Don Diablo Presents The Hex Files,3,1Eiy8vzopY6jVjMXkpVzHQ,Milky Way,spotify:track:1Eiy8vzopY6jVjMXkpVzHQ,0.00732,0.623,0.975,0.16,0.0614,-2.632,0.109,125.94,0.225,16,Don Diablo
+Don Diablo Presents The Hex Files,4,79DvEzuGVjpn8zHKfECgS9,Boomers - Extended Mix,spotify:track:79DvEzuGVjpn8zHKfECgS9,0.00364,0.667,0.983,0.0478,0.0796,-2.392,0.0536,125.981,0.682,23,Don Diablo
+Don Diablo Presents The Hex Files,5,6Ri6FMgcDv1qo0AafpKqIB,OK - Extended Mix,spotify:track:6Ri6FMgcDv1qo0AafpKqIB,0.000865,0.764,0.913,0.744,0.0657,-5.902,0.0988,125.944,0.0568,23,Don Diablo
+Don Diablo Presents The Hex Files,6,2KirO4ucGhPsJcn0RQgrtb,Temple - Extended Mix,spotify:track:2KirO4ucGhPsJcn0RQgrtb,0.0218,0.63,0.782,0.24,0.682,-3.935,0.0371,126.019,0.345,25,Don Diablo
+Don Diablo Presents The Hex Files,7,3D5pw8aMw3nFTnAYom0nKz,Mad Citizens - Extended Mix,spotify:track:3D5pw8aMw3nFTnAYom0nKz,0.00114,0.745,0.902,0.458,0.161,-4.402,0.069,125.992,0.418,22,Don Diablo
+Don Diablo Presents The Hex Files,8,4Jhi8H3Hh4wXCprAb5OADl,Move,spotify:track:4Jhi8H3Hh4wXCprAb5OADl,0.0757,0.583,0.943,0.955,0.115,-2.215,0.0468,124.981,0.673,12,Don Diablo
+Don Diablo Presents The Hex Files,9,5fmdom2gvti7GB77ZcaSfW,Theme O,spotify:track:5fmdom2gvti7GB77ZcaSfW,0.0208,0.594,0.933,0.149,0.0582,-1.921,0.046,125.933,0.0901,15,Don Diablo
+Don Diablo Presents The Hex Files,10,3D2c8G4T36C4qiNzE08qWV,Praise You (feat. Michael Meaco) - Radio Edit,spotify:track:3D2c8G4T36C4qiNzE08qWV,0.118,0.704,0.639,0.00456,0.12,-6.701,0.0332,125.1,0.194,15,Don Diablo
+Don Diablo Presents The Hex Files,11,2vYQKUyrZAd6YkKIuLGU0I,Give Me A Try - Don Diablo Remix,spotify:track:2vYQKUyrZAd6YkKIuLGU0I,0.00332,0.629,0.952,0.0641,0.116,-3.3,0.0625,126.008,0.324,21,Don Diablo
+Don Diablo Presents The Hex Files,13,1FhncoX3bnVxCK45NmO1SA,Make Me Feel Better - Don Diablo & CID Radio Edit,spotify:track:1FhncoX3bnVxCK45NmO1SA,0.0211,0.585,0.954,0.00273,0.243,-3.327,0.0394,125.994,0.413,37,Don Diablo
+I Am Not From France,1,288xoWHCueAppHJgeiULH2,I Am Not From France - Extended Mix,spotify:track:288xoWHCueAppHJgeiULH2,0.114,0.967,0.469,0.232,0.0445,-5.072,0.113,123.986,0.679,0,Don Diablo
+I Am Not From France,2,3ufCiF1LDP01h4WkfynsnP,Rave Rave Rave,spotify:track:3ufCiF1LDP01h4WkfynsnP,0.074,0.667,0.845,0.699,0.114,-6.789,0.112,126.902,0.246,1,Don Diablo
+I Am Not From France,3,53bVEMbcZahyjrwOEexCqN,I Am Not From France - Cagedbaby's Rollerdisco Lcross Campaign Mix,spotify:track:53bVEMbcZahyjrwOEexCqN,0.0121,0.84,0.873,0.737,0.59,-5.993,0.104,123.998,0.537,0,Don Diablo
+I Am Not From France,4,1vDFihOV90Ya3LvFBWOazy,I Am Not From France - Linus Loves Remix,spotify:track:1vDFihOV90Ya3LvFBWOazy,0.000138,0.651,0.672,0.868,0.104,-6.371,0.0304,124.002,0.438,0,Don Diablo
+I Am Not From France,5,4wIb5Pb6Dj0Lp6Kj9iOQLE,I Am Not From France - Louis La Roche Remix,spotify:track:4wIb5Pb6Dj0Lp6Kj9iOQLE,0.012,0.915,0.568,0.746,0.0618,-6.939,0.0663,124.107,0.677,0,Don Diablo
+I Am Not From France,6,25NOjiJRmJD6XRAtptHBEj,I Am Not From France - Hugo van Dyck Remix,spotify:track:25NOjiJRmJD6XRAtptHBEj,0.102,0.903,0.733,0.35,0.0489,-7.588,0.202,123.97,0.627,0,Don Diablo
+I Am Not From France,7,6SnP163aCJ0J4pdYsCJmWw,I Am Not From France - Original,spotify:track:6SnP163aCJ0J4pdYsCJmWw,0.047,0.903,0.401,0.613,0.0829,-5.793,0.125,124.018,0.356,0,Don Diablo
+Sellout Sessions 03,1,7IoJARGIzLDmtIQprftsnP,Waiting So Long,spotify:track:7IoJARGIzLDmtIQprftsnP,0.0277,0.772,0.804,6.16E-05,0.525,-6.893,0.338,126.969,0.485,0,Don Diablo
+Sellout Sessions 03,2,7ogJWVSCI9UJYCzFJegrBY,"Youth, Speed, Trouble, Cigarettes - Don Diablo Remix",spotify:track:7ogJWVSCI9UJYCzFJegrBY,0.0183,0.692,0.93,0.025,0.104,-6.195,0.106,127.001,0.475,0,Don Diablo
+Sellout Sessions 03,3,5LFauBxFVsK5I73qhAmwX8,Super Soaker,spotify:track:5LFauBxFVsK5I73qhAmwX8,0.331,0.772,0.861,0.223,0.243,-5.705,0.148,126.98,0.947,0,Don Diablo
+Sellout Sessions 03,4,2reakrJjBR6wgykAIEqzMs,Disco Disco Disco - Remixed,spotify:track:2reakrJjBR6wgykAIEqzMs,0.184,0.787,0.93,0.159,0.231,-6.282,0.156,126.988,0.515,0,Don Diablo
+Sellout Sessions 03,5,2Gje9YxUPNdzNwbJXXtzPR,I Think I Like It,spotify:track:2Gje9YxUPNdzNwbJXXtzPR,0.0172,0.656,0.883,0.0138,0.342,-5.226,0.114,127.102,0.555,0,Don Diablo
+Sellout Sessions 03,6,1G1ei6MKwNo3Jc7LNpRXVM,Beat Myself Up - Don Diablo Rerub,spotify:track:1G1ei6MKwNo3Jc7LNpRXVM,0.0969,0.736,0.948,0.892,0.88,-5.105,0.121,127.016,0.282,0,Don Diablo
+Sellout Sessions 03,7,6pdwJBUn43gUUWIaH0aBbI,Prom Night - Don Diablo Remix,spotify:track:6pdwJBUn43gUUWIaH0aBbI,0.00805,0.698,0.832,0.264,0.0756,-6.153,0.0827,127.016,0.389,0,Don Diablo
+Sellout Sessions 03,8,47sfbUHsbhZzWiQuaKFA4a,Push & Rise,spotify:track:47sfbUHsbhZzWiQuaKFA4a,0.00711,0.776,0.766,3.61E-05,0.235,-5.289,0.17,126.989,0.849,0,Don Diablo
+Sellout Sessions 03,9,2nGId7YPDVCpWrxeHxtA4l,Forced - Don Diablo's Forced In 1986 Remix,spotify:track:2nGId7YPDVCpWrxeHxtA4l,0.226,0.643,0.904,0.0121,0.917,-5.508,0.124,127.007,0.473,0,Don Diablo
+Sellout Sessions 03,10,19IBZM47Q6CuPy0q50Vn6Q,Fixin' To Thrill - Don Diablo Remix,spotify:track:19IBZM47Q6CuPy0q50Vn6Q,0.0326,0.74,0.906,0.0284,0.775,-5.495,0.156,127.031,0.399,0,Don Diablo
+Sellout Sessions 03,11,5nMPaTFGK4MXIyQef9wGLl,Too Cool For School - Remixed,spotify:track:5nMPaTFGK4MXIyQef9wGLl,0.0168,0.793,0.905,0.824,0.41,-5.538,0.0581,126.995,0.522,0,Don Diablo
+Sellout Sessions 03,12,5ZM5wXpxuvNaDT0OJiL9LJ,Break It Down,spotify:track:5ZM5wXpxuvNaDT0OJiL9LJ,0.0106,0.898,0.683,0.007,0.171,-6.561,0.144,126.949,0.831,0,Don Diablo
+Sellout Sessions 03,13,2quVjKUnrAC6c6ERk1xBek,Breakfast - Mercury Remix,spotify:track:2quVjKUnrAC6c6ERk1xBek,0.000303,0.788,0.699,0.0173,0.105,-7.375,0.0779,126.987,0.745,0,Don Diablo
+Sellout Sessions 03,14,3S6Ehk46mKdWqHqNVSv7WT,When The Sirens Sound - Don Diablo Remix,spotify:track:3S6Ehk46mKdWqHqNVSv7WT,0.00566,0.752,0.876,0.0504,0.0529,-6.716,0.103,127.031,0.186,0,Don Diablo
+Sellout Sessions 03,15,0Lephe9dwI96eESjQuG6v9,Hooligans - Don Diablo's Drive-By Disco Mix - Remixed,spotify:track:0Lephe9dwI96eESjQuG6v9,0.00294,0.734,0.727,0.0399,0.701,-7.337,0.0731,127.02,0.812,0,Don Diablo
+Sellout Sessions 03,16,0tKa1Tw1E8XG507d2P4M6K,Show Your Light - Don Diablo Remix,spotify:track:0tKa1Tw1E8XG507d2P4M6K,0.0485,0.786,0.852,0.003,0.533,-6.436,0.146,127.012,0.386,0,Don Diablo
+Sellout Sessions 03,17,7dbWIjJYTTcMC1s8mJ1YeP,One More Chance - Alex Metric Remix,spotify:track:7dbWIjJYTTcMC1s8mJ1YeP,0.000213,0.586,0.893,0.0771,0.119,-7.27,0.0476,127.004,0.508,0,Don Diablo
+Sellout Sessions 03,18,0zjQIm8yOW1eRpNewe33Jg,Off The Map (feat. Jamie Lidell),spotify:track:0zjQIm8yOW1eRpNewe33Jg,0.00433,0.646,0.873,0.178,0.376,-7.325,0.0662,127.036,0.716,0,Don Diablo
+Sellout Sessions 03,19,02LHtLqn4l7EH0fw4nL4QZ,Teen Scream Machine - Remixed,spotify:track:02LHtLqn4l7EH0fw4nL4QZ,0.029,0.678,0.529,0.00338,0.584,-9.171,0.35,126.971,0.669,0,Don Diablo
+Sellout Sessions 03,20,6WyBhS2hTKbtpbZDYzBIfz,What You Need - Proxy Remix,spotify:track:6WyBhS2hTKbtpbZDYzBIfz,0.0185,0.779,0.75,0.102,0.259,-5.931,0.114,127.029,0.477,0,Don Diablo
+Sellout Sessions 03,21,0iY4uuXTMJRTJdKhg53jYH,Dead End - Don Diablo Knows You Like It Hard Remix,spotify:track:0iY4uuXTMJRTJdKhg53jYH,0.00535,0.683,0.552,0.00128,0.127,-6.87,0.111,127.012,0.148,0,Don Diablo
+Sellout Sessions 03,22,7b5UsC1FV95krzf4Pqd4YZ,Take Me To The Hospital,spotify:track:7b5UsC1FV95krzf4Pqd4YZ,0.00135,0.591,0.963,0.692,0.73,-5.356,0.0564,126.984,0.418,0,Don Diablo
+Sellout Sessions 03,23,0MON8L3UzY5DtTChtZzsmO,Givin' Up - Don Diablo Remix,spotify:track:0MON8L3UzY5DtTChtZzsmO,0.0643,0.615,0.817,0.00179,0.181,-6.802,0.0375,95.988,0.221,0,Don Diablo
